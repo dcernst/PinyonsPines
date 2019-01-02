@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Mathematics, Teaching, & Technology">
+<meta name="author" content="Dana C. Ernst">
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<!--<link rel="icon" href="../../favicon.ico">-->
+
+<title>Dana C. Ernst</title>
+
+<!-- Bootstrap core CSS -->
+<!-- <link href="/css/bootstrap.min.css" rel="stylesheet"> -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<!-- <link href="/css/bootstrap.css" rel="stylesheet"> --> <!-- This is what I was using -->
+
+<!-- Custom styles for this template -->
+<link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+<link href="/css/extra.css" rel="stylesheet">
+<link rel="stylesheet" href="/css/css/academicons.css"/>
+
+<!-- stylesheet for pygments to work -->
+<link href="/css/pygments.css" rel="stylesheet">
+
+<!-- MathJax -->
+<script type="text/x-mathjax-config">MathJax.Hub.Config({"HTML-CSS": {preferredFont: "Gyre-Termes"}, tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+<!-- Old MathJax -->
+<!-- <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script> -->
+<!-- <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+
+<!-- Font Awesome -->
+<!-- old version
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"> -->
+<!-- version 5 -->
+<script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
+
+<!-- SageCell -->
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+
+<!-- Feed Stuff -->
+<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Dana C. Ernst" />
+<!-- Begin Jekyll SEO tag v2.3.0 -->
+<title>Academic Writing | Dana C. Ernst</title>
+<meta property="og:title" content="Academic Writing" />
+<meta name="author" content="Dana Ernst" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Mathematics, Teaching, &amp; Technology" />
+<meta property="og:description" content="Mathematics, Teaching, &amp; Technology" />
+<link rel="canonical" href="http://localhost:4000/scholarship/academic-writing/" />
+<meta property="og:url" content="http://localhost:4000/scholarship/academic-writing/" />
+<meta property="og:site_name" content="Dana C. Ernst" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@danaernst" />
+<meta name="twitter:creator" content="@Dana Ernst" />
+<script type="application/ld+json">
+{"image":null,"mainEntityOfPage":null,"author":{"@type":"Person","name":"Dana Ernst"},"publisher":null,"description":"Mathematics, Teaching, &amp; Technology","name":null,"@type":"WebPage","headline":"Academic Writing","dateModified":null,"url":"http://localhost:4000/scholarship/academic-writing/","datePublished":null,"sameAs":null,"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+</head>
+
+<body>
+
+<!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="container">
+
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="/">Dana C. Ernst</a>
+</div>
+
+<div class="collapse navbar-collapse">
+<ul class="nav navbar-nav">
+
+<li><a href="/blog/">Blogging</a></li>
+
+<li><a href="/teaching/">Teaching</a></li>
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Scholarship <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/scholarship/">Scholarship Overview</a></li>
+<li><a href="/scholarship/academic-writing">Academic Writing</a></li>
+<li><a href="/scholarship/undergraduate-research">Undergraduate Research</a></li>
+<li><a href="/scholarship/talks">Talks</a></li>
+<!-- <li><a href="http://maateachingtidbits.blogspot.com">Teaching Tidbits</a></li> -->
+</ul>
+</li>
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/resources/teaching-resources">Teaching Resources</a></li>
+<li><a href="/resources/free-and-open-source-textbooks">Free and Open-Source Textbooks</a></li>
+<li><a href="/resources/inquiry-based-learning">Inquiry-Based Learning</a></li>
+<li><a href="/resources/quick-latex-guide">Quick LaTeX Guide</a></li>
+</ul>
+</li>
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Other <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="https://nau.edu/cefns/natsci/math/">NAU Mathematics &amp; Statistics</a></li>
+<li><a href="http://naumathstat.github.io/seminars/">Department Seminars</a></li>
+<li><a href="http://naumathstat.github.io/seminars/acgt/">ACGT Seminar</a></li>
+<li><a href="http://naumathstat.github.io/seminars/famus/">FAMUS</a></li>
+<li><a href="http://www.inquirybasedlearning.org">Academy of Inquiry-Based Learning</a></li>
+<li><a href="http://www.mathlearningbyinquiry.org">Mathematics Learning by Inquiry</a></li>
+<li><a href="http://www.sagemath.org">Sage</a></li>
+<li><a href="https://cocalc.com">CoCalc</a></li>
+<li><a href="http://maateachingtidbits.blogspot.com">MAA Teaching Tidbits</a></li>
+<li><a href="https://mathblogging.org">MathBlogging.org</a></li>
+<li><a href="https://boolesrings.org">Booles' Rings</a></li>
+<li><a href="http://maa.org">Mathematical Association of America</a></li>
+<li><a href="http://ams.org">American Mathematical Society</a></li>
+<li><a href="https://aimath.org">American Institute of Mathematics</a></li>
+<li><a href="https://www.maa.org/programs/faculty-and-departments/project-next">Project NExT</a></li>
+<li><a href="https://www.mathjax.org">MathJax</a></li>
+</ul>
+</li>
+
+<!-- <li><a href="/about/">About</a></li> -->
+
+<!-- <li><a href="http://maamathedmatters.blogspot.com">Math Ed Matters</a></li> -->
+
+</ul>
+</div><!--/.nav-collapse -->
+</div>
+</div>
+
+
+<!-- Begin page content -->
+<div class="container">
+
+<div class="page-header">
+<h1>Academic Writing</h1>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
+<ol class="breadcrumb">
+  <li><a href="/"><i class="fa fa-home"></i></a></li>
+  <li><a href="/scholarship">Scholarship</a></li>
+  <li class="active">Academic Writing</li>
+</ol>
+
+<!-- <img src="/images/2012/02/TypeDHeap.png" align="left" width="100" img style="margin-right: 15px"/> -->
+<p>My primary research interests are in the interplay between combinatorics and algebraic structures. More specifically, I study the combinatorics of <a href="http://en.wikipedia.org/wiki/Coxeter_group">Coxeter groups</a> and their associated <a href="http://en.wikipedia.org/wiki/Hecke_algebra">Hecke algebras</a>, <a href="http://en.wikipedia.org/wiki/Kazhdan%E2%80%93Lusztig_polynomial">Kazhdan-Lusztig theory</a>, generalized <a href="http://en.wikipedia.org/wiki/Temperley-Lieb_algebra">Temperley-Lieb algebras</a>, <a href="http://en.wikipedia.org/wiki/Planar_algebra">diagram algebras</a>, and <a href="http://www.emis.de/journals/SLC/books/heaps.ps">heaps of pieces</a>. By employing combinatorial tools such as diagram algebras and heaps of pieces, one can gain insight into algebraic structures associated to Coxeter groups, and, conversely, the corresponding structure theory can often lead to surprising combinatorial results. More recently, my research has expanded into <a href="https://en.wikipedia.org/wiki/Combinatorial_game_theory">combinatorial game theory</a> (joint with <a href="http://jan.ucc.nau.edu/ns46/">Nandor Sieben</a> and <a href="http://www.users.csbsju.edu/~bbenesh/">Bret Benesh</a>). In particular, our research has focused on avoidance and achievement games involving finite groups.</p>
+
+<p>The combinatorial nature of my research naturally lends itself to collaborations with undergraduate students, and my goal is to incorporate undergraduates in my research as much as possible.</p>
+
+<p>My interests also include the <a href="http://en.wikipedia.org/wiki/Scholarship_of_Teaching_and_Learning">scholarship of teaching and learning</a> (SoTL) with a focus on <a href="http://maamathedmatters.blogspot.com/2013/05/what-heck-is-ibl.html">inquiry-based learning</a> (IBL) as an approach to teaching/exploring mathematics. I am currently a Special Projects Coordinator for the <a href="http://www.inquirybasedlearning.org">Academy of Inquiry-Based Learning</a> and a mentor for several new IBL practitioners. Moreover, I actively give <a href="/scholarship/talks/">talks</a> and organize workshops on the benefits of IBL as well as the nuts and bolts of how to implement this approach in the mathematics classroom.</p>
+
+<p>You can find a recent version of my curriculum vitae <a href="/scholarship/CVErnst.pdf">here</a>.</p>
+
+<!-- ## Submitted -->
+
+<h2 id="journal-articles">Journal Articles</h2>
+<ul>
+  <li>D.C. Ernst. Diagram calculus for a type affine <em>C</em> Temperley-Lieb algebra, II. Accepted to <em>J. Pure Appl. Alg.</em> [<a href="http://arxiv.org/abs/1101.4215">arXiv:1101.4215</a>]</li>
+  <li>D.C. Ernst and N. Sieben. Impartial achievement and avoidance games for generating finite groups. <em>Int. J. Game Theory</em> 2017. [<a href="http://arxiv.org/abs/1407.0784">arXiv:1407.0784</a>] [<a href="https://doi.org/10.1007/s00182-017-0602-x">DOI:10.1007/s00182-017-0602-x</a>]</li>
+  <li>D.C. Ernst, T.J. Hitchman, and A. Hodge. Bringing Inquiry to the First Two Years of College Mathematics. <em>PRIMUS</em> 27(7), 641-645, 2017. [<a href="http://www.tandfonline.com/doi/full/10.1080/10511970.2017.1393846">DOI:10.1080/10511970.2017.1393846</a>]</li>
+  <li>D.C. Ernst, A. Hodge, and S. Yoshinobu. Doceamus: What Is Inquiry-Based Learning? <em>Notices of the AMS</em> 64(6), 2017. [<a href="http://www.ams.org/publications/journals/notices/201706/rnoti-p570.pdf">ePrint</a>]</li>
+  <li>B.J. Benesh, D.C. Ernst, and N. Sieben. Impartial achievement games for generating generalized dihedral groups. <em>Australas. J. Combin.</em> 68(3), 371-384, 2017. [<a href="http://arxiv.org/abs/1608.00259">arXiv:1608.00259</a>] [<a href="https://ajc.maths.uq.edu.au/pdf/68/ajc_v68_p371.pdf">ePrint</a>]</li>
+  <li>D.C. Ernst, M. Hastings, and S. Salmon. Factorization of Temperley-Lieb diagrams. <em>Involve</em> 10(1), 89-108, 2017. [<a href="http://arxiv.org/abs/1509.01241">arXiv:1509.01241</a>]</li>
+  <li>B.J. Benesh, D.C. Ernst, and N. Sieben. Impartial avoidance and achievement games for generating symmetric and alternating groups. <em>Int. Electron. J. Algebra</em> 20, 70-85, 2016. [<a href="http://arxiv.org/abs/1508.03419">arXiv:1508.03419</a>] [<a href="http://www.ieja.net/files/papers/volume-20/4-V20-2016.pdf">ePrint</a>]</li>
+  <li>N. Diefenderfer, D.C. Ernst, M. Hastings, L.N. Heath, H. Prawzinsky, B. Preston, J. Rushall, E. White, A. Whittemore. Prime Vertex Labelings of Several Families of Graphs. <em>Involve</em> 9(4), 667-688, 2016. [<a href="http://arxiv.org/abs/1503.08386">arXiv:1503.08386</a>]</li>
+  <li>B.J. Benesh, D.C. Ernst, and N. Sieben. Impartial avoidance games for generating finite groups. <em>North-W. Eur. J. of Math.</em> 2, 83-101, 2016. [<a href="http://arxiv.org/abs/1506.07105">arXiv:1506.07105</a>] [<a href="http://math.univ-lille1.fr/~nwejm/OnlinePapers/Archives/2016/2/3/article2016-3.pdf">ePrint</a>]</li>
+  <li>H. Denoncourt, D.C. Ernst, and D. Story. On the number of commutation classes of the longest element of the symmetric group. <em>Open Problems in Mathematics</em> 4, 2016. [<a href="http://arxiv.org/abs/1602.08328">arXiv:1602.08328</a>] [<a href="http://opmath.org/index.php/opm/article/view/15">ePrint</a>]</li>
+  <li>B. Beaudrie, D.C. Ernst, E. Kennedy, and R. St. Laurent. Inverted Pedagogy in Second Semester Calculus. <em>PRIMUS</em> 25(9-10), 992-906, 2015. [<a href="http://www.tandfonline.com/doi/full/10.1080/10511970.2015.1031301">DOI:10.1080/10511970.2015.1031301</a>]</li>
+  <li>B. Love, A. Hodge, C. Corritore, and D.C. Ernst. Inquiry-Based Learning and the Flipped Classroom Model. <em>PRIMUS</em> 25(8), 745-762, 2015. [<a href="http://www.tandfonline.com/doi/full/10.1080/10511970.2015.1046005">DOI:10.1080/10511970.2015.1046005</a>]</li>
+  <li>D.C. Ernst, M. Leingang, and R. Taylor. Facebook for Professional Educators: To Friend or Not to Friend? <em>MAA FOCUS</em> June/July 2015. [<a href="http://digital.ipcprintservices.com/publication/?i=260736&amp;pre=1&amp;p=7">ePrint</a>]</li>
+  <li>D.C. Ernst, A. Hodge, and A. Schultz. Enhancing Proof Writing via Cross-Institutional Peer Review. <em>PRIMUS</em> 25(2), 121-130, 2015. [<a href="http://www.tandfonline.com/doi/full/10.1080/10511970.2014.921652">DOI:10.1080/10511970.2014.921652</a>]</li>
+  <li>D.C. Ernst. Diagram calculus for a type affine <em>C</em> Temperley-Lieb algebra, I. <em>J. Pure Appl. Alg.</em> 216(11), 2012. [<a href="http://arxiv.org/abs/0910.0925">arXiv:0910.0925</a>]</li>
+  <li>T. Boothby, J. Burkert, M. Eichwald, D.C. Ernst, R.M. Green, and M. Macauley. On the cyclically fully commutative elements of Coxeter groups. <em>J. Algebraic Combin.</em> 36(1), 2012. [<a href="http://arxiv.org/abs/1202.6657">arXiv:1202.6657</a>]</li>
+  <li>D.C. Ernst. Non-cancellable elements in type affine <em>C</em> Coxeter groups. <em>Int. Electron. J. Algebra</em> 8, 2010. [<a href="http://arxiv.org/abs/0910.0923">arXiv:0910.0923</a>] [<a href="http://www.ieja.net/files/papers/volume-8/Volume-7--2010/14-V8-2010.pdf">ePrint</a>]</li>
+</ul>
+
+<h2 id="book-chapters">Book Chapters</h2>
+<ul>
+  <li>D.C. Ernst and A. Hodge. Within \(\epsilon\) of Independence: An Attempt to Produce Independent Proof-Writers via IBL. In <em>Beyond Lecture: Resources and Pedagogical Techniques for Enhancing the Teaching of Proof-Writing Across the Curriculum</em>, R. Schwell, A. Steurer, &amp; J.F. Vasquez (Eds.), MAA Notes, 2016.</li>
+  <li>D.C. Ernst, A. Hodge, M. Jones, and S. Yoshinobu. The many faces of IBL. In <em>STEM Education: An Overview of Contemporary Research, Trends, and Perspectives</em>, E. Ostler (Ed.), 2015. Elkhorn, NE.</li>
+</ul>
+
+<h2 id="conference-proceedings-peer-reviewed">Conference Proceedings (Peer Reviewed)</h2>
+<ul>
+  <li>B. Beaudrie, D.C. Ernst, and B. Boschmans. Redesigning an Algebra for Precalculus Course. In <em>Proceedings of World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education</em>, T. Bastiaens &amp; G. Marks (Eds.), 2013. Chesapeake, VA: AACE. [<a href="http://www.editlib.org/p/115001/">EdITLib</a>]</li>
+  <li>B. Beaudrie, B. Boschmans, and D.C. Ernst. First Semester Experiences in Implementing a Mathematics Emporium Model. In <em>Proceedings of Society for Information Technology &amp; Teacher Education International Conference</em>, R. McBride &amp; M. Searson (Eds.), 2013. Chesapeake, VA: AACE. [<a href="http://www.editlib.org/p/48098">EdITLib</a>]</li>
+</ul>
+
+<h2 id="open-source-books">Open-Source Books</h2>
+<p>Below is a list of course materials that I have written to be used with an <a href="http://maamathedmatters.blogspot.com/2013/05/what-heck-is-ibl.html">inquiry-based learning</a> (IBL) approach.</p>
+
+<ul>
+  <li>D.C. Ernst. <em>An Inquiry-Based Approach to Abstract Algebra</em>. IBL course materials for an abstract algebra course with an emphasis on visualization. [<a href="http://dcernst.github.io/IBL-AbstractAlgebra/">Source</a>] <a href="https://zenodo.org/badge/latestdoi/5110/dcernst/IBL-AbstractAlgebra"><img src="https://zenodo.org/badge/5110/dcernst/IBL-AbstractAlgebra.svg" alt="DOI" /></a></li>
+  <li>D.C. Ernst. <em>An Introduction to Proof via Inquiry-Based Learning</em>. IBL course materials for an introduction to proof course. [<a href="http://dcernst.github.io/IBL-IntroToProof/">Source</a>] <a href="https://zenodo.org/badge/latestdoi/5110/dcernst/IBL-IntroToProof"><img src="https://zenodo.org/badge/5110/dcernst/IBL-IntroToProof.svg" alt="DOI" /></a></li>
+</ul>
+
+<h2 id="online-columns-and-blog-posts">Online Columns and Blog Posts</h2>
+<p>From Spring 2013 through Spring 2016, I was co-editor and author for <a href="http://maamathedmatters.blogspot.com">Math Ed Matters</a> and from Fall 2016 through Fall 2017, was a co-editor and author for <a href="http://maateachingtidbits.blogspot.com">Teaching Tidbits</a>. Both are online columns sponsored by the <a href="http://maa.org">Mathematical Association of America</a>. Below are several posts that I wrote for <em>Math Ed Matters</em>, <em>Teaching Tidbits</em>, as well as a few other online venues.  I also write sporadically about mathematics and teaching on my <a href="/blog/">personal blog</a>.</p>
+
+<ul>
+  <li>D.C. Ernst. The Role of Failure and Struggle in the Mathematics Classroom. <em>Teaching Tidbits</em>. November 2017. <a href="http://maateachingtidbits.blogspot.com/2017/11/the-role-of-failure-and-struggle-in.htmll">Blog Post</a>]</li>
+  <li>D.C. Ernst. Want to Give Your Teaching Style a Makeover This Summer? Here’s How. <em>Teaching Tidbits</em>. April 2017. [<a href="http://maateachingtidbits.blogspot.com/2017/04/want-to-give-your-teaching-style.html">Blog Post</a>]</li>
+  <li>D.C. Ernst. Who generates the examples? <em>Teaching Tidbits</em>. November 2016. [<a href="http://maateachingtidbits.blogspot.com/2016/11/who-generates-examples.html">Blog Post</a>]</li>
+  <li>D.C. Ernst. Setting the Stage. <em>Math Ed Matters</em>. January 2015. [<a href="http://maamathedmatters.blogspot.com/2015/01/setting-stage.html">Blog Post</a>]</li>
+  <li>D.C. Ernst. The Twin Pillars of IBL. <em>Math Ed Matters</em>. January 2015. [<a href="http://maamathedmatters.blogspot.com/2015/01/the-twin-pillars-of-ibl.html">Blog Post</a>]</li>
+  <li>D.C. Ernst. Fear is the mind-killer. <em>Math Ed Matters</em>. June 2014. [<a href="http://maamathedmatters.blogspot.com/2014/06/fear-is-mind-killer.html">Blog Post</a>]</li>
+  <li>D.C. Ernst. Encouraging Students to Tinker. <em>Math Ed Matters</em>. August 2014. [<a href="http://maamathedmatters.blogspot.com/2014/04/encouraging-students-to-tinker.html">Blog Post</a>]</li>
+  <li>D.C. Ernst, A. Hodge, and T.J. Hitchman. Engaging in Inquiry-Based Learning. <em>Math Ed Matters</em>. February 2014. [<a href="http://maamathedmatters.blogspot.com/2014/02/engaging-in-inquiry-based-learning.html">Blog Post</a>]</li>
+  <li>D.C. Ernst and A. Hodge. Math Ed Mania at the JMM. <em>Math Ed Matters</em>. January 2014. [<a href="http://maamathedmatters.blogspot.com/2014/01/math-ed-mania-at-jmm.html">Blog Post</a>]</li>
+  <li>D.C. Ernst and A. Hodge. The JMM: What’s Mathematics Education Got to Do with It? <em>Math Ed Matters</em>. December 2013. [<a href="http://maamathedmatters.blogspot.com/2013/12/the-jmm-whats-mathematics-education-got.html">Blog Post</a>]</li>
+  <li>D.C. Ernst. Give the Students the Colored Pen. <em>Math Ed Matters</em>. August 2013. [<a href="http://maamathedmatters.blogspot.com/2013/08/give-students-colored-pen.html">Blog Post</a>]</li>
+  <li>D.C. Ernst. Personality Matters? <em>Math Ed Matters</em>. July 2013. [<a href="http://maamathedmatters.blogspot.com/2013/07/personality-matters.html">Blog Post</a>]</li>
+  <li>D.C. Ernst. Grade School Utopia? <em>Math Ed Matters</em>. July 2013. [<a href="http://maamathedmatters.blogspot.com/2013/07/grade-school-utopia.html">Blog Post</a>]</li>
+  <li>D.C. Ernst and A. Hodge. Try, Fail, Understand, Win. <em>Math Ed Matters</em>. June 2013. [<a href="http://maamathedmatters.blogspot.com/2013/06/try-fail-understand-win.html">Blog Post</a>]</li>
+  <li>D.C. Ernst. What the Heck Is IBL? <em>Math Ed Matters</em>. May 2013. [<a href="http://maamathedmatters.blogspot.com/2013/05/what-heck-is-ibl.html">Blog Post</a>]</li>
+  <li>Teaching Calculus 1 with a Focus on Student Presentations. <em>Discovering the Art of Mathematics</em>. October 2015. [<a href="https://www.artofmathematics.org/blogs/cvonrenesse/guest-blog-by-dana-ernst">Blog Post</a>]</li>
+  <li>4+1 interview with Dana Ernst. <em>Casting Out Nines</em> by R. Talbert. The Chronicle Blog Network. August 2013. [<a href="http://chronicle.com/blognetwork/castingoutnines/2013/08/01/41-interview-with-dana-ernst/">Blog Post</a>]</li>
+  <li>IBL Instructor Perspectives: Professor Dana Ernst. <em>The IBL Blog</em> by S. Yoshinobu. February 2012. [<a href="http://theiblblog.blogspot.com/2012/02/ibl-instructor-perspectives-professor.html">Blog Post</a>]</li>
+</ul>
+
+<h2 id="theses">Theses</h2>
+<ul>
+  <li>D.C. Ernst. A diagrammatic representation of an affine <em>C</em> Temperley-Lieb algebra, PhD Thesis, University of Colorado, 2008. [<a href="http://arxiv.org/abs/0905.4457">arXiv:0905.4457</a>]</li>
+  <li>D.C. Ernst. Cell Complexes for Arrangements with Group Actions, MS Thesis, Northern Arizona University, 2000. [<a href="http://arxiv.org/abs/0905.4434">arXiv:0905.4434</a>]</li>
+</ul>
+
+<h2 id="in-preparation">In Preparation</h2>
+<ul>
+  <li>B.J. Benesh, D.C. Ernst, and N. Sieben. Impartial achievement games for generating nilpotent groups.</li>
+  <li>D.C. Ernst and T.K. Petersen. The worst casino in Reno.</li>
+  <li>D.C. Ernst and A. Lebovitz. Groups with cyclic subgroups.</li>
+  <li>B.J. Benesh, D.C. Ernst, and N. Sieben. The spectrum of impartial achievement games for generating finite groups.</li>
+  <li>D.C. Ernst and B. Fox. Conjugacy classes of cyclically fully commutative elements in Coxeter groups of type $A$.</li>
+  <li>D.C. Ernst and T. Laird. T-avoiding elements of Coxeter groups.</li>
+</ul>
+
+</div>
+
+<div class="visible-xs visible-sm">
+<p><br />
+</p>
+</div>
+
+<div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
+<div class="row">
+
+<div class="col-xs-12 col-sm-12 col-md-12">
+
+<div class="well well-sm">
+<center>
+<h1 style="margin: 5px 0">Dana C. Ernst</h1>
+<p class="lead" style="margin: 0 0 10px 0">Mathematics &amp; Teaching</p>
+</center>
+
+<div class="hidden-xs hidden-sm">
+<img src="/images/feetonbike.jpg" class="img-responsive img-rounded" style="margin-bottom: 10px"/>
+</div>
+
+<p style="line-height: 1.75">
+<i class="fa fa-university fa-fw fa-lg"></i>&nbsp; <a href="http://nau.edu">Northern Arizona University</a><br />
+<i class="fas fa-map-marker-alt fa-fw fa-lg"></i>&nbsp; <a href="https://www.google.com/maps/place/Flagstaff,+AZ/@35.1812076,-111.607959,12z/data=!3m1!4b1!4m2!3m1!1s0x872d8ef7da2e2631:0x8e1f3ca1cedbb300?hl=en">Flagstaff, AZ</a><br />
+<i class="fa fa-link fa-fw fa-lg"></i>&nbsp; <a href="http://dcernst.github.io">Website</a><br />
+<i class="fa fa-phone fa-fw fa-lg"></i>&nbsp; 928.523.6852<br />
+<i class="fab fa-twitter fa-fw fa-lg"></i>&nbsp; <a href="http://twitter.com/danaernst">Twitter</a><br />
+<i class="fab fa-instagram fa-fw fa-lg"></i>&nbsp; <a href="https://www.instagram.com/dcernst/">Instagram</a><br />
+<i class="fab fa-facebook fa-fw fa-lg"></i>&nbsp; <a href="https://www.facebook.com/danacampbellernst">Facebook</a><br />
+<i class="fab fa-strava fa-fw fa-lg"></i>&nbsp; <a href="https://www.strava.com/athletes/122321">Strava</a><br />
+<i class="fab fa-github fa-fw fa-lg"></i>&nbsp; <a href="https://github.com/dcernst">GitHub</a><br />
+<i class="ai ai-arxiv ai-fw ai-lg"></i>&nbsp; <a href="https://arxiv.org/a/ernst_d_1.html">arXiv</a><br />
+<i class="ai ai-researchgate ai-fw ai-lg"></i>&nbsp; <a href="https://www.researchgate.net/profile/Dana_Ernst">ResearchGate</a><br />
+<!-- <i class="ai ai-academia ai-fw ai-lg"></i>&nbsp; <a href="https://nau.academia.edu/DanaErnst">Academia.edu</a><br /> -->
+<i class="fab fa-linkedin fa-fw fa-lg"></i>&nbsp; <a href="https://www.linkedin.com/in/dcernst">LinkedIn</a><br />
+<i class="ai ai-mendeley ai-fw ai-lg"></i>&nbsp; <a href="https://www.mendeley.com/profiles/dana-ernst/">Mendeley</a><br />
+<i class="ai ai-google-scholar ai-fw ai-lg"></i>&nbsp; <a href="https://scholar.google.com/citations?user=4JeUjj0AAAAJ&hl=en">Google Scholar</a><br />
+<i class="ai ai-impactstory ai-fw ai-lg"></i>&nbsp; <a href="https://impactstory.org/u/0000-0002-0663-4982">Impact Story</a><br />
+<i class="ai ai-orcid ai-fw ai-lg"></i>&nbsp; <a href="http://orcid.org/0000-0002-0663-4982">ORCID</a>
+</p>
+
+<h4 style="margin: 20px 0 10px 0">Current Courses</h4>
+<p style="line-height: 1.75">
+<i class="fa fa-book fa-fw fa-lg"></i>&nbsp; <a href="/teaching/mat220s18">MAT 220: Math Reasoning</a><br />
+<i class="fa fa-book fa-fw fa-lg"></i>&nbsp; <a href="/teaching/mat411s18">MAT 411: Abstract Algebra</a>
+</p>
+
+<h4 style="margin: 20px 0 10px 0">About This Site</h4>
+<p style="margin-bottom:5px; text-align: left;">
+<i class="fa fa-info-circle fa-fw fa-lg"></i>&nbsp; This website was created using <a href="https://pages.github.com">GitHub Pages</a> and <a href="http://jekyllrb.com">Jekyll</a> together with <a href="http://getbootstrap.com">Twitter Bootstrap</a>.</p>
+<p style="margin-bottom:5px; text-align: left;">
+<i class="fab fa-creative-commons fa-fw fa-lg"></i>&nbsp; Unless stated otherwise, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Share Alike 4.0 International License</a>.</p>
+<p style="margin-bottom:5px; text-align: left;">
+<i class="far fa-hand-peace fa-fw fa-lg"></i>&nbsp; The views expressed on this site are my own and are not necessarily shared by my employer <a href="http://nau.edu">Northern Arizona University</a>.</p>
+<p style="margin-bottom:5px; text-align: left;">
+<i class="fa fa-code fa-fw fa-lg"></i>&nbsp; The <a href="https://github.com/dcernst/dcernst.github.io">source code</a> is on GitHub.</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div class="footer">
+
+<div class="container">
+<!-- <p class="text-muted"><i class="fab fa-creative-commons"></i>&nbsp; All work is licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0 License</a>.</p> -->
+<p style="margin: 20px 0;"><i class="fab fa-creative-commons"></i>&nbsp; All work is licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0 License</a>.</p>
+</div>
+
+</div>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+</body>
+</html>
+

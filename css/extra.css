@@ -1,0 +1,73 @@
+/* borrowed from R. Talbert's blog repo */
+
+/* .post-list {
+  margin-left: 0;
+  padding: 0;
+  list-style: none;
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+} */
+
+.post-meta {
+  font-size: small-font-size;
+  color: grey-color;
+  margin-bottom: .5em;
+  margin-top: .5em;
+}
+
+.post-link {
+  display: block;
+  font-size: 24px;
+}
+
+.post {
+  margin-bottom: 4em;
+  border-bottom: 1px solid #eee;
+}
+
+.panel-borderless {
+    border: 0;
+    box-shadow: none;
+}
+
+.well {
+    border: 0;
+    box-shadow: none;
+}
+
+.navbar {
+  border: 0;
+}
+
+.navbar-default .navbar-brand {
+  color: #333;
+}
+/* .navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #5e5e5e;
+  background-color: transparent;
+} */
+
+.navbar-default .navbar-text {
+  color: #333;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #333;
+}
+
+.breadcrumb > .active {
+  color: #333;
+}
+
+pre {
+    color: #c7254e;
+}
+
+/* p {
+  text-align: justify;
+}
+
+li {
+  text-align: justify;
+} */

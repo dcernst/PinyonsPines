@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Mathematics, Teaching, & Technology">
+<meta name="author" content="Dana C. Ernst">
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<!--<link rel="icon" href="../../favicon.ico">-->
+
+<title>Dana C. Ernst</title>
+
+<!-- Bootstrap core CSS -->
+<!-- <link href="/css/bootstrap.min.css" rel="stylesheet"> -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<!-- <link href="/css/bootstrap.css" rel="stylesheet"> --> <!-- This is what I was using -->
+
+<!-- Custom styles for this template -->
+<link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+<link href="/css/extra.css" rel="stylesheet">
+<link rel="stylesheet" href="/css/css/academicons.css"/>
+
+<!-- stylesheet for pygments to work -->
+<link href="/css/pygments.css" rel="stylesheet">
+
+<!-- MathJax -->
+<script type="text/x-mathjax-config">MathJax.Hub.Config({"HTML-CSS": {preferredFont: "Gyre-Termes"}, tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+<!-- Old MathJax -->
+<!-- <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script> -->
+<!-- <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+
+<!-- Font Awesome -->
+<!-- old version
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"> -->
+<!-- version 5 -->
+<script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
+
+<!-- SageCell -->
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+
+<!-- Feed Stuff -->
+<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Dana C. Ernst" />
+<!-- Begin Jekyll SEO tag v2.3.0 -->
+<title>Exploring prime factorizations with my nine-year-old son | Dana C. Ernst</title>
+<meta property="og:title" content="Exploring prime factorizations with my nine-year-old son" />
+<meta name="author" content="Dana Ernst" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Tonight I had a lot of fun helping my oldest son (age 9) with his math homework. One of the problems was aimed at exploring the factors and prime factorization of 72. The problem began by making the following claim." />
+<meta property="og:description" content="Tonight I had a lot of fun helping my oldest son (age 9) with his math homework. One of the problems was aimed at exploring the factors and prime factorization of 72. The problem began by making the following claim." />
+<link rel="canonical" href="http://localhost:4000/exploring-prime-factorizations/" />
+<meta property="og:url" content="http://localhost:4000/exploring-prime-factorizations/" />
+<meta property="og:site_name" content="Dana C. Ernst" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2015-10-01T00:00:00-07:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@danaernst" />
+<meta name="twitter:creator" content="@Dana Ernst" />
+<script type="application/ld+json">
+{"image":null,"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/exploring-prime-factorizations/"},"author":{"@type":"Person","name":"Dana Ernst"},"publisher":null,"description":"Tonight I had a lot of fun helping my oldest son (age 9) with his math homework. One of the problems was aimed at exploring the factors and prime factorization of 72. The problem began by making the following claim.","name":null,"@type":"BlogPosting","headline":"Exploring prime factorizations with my nine-year-old son","dateModified":"2015-10-01T00:00:00-07:00","url":"http://localhost:4000/exploring-prime-factorizations/","datePublished":"2015-10-01T00:00:00-07:00","sameAs":null,"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+</head>
+
+<body>
+
+<!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="container">
+
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="/">Dana C. Ernst</a>
+</div>
+
+<div class="collapse navbar-collapse">
+<ul class="nav navbar-nav">
+
+<li><a href="/blog/">Blogging</a></li>
+
+<li><a href="/teaching/">Teaching</a></li>
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Scholarship <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/scholarship/">Scholarship Overview</a></li>
+<li><a href="/scholarship/academic-writing">Academic Writing</a></li>
+<li><a href="/scholarship/undergraduate-research">Undergraduate Research</a></li>
+<li><a href="/scholarship/talks">Talks</a></li>
+<!-- <li><a href="http://maateachingtidbits.blogspot.com">Teaching Tidbits</a></li> -->
+</ul>
+</li>
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/resources/teaching-resources">Teaching Resources</a></li>
+<li><a href="/resources/free-and-open-source-textbooks">Free and Open-Source Textbooks</a></li>
+<li><a href="/resources/inquiry-based-learning">Inquiry-Based Learning</a></li>
+<li><a href="/resources/quick-latex-guide">Quick LaTeX Guide</a></li>
+</ul>
+</li>
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Other <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="https://nau.edu/cefns/natsci/math/">NAU Mathematics &amp; Statistics</a></li>
+<li><a href="http://naumathstat.github.io/seminars/">Department Seminars</a></li>
+<li><a href="http://naumathstat.github.io/seminars/acgt/">ACGT Seminar</a></li>
+<li><a href="http://naumathstat.github.io/seminars/famus/">FAMUS</a></li>
+<li><a href="http://www.inquirybasedlearning.org">Academy of Inquiry-Based Learning</a></li>
+<li><a href="http://www.mathlearningbyinquiry.org">Mathematics Learning by Inquiry</a></li>
+<li><a href="http://www.sagemath.org">Sage</a></li>
+<li><a href="https://cocalc.com">CoCalc</a></li>
+<li><a href="http://maateachingtidbits.blogspot.com">MAA Teaching Tidbits</a></li>
+<li><a href="https://mathblogging.org">MathBlogging.org</a></li>
+<li><a href="https://boolesrings.org">Booles' Rings</a></li>
+<li><a href="http://maa.org">Mathematical Association of America</a></li>
+<li><a href="http://ams.org">American Mathematical Society</a></li>
+<li><a href="https://aimath.org">American Institute of Mathematics</a></li>
+<li><a href="https://www.maa.org/programs/faculty-and-departments/project-next">Project NExT</a></li>
+<li><a href="https://www.mathjax.org">MathJax</a></li>
+</ul>
+</li>
+
+<!-- <li><a href="/about/">About</a></li> -->
+
+<!-- <li><a href="http://maamathedmatters.blogspot.com">Math Ed Matters</a></li> -->
+
+</ul>
+</div><!--/.nav-collapse -->
+</div>
+</div>
+
+
+<!-- Begin page content -->
+<div class="container">
+
+<div class="page-header">
+<h1>Exploring prime factorizations with my nine-year-old son</h1>
+</div>
+
+<div class="row">
+
+<div class="col-xs-12 col-md-8 col-lg-9">
+
+<ol class="breadcrumb">
+  <li><a href="/"><i class="fa fa-home"></i></a></li>
+  <li><a href="/blog/">Blogging</a></li>
+  <li class="active">Oct 1, 2015</li>
+</ol>
+
+<p>Tonight I had a lot of fun helping my oldest son (age 9) with his math homework.  One of the problems was aimed at exploring the factors and <a href="https://en.wikipedia.org/wiki/Prime_factor">prime factorization</a> of 72.  The problem began by making the following claim.</p>
+
+<div class="well">
+Claire said that all the factors of 72 are multiples of the prime factors of 72.
+</div>
+
+<p>My initial (silent) reaction when reading this was, “What?! That’s not right! The number 1 is a factor of 72, but isn’t a multiple of a prime factor of 72.” But then I kept reading and realized that the rest of the problem was aimed at determining whether Claire’s claim is true or false.  Before I continue, I should mention that I’m not convinced that the author of the worksheet intended for the statement to be false.</p>
+
+<p>Following the claim, there were three parts to the problem.  Here’s the first part:</p>
+
+<div class="well">
+What are the prime factors of 72?
+</div>
+
+<p>My son had already worked on this part of the question before he asked me for help.  On his paper, he had written: 1, 2.  He told me wasn’t done, but wasn’t sure how to figure out the rest.  At this point, I had to make a decision about what to do first.  Do I point out that 1 isn’t prime or do I first help him find the missing prime factors? I decided we should tackle the issue of 1 first.</p>
+
+<p>Our dialogue went something like this:</p>
+
+<ul>
+  <li>Me: Is 1 a prime number?</li>
+  <li>Tristan: yes.</li>
+  <li>Me: Hmmmm. What does it mean to be a prime number?</li>
+  <li>Tristan: (Thinking) It means that the number only has that number and 1 as its factors.</li>
+  <li>Me: That seems like a reasonable definition. Does 1 do that?</li>
+  <li>Tristan.  Yes.</li>
+  <li>Me: Explain it to me.</li>
+</ul>
+
+<p>The conversation continued and he did a pretty good job of articulating what he was thinking.  After some questioning on my part, he concluded that if a prime number is a (positive integer) that has only that number and 1 as its factors, then 1 should be prime.  Of course, he didn’t say it that way, but it was pretty clear that’s what he was thinking.  And this is the conclusion that lots of people reach, including my college students.</p>
+
+<p>So, what’s the problem?  The issue is that his definition of prime isn’t quite right.  While trying to keep the dad-with-a-PhD-in-math to a minimum, I tried to convey to him that we could have chosen to use his definition, but that some other cool facts about numbers would be harder to state if 1 is prime.  I’m not sure if I did a good job of explaining this or if he was just being receptive to the idea that we have some freedom in the definitions we choose, but he then asked what being prime really meant.  I responded that there are at least two ways to think about prime.  Here are the two definitions I gave him:</p>
+
+<ol>
+  <li>A (natural) number is prime if it has exactly two distinct factors.</li>
+  <li>A (natural) number is prime if it is greater than 1 and has no factors other than 1 and itself.</li>
+</ol>
+
+<p>The second definition blatantly forbids 1 from being prime while it takes a bit of convincing of a nine-year-old that the first definition bans 1 from being prime, too.  I convinced him to just take the definition that he liked better and run with it.</p>
+
+<p>Next, we needed to find the remaining factors of 72.  I decided that coming up with the <a href="http://study.com/academy/lesson/what-is-a-factor-tree-definition-example.html">factor trees</a> for 72 would help with this part of the problem and for the next part. I’ve talked to my kids before about factor trees, but my son couldn’t remember exactly what to do.  Since he had already realized that 2 was a prime factor of 72, I decided to start with that.  He quickly realized that 72 is 2 times 36.  Then he recognized 36 as a perfect square (which I quiz my kids on all the time) and told me to draw branches from 36 out to 6 and 6.  Lastly, he told me to draw two branches from each 6 out to 2 and 3.  He knew he was done since he recognized 2 and 3 as being prime.</p>
+
+<p>Two interesting discussions then occurred.  First, he admitted that he was confused about what to do before he asked for help because he was pretty sure that 3 was a prime factor of 72, but that a friend at school insisted that he was wrong when he suggested this. Two thoughts immediately sprung to mind:</p>
+
+<ol>
+  <li>Way before nine years old, kids have been taught that mistakes are bad.  Even though he hadn’t made a mistake (assuming that he arrived at 3 being a prime factor for a valid reason), his willingness to problem solve had been shut down because he thought he made a mistake.  I’m constantly trying to reinforce the value of making mistakes, but I’m outnumbered.  Nonetheless, I’ll keep trying.</li>
+  <li>My son’s lack of confidence prevented him from detaching himself from the outcome of being right or wrong and as a result was unwilling to validate his ideas.  I’m grateful he didn’t argue that he was right for the sake of him being right, but with more confidence one is willing to argue for the sake of determining whether the statement “3 is a prime factor of 72” is correct or not.</li>
+</ol>
+
+<p>I more or less kept these thoughts to myself, but reminded him that we can quickly check to see if 72 has 3 as a factor by adding the digits of 72 together and seeing if that is divisible by 3.  He said something like, “Oh, yeah!  I forgot about that.  Cool.”</p>
+
+<p>Now for the really cool part!  Without me prompting him at all, he says, “Now I see why 1 isn’t prime.”  I had no idea what he was referring to, so I asked him to explain.  It took him a while to get the words right, but his revelation was that the factor tree would go on forever if 1 was prime because we could just write 1 as 1 times 1, etc.  Sweet!  He already has some intrinsic understanding of the <a href="https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic">Fundamental Theorem of Arithmetic</a>.</p>
+
+<p>The second part of the homework problem asked the following:</p>
+
+<div class="well">
+Which factors of 72 are multiples of its prime factors?
+</div>
+
+<p>After some prompting (and some confusion over whether a number can be a multiple of itself), he wrote down all the numbers he could build by multiplying combinations from the three 2’s and two 3’s in his factor tree.  It was clear that he knew what to do, but he didn’t have a systematic way of doing it. If I hadn’t been sitting with him, I’m sure he would have missed one or two.  For example, I think he went from using all three 2’s (to get 8) to using two 2’s and a 3 (to get 12).</p>
+
+<p>The last question was:</p>
+
+<div class="well">
+Is Claire's statement true?  Explain your reasoning.
+</div>
+
+<p>He immediately said no because 1 wasn’t on his list in the second part of the problem but 1 is a factor of 72 (not the words he used).  Interestingly, almost an hour later when my wife asked him to explain what he wrote (because he left out some words), he had a lot of trouble recreating his thought process.  I enjoyed listening to him and my wife talk about the last part from a slightly different perspective.</p>
+
+
+<div class="visible-xs visible-sm">
+<p><br />
+</p>
+</div>
+
+</div>
+
+<div class="col-xs-12 col-md-4 col-lg-3">
+<div class="row">
+
+<div class="col-xs-12 col-sm-12 col-md-12">
+
+<div class="well well-sm">
+<center>
+<h1 style="margin: 5px 0">Dana C. Ernst</h1>
+<p class="lead" style="margin: 0 0 10px 0">Mathematics &amp; Teaching</p>
+</center>
+
+<div class="hidden-xs hidden-sm">
+<img src="/images/feetonbike.jpg" class="img-responsive img-rounded" style="margin-bottom: 10px"/>
+</div>
+
+<p style="line-height: 1.75">
+<i class="fa fa-university fa-fw fa-lg"></i>&nbsp; <a href="http://nau.edu">Northern Arizona University</a><br />
+<i class="fas fa-map-marker-alt fa-fw fa-lg"></i>&nbsp; <a href="https://www.google.com/maps/place/Flagstaff,+AZ/@35.1812076,-111.607959,12z/data=!3m1!4b1!4m2!3m1!1s0x872d8ef7da2e2631:0x8e1f3ca1cedbb300?hl=en">Flagstaff, AZ</a><br />
+<i class="fa fa-link fa-fw fa-lg"></i>&nbsp; <a href="http://dcernst.github.io">Website</a><br />
+<i class="fa fa-phone fa-fw fa-lg"></i>&nbsp; 928.523.6852<br />
+<i class="fab fa-twitter fa-fw fa-lg"></i>&nbsp; <a href="http://twitter.com/danaernst">Twitter</a><br />
+<i class="fab fa-instagram fa-fw fa-lg"></i>&nbsp; <a href="https://www.instagram.com/dcernst/">Instagram</a><br />
+<i class="fab fa-facebook fa-fw fa-lg"></i>&nbsp; <a href="https://www.facebook.com/danacampbellernst">Facebook</a><br />
+<i class="fab fa-strava fa-fw fa-lg"></i>&nbsp; <a href="https://www.strava.com/athletes/122321">Strava</a><br />
+<i class="fab fa-github fa-fw fa-lg"></i>&nbsp; <a href="https://github.com/dcernst">GitHub</a><br />
+<i class="ai ai-arxiv ai-fw ai-lg"></i>&nbsp; <a href="https://arxiv.org/a/ernst_d_1.html">arXiv</a><br />
+<i class="ai ai-researchgate ai-fw ai-lg"></i>&nbsp; <a href="https://www.researchgate.net/profile/Dana_Ernst">ResearchGate</a><br />
+<!-- <i class="ai ai-academia ai-fw ai-lg"></i>&nbsp; <a href="https://nau.academia.edu/DanaErnst">Academia.edu</a><br /> -->
+<i class="fab fa-linkedin fa-fw fa-lg"></i>&nbsp; <a href="https://www.linkedin.com/in/dcernst">LinkedIn</a><br />
+<i class="ai ai-mendeley ai-fw ai-lg"></i>&nbsp; <a href="https://www.mendeley.com/profiles/dana-ernst/">Mendeley</a><br />
+<i class="ai ai-google-scholar ai-fw ai-lg"></i>&nbsp; <a href="https://scholar.google.com/citations?user=4JeUjj0AAAAJ&hl=en">Google Scholar</a><br />
+<i class="ai ai-impactstory ai-fw ai-lg"></i>&nbsp; <a href="https://impactstory.org/u/0000-0002-0663-4982">Impact Story</a><br />
+<i class="ai ai-orcid ai-fw ai-lg"></i>&nbsp; <a href="http://orcid.org/0000-0002-0663-4982">ORCID</a>
+</p>
+
+<h4 style="margin: 20px 0 10px 0">Current Courses</h4>
+<p style="line-height: 1.75">
+<i class="fa fa-book fa-fw fa-lg"></i>&nbsp; <a href="/teaching/mat220s18">MAT 220: Math Reasoning</a><br />
+<i class="fa fa-book fa-fw fa-lg"></i>&nbsp; <a href="/teaching/mat411s18">MAT 411: Abstract Algebra</a>
+</p>
+
+<h4 style="margin: 20px 0 10px 0">About This Site</h4>
+<p style="margin-bottom:5px; text-align: left;">
+<i class="fa fa-info-circle fa-fw fa-lg"></i>&nbsp; This website was created using <a href="https://pages.github.com">GitHub Pages</a> and <a href="http://jekyllrb.com">Jekyll</a> together with <a href="http://getbootstrap.com">Twitter Bootstrap</a>.</p>
+<p style="margin-bottom:5px; text-align: left;">
+<i class="fab fa-creative-commons fa-fw fa-lg"></i>&nbsp; Unless stated otherwise, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Share Alike 4.0 International License</a>.</p>
+<p style="margin-bottom:5px; text-align: left;">
+<i class="far fa-hand-peace fa-fw fa-lg"></i>&nbsp; The views expressed on this site are my own and are not necessarily shared by my employer <a href="http://nau.edu">Northern Arizona University</a>.</p>
+<p style="margin-bottom:5px; text-align: left;">
+<i class="fa fa-code fa-fw fa-lg"></i>&nbsp; The <a href="https://github.com/dcernst/dcernst.github.io">source code</a> is on GitHub.</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="footer">
+
+<div class="container">
+<!-- <p class="text-muted"><i class="fab fa-creative-commons"></i>&nbsp; All work is licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0 License</a>.</p> -->
+<p style="margin: 20px 0;"><i class="fab fa-creative-commons"></i>&nbsp; All work is licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0 License</a>.</p>
+</div>
+
+</div>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+</body>
+</html>
+

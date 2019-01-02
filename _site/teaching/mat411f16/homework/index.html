@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Mathematics, Teaching, & Technology">
+<meta name="author" content="Dana C. Ernst">
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<!--<link rel="icon" href="../../favicon.ico">-->
+
+<title>Dana C. Ernst</title>
+
+<!-- Bootstrap core CSS -->
+<!-- <link href="/css/bootstrap.min.css" rel="stylesheet"> -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<!-- <link href="/css/bootstrap.css" rel="stylesheet"> --> <!-- This is what I was using -->
+
+<!-- Custom styles for this template -->
+<link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+<link href="/css/extra.css" rel="stylesheet">
+<link rel="stylesheet" href="/css/css/academicons.css"/>
+
+<!-- stylesheet for pygments to work -->
+<link href="/css/pygments.css" rel="stylesheet">
+
+<!-- MathJax -->
+<script type="text/x-mathjax-config">MathJax.Hub.Config({"HTML-CSS": {preferredFont: "Gyre-Termes"}, tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+<!-- Old MathJax -->
+<!-- <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script> -->
+<!-- <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
+
+<!-- Font Awesome -->
+<!-- old version
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css"> -->
+<!-- version 5 -->
+<script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
+
+<!-- SageCell -->
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+
+<!-- Feed Stuff -->
+<link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Dana C. Ernst" />
+<!-- Begin Jekyll SEO tag v2.3.0 -->
+<title>Homework | Dana C. Ernst</title>
+<meta property="og:title" content="Homework" />
+<meta name="author" content="Dana Ernst" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Mathematics, Teaching, &amp; Technology" />
+<meta property="og:description" content="Mathematics, Teaching, &amp; Technology" />
+<link rel="canonical" href="http://localhost:4000/teaching/mat411f16/homework/" />
+<meta property="og:url" content="http://localhost:4000/teaching/mat411f16/homework/" />
+<meta property="og:site_name" content="Dana C. Ernst" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@danaernst" />
+<meta name="twitter:creator" content="@Dana Ernst" />
+<script type="application/ld+json">
+{"image":null,"mainEntityOfPage":null,"author":{"@type":"Person","name":"Dana Ernst"},"publisher":null,"description":"Mathematics, Teaching, &amp; Technology","name":null,"@type":"WebPage","headline":"Homework","dateModified":null,"url":"http://localhost:4000/teaching/mat411f16/homework/","datePublished":null,"sameAs":null,"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+</head>
+
+<body>
+
+<!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="container">
+
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="/">Dana C. Ernst</a>
+</div>
+
+<div class="collapse navbar-collapse">
+<ul class="nav navbar-nav">
+
+<li><a href="/blog/">Blogging</a></li>
+
+<li><a href="/teaching/">Teaching</a></li>
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Scholarship <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/scholarship/">Scholarship Overview</a></li>
+<li><a href="/scholarship/academic-writing">Academic Writing</a></li>
+<li><a href="/scholarship/undergraduate-research">Undergraduate Research</a></li>
+<li><a href="/scholarship/talks">Talks</a></li>
+<!-- <li><a href="http://maateachingtidbits.blogspot.com">Teaching Tidbits</a></li> -->
+</ul>
+</li>
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="/resources/teaching-resources">Teaching Resources</a></li>
+<li><a href="/resources/free-and-open-source-textbooks">Free and Open-Source Textbooks</a></li>
+<li><a href="/resources/inquiry-based-learning">Inquiry-Based Learning</a></li>
+<li><a href="/resources/quick-latex-guide">Quick LaTeX Guide</a></li>
+</ul>
+</li>
+
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Other <span class="caret"></span></a>
+<ul class="dropdown-menu" role="menu">
+<li><a href="https://nau.edu/cefns/natsci/math/">NAU Mathematics &amp; Statistics</a></li>
+<li><a href="http://naumathstat.github.io/seminars/">Department Seminars</a></li>
+<li><a href="http://naumathstat.github.io/seminars/acgt/">ACGT Seminar</a></li>
+<li><a href="http://naumathstat.github.io/seminars/famus/">FAMUS</a></li>
+<li><a href="http://www.inquirybasedlearning.org">Academy of Inquiry-Based Learning</a></li>
+<li><a href="http://www.mathlearningbyinquiry.org">Mathematics Learning by Inquiry</a></li>
+<li><a href="http://www.sagemath.org">Sage</a></li>
+<li><a href="https://cocalc.com">CoCalc</a></li>
+<li><a href="http://maateachingtidbits.blogspot.com">MAA Teaching Tidbits</a></li>
+<li><a href="https://mathblogging.org">MathBlogging.org</a></li>
+<li><a href="https://boolesrings.org">Booles' Rings</a></li>
+<li><a href="http://maa.org">Mathematical Association of America</a></li>
+<li><a href="http://ams.org">American Mathematical Society</a></li>
+<li><a href="https://aimath.org">American Institute of Mathematics</a></li>
+<li><a href="https://www.maa.org/programs/faculty-and-departments/project-next">Project NExT</a></li>
+<li><a href="https://www.mathjax.org">MathJax</a></li>
+</ul>
+</li>
+
+<!-- <li><a href="/about/">About</a></li> -->
+
+<!-- <li><a href="http://maamathedmatters.blogspot.com">Math Ed Matters</a></li> -->
+
+</ul>
+</div><!--/.nav-collapse -->
+</div>
+</div>
+
+
+<!-- Begin page content -->
+<div class="container">
+
+<div class="page-header">
+<h1>Homework</h1>
+</div>
+
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
+<ol class="breadcrumb">
+  <li><a href="/"><i class="fa fa-home"></i></a></li>
+  <li><a href="/teaching/">Teaching</a></li>
+  <li><a href="/teaching/mat411f16">MAT 411</a></li>
+  <li class="active">Homework</li>
+</ol>
+
+<div class="row">
+<div class="col-xs-12">
+<div class="btn-group btn-group-justified">
+<a class="btn btn-default btn-success" href="/teaching/mat411f16/syllabus/">Syllabus</a>
+<a class="btn btn-default btn-primary" href="/teaching/mat411f16/materials/">
+<span class="hidden-xs">Course Materials</span><span class="visible-xs">Stuff</span>
+</a>
+<a class="btn btn-default btn-warning" href="/teaching/mat411f16/homework/">
+<span class="hidden-xs">Homework</span><span class="visible-xs">HW</span>
+</a>
+<a class="btn btn-default btn-info" href="/teaching/mat411f16/journal/">Journal</a>
+</div>
+</div>
+</div>
+
+<h2 id="guidelines">Guidelines</h2>
+<p>On each homework assignment, please write (i) your name, (ii) name of course, and (iii) homework number. You are allowed and encouraged to work together on homework. Yet, each student is expected to turn in his or her own work. In general, late homework will not be accepted. However, you are allowed to turn in <strong>up to three late homework assignments with no questions asked</strong>. Unless you have made arrangements in advance with me, homework turned in after class will be considered late. When doing your homework, I encourage you to use the Elements of Style for Proofs (see Appendix B of the <a href="/teaching/mat411f16/materials/">course notes</a> as a reference.</p>
+
+<h2 id="daily-homework">Daily Homework</h2>
+<p>The following assignments are to be turned in at the end of the indicated class period.  I reserve the right to modify the assignment if the need arises.  These exercises will form the basis of the student-led sharing of solutions/proofs each day.  Daily assignments will be graded on a $\checkmark$-system.  During class, <strong>you are only allowed to annotate your homework using the colored marker pens that I provide</strong>.</p>
+
+<ul>
+  <li><strong>Daily Homework 1:</strong> Read the <a href="/teaching/mat411f16/syllabus/">syllabus</a> and write down 5 important items.  <em>Note:</em>  All of the exam dates only count as a single item.  Turn in on your own paper at the beginning of class. (Due Wednesday, August 31)</li>
+  <li><strong>Daily Homework 2:</strong> Read and sign the <a href="/teaching/StudentContract.pdf">Student Contract</a>. (Due Wednesday, August 31)</li>
+  <li><strong>Daily Homework 3:</strong> Stop by my office (AMB 176) and say hello. If I’m not there, just slide note under my door saying you stopped by. (Due Friday, September 2)</li>
+  <li><strong>Daily Homework 4:</strong> Skim through <a href="/teaching/mat411f16/ElementsOfStyle.pdf">Appendix B: Elements of Style of Proof</a> of the course notes and read all of <a href="/teaching/mat411f16/Introduction.pdf">Chapter 1: Introduction</a> of the course notes.  In addition, complete 2.2-2.6, 2.8-2.13, 2.15 in <a href="/teaching/mat411f16/IntuitiveGroups.pdf">Chapter 2: An Intuitive Approach to Groups</a> and digest the surrounding text along the way. (Due Wednesday, August 31)</li>
+  <li><strong>Daily Homework 5:</strong> Skim through <a href="/teaching/mat411f16/FancyMathematicalTerms.pdf">Appendix C: Fancy Mathematical Terms</a> of the course notes. In addition, complete 2.16-2.25 in <a href="/teaching/mat411f16/IntuitiveGroups.pdf">Chapter 2: An Intuitive Approach to Groups</a> and 3.1-3.3 in <a href="/teaching/mat411f16/CayleyDiagrams.pdf">Chapter 3: Cayley Diagrams</a> digest the surrounding text along the way. (Due Friday, September 2)</li>
+  <li><strong>Daily Homework 6:</strong> Skim through <a href="/teaching/mat411f16/Definitions.pdf">Appendix D: Definitions in Mathematics</a> of the course notes. Also, complete 3.4-3.12 in <a href="/teaching/mat411f16/CayleyDiagrams.pdf">Chapter 3: Cayley Diagrams</a> and digest the surrounding text along the way. (Due Wednesday, September 7)</li>
+  <li><strong>Daily Homework 7:</strong> Complete 3.13-3.17 in <a href="/teaching/mat411f16/CayleyDiagrams.pdf">Chapter 3: Cayley Diagrams</a> and digest the surrounding text along the way. (Due Friday, September 9)</li>
+  <li><strong>Daily Homework 8:</strong> Complete 4.1-4.3, 4.5-4.8, 4.10-4.14 in <a href="/teaching/mat411f16/IntroSubgroupsIsomorphisms.pdf">Chapter 4: An Introduction to Subgroups and Isomorphisms</a> and digest the surrounding text along the way. (Due Monday, September 12)</li>
+  <li><strong>Daily Homework 9:</strong> Complete 4.15, 4.16, 4.19-4.22 in <a href="/teaching/mat411f16/IntroSubgroupsIsomorphisms.pdf">Chapter 4: An Introduction to Subgroups and Isomorphisms</a> and digest the surrounding text along the way. (Due Wednesday, September 14)</li>
+  <li><strong>Daily Homework 10:</strong> Complete 4.23-4.26 in <a href="/teaching/mat411f16/IntroSubgroupsIsomorphisms.pdf">Chapter 4: An Introduction to Subgroups and Isomorphisms</a> and digest the surrounding text along the way. (Due Friday, September 16)</li>
+  <li><strong>Daily Homework 11:</strong> Complete 4.27-4.28 in <a href="/teaching/mat411f16/IntroSubgroupsIsomorphisms.pdf">Chapter 4: An Introduction to Subgroups and Isomorphisms</a>, 5.8-5.11, 5.13, 5.14, 5.16 in <a href="/teaching/mat411f16/FormalGroups.pdf">Chapter 5: A Formal Approach to Groups</a>, and digest the surrounding text along the way. (Due Monday, September 19)</li>
+  <li><strong>Daily Homework 12:</strong> Complete 5.20-5.30 in <a href="/teaching/mat411f16/FormalGroups.pdf">Chapter 5: A Formal Approach to Groups</a> and digest the surrounding text along the way. (Due Wednesday, September 21)</li>
+  <li><strong>Daily Homework 13:</strong> Complete 5.32-5.34 in <a href="/teaching/mat411f16/FormalGroups.pdf">Chapter 5: A Formal Approach to Groups</a> and digest the surrounding text along the way. (Due Friday, September 23)</li>
+  <li><strong>Daily Homework 14:</strong> Complete 5.35-5.44 in <a href="/teaching/mat411f16/FormalGroups.pdf">Chapter 5: A Formal Approach to Groups</a> and digest the surrounding text along the way. (Due Monday, September 26)</li>
+  <li><strong>Daily Homework 15:</strong> Complete 5.56-5.58, 5.61-5.64 in <a href="/teaching/mat411f16/FormalGroups.pdf">Chapter 5: A Formal Approach to Groups</a> and digest the surrounding text along the way. Note that 5.59 and 5.60 were on the take-home portion of Exam 1. (Due Wednesday, October 5)</li>
+  <li><strong>Daily Homework 16:</strong> Complete 5.66-5.75 in <a href="/teaching/mat411f16/FormalGroups.pdf">Chapter 5: A Formal Approach to Groups</a> and digest the surrounding text along the way. (Due Friday, October 7)</li>
+  <li><strong>Daily Homework 17:</strong> Complete 5.78, 5.80-5.85 in <a href="/teaching/mat411f16/FormalGroups.pdf">Chapter 5: A Formal Approach to Groups</a> and digest the surrounding text along the way. (Due Monday, October 10)</li>
+  <li><strong>Daily Homework 18:</strong> Complete 5.86 and 5.87 in <a href="/teaching/mat411f16/FormalGroups.pdf">Chapter 5: A Formal Approach to Groups</a> and digest the surrounding text along the way. (Due Wednesday, October 12)</li>
+  <li><strong>Daily Homework 19:</strong> Complete 5.88-5.91 and 6.1, 6.3, 6.4 in <a href="/teaching/mat411f16/FormalGroups.pdf">Chapter 5: A Formal Approach to Groups</a> and <a href="/teaching/mat411f16/Families.pdf">Chapter 6: Families of Groups</a>, respectively. (Due Friday, October 14)</li>
+  <li><strong>Daily Homework 20:</strong> Complete 6.5, 6.6, 6.8-6.12, 6.14 in <a href="/teaching/mat411f16/Families.pdf">Chapter 6: Families of Groups</a> and digest the surrounding text along the way. (Due Monday, October 17)</li>
+  <li><strong>Daily Homework 21:</strong> Complete 6.15-6.24 in <a href="/teaching/mat411f16/Families.pdf">Chapter 6: Families of Groups</a> and digest the surrounding text along the way. (Due Wednesday, October 19)</li>
+  <li><strong>Daily Homework 22:</strong> Complete 6.26-6.33, 6.35, 6.36 in <a href="/teaching/mat411f16/Families.pdf">Chapter 6: Families of Groups</a>. For Theorems 6.26 and 6.27, just sketch an outline of what needs to be proved. Note that Theorem 6.34 (The Division Algorithm) is not assigned to be proved. However, you may need it in later problems. (Due Friday, October 21)</li>
+  <li><strong>Daily Homework 23:</strong> Complete 6.37-6.44 in <a href="/teaching/mat411f16/Families.pdf">Chapter 6: Families of Groups</a> and digest the surrounding text along the way. (Due Monday, October 24)</li>
+  <li><strong>Daily Homework 24:</strong> Complete 6.53, 6.54, 6.56, 6.57, 6.59-6.63 in <a href="/teaching/mat411f16/Families.pdf">Chapter 6: Families of Groups</a> and digest the surrounding text along the way. (Due Wednesday, November 2)</li>
+  <li><strong>Daily Homework 25:</strong> Complete 6.64-6.72 in <a href="/teaching/mat411f16/Families.pdf">Chapter 6: Families of Groups</a> and digest the surrounding text along the way. (Due Friday, November 4)</li>
+  <li><strong>Daily Homework 26:</strong> Complete 6.73-6.77, 6.80, 6.81 in <a href="/teaching/mat411f16/Families.pdf">Chapter 6: Families of Groups</a> and digest the surrounding text along the way. Be sure to take the time to understand the statement of Theorem 6.79 (Cayley Theorem) before doing 6.80 and 6.81. (Due Monday, November 7)</li>
+  <li><strong>Daily Homework 27:</strong> Complete 6.82-6.88, 6.90, 6.91 in <a href="/teaching/mat411f16/Families.pdf">Chapter 6: Families of Groups</a> and digest the surrounding text along the way. (Due Wednesday, November 9)</li>
+  <li><strong>Daily Homework 28:</strong> Complete 6.92, 6.94-6.98, 6.100-6.105 in <a href="/teaching/mat411f16/Families.pdf">Chapter 6: Families of Groups</a> and digest the surrounding text along the way. (Due Monday, November 14)</li>
+  <li><strong>Daily Homework 29:</strong> Complete 7.2-7.5 in <a href="/teaching/mat411f16/CosetsLagrangeNormal.pdf">Chapter 7: Cosets, Lagrange’s Theorem, and Normal Subgroups</a> and digest the surrounding text along the way. (Due Wednesday, November 16)</li>
+  <li><strong>Daily Homework 30:</strong> Complete 7.6-7.8, 7.15, 7.18, 7.19, 7.21, 7.22 in <a href="/teaching/mat411f16/CosetsLagrangeNormal.pdf">Chapter 7: Cosets, Lagrange’s Theorem, and Normal Subgroups</a> and digest the surrounding text along the way. In particular, you should recognize the several of the problems that I didn’t assign from the take-home portion of Exam 2. Feel free to use these results. (Due Friday, November 18)</li>
+  <li><strong>Daily Homework 31:</strong> Complete 7.24-7.31, 7.33-7.36 in <a href="/teaching/mat411f16/CosetsLagrangeNormal.pdf">Chapter 7: Cosets, Lagrange’s Theorem, and Normal Subgroups</a> and digest the surrounding text along the way.  (Due Monday, November 21)</li>
+  <li><strong>Daily Homework 32:</strong> Complete 8.6-8.8, 8.10, 8.11, 8.13, 8.16-8.20 in <a href="/teaching/mat411f16/ProductsQuotients.pdf">Chapter 8: Products and Quotients of Groups</a> and digest the surrounding text along the way.  (Due Wednesday, November 23)</li>
+  <li><strong>Daily Homework 33:</strong> Complete 8.24-8.28 in <a href="/teaching/mat411f16/ProductsQuotients.pdf">Chapter 8: Products and Quotients of Groups</a> and digest the surrounding text along the way. You’ll need to use Theorem 8.23 for 8.24 and 8.25. (Due Monday, November 28)</li>
+  <li><strong>Daily Homework 34:</strong> Complete 9.15, 9.17, 10.8, 10.9, 10.15, 10.16 in <a href="/teaching/mat411f16/Homomorphisms.pdf">Chapter 9: Homomorphisms and the Isomorphism Theorems</a> and <a href="/teaching/mat411f16/Rings.pdf">Chapter 10: An Introduction to Rings</a>. (Due Wednesday, December 7)</li>
+  <li><strong>Daily Homework 35:</strong> Complete 9.22-9.24 in <a href="/teaching/mat411f16/Homomorphisms.pdf">Chapter 9: Homomorphisms and the Isomorphism Theorems</a> and 10.17, 10.20, 10.27, 10.31, 10.33, 10.36(ab), 10.38 in <a href="/teaching/mat411f16/Rings.pdf">Chapter 10: An Introduction to Rings</a>. (Due Friday, December 9)</li>
+</ul>
+
+<!--
+- **Daily Homework 34:** Complete 10.31, 10.37-10.39, 10.42, 10.44, 10.48, 10.49 in [Chapter 10: An Introduction to Rings](/teaching/mat411f16/Rings.pdf) and digest the surrounding text along the way. There are a few theorems that I did not assign you to prove.  You should make sure you understand these and you are welcome to use them for later exercises. (Due Wednesday, May 4) -->
+
+<h2 id="weekly-homework">Weekly Homework</h2>
+<p>In addition to the Daily Homework, we will also have Weekly Homework assignments.  For most of these assignments, you will be required to submit 2-3 formally written proofs.  Typically, two of the problems will come directly from the Daily Homework from the previous week.  Any additional problems will likely be new.  You will be required to type your submission using $\LaTeX$ (see below for more on this).  You can either submit a hardcopy of your assignment or email me the PDF of your completed work. If you email me the PDF, please name your file as <code>WeeklyX-Lastname.pdf</code>, where <code>X</code> is the number of the assignment and <code>Lastname</code> is your last name.  Notice there are no spaces in the filename.</p>
+
+<ul>
+  <li><strong>Weekly Homework 1:</strong> Prove <strong>two</strong> of Theorem A.43, Theorem A.44, Theorem A.75, or Theorem A.81 from <a href="/teaching/mat411f16/Prerequisites.pdf">Appendix A</a>. In addition, write up a solution to <strong>one</strong> of Exercise 2.13 or Exercise 2.19.  <em>Note:</em> For the problems coming from Appendix A, you are welcome to consult external resources. (Due Wednesday, September 14 by 8PM)</li>
+  <li><strong>Weekly Homework 2:</strong> Complete each of the following tasks. You are required to type your proofs using LaTeX.  You should email me the PDF of your completed work or turn in a hardcopy. (Due Tuesday, September 20 by 8PM)
+    <ul>
+      <li>Prove any <strong>two</strong> of Theorems 4.6, 4.8, or 4.20.</li>
+      <li>Determine whether each of the following statements is true or false. If a statement is true, write a short proof. If a statement is false, justify your reasoning. In each case, the context should make it clear what each letter represents. In particular, in Items 1, 3, and 5, $r$ represents rotation of a square by a quarter turn clockwise. But in Item 4, $r$ represents rotating a triangle by a third of a turn clockwise.
+        <ol>
+          <li>$\{s, r, sr, rs\}\leq D_4$</li>
+          <li>$\{1, -1, i, -i, j, -j\}\leq Q_8$</li>
+          <li>$\{e, sr, rs, r^2\}\leq D_4$</li>
+          <li>$\{e, r, r^2\} \leq D_3$</li>
+          <li>$\{e, r, r^2\} \leq D_4$</li>
+        </ol>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Weekly Homework 3:</strong> Suppose $G$ is a finite group such that $G=\langle g_1,\ldots, g_n\rangle$.  Consider the Cayley diagram for $G$ using $\{g_1,\ldots,g_n\}$ as a generating set.  Prove that for each $i$, if we follow a sequence of (forward) arrows corresponding to $g_i$ out of $e$, we eventually end up back at $e$. Also, prove <strong>two</strong> of Theorems 5.24, 5.25, 5.28.  (Due Tuesday, September 27 by 8PM)</li>
+  <li><strong>Weekly Homework 4:</strong>  Prove <strong>two</strong> of Theorems 5.29, 5.30, 5.35, 5.63. (Due Tuesday, October 11 by 8PM)</li>
+  <li><strong>Weekly Homework 5:</strong>  Prove <strong>two</strong> of Theorems 5.83-5.89. (Due Tuesday, October 18 by 8PM)</li>
+  <li><strong>Weekly Homework 6:</strong>  Prove <strong>two</strong> of Theorems 6.8 6.20, 6.35, 6.37, 6.40(a). (Due Tuesday, November 8 by 8PM)</li>
+  <li><strong>Weekly Homework 7:</strong>  Prove <strong>two</strong> of Theorems 6.70, 6.71, 6.87, 6.92. (Due Tuesday, November 22 by 8PM)</li>
+</ul>
+
+<!-- - **Weekly Homework 1:** Prove **two** of Theorem A.43, Theorem A.44, Theorem A.75, or Theorem A.81 from [Appendix A](/teaching/mat411f16/Prerequisites.pdf). In addition, write up a solution to **one** of Exercise 2.13 or Exercise 2.19.  *Note:* For the problems coming from Appendix A, you are welcome to consult external resources. (Due Tuesday, February 2 by 8PM)
+- **Weekly Homework 2:** Complete each of the following tasks. You are required to type your proofs using LaTeX.  You should email me the PDF of your completed work or turn in a hardcopy. (Due Tuesday, February 9 by 8PM)
+  - Prove any **two** of Theorems 4.6, 4.8, or 4.20.
+  - Determine whether each of the following statements is true or false. If a statement is true, write a short proof. If a statement is false, justify your reasoning. In each case, the context should make it clear what each letter represents. In particular, in Items 1, 3, and 5, $r$ represents rotation of a square by a quarter turn clockwise. But in Item 4, $r$ represents rotating a triangle by a third of a turn clockwise.
+      1. $\\{s, r, sr, rs\\}\leq D_4$
+      2. $\\{1, -1, i, -i, j, -j\\}\leq Q_8$
+      3. $\\{e, sr, rs, r^2\\}\leq D_4$
+      4. $\\{e, r, r^2\\} \leq D_3$
+      5. $\\{e, r, r^2\\} \leq D_4$
+  - Suppose $G$ is a finite group such that $G=\langle g_1,\ldots, g_n\rangle$.  Consider the Cayley diagram for $G$ using $\\{g_1,\ldots,g_n\\}$ as a generating set.  Prove that for each $i$, if we follow a sequence of (forward) arrows corresponding to $g_i$ out of $e$, we eventually end up back at $e$.
+- **Weekly Homework 3:** Prove **two** of Theorems 5.24, 5.25, 5.28. (Due Tuesday, February 16 by 8PM)
+- **Weekly Homework 4:** Prove **two** of Theorems 5.63, 5.83, 5.84, 5.86, 5.87, 5.89, 5.90.  In addition, prove that if $\phi:G_1\to G_2$ is a function between two groups that satisfies the homomorphic property (which may or may not be 1-1 or onto), then the set $K=\\{g\in G_1\mid \phi(g)=e_2\\}$ (where $e_2$ is the identity of $G_2$) is a subgroup of $G_1$.  (Due Tuesday, March 8 by 8PM)
+- **Weekly Homework 5:** Prove **two** of Theorems 6.7, 6.8(a), 6.8(b), 6.20, 6.21, 6.23.  In addition, prove that if $\phi:G_1\to G_2$ and $K$ are as in Weekly Homework 4, then $\phi$ is 1-1 iff $K=\\{e_1\\}$ (where $e_1$ is the identity of $G_1$).  (Due Tuesday, March 22 by 8PM)
+- **Weekly Homework 6:** Prove **two** of Theorems 6.64, 6.71, 6.87 (both parts), 6.92. (Due Tuesday, April 12 by 8PM)
+- **Weekly Homework 7:** Prove **two** of Theorems 6.100, 7.18, 7.29, 7.31. (Due Tuesday, April 19 by 8PM) -->
+
+<h2 id="using-latex-for-weekly-homework">Using LaTeX for Weekly Homework</h2>
+<p>You are required to use $\LaTeX$ to type up your Weekly Homework assignments.  To do this, I suggest that you use my <a href="https://github.com/dcernst/MiscTeachingMaterials/blob/master/HWTemplate.tex">LaTeX Homework Template</a>.  The easiest way to get started with $\LaTeX$ is to use an online editor.  I recommend using <a href="https://overleaf.com">Overleaf</a>, but there are other options.  The good folks over at Overleaf have preloaded my template, so to get started, all you need to do is click the link below.</p>
+
+<center>
+<form action="https://www.writelatex.com/docs" method="POST">
+    <input type="hidden" name="template" value="danaernst-weekly_homework_x" />
+    <input type="submit" class="wl-submit" value="Start your homework in Overleaf" />
+  </form>
+</center>
+
+<p><br /></p>
+
+</div>
+
+<div class="visible-xs visible-sm">
+<p><br />
+</p>
+</div>
+
+<div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
+<div class="row">
+
+<div class="col-xs-12 col-sm-12 col-md-12">
+
+<div class="well well-sm">
+<center>
+<h1 style="margin: 5px 0">Dana C. Ernst</h1>
+<p class="lead" style="margin: 0 0 10px 0">Mathematics &amp; Teaching</p>
+</center>
+
+<div class="hidden-xs hidden-sm">
+<img src="/images/feetonbike.jpg" class="img-responsive img-rounded" style="margin-bottom: 10px"/>
+</div>
+
+<p style="line-height: 1.75">
+<i class="fa fa-university fa-fw fa-lg"></i>&nbsp; <a href="http://nau.edu">Northern Arizona University</a><br />
+<i class="fas fa-map-marker-alt fa-fw fa-lg"></i>&nbsp; <a href="https://www.google.com/maps/place/Flagstaff,+AZ/@35.1812076,-111.607959,12z/data=!3m1!4b1!4m2!3m1!1s0x872d8ef7da2e2631:0x8e1f3ca1cedbb300?hl=en">Flagstaff, AZ</a><br />
+<i class="fa fa-link fa-fw fa-lg"></i>&nbsp; <a href="http://dcernst.github.io">Website</a><br />
+<i class="fa fa-phone fa-fw fa-lg"></i>&nbsp; 928.523.6852<br />
+<i class="fab fa-twitter fa-fw fa-lg"></i>&nbsp; <a href="http://twitter.com/danaernst">Twitter</a><br />
+<i class="fab fa-instagram fa-fw fa-lg"></i>&nbsp; <a href="https://www.instagram.com/dcernst/">Instagram</a><br />
+<i class="fab fa-facebook fa-fw fa-lg"></i>&nbsp; <a href="https://www.facebook.com/danacampbellernst">Facebook</a><br />
+<i class="fab fa-strava fa-fw fa-lg"></i>&nbsp; <a href="https://www.strava.com/athletes/122321">Strava</a><br />
+<i class="fab fa-github fa-fw fa-lg"></i>&nbsp; <a href="https://github.com/dcernst">GitHub</a><br />
+<i class="ai ai-arxiv ai-fw ai-lg"></i>&nbsp; <a href="https://arxiv.org/a/ernst_d_1.html">arXiv</a><br />
+<i class="ai ai-researchgate ai-fw ai-lg"></i>&nbsp; <a href="https://www.researchgate.net/profile/Dana_Ernst">ResearchGate</a><br />
+<!-- <i class="ai ai-academia ai-fw ai-lg"></i>&nbsp; <a href="https://nau.academia.edu/DanaErnst">Academia.edu</a><br /> -->
+<i class="fab fa-linkedin fa-fw fa-lg"></i>&nbsp; <a href="https://www.linkedin.com/in/dcernst">LinkedIn</a><br />
+<i class="ai ai-mendeley ai-fw ai-lg"></i>&nbsp; <a href="https://www.mendeley.com/profiles/dana-ernst/">Mendeley</a><br />
+<i class="ai ai-google-scholar ai-fw ai-lg"></i>&nbsp; <a href="https://scholar.google.com/citations?user=4JeUjj0AAAAJ&hl=en">Google Scholar</a><br />
+<i class="ai ai-impactstory ai-fw ai-lg"></i>&nbsp; <a href="https://impactstory.org/u/0000-0002-0663-4982">Impact Story</a><br />
+<i class="ai ai-orcid ai-fw ai-lg"></i>&nbsp; <a href="http://orcid.org/0000-0002-0663-4982">ORCID</a>
+</p>
+
+<h4 style="margin: 20px 0 10px 0">Current Courses</h4>
+<p style="line-height: 1.75">
+<i class="fa fa-book fa-fw fa-lg"></i>&nbsp; <a href="/teaching/mat220s18">MAT 220: Math Reasoning</a><br />
+<i class="fa fa-book fa-fw fa-lg"></i>&nbsp; <a href="/teaching/mat411s18">MAT 411: Abstract Algebra</a>
+</p>
+
+<h4 style="margin: 20px 0 10px 0">About This Site</h4>
+<p style="margin-bottom:5px; text-align: left;">
+<i class="fa fa-info-circle fa-fw fa-lg"></i>&nbsp; This website was created using <a href="https://pages.github.com">GitHub Pages</a> and <a href="http://jekyllrb.com">Jekyll</a> together with <a href="http://getbootstrap.com">Twitter Bootstrap</a>.</p>
+<p style="margin-bottom:5px; text-align: left;">
+<i class="fab fa-creative-commons fa-fw fa-lg"></i>&nbsp; Unless stated otherwise, content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Share Alike 4.0 International License</a>.</p>
+<p style="margin-bottom:5px; text-align: left;">
+<i class="far fa-hand-peace fa-fw fa-lg"></i>&nbsp; The views expressed on this site are my own and are not necessarily shared by my employer <a href="http://nau.edu">Northern Arizona University</a>.</p>
+<p style="margin-bottom:5px; text-align: left;">
+<i class="fa fa-code fa-fw fa-lg"></i>&nbsp; The <a href="https://github.com/dcernst/dcernst.github.io">source code</a> is on GitHub.</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div class="footer">
+
+<div class="container">
+<!-- <p class="text-muted"><i class="fab fa-creative-commons"></i>&nbsp; All work is licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0 License</a>.</p> -->
+<p style="margin: 20px 0;"><i class="fab fa-creative-commons"></i>&nbsp; All work is licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0 License</a>.</p>
+</div>
+
+</div>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+</body>
+</html>
+
