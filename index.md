@@ -3,14 +3,9 @@ layout: default
 title: Pinyons &amp Pines
 ---
 
-<!-- <ol class="breadcrumb">
-  <li><a href="/"><i class="fa fa-home"></i></a></li>
-  <li class="active">Home</li>
-</ol> -->
+<!-- <img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-fluid img-rounded" img style="margin-bottom: 10px" /> -->
 
-<img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-fluid img-rounded" img style="margin-bottom: 10px" />
-
-<!-- <img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" /> -->
+<img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
 
 blah blah
 
