@@ -8,7 +8,7 @@ title: Pinyons &amp Pines
   <li class="active">Home</li>
 </ol>
 
-<img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-fluid img-rounded" img style="margin-bottom: 10px" />
+<!-- <img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-fluid img-rounded" img style="margin-bottom: 10px" /> -->
 
 <img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
 
