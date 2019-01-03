@@ -1,6 +1,12 @@
 body {
-    max-width: 950px;
+    max-width: 800px;
+    margin: 0 auto;
 }
+
+/* .container-fluid {
+  max-width: 980px;
+  margin: 0 auto;
+} */
 
 .post-meta {
   font-size: small-font-size;
