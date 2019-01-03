@@ -1,13 +1,9 @@
-/* borrowed from R. Talbert's blog repo */
-
-/* .post-list {
-  margin-left: 0;
-  padding: 0;
-  list-style: none;
-    > li {
-        margin-bottom: $spacing-unit;
-    }
-} */
+/* set a max-width for horizontal fluid layout and make it centered */
+.container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 950px; /* or 950px */
+}
 
 .post-meta {
   font-size: small-font-size;
