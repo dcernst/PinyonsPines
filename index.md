@@ -3,10 +3,10 @@ layout: default
 title: Pinyons &amp Pines
 ---
 
-<ol class="breadcrumb">
+<!-- <ol class="breadcrumb">
   <li><a href="/"><i class="fa fa-home"></i></a></li>
   <li class="active">Home</li>
-</ol>
+</ol> -->
 
 <img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-fluid img-rounded" img style="margin-bottom: 10px" />
 
