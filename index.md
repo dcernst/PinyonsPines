@@ -9,6 +9,6 @@ title: Pinyons &amp Pines
 
 blah blah
 
-<iframe src="https://ridewithgps.com/embeds?type=route&id=29105484&sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=route&id=29105484&sampleGraph=true" style="width: 1px; min-width: 100%; height: 600px; border: none;" scrolling="no"></iframe>
 
 <!-- This website was created using <a href="https://pages.github.com">GitHub Pages</a> and <a href="http://jekyllrb.com">Jekyll</a> together with <a href="http://getbootstrap.com">Twitter Bootstrap</a>. You can find the <a href="https://github.com/dcernst/PinyonsPines">source code</a> on GitHub. -->
