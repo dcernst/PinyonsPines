@@ -1,9 +1,11 @@
-a.anchor {
+/* a.anchor {
     display: block;
     position: relative;
     top: -750px;
     visibility: hidden;
-}
+} */
+
+.anchor:target {padding-top: 90px;}
 
 .post-meta {
   font-size: small-font-size;
