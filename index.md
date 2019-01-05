@@ -39,6 +39,6 @@ Todo
 <iframe src="https://ridewithgps.com/embeds?type=route&id=29105484&sampleGraph=true" style="width: 1px; min-width: 80%; max-width: 80%;height: 500px; border: none;" scrolling="no"></iframe>
 </center>
 
-</br>
+<br>
 
 <!-- This website was created using <a href="https://pages.github.com">GitHub Pages</a> and <a href="http://jekyllrb.com">Jekyll</a> together with <a href="http://getbootstrap.com">Twitter Bootstrap</a>. You can find the <a href="https://github.com/dcernst/PinyonsPines">source code</a> on GitHub. -->
