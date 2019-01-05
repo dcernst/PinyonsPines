@@ -5,7 +5,15 @@
     visibility: hidden;
 } */
 
-.anchor:target {padding-top: 90px;}
+/* .anchor:target {padding-top: 90px;} */
+
+*[id]:before {
+  display: block;
+  content: " ";
+  margin-top: -75px; // Set the Appropriate Height
+  height: 75px; // Set the Appropriate Height
+  visibility: hidden;
+}
 
 .post-meta {
   font-size: small-font-size;
