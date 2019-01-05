@@ -35,6 +35,8 @@ Todo
 - Craters and Cinder Cones
 - Good beginner route, easier than AZT300 -->
 
+<br>
+
 <center>
 <iframe src="https://ridewithgps.com/embeds?type=route&id=29105484&sampleGraph=true" style="width: 1px; min-width: 80%; max-width: 80%;height: 500px; border: none;" scrolling="no"></iframe>
 </center>
