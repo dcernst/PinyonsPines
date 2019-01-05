@@ -5,7 +5,7 @@ title: Pinyons &amp Pines
 
 <img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
 
-Pinyons and Pines is an underground self-supported bikepacking race that starts and ends in [Flagstaff, AZ](https://en.wikipedia.org/wiki/Flagstaff,_Arizona) (6,910 feet). The route is a magnificent tour of Northern Arizona, utilizing a mixture of singletrack, double track, and dirt roads.  Riders have the option of racing as an individual or as part of a 2-person team. Finish times will be listed as two different categories. The race organizer is [Dana Ernst](http://danaernst.com). Please [contact him](mailto:ernst.tribe@gmail.com) with any questions or concerns.
+Pinyons and Pines is a 280-mile underground self-supported bikepacking race that starts and ends in [Flagstaff, AZ](https://en.wikipedia.org/wiki/Flagstaff,_Arizona) (6,910 feet). The route is a magnificent tour of Northern Arizona, utilizing a mixture of singletrack, double track, and dirt roads.  Riders have the option of racing as an individual or as part of a 2-person team. Finish times will be listed as two different categories. The race organizer is [Dana Ernst](http://danaernst.com). Please [contact him](mailto:ernst.tribe@gmail.com) with any questions or concerns.
 
 The **2019** edition of Pinyons and Pines will start on **Saturday, May 18** at 6AM at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com).
 
