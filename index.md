@@ -9,7 +9,9 @@ Pinyons and Pines is a 280-mile underground self-supported bikepacking race that
 
 The **2019** edition of Pinyons and Pines will start on **Saturday, May 18** at 6AM at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com).
 
-**Important!** This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time in comparison to others. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.<a name="rules"></a>
+**Important!** This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time in comparison to others. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
+
+<a name="rules"></a>
 
 ## Rules ##
 
@@ -30,7 +32,9 @@ The rules for this event follow the same principles as similar bikepacking races
 - Practice “leave no trace”. In particular, do not litter!
 - Follow all traffic laws. You must use lights when riding at night on any public roads.
 - Unless you can actually see another rider coming behind you, always close a gate you open.
-- At roughly mile 190, you will pass by a public water cache for the Arizona Trail. Do not take any water (or food) that is designated for an individual. The race organizer (Dana Ernst) will stock this cache before and after the race.<a name="course_overview"></a>
+- At roughly mile 190, you will pass by a public water cache for the Arizona Trail. Do not take any water (or food) that is designated for an individual. The race organizer (Dana Ernst) will stock this cache before and after the race.
+
+<a name="course_overview"></a>
 
 ## Course Overview ##
 
