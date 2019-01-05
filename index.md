@@ -3,8 +3,6 @@ layout: default
 title: Pinyons &amp Pines
 ---
 
-<!-- <img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-fluid img-rounded" img style="margin-bottom: 10px" /> -->
-
 <img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
 
 Pinyons and Pines is an underground self-supported bikepacking race that starts and ends in [Flagstaff, AZ](https://en.wikipedia.org/wiki/Flagstaff,_Arizona) (6,910 feet). The route is a magnificent tour of Northern Arizona, utilizing a mixture of singletrack, double track, and dirt roads.  The course is roughly 280 miles and consists of two distinct loops.
@@ -17,7 +15,6 @@ the Peaks’ Inner Basin. The last part of the climb to the highest part of the 
 
 The **2019** edition of Pinyons and Pines will start on **Saturday, May 18** at 6AM at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com).
 
-
 <!-- Scraps
 
 The second loop also circumnavigates [Kendrick Peak](https://en.wikipedia.org/wiki/Kendrick_Peak) (10,425 feet), [O'Leary Peak](https://en.wikipedia.org/wiki/O%27Leary_Peak) (8,919 feet), and [Mount Elden](https://en.wikipedia.org/wiki/Mount_Elden) (https://en.wikipedia.org/wiki/Mount_Elden) (9,301 feet).
@@ -28,12 +25,10 @@ New to bikepacking? Pinyons and Pines would make an excellent first bikepacking 
 
 Pinyons and Pines consists of two loops, both starting and ending in Flagstaff.
 
-
-
 Todo
 - Course overview
 - Single vs duo
-- Navajo sacred peak
+- Water and resupply
 - Water and resupply options
 - Sign-up
 - Trackleaders
