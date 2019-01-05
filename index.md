@@ -38,7 +38,7 @@ Todo
 <br>
 
 <center>
-<iframe src="https://ridewithgps.com/embeds?type=route&id=29105484&sampleGraph=true" style="width: 1px; width: 90%; height: 500px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=route&id=29105484&sampleGraph=true" style="width: 1px; max-width: 90%; height: 500px; border: none;" scrolling="no"></iframe>
 </center>
 
 <br>
