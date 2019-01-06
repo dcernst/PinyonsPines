@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pinyons &amp Pines
+title: Pinyons and Pines
 ---
 
 <img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
