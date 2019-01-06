@@ -17,7 +17,7 @@ Pinyons and Pines is an underground self-supported bikepacking race that starts 
 <div class="col-xs-2"></div>
 </div>
 
-**Important!** This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time in comparison to others. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
+<i class="fa fa-exclamation-triangle fa-lg" aria-hidden="true"></i>&nbsp; This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time in comparison to others. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
 
 <!-- Scraps
 
