@@ -11,7 +11,7 @@ Pinyons and Pines is an underground self-supported bikepacking race that starts 
 <div class="col-xs-2"></div>
 <div class="col-xs-8">
 <div class="alert alert-info" role="alert">
-<i class="far fa-hand-peace"></i>&nbsp; The <b>2019</b> edition of Pinyons and Pines will start on <b>Saturday, May 1</b> at 6AM at <a href="http://flagbikerev.com" class="alert-link">Flagstaff Bicycle Revolution</a>.
+<i class="far fa-hand-peace"></i>&nbsp; The <a class="alert-link">2019</a> edition of Pinyons and Pines will start on <b>Saturday, May 1</b> at 6AM at <a href="http://flagbikerev.com" class="alert-link">Flagstaff Bicycle Revolution</a>.
 </div>
 </div>
 <div class="col-xs-2"></div>
