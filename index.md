@@ -28,6 +28,7 @@ The second loop also circumnavigates [Kendrick Peak](https://en.wikipedia.org/wi
 Todo
 - [ Arizona State Land Department Recreation Permit](https://land.az.gov/natural-resources/recreational-permits)
 - Single vs duo
+- Facebook group
 - Water and resupply
 - Sign-up
 - Trackleaders
