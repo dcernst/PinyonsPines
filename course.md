@@ -20,17 +20,17 @@ The final version of the GPX track will be posted on this page a few weeks befor
 
 Below are some notes concerning resupply options for food and water.
 
-- Mile 67.3: Shortly after merging onto Highway 89A, you'll have a few options for stocking up on food and water before leaving Sedona. There is a 76 gas station on the right side of Highway 89A at the second round about that has a modest supply of snacks. After turning south on Route 179, Arroyo Roble Marketplace is on the right side of the road. There is a Circle K on Route 179 about a quarter of a mile part the turn onto Schnebly Hill Road. If you want to grab a meal, there is a Burger King on the right side of 89A just before the second round about and Oregano's is a short distance south on Route 179. Both of these are on route. In addition, Starbucks, Chipotle, and Wildflower Bread Company are in a shopping plaza on a hill on 89A a bit north of the intersection with Route 179. There are also a few bike shops in Sedona.  Over the Edge and the Fat Tire Bike Shop are the closest shops to the route.
-- Mile 79.6: There is a water spigot at the ADOT yard just before crossing under Interstate 17. There is no guarantee that we'll have access to this spigot or that the spigot will be turned on, so do not assume that you can get water here.
-- Mile 93: In the event of an emergency, you can detour a few miles off route to Mormon Lake Lodge.
-- Mile 124.5: Just north of the turn on E. Franklin Ave, there is a shopping plaza with REI, Wildflower Bread Company, and Whole Foods.
-- Mile 125.2: As you pass through downtown Flagstaff, there are several restaurants. Depending on the time of day, consider stopping at Tourist Home Cafe (on route), Macy's Coffee House (2 blocks off route), Diablo Burger (1 block off route).
-- Mile 126: There is a Basha's grocery store at the top of N. Humphreys Stree, just a few blocks off route to the west.
-- Mile 173: There is a fairly consistent stock tank on the left side of the road. You'll definitely need to filter/treat the water.
-- Mile 189.6: Where the AZT merges in from the right, there is a public cache box hidden in the bushes. Do not take any water (or food) that is designated for an individual. The race organizer (Dana Ernst) will stock this cache before and after the race.
-- Mile 230.3: There is a drinking fountain and a vending machine at the Sunset Crater National Monument Visitor's Center, which is on the left side of the road.
-- Mile 237: Just as you enter Lockett Meadow, there is a small pond on the right. You'll need to filter/treat the water.
-- Mile 254.5: Shortly after passing through a tunnel under Route 89, you can access the Conoco Travel Center (open 24 hours) by turning right on double track. This is a very short distance off route.
+- **Mile 67.3:** Shortly after merging onto Highway 89A, you'll have a few options for stocking up on food and water before leaving Sedona. There is a 76 gas station on the right side of Highway 89A at the second round about that has a modest supply of snacks. After turning south on Route 179, Arroyo Roble Marketplace is on the right side of the road. There is a Circle K on Route 179 about a quarter of a mile part the turn onto Schnebly Hill Road. If you want to grab a meal, there is a Burger King on the right side of 89A just before the second round about and Oregano's is a short distance south on Route 179. Both of these are on route. In addition, Starbucks, Chipotle, and Wildflower Bread Company are in a shopping plaza on a hill on 89A a bit north of the intersection with Route 179. There are also a few bike shops in Sedona.  Over the Edge and the Fat Tire Bike Shop are the closest shops to the route.
+- **Mile 79.6:** There is a water spigot at the ADOT yard just before crossing under Interstate 17. There is no guarantee that we'll have access to this spigot or that the spigot will be turned on, so do not assume that you can get water here.
+- **Mile 93:** In the event of an emergency, you can detour a few miles off route to Mormon Lake Lodge.
+- **Mile 124.5:** Just north of the turn on E. Franklin Ave, there is a shopping plaza with REI, Wildflower Bread Company, and Whole Foods.
+- **Mile 125.2:** As you pass through downtown Flagstaff, there are several restaurants. Depending on the time of day, consider stopping at Tourist Home Cafe (on route), Macy's Coffee House (2 blocks off route), Diablo Burger (1 block off route).
+- **Mile 126:** There is a Basha's grocery store at the top of N. Humphreys Stree, just a few blocks off route to the west.
+- **Mile 173:** There is a fairly consistent stock tank on the left side of the road. You'll definitely need to filter/treat the water.
+- **Mile 189.6:** Where the AZT merges in from the right, there is a public cache box hidden in the bushes. Do not take any water (or food) that is designated for an individual. The race organizer (Dana Ernst) will stock this cache before and after the race.
+- **Mile 230.3:** There is a drinking fountain and a vending machine at the Sunset Crater National Monument Visitor's Center, which is on the left side of the road.
+- **Mile 237:** Just as you enter Lockett Meadow, there is a small pond on the right. You'll need to filter/treat the water.
+- **Mile 254.5:** Shortly after passing through a tunnel under Route 89, you can access the Conoco Travel Center (open 24 hours) by turning right on double track. This is a very short distance off route.
 
 <br>
 
