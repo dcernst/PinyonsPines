@@ -32,10 +32,10 @@ The race organizer is [Dana Ernst](http://danaernst.com). Please [contact him](m
 
 Todo
 - Facebook group
-- Water and resupply
 - Sign-up
 - Trackleaders
 - Camping, where to leave car
+
 -->
 
 <br>
