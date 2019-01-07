@@ -10,13 +10,14 @@ Pinyons and Pines is an underground self-supported bikepacking race that starts 
 The race organizer is [Dana Ernst](http://danaernst.com). Please [contact him](mailto:ernst.tribe@gmail.com) with any questions or concerns.
 
 <div class="row">
-<div class="col-xs-2"></div>
-<div class="col-xs-8">
+<div class="col-md-2 col-lg-2">
+</div>
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 <div class="alert alert-info" role="alert">
 <i class="fas fa-bicycle fa-lg"></i>&nbsp; The <strong>2019</strong> edition of Pinyons and Pines will start on <strong>Saturday, May 1</strong> at 6AM at <strong>Flagstaff Bicycle Revolution</strong>.
 </div>
 </div>
-<div class="col-xs-2"></div>
+<div class="col-md-2 col-lg-2"></div>
 </div>
 
 <strong>Important!</strong> This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time in comparison to others. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.

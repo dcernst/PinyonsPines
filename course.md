@@ -6,7 +6,7 @@ layout: default
 
 <img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
 
-# Course Description
+## Course Description
 
 The course is roughly 280 miles and consists of two distinct loops. The total elevation gain for the route is about 21,000 feet, split evenly between the two loops. The start and finish is at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com).
 
@@ -16,7 +16,7 @@ The second loop (155 miles) winds its way through Ponderosa pine forests and gra
 
 The final version of the GPX track will be posted on this page a few weeks before the start of the race.
 
-## Water and Resupply Notes ##
+## Resupply Notes
 
 Coming soon.
 
