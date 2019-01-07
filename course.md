@@ -26,7 +26,11 @@ Below are some notes concerning resupply options for food and water.
 - Mile 124.5: Just north of the turn on E. Franklin Ave, there is a shopping plaza with REI, Wildflower Bread Company, and Whole Foods.
 - Mile 125.2: As you pass through downtown Flagstaff, there are several restaurants. Depending on the time of day, consider stopping at Tourist Home Cafe (on route), Macy's Coffee House (2 blocks off route), Diablo Burger (1 block off route).
 - Mile 126: There is a Basha's grocery store at the top of N. Humphreys Stree, just a few blocks off route to the west.
-- 
+- Mile 173: There is a fairly consistent stock tank on the left side of the road. You'll definitely need to filter/treat the water.
+- Mile 189.6: Where the AZT merges in from the right, there is a public cache box hidden in the bushes. Do not take any water (or food) that is designated for an individual. The race organizer (Dana Ernst) will stock this cache before and after the race.
+- Mile 230.3: There is a drinking fountain and a vending machine at the Sunset Crater National Monument Visitor's Center, which is on the left side of the road.
+- Mile 237: Just as you enter Lockett Meadow, there is a small pond on the right. You'll need to filter/treat the water.
+- Mile 254.5: Shortly after passing through a tunnel under Route 89, you can access the Conoco Travel Center (open 24 hours) by turning right on double track. This is a very short distance off route.
 
 <br>
 
