@@ -31,8 +31,7 @@ The race organizer is [Dana Ernst](http://danaernst.com). Please [contact him](m
 <!-- Scraps
 
 Todo
-- Facebook group
-- Sign-up
+- add Facebook group
 - Trackleaders
 - Camping, where to leave car
 
