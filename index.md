@@ -14,7 +14,7 @@ The race organizer is [Dana Ernst](http://danaernst.com). Please [contact him](m
 </div>
 <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 <div class="alert alert-info" role="alert">
-<i class="fas fa-bicycle fa-lg"></i>&nbsp; The <strong>2019</strong> edition of Pinyons and Pines will start on <strong>Saturday, May 1</strong> at 6AM at <strong>Flagstaff Bicycle Revolution</strong>.
+<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2019 edition of Pinyons and Pines will start on <strong>Saturday, May 18</strong> at 6AM at Flagstaff Bicycle Revolution.
 </div>
 </div>
 <div class="col-md-2 col-lg-2"></div>
