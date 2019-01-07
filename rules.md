@@ -17,9 +17,9 @@ The rules for this event follow the same principles as similar bikepacking races
 - Complete the entire route, under your own power.
 - Follow the GPX track as best you can. Small deviations and side trips are fine. Intentionally skipping part of the route is a not okay.
 - If you must deviate substantially from the route for any reason (e.g., medical, mechanical) but wish to continue in the race, then you must return to the point of the course where you deviated.
-- If you are racing as an individual, you should carry your own gear, food, water, etc.
-- If you are racing as part of a 2-person team, you and your partner may share resources.
-- If you are racing as part of a 2-person team, you and your partner should stay together for the duration of the race.
+- If you are racing in the solo category, you should carry your own gear, food, water, etc.
+- If you are racing in the duo category, you and your partner may share resources.
+- If you are racing in the duo category, you and your partner should stay together for the duration of the race.
 - You may ride with other people, but drafting is not allowed.
 - Unplanned support from other racers is allowed.
 - Support crews and pacers are not allowed.

@@ -12,7 +12,7 @@ layout: default
 
 Coming soon.
 
-#### Individual
+#### Solo
 
 <center>
 <table class="table table-striped">
@@ -31,13 +31,13 @@ Coming soon.
 </table>
 </center>
 
-#### Two-Person Teams
+#### Duo
 
 <center>
 <table class="table table-striped">
 	<thead>
 	<tr>
-		<th>Team</th>
+		<th>Team Names</th>
 		<th>Elapsed Time</th>
 	</tr>
 	</thead>
