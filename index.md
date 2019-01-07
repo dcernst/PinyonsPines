@@ -18,7 +18,7 @@ The race organizer is [Dana Ernst](http://danaernst.com). Please [contact him](m
 
 <hr>
 <center>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSf0Hpx2bJai-bseT1WJOTMZnYV5TtgrC0d0hLpGAltCE9qyjQ/viewform?usp=sf_link" class="alert-link" target="_blank">Sign up here!</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf0Hpx2bJai-bseT1WJOTMZnYV5TtgrC0d0hLpGAltCE9qyjQ/viewform?usp=sf_link" class="alert-link" target="_blank">Register here!</a>
 </center>
 
 </div>
