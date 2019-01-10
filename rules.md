@@ -30,3 +30,5 @@ The rules for this event follow the same principles as similar bikepacking races
 - Follow all traffic laws. You must use lights when riding at night on any public roads.
 - Unless you can actually see another rider coming behind you, always close a gate you open.
 - At roughly mile 190, you will pass by a public water cache for the Arizona Trail. Do not take any water (or food) that is designated for an individual. The race organizer (Dana Ernst) will stock this cache before and after the race.
+
+The event will utilize [Trackleaders](http://trackleaders.com), providing a live map, elevation profile and other stats that can be used to follow along. Carrying a personal tracker (e.g., [SPOT](https://www.findmespot.com/en/), [Garmin InReach](https://explore.garmin.com/en-US/inreach/)) and being tracked by trackleaders is not mandatory but encouraged. Owners of personal trackers can expect to pay about $20 to add their own device to Trackleaders. SPOT rentals (approximately $60 for a SPOT Gen3 with 5min tracking service and SOS) will also be available. Tracking signup link will be available about a month before race start.
