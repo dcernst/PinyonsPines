@@ -4,7 +4,7 @@ author: Dana Ernst
 layout: default
 ---
 
-<img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
+<img src="{{ site.baseurl }}/images/Aspens-Refsnider.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
 
 ## Results
 
