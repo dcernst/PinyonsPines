@@ -31,11 +31,8 @@ The race organizer is [Dana Ernst](http://danaernst.com). Please [contact him](m
 The event will utilize [Trackleaders](http://trackleaders.com), providing a live map, elevation profile and other stats that can be used to follow along. Carrying a personal tracker (e.g., [SPOT](https://www.findmespot.com/en/), [Garmin InReach](https://explore.garmin.com/en-US/inreach/)) and being tracked by trackleaders is not mandatory but encouraged. Owners of personal trackers can expect to pay about $20 to add their own device to Trackleaders. SPOT rentals (approximately $60 for a SPOT Gen3 with 5min tracking service and SOS) will also be available. Tracking signup link will be available about a month before race start.
 
 <!-- Scraps
-
 Todo
-- add Facebook group
 - Camping, where to leave car
-
 -->
 
 <br>

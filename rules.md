@@ -4,7 +4,9 @@ author: Dana Ernst
 layout: default
 ---
 
-<img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
+<img src="{{ site.baseurl }}/images/Aspens-Refsnider.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
+
+<i class="fas fa-camera fa-lg"></i>&nbsp; Photo by <a href="https://www.ultramtb.net/about-kurt-refsnider.html#/" target="_blank">Kurt Refsnider</a>
 
 ## Rules
 
