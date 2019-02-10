@@ -17,7 +17,7 @@ The rules for this event follow the same principles as similar bikepacking races
 - You must purchase an [Arizona State Land Department Recreation Permit](https://land.az.gov/natural-resources/recreational-permits) as the northern part of the second loop passes across state trust land.  Permits can be purchases online. An annual permit is $15.
 - Be overly courteous to all trail users. Just because you are racing does not mean you have right of way! Yield to hikers, equestrians, and uphill bikers.
 - Complete the entire route, under your own power.
-- Follow the GPX track as best you can. Small deviations and side trips are fine. Intentionally skipping part of the route is a not okay.
+- Follow the GPX track as best you can. Small deviations and side trips are fine. Intentionally skipping part of the route is not okay.
 - If you must deviate substantially from the route for any reason (e.g., medical, mechanical) but wish to continue in the race, then you must return to the point of the course where you deviated.
 - If you are racing in the solo category, you should carry your own gear, food, water, etc.
 - If you are racing in the duo category, you and your partner may share resources.
