@@ -33,4 +33,26 @@ The rules for this event follow the same principles as similar bikepacking races
 - Unless you can actually see another rider coming behind you, always close a gate you open.
 - At roughly mile 190, you will pass by a public water cache for the Arizona Trail. Do not take any water (or food) that is designated for an individual. The race organizer (Dana Ernst) will stock this cache before and after the race.
 
-The event will utilize [Trackleaders](http://trackleaders.com), providing a live map, elevation profile and other stats that can be used to follow along. Carrying a personal tracker (e.g., [SPOT](https://www.findmespot.com/en/), [Garmin InReach](https://explore.garmin.com/en-US/inreach/)) and being tracked by trackleaders is not mandatory but encouraged. Owners of personal trackers can expect to pay about $20 to add their own device to Trackleaders. SPOT rentals (approximately $60 for a SPOT Gen3 with 5min tracking service and SOS) will also be available. Tracking signup link will be available about a month before race start.
+The event will utilize [Trackleaders](http://trackleaders.com), providing a live map, elevation profile and other stats that can be used to follow along. Carrying a personal tracker (e.g., [SPOT](https://www.findmespot.com/en/), [Garmin InReach](https://explore.garmin.com/en-US/inreach/)) and being tracked by trackleaders is not mandatory but encouraged. Owners of personal trackers can expect to pay $15 to add their own device to Trackleaders. SPOT rentals (approximately $60 for a SPOT Gen3 with 5min tracking service and SOS) will also be available. Tracking signup link will be available about a month before race start.
+
+<div class="row">
+<div class="col-md-2 col-lg-2">
+</div>
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+<div class="alert alert-info" role="alert">
+<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2019 edition of Pinyons and Pines will start on <strong>Saturday, May 18</strong> at 6AM at Flagstaff Bicycle Revolution.
+
+<hr>
+<center>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf0Hpx2bJai-bseT1WJOTMZnYV5TtgrC0d0hLpGAltCE9qyjQ/viewform?usp=sf_link" class="alert-link" target="_blank">Register here!</a>
+</center>
+
+<hr>
+<center>
+<a href="https://form.jotform.com/trackleaders/pinyonspines19" class="alert-link" target="_blank">Trackleaders sign-up and SPOT rental</a>
+</center>
+
+</div>
+</div>
+<div class="col-md-2 col-lg-2"></div>
+</div>

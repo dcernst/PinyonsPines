@@ -21,6 +21,11 @@ The race organizer is [Dana Ernst](http://danaernst.com). Please [contact him](m
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSf0Hpx2bJai-bseT1WJOTMZnYV5TtgrC0d0hLpGAltCE9qyjQ/viewform?usp=sf_link" class="alert-link" target="_blank">Register here!</a>
 </center>
 
+<hr>
+<center>
+<a href="https://form.jotform.com/trackleaders/pinyonspines19" class="alert-link" target="_blank">Trackleaders sign-up and SPOT rental</a>
+</center>
+
 </div>
 </div>
 <div class="col-md-2 col-lg-2"></div>
@@ -28,12 +33,7 @@ The race organizer is [Dana Ernst](http://danaernst.com). Please [contact him](m
 
 <strong>Important!</strong> This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time in comparison to others. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
 
-The event will utilize [Trackleaders](http://trackleaders.com), providing a live map, elevation profile and other stats that can be used to follow along. Carrying a personal tracker (e.g., [SPOT](https://www.findmespot.com/en/), [Garmin InReach](https://explore.garmin.com/en-US/inreach/)) and being tracked by trackleaders is not mandatory but encouraged. Owners of personal trackers can expect to pay about $20 to add their own device to Trackleaders. SPOT rentals (approximately $60 for a SPOT Gen3 with 5min tracking service and SOS) will also be available. Tracking signup link will be available about a month before race start.
-
-<!-- Scraps
-Todo
-- Camping, where to leave car
--->
+The event will utilize [Trackleaders](http://trackleaders.com), providing a live map, elevation profile and other stats that can be used to follow along. Carrying a personal tracker (e.g., [SPOT](https://www.findmespot.com/en/), [Garmin InReach](https://explore.garmin.com/en-US/inreach/)) and being tracked by trackleaders is not mandatory but encouraged. Owners of personal trackers can expect to pay $15 to add their own device to Trackleaders. SPOT rentals (approximately $60 for a SPOT Gen3 with 5min tracking service and SOS) will also be available. Tracking signup link will be available about a month before race start.
 
 <br>
 
