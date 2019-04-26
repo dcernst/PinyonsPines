@@ -10,7 +10,9 @@ layout: default
 
 ## Course Description
 
+<div class="alert alert-info" role="alert">
 <strong>Important!</strong> Due to logging operations in Flagstaff, the originally proposed route will need to be modified in a few spots.  The finalized route and GPX file will be posted here and emailed to all registered riders by Wednesday, May 1.  The route description provided below will be updated to reflect all changes.
+</div>
 
 The course is roughly 280 miles and consists of two distinct loops. The total elevation gain for the route is about 21,000 feet, split evenly between the two loops. The start and finish is at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com).
 
