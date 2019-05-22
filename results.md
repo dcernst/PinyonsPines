@@ -21,8 +21,8 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 <thead>
 <tr>
 	<th>Name</th>
-	<th>Elapsed Time for Southern Loop</th>
-  <th>Elapsed Time for Full Course</th>
+	<th>Southern Loop</th>
+  <th>Full Course</th>
   <th>Notes</th>
 </tr>
 </thead>
@@ -55,7 +55,7 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 </tr>
 
 <tr>
-<td>Micah Clinger (Flagstaff, AZ)</td> <td>0:13:52</td>	<td></td>	<td>Dropped out somewhere near Kendrick Mountain, slept at home after southern loop</td>
+<td>Micah Clinger (Flagstaff, AZ)</td> <td>0:13:52</td>	<td></td>	<td>Dropped out somewhere near Kendrick Mountain, slept at home</td>
 </tr>
 
 <tr>
