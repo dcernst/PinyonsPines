@@ -98,15 +98,15 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 </tr>
 
 <tr>
+<td>Bill Akens (Flagstaff, AZ)</td> <td>1:03:26</td>	<td></td>	<td>Dropped out at mile 141</td>
+</tr>
+
+<tr>
 <td>Matthew Pacheco (Flagstaff, AZ)</td> <td>1:03:26</td>	<td></td>	<td>Only southern loop</td>
 </tr>
 
 <tr>
 <td>Jeff Taylor (Bend, OR)</td> <td>1:04:42</td>	<td></td>	<td>Only southern loop</td>
-</tr>
-
-<tr>
-<td>Bill Akens (Flagstaff, AZ)</td> <td>1:04:52</td>	<td></td>	<td>Dropped out at mile 141</td>
 </tr>
 
 <tr>
