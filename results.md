@@ -14,24 +14,22 @@ layout: default
 
 The weather got the better of us on day two. Rain, snow, and intense wind shut down most of the riders. We only had two riders finish the entire route.
 
-#### Solo
+#### Solo Grand Depart
 
 <center>
 <table class="table table-striped">
 <thead>
 <tr>
-	<th>Name</th>
-	<th>Southern Loop</th>
-  <th>Full Course</th>
-  <th>Notes</th>
+<th>Name</th>
+<th>Southern Loop</th>
+<th>Full Course</th>
+<th>Notes</th>
 </tr>
 </thead>
 <tbody>
+
 <tr>
-<td>Ben Hanus (Buena Vista, CO)</td>
-<td>0:16:54</td>
-<td>1:17:20</td>
-<td>First place</td>
+<td>Ben Hanus (Buena Vista, CO)</td> <td>0:16:54</td> <td>1:17:20</td> <td>First place</td>
 </tr>
 
 <tr>
@@ -91,46 +89,135 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 </tr>
 
 <tr>
-<td></td> <td></td>	<td></td>	<td></td>
+<td>Dylan Turner (Tucson, AZ)</td> <td>1:03:15</td>	<td></td>	<td>Dropped out at mile 137</td>
 </tr>
 
+<tr>
+<td>Lindsay Shepard (Albuquerque, NM)</td> <td>1:03:16</td>	<td></td>	<td>Dropped out at mile 184</td>
+</tr>
 
-<!--
-Dylan Turner			Tucson, AZ	1:03:15		Dropped out at mile 137
-Lindsay Shepard			Albuquerque, NM	1:03:16		Dropped out at mile 184
-Matthew Pacheco			Flagstaff, AZ	1:03:26		Only southern loop
-Jeff Taylor			Bend, OR	1:04:42		Only southern loop
-Bill Akens			Flagstaff, AZ	1:04:52		Dropped out at mile 141
-Brian Martin			Salt Lake City, UT	1:05:23		Dropped out at mile 130
-Jake Keyser			Fort Collins, CO	1:05:36		Dropped out at mile 137
-Spencer Holmes			Chico, CA	1:08:46		Only southern loop
-Adam Lisonbee			Highland, UT			Dropped out at mile 110
-Mike Enfield			Show Low, AZ			Dropped out at mile 80 with injured hand
-Nick Armstrong			Felton			Dropped out at mile 67 with kidney issues
-Wayne Mosser			Ramona, CA			Dropped out at mile 67
-Patrick Lyons			Cortez, CO			Dropped out at mile 67
-John Schilling			Queen Creek, AZ			Rode part of second loop
-Liz Sampey			Van Life			Joined in for Grand Depart and rode to Sedona
-Robin Schwartz			Flagstaff, AZ			Joined in for Grand Depart and ode out to top of Casner Mountain and then back to Flagstaff -->
-	</tbody>
+<tr>
+<td>Matthew Pacheco (Flagstaff, AZ)</td> <td>1:03:26</td>	<td></td>	<td>Only southern loop</td>
+</tr>
+
+<tr>
+<td>Jeff Taylor (Bend, OR)</td> <td>1:04:42</td>	<td></td>	<td>Only southern loop</td>
+</tr>
+
+<tr>
+<td>Bill Akens (Flagstaff, AZ)</td> <td>1:04:52</td>	<td></td>	<td>Dropped out at mile 141</td>
+</tr>
+
+<tr>
+<td>Brian Martin (Salt Lake City, UT)</td> <td>1:05:23</td>	<td></td>	<td>Dropped out at mile 130</td>
+</tr>
+
+<tr>
+<td>Jake Keyser (Fort Collins, CO)</td> <td>1:05:36</td>	<td></td>	<td>Dropped out at mile 137</td>
+</tr>
+
+<tr>
+<td>Spencer Holmes (Chico, CA)</td> <td>1:08:46</td>	<td></td>	<td>Only southern loop</td>
+</tr>
+
+<tr>
+<td>Adam Lisonbee (Highland, UT)</td> <td></td>	<td></td>	<td>Dropped out at mile 110</td>
+</tr>
+
+<tr>
+<td>Mike Enfield (Show Low, AZ)</td> <td></td>	<td></td>	<td>Dropped out at mile 80 with injured hand</td>
+</tr>
+
+<tr>
+<td>Nick Armstrong (Felton, CA)</td> <td></td>	<td></td>	<td>Dropped out at mile 67 with kidney issues</td>
+</tr>
+
+<tr>
+<td>Wayne Mosser (Ramona, CA)</td> <td></td>	<td></td>	<td>Dropped out at mile 67</td>
+</tr>
+
+<tr>
+<td>Patrick Lyons (Cortez, CO)</td> <td></td>	<td></td>	<td>Dropped out at mile 67</td>
+</tr>
+
+<tr>
+<td>John Schilling (Queen Creek, AZ)</td> <td></td>	<td></td>	<td>Rode part of second loop before crashing</td>
+</tr>
+
+<tr>
+<td>Liz Sampey (Van Life)</td> <td></td>	<td></td>	<td>Joined in for Grand Depart and rode to Sedona</td>
+</tr>
+
+<tr>
+<td>Robin Schwartz (Flagstaff, AZ)</td> <td></td>	<td></td>	<td>Joined in for Grand Depart and rode out to top of Casner Mountain and back</td>
+</tr>
+
+</tbody>
 </table>
 </center>
 
-#### Duo
+#### Duo Grand Depart
 
 <center>
 <table class="table table-striped">
-	<thead>
-	<tr>
-		<th>Team Names</th>
-		<th>Elapsed Time</th>
-	</tr>
-	</thead>
-	<tbody>
-	<tr>
-		<td>Posted after race.</td>
-		<td></td>
-	</tr>
-	</tbody>
+<thead>
+<tr>
+<th>Team Names</th>
+<th>Southern Loop</th>
+<th>Full Course</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td></td> <td></td>	<td></td>	<td></td>
+</tr>
+
+</tbody>
+</table>
+</center>
+
+#### Solo ITT
+
+<center>
+<table class="table table-striped">
+<thead>
+<tr>
+<th>Name</th>
+<th>Southern Loop</th>
+<th>Full Course</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td></td> <td></td>	<td></td>	<td></td>
+</tr>
+
+</tbody>
+</table>
+</center>
+
+#### Duo ITT
+
+<center>
+<table class="table table-striped">
+<thead>
+<tr>
+<th>Team Names</th>
+<th>Southern Loop</th>
+<th>Full Course</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td></td> <td></td>	<td></td>	<td></td>
+</tr>
+
+</tbody>
 </table>
 </center>
