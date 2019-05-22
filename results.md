@@ -21,7 +21,6 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 <thead>
 <tr>
 	<th>Name</th>
-  <th>Hometown</th>
 	<th>Elapsed Time for Southern Loop</th>
   <th>Elapsed Time for Full Course</th>
   <th>Notes</th>
@@ -29,26 +28,74 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 </thead>
 <tbody>
 <tr>
-<td>Ben Hanus</td>
-<td>Buena Vista, CO</td>
+<td>Ben Hanus (Buena Vista, CO)</td>
 <td>0:16:54</td>
 <td>1:17:20</td>
 <td>First place</td>
 </tr>
-<!-- Chris Seistrup 			Prescott, AZ	0:16:49	1:20:10	Second place
-Chris Cone			Flagstaff, AZ	0:12:53		Dropped out at mile 232, fastest time for southern loop
-Dana Ernst			Flagstaff, AZ	0:12:59		Dropped out at mile 255
-Ty Hopkins			American Fork, UT	0:12:59		Only southern loop
-Luke Ratliff			Fort Collins, CO	0:13:52		Only southern loop
-Micah Clinger			Flagstaff, AZ	0:13:52		Dropped out somewhere near Kendrick Mountain, slept at home after southern loop
-Mack Gerrit			Corona, CA	0:14:50		Only southern loop
-Dave Harris			St George, UT	0:15:02		Only southern loop
-Artec Durham			Flagstaff, AZ	0:16:55		Dropped out at mile 151
-Andy Havey			Plymouth, NH	0:17:15		Only southern loop
-Billy McMillen			Prescott, AZ	0:20:39		Only southern loop
-Brad Mattingly			Flagstaff, AZ	1:02:51		Dropped out at mile 141
-Russ Cummings 			Prescott, AZ	1:02:51		Dropped out at mile 153
-Chris Kuzdas 			Flagstaff, AZ 	1:03:01		Dropped out at mile 153
+
+<tr>
+<td>Chris Seistrup (Prescott, AZ)</td>	<td>0:16:49</td>	<td>1:20:10</td>	<td>Second place</td>
+</tr>
+
+<tr>
+<td>Chris Cone (Flagstaff, AZ)</td>	<td>0:12:53</td>	<td></td>	<td>Dropped out at mile 232, fastest time for southern loop</td>
+</tr>
+
+<tr>
+<td>Dana Ernst (Flagstaff, AZ)</td>	<td>0:12:59</td>	<td></td>	<td>Dropped out at mile 255</td>
+</tr>
+
+<tr>
+<td>Ty Hopkins (American Fork, UT)</td> <td>0:12:59</td>	<td></td>	<td>Only southern loop</td>
+</tr>
+
+<tr>
+<td>Luke Ratliff (Fort Collins, CO)</td> <td>0:13:52</td>	<td></td>	<td>Only southern loop</td>
+</tr>
+
+<tr>
+<td>Micah Clinger (Flagstaff, AZ)</td> <td>0:13:52</td>	<td></td>	<td>Dropped out somewhere near Kendrick Mountain, slept at home after southern loop</td>
+</tr>
+
+<tr>
+<td>Mack Gerrit (Corona, CA)</td> <td>0:14:50</td>	<td></td>	<td>Only southern loop</td>
+</tr>
+
+<tr>
+<td>Dave Harris (St George, UT)</td> <td>0:15:02</td>	<td></td>	<td>Only southern loop</td>
+</tr>
+
+<tr>
+<td>Artec Durham (Flagstaff, AZ)</td> <td>0:16:55</td>	<td></td>	<td>Dropped out at mile 151</td>
+</tr>
+
+<tr>
+<td>Andy Havey (Plymouth, NH)</td> <td>0:17:15</td>	<td></td>	<td>Only southern loop</td>
+</tr>
+
+<tr>
+<td>Billy McMillen (Prescott, AZ)</td> <td>0:20:39</td>	<td></td>	<td>Only southern loop</td>
+</tr>
+
+<tr>
+<td>Brad Mattingly (Flagstaff, AZ)</td> <td>1:02:51</td>	<td></td>	<td>Dropped out at mile 141</td>
+</tr>
+
+<tr>
+<td>Russ Cummings (Prescott, AZ)</td> <td>1:02:51</td>	<td></td>	<td>Dropped out at mile 153</td>
+</tr>
+
+<tr>
+<td>Chris Kuzdas (Flagstaff, AZ)</td> <td>1:03:01</td>	<td></td>	<td>Dropped out at mile 153</td>
+</tr>
+
+<tr>
+<td></td> <td></td>	<td></td>	<td></td>
+</tr>
+
+
+<!--
 Dylan Turner			Tucson, AZ	1:03:15		Dropped out at mile 137
 Lindsay Shepard			Albuquerque, NM	1:03:16		Dropped out at mile 184
 Matthew Pacheco			Flagstaff, AZ	1:03:26		Only southern loop
