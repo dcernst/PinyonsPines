@@ -18,19 +18,16 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 
 <center>
 <table class="table table-striped">
-	<thead>
-	<tr>
-		<th>Name</th>
-    <th>Hometown</th>
-		<th>Elapsed Time for Southern Loop</th>
-    <th>Elapsed Time for Full Course</th>
-    <th>Notes</th>
-	</tr>
-	</thead>
-	<tbody>
-	<tr>
-		<td></td>
-		<td></td>
+<thead>
+<tr>
+	<th>Name</th>
+  <th>Hometown</th>
+	<th>Elapsed Time for Southern Loop</th>
+  <th>Elapsed Time for Full Course</th>
+  <th>Notes</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td>Ben Hanus</td>
 <td>Buena Vista, CO</td>
