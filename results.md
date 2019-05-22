@@ -17,6 +17,7 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 #### Solo Grand Depart
 
 <center>
+<div class="table-responsive">
 <table class="table table-striped">
 <thead>
 <tr>
@@ -154,11 +155,13 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 
 </tbody>
 </table>
+</div>
 </center>
 
 #### Duo Grand Depart
 
 <center>
+<div class="table-responsive">
 <table class="table table-striped">
 <thead>
 <tr>
@@ -188,11 +191,13 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 
 </tbody>
 </table>
+</div>
 </center>
 
 #### Solo ITT
 
 <center>
+<div class="table-responsive">
 <table class="table table-striped">
 <thead>
 <tr>
@@ -214,11 +219,13 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 
 </tbody>
 </table>
+</div>
 </center>
 
 #### Duo ITT
 
 <center>
+<div class="table-responsive">
 <table class="table table-striped">
 <thead>
 <tr>
@@ -231,7 +238,7 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 <tbody>
 
 <tr>
-<td>Jeff Hemperley (Prescott, AZ), Holly Hovious (Phoenix, A)</td> <td>1:05:35</td>	<td></td>	<td>Only southern loop</td>
+<td>Jeff Hemperley (Prescott, AZ), Holly Hovious (Glendale, AZ)</td> <td>1:05:35</td>	<td></td>	<td>Only southern loop</td>
 </tr>
 
 <tr>
@@ -244,4 +251,5 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 
 </tbody>
 </table>
+</div>
 </center>
