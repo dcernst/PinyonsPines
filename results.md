@@ -141,7 +141,7 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 </tr>
 
 <tr>
-<td>John Schilling (Queen Creek, AZ)</td> <td></td>	<td></td>	<td>Rode part of second loop before crashing</td>
+<td>John Schilling (Queen Creek, AZ)</td> <td></td>	<td></td>	<td>Rode part of northern loop before crashing out</td>
 </tr>
 
 <tr>
@@ -171,7 +171,19 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 <tbody>
 
 <tr>
-<td></td> <td></td>	<td></td>	<td></td>
+<td>Rich Wolf (Julian, CA), Sharon Sell (Boise, ID)</td> <td>1:10:09</td>	<td></td>	<td>Only southern loop</td>
+</tr>
+
+<tr>
+<td>Oliver Sieghart (Westlake Village, CA), Eric Brown (Westlake Village, CA)</td> <td>1:09:19</td>	<td></td>	<td>Only southern loop with some deviations</td>
+</tr>
+
+<tr>
+<td>Scott Chenue (Castro Valley, CA), Jeffrey Leenhouts (Castro Valley, CA)</td> <td></td>	<td></td>	<td>Dropped out at mile 67</td>
+</tr>
+
+<tr>
+<td>Jason Hanson (Florence, AZ), Jennifer Hanson (Florence, AZ)</td> <td></td>	<td></td>	<td>Rode part of northern loop</td>
 </tr>
 
 </tbody>
@@ -193,7 +205,11 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 <tbody>
 
 <tr>
-<td></td> <td></td>	<td></td>	<td></td>
+<td>Ceasar Medina (Reno, NV)</td> <td>1:13:14</td>	<td></td>	<td>Only southern loop</td>
+</tr>
+
+<tr>
+<td>Jim Geray (Decatur, TX)</td> <td></td>	<td></td>	<td>Dropped out</td>
 </tr>
 
 </tbody>
@@ -215,7 +231,15 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 <tbody>
 
 <tr>
-<td></td> <td></td>	<td></td>	<td></td>
+<td>Jeff Hemperley (Prescott, AZ), Holly Hovious (Phoenix, A)</td> <td>1:05:35</td>	<td></td>	<td>Only southern loop</td>
+</tr>
+
+<tr>
+<td>Curtis Barrett (Mesa, AZ), Cameron Barrett (Mesa, AZ)</td> <td></td>	<td></td>	<td>Starting May 23</td>
+</tr>
+
+<tr>
+<td>Amanda Good (Leadville, CO), Katie Anderson (Leadville, CO)</td> <td></td>	<td></td>	<td>Starting in June</td>
 </tr>
 
 </tbody>
