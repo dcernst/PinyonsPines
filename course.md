@@ -11,7 +11,7 @@ layout: default
 ## Course Description
 
 <div class="alert alert-info" role="alert">
-<strong>Important!</strong> Due to logging operations in Flagstaff, the originally proposed route has been modified.  The final version of the route is described below. The final GPX file has been emailed to registered participants.
+<strong>Important!</strong> Due to logging operations in Flagstaff, the originally proposed route has been modified.  The final version of the route for 2019 is described below. The final GPX file has been emailed to registered participants.
 </div>
 
 The course is roughly 280 miles and consists of two distinct loops. The total elevation gain for the route is about 21,000 feet, split evenly between the two loops. The start and finish is at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com).
@@ -23,6 +23,7 @@ The second loop (155 miles) winds its way through Ponderosa pine forests and gra
 Below are some important notes, including information concerning resupply options for food and water.
 
 - **Important:** It's a long way from the start to the first reliable water.  Moreover, it's likely to be hot after dropping down off the rim into Sedona.  Be sure to start with enough water!
+- **Mile 37:** Be careful descending Casner Mountain Trail! This is the most serious part of the route.
 - **Mile 61.2:** You will turn left off of Dry Creek Road onto the Chimney Rock Connector Trail.  You will need to hop a white fence to continue on the route.  If you'd prefer not to lift your bike over the fence, you can continue south on Dry Creek Road and navigate your way through the neighborhood and eventually regain the route at the Thunder Mountain Trailhead.
 - **Mile 67.3:** Shortly after merging onto Highway 89A, you'll have a few options for stocking up on food and water before leaving Sedona. There is a 76 gas station on the right side of Highway 89A at the second round about that has a modest supply of snacks. After turning south on Route 179, Arroyo Roble Marketplace is on the right side of the road. There is a Circle K on Route 179 about a quarter of a mile past the turn onto Schnebly Hill Road. If you want to grab a meal, there is a Burger King on the right side of 89A just before the second round about and Oregano's is a short distance south on Route 179. Both of these are on route. In addition, Starbucks, Chipotle, and Wildflower Bread Company are in a shopping plaza on a hill on 89A a bit north of the intersection with Route 179. There are also a few bike shops in Sedona.  [Over the Edge](https://otesports.com/locations/sedona/) and the [Fat Tire Bike Shop](https://www.facebook.com/pages/The-Fat-Tire-Bike-Shop/188731981168703) are the closest shops to the route.
 - **Mile 79.6:** There is a water spigot at the ADOT yard just before crossing under Interstate 17. The spigot is located near a ramada in a grassy area by some houses. If for some reason this spigot is turned off, you might consider riding north on the interstate to the town of Munds Park, where you'll have access to food and water.
@@ -33,10 +34,13 @@ Below are some important notes, including information concerning resupply option
 - **Mile 125.5:** As you pass through downtown Flagstaff, there are several restaurants. Depending on the time of day, consider stopping at Tourist Home Cafe (on route), Macy's Coffee House (2 blocks off route), Diablo Burger (1 block off route).
 - **Mile 129.7:** Just north of the turn on Schutlz Pass Road, there is a Shell gas station on the right side of Highway 180.
 - **Mile 141.2:** Alfa Fia Tank is a short distance to the west. You'll need to filter/treat the water.
-- **Mile 173.3:** There is a fairly consistent stock tank on the left side of the road. You'll definitely need to filter/treat the water.
+- **Mile 173.3:** Tiptop Tank is a fairly consistent stock tank on the left side of the road. You'll definitely need to filter/treat the water.
 - **Mile 190:** Where the AZT merges in from the right, there is a public cache box hidden in the bushes. Do not take any water (or food) that is designated for an individual. The race organizer (Dana Ernst) will stock this cache before and after the race.
 - **Mile 230.6:** There is a drinking fountain and a vending machine at the Sunset Crater National Monument Visitor's Center, which is on the left side of the road.
 - **Mile 237.2:** Just as you enter Lockett Meadow, there is a small pond on the right. You'll need to filter/treat the water.
+- **Mile 250.5:** The GPX track entering the horse camp after descending the pipeline after Waterline Road is stupid for about a quarter mile. Not It’s best to just stay on Deer Hill Trail into parking lot of horse camp. This needs to be fixed.
+- **Mile 251:** About a mile of the AZT has been rerouted and disagrees withe the GPX track. Moral of the story, just follow the trail. This needs to be fixed.
+- **Miles 238.5-247.5:** There may be downed trees on Waterline Road. Most of them are easy to lift your bike over, but some of them are a bit annoying.
 - **Mile 255.1:** Shortly after passing through a tunnel under Route 89, you can access the Conoco Travel Center (open 24 hours) by turning right on double track. This is a very short distance off route.
 
 <br>
