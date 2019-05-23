@@ -12,7 +12,7 @@ layout: default
 
 ### 2019
 
-The weather got the better of us on day two. Rain, snow, and intense wind shut down most of the riders. We only had two riders finish the entire route.
+The weather got the better of us on day two. Rain, snow, and intense wind shut down most of the riders. We only had two riders finish the entire route. Check out the [Trackleaders replay](http://trackleaders.com/pinyonspines19).
 
 #### Solo Grand Depart
 
@@ -58,7 +58,7 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 </tr>
 
 <tr>
-<td>Mack Gerrit (Corona, CA)</td> <td>0:14:50</td>	<td></td>	<td>Only southern loop</td>
+<td><a href="https://www.youtube.com/watch?v=y7pIqSvOfiE">Mack Gerrit</a> (Corona, CA)</td> <td>0:14:50</td>	<td></td>	<td>Only southern loop</td>
 </tr>
 
 <tr>
