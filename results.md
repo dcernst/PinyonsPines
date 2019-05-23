@@ -94,7 +94,7 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 </tr>
 
 <tr>
-<td>Lindsay Shepard (Albuquerque, NM)</td> <td>1:03:16</td>	<td></td>	<td>Dropped out at mile 184</td>
+<td><a href="https://carefreewanderings.com/pinyons-and-pines-2019-fun-with-singletrack-and-snow-storms/?fbclid=IwAR3dgGCMAFy7DzIBO8vDeIRYdSmJydN419gjlpOko7mySCbfEDuOnGQcOKM">Lindsay Shepard</a> (Albuquerque, NM)</td> <td>1:03:16</td>	<td></td>	<td>Dropped out at mile 184</td>
 </tr>
 
 <tr>
