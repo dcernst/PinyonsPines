@@ -38,9 +38,9 @@ Below are some important notes, including information concerning resupply option
 - **Mile 190:** Where the AZT merges in from the right, there is a public cache box hidden in the bushes. Do not take any water (or food) that is designated for an individual. The race organizer (Dana Ernst) will stock this cache before and after the race.
 - **Mile 230.6:** There is a drinking fountain and a vending machine at the Sunset Crater National Monument Visitor's Center, which is on the left side of the road.
 - **Mile 237.2:** Just as you enter Lockett Meadow, there is a small pond on the right. You'll need to filter/treat the water.
+- **Miles 238.5-247.5:** There may be downed trees on Waterline Road. Most of them are easy to lift your bike over, but some of them are a bit annoying.
 - **Mile 250.5:** The GPX track entering the horse camp after descending the pipeline after Waterline Road is stupid for about a quarter mile. Not It’s best to just stay on Deer Hill Trail into parking lot of horse camp. This needs to be fixed.
 - **Mile 251:** About a mile of the AZT has been rerouted and disagrees withe the GPX track. Moral of the story, just follow the trail. This needs to be fixed.
-- **Miles 238.5-247.5:** There may be downed trees on Waterline Road. Most of them are easy to lift your bike over, but some of them are a bit annoying.
 - **Mile 255.1:** Shortly after passing through a tunnel under Route 89, you can access the Conoco Travel Center (open 24 hours) by turning right on double track. This is a very short distance off route.
 
 <br>
