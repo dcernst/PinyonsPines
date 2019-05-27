@@ -34,7 +34,7 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 </tr>
 
 <tr>
-<td>Chris Seistrup (Prescott, AZ)</td>	<td>0:16:49</td>	<td>1:20:10</td>	<td>Second place</td>
+<td><a href=“http://www.lostonabike.com/pinyons-and-pines/“>Chris Seistrup</a> (Prescott, AZ)</td>	<td>0:16:49</td>	<td>1:20:10</td>	<td>Second place</td>
 </tr>
 
 <tr>
