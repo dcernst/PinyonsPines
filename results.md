@@ -12,7 +12,7 @@ layout: default
 
 ### 2019
 
-The weather got the better of us on day two. Rain, snow, and intense wind shut down most of the riders. We only had two riders finish the entire route. Check out the [Trackleaders replay](http://trackleaders.com/pinyonspines19).
+The weather got the better of us on day two. Rain, snow, and intense wind shut down most of the riders. We only had two riders finish the entire route. Check out the event recap over on [bikepacking.com](https://bikepacking.com/news/2019-pinyons-pines-event-recap/) and watch the [Trackleaders replay](http://trackleaders.com/pinyonspines19).
 
 #### Solo Grand Depart
 
@@ -238,15 +238,15 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 <tbody>
 
 <tr>
-<td>Jeff Hemperley (Prescott, AZ), Holly Hovious (Glendale, AZ)</td> <td>1:05:35</td>	<td></td>	<td>Only southern loop</td>
+<td>Jeff Hemperley (Prescott, AZ), Holly Hovious (Glendale, AZ)</td> <td>1:05:35</td>	<td></td>	<td>Rode southern and northern loops at separate times</td>
 </tr>
 
 <tr>
-<td>Curtis Barrett (Mesa, AZ), Cameron Barrett (Mesa, AZ)</td> <td></td>	<td></td>	<td>Starting May 23</td>
+<td>Curtis Barrett (Mesa, AZ), Cameron Barrett (Mesa, AZ)</td> <td></td>	<td></td>	<td>Only southern loop</td>
 </tr>
 
 <tr>
-<td>Amanda Good (Leadville, CO), Katie Anderson (Leadville, CO)</td> <td></td>	<td></td>	<td>Starting in June</td>
+<td>Amanda Good (Leadville, CO), Katie Anderson (Leadville, CO)</td> <td></td>	<td></td>	<td>Only southern loop</td>
 </tr>
 
 </tbody>
