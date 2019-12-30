@@ -11,7 +11,7 @@ layout: default
 ## 2020 Course Description
 
 <div class="alert alert-info" role="alert">
-<strong>Important!</strong> The following description is a draft and will be finalized at least 3 weeks prior to the event.
+<strong>Important!</strong> The following description is a draft and will be finalized at least a month prior to the event.
 </div>
 
 The course is roughly 282 miles and consists of two distinct loops, the Southern Loop and the Northern Loop. The total elevation gain for the route is about 22,000 feet, split evenly between the two loops. The start and finish is at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com). Each year, the Southern Loop will more or less stay the same while the Northern Loop will differ from year to year, typically alternating between a clockwise (odd years) and a counterclockwise (even years) orientation.
@@ -44,7 +44,7 @@ Below are some important notes, including information concerning resupply option
 
 ### Northern Loop
 
-- Comments coming soon!
+- Coming soon!
 
 <!-- - **Mile 129.7:** Just north of the turn on Schutlz Pass Road, there is a Shell gas station on the right side of Highway 180.
 - **Mile 141.2:** Alfa Fia Tank is a short distance to the west. You'll need to filter/treat the water.
