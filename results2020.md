@@ -1,5 +1,5 @@
 ---
-title: Results
+title: 2020 Results
 author: Dana Ernst
 layout: default
 ---
@@ -10,9 +10,9 @@ layout: default
 
 ## Results
 
-### 2019
+Results will be posted here within a day or two after the race.
 
-The weather got the better of us on day two. Rain, snow, and intense wind shut down most of the riders. We only had two riders finish the entire route. Check out the event recap over on [bikepacking.com](https://bikepacking.com/news/2019-pinyons-pines-event-recap/) and watch the [Trackleaders replay](http://trackleaders.com/pinyonspines19).
+<!-- The weather got the better of us on day two. Rain, snow, and intense wind shut down most of the riders. We only had two riders finish the entire route. Check out the event recap over on [bikepacking.com](https://bikepacking.com/news/2019-pinyons-pines-event-recap/) and watch the [Trackleaders replay](http://trackleaders.com/pinyonspines19).
 
 #### Solo Grand Depart
 
@@ -252,4 +252,4 @@ The weather got the better of us on day two. Rain, snow, and intense wind shut d
 </tbody>
 </table>
 </div>
-</center>
+</center> -->

@@ -1,5 +1,5 @@
 ---
-title: Course
+title: 2020 Course
 author: Dana Ernst
 layout: default
 ---
@@ -11,7 +11,7 @@ layout: default
 ## Course Description
 
 <div class="alert alert-info" role="alert">
-<strong>Important!</strong> Due to logging operations in Flagstaff, the originally proposed route has been modified.  The final version of the route for 2019 is described below. The final GPX file has been emailed to registered participants.
+<strong>Important!</strong> The following description is a draft and will be finalized at least 3 weeks prior to the event.
 </div>
 
 The course is roughly 280 miles and consists of two distinct loops. The total elevation gain for the route is about 21,000 feet, split evenly between the two loops. The start and finish is at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com).
