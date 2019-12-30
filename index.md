@@ -17,11 +17,11 @@ The race organizer is [Dana Ernst](http://danaernst.com). Please [contact me](ma
 </div>
 <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 <div class="alert alert-info" role="alert">
-<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2020 edition of Pinyons and Pines will start on <strong>Saturday, May 22</strong> at 6AM at Flagstaff Bicycle Revolution.
+<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2020 edition of Pinyons and Pines will start on <strong>Saturday, May 23</strong> at 6AM at Flagstaff Bicycle Revolution.
 
 <hr>
 <center>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSf0Hpx2bJai-bseT1WJOTMZnYV5TtgrC0d0hLpGAltCE9qyjQ/viewform?usp=sf_link" class="alert-link" target="_blank">Register here!</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfTzutd3EjbA8s4sA0qCgnYIQwHvNM1M8ZJCN6j867e3ypTyA/viewform" class="alert-link" target="_blank">Register here!</a>
 </center>
 
 <!--
