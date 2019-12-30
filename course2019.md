@@ -8,7 +8,7 @@ layout: default
 
 <i class="fas fa-camera fa-lg"></i>&nbsp; Photo by <a href="https://www.ultramtb.net/about-kurt-refsnider.html#/" target="_blank">Kurt Refsnider</a>
 
-## Course Description
+## 2019 Course Description
 
 <div class="alert alert-info" role="alert">
 <strong>Important!</strong> Due to logging operations in Flagstaff, the originally proposed route has been modified.  The final version of the route for 2019 is described below. The final GPX file has been emailed to registered participants.

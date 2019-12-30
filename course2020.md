@@ -8,7 +8,7 @@ layout: default
 
 <i class="fas fa-camera fa-lg"></i>&nbsp; Photo by <a href="https://www.ultramtb.net/about-kurt-refsnider.html#/" target="_blank">Kurt Refsnider</a>
 
-## Course Description
+## 2020 Course Description
 
 <div class="alert alert-info" role="alert">
 <strong>Important!</strong> The following description is a draft and will be finalized at least 3 weeks prior to the event.

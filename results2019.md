@@ -8,7 +8,7 @@ layout: default
 
 <i class="fas fa-camera fa-lg"></i>&nbsp; Photo by <a href="https://www.ultramtb.net/about-kurt-refsnider.html#/">Kurt Refsnider</a>
 
-## Results
+## 2019 Results
 
 The weather got the better of us on day two. Rain, snow, and intense wind shut down most of the riders. We only had two riders finish the entire route. Check out the event recap over on [bikepacking.com](https://bikepacking.com/news/2019-pinyons-pines-event-recap/) and watch the [Trackleaders replay](http://trackleaders.com/pinyonspines19).
 
