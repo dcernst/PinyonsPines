@@ -10,11 +10,12 @@ layout: default
 
 ## Rules
 
-This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time in comparison to others. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
+This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time in comparison to others. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace. Riders can choose between two categories: solo or duo (2-person team).
 
-The rules for this event follow the same principles as similar bikepacking races.  The following guidelines are a remix of the rules for the [Colorado Trail Race](http://www.climbingdreams.net/ctr/), [Arizona Trail Race](http://topofusion.com/azt/race.php), and [Bones to Blue Bikepacking Race](http://bonestoblue.com). We rely on the honor system, so be honorable and have a great ride.
+The rules for this event follow the same principles as similar bikepacking races.  The following guidelines are a remix of the rules for the [Colorado Trail Race](http://www.climbingdreams.net/ctr/), [Arizona Trail Race](http://topofusion.com/azt/race.php), and [Bones to Blue Bikepacking Race](http://bonestoblue.com). We rely on the honor system, so be honorable and have a great ride.  Feel free to ask questions on the event's [Facebook group](https://www.facebook.com/groups/PinyonsAndPines/) (or post in the forum on [bikepacking.net](http://bikepacking.net)).
 
-- You must purchase an [Arizona State Land Department Recreation Permit](https://land.az.gov/natural-resources/recreational-permits) as the northern part of the second loop passes across state trust land.  Permits can be purchased online. An annual permit is $15.
+- **New for 2020:** When riders transition between the two loops, Flagstaff will be neutral territory. This means that riders may visit their cars, hotel rooms, homes, loved ones, etc. However, riders must return to the route where they left it. The details still need to be fleshed out and I will provide more guidance as we get closer to the event.
+-You must purchase an [Arizona State Land Department Recreation Permit](https://land.az.gov/natural-resources/recreational-permits) as the northern part of the second loop passes across state trust land.  Permits can be purchased online. An annual permit is $15.
 - Be overly courteous to all trail users. Just because you are racing does not mean you have right of way! Yield to hikers, equestrians, and uphill bikers.
 - Complete the entire route, under your own power.
 - Follow the GPX track as best you can. Small deviations and side trips are fine. Intentionally skipping part of the route is not okay.
@@ -35,27 +36,3 @@ The rules for this event follow the same principles as similar bikepacking races
 - At roughly mile 190, you will pass by a public water cache for the Arizona Trail. Do not take any water (or food) that is designated for an individual. The race organizer (Dana Ernst) will stock this cache before and after the race.
 
 The event will utilize [Trackleaders](http://trackleaders.com), providing a live map, elevation profile and other stats that can be used to follow along. Carrying a personal tracker (e.g., [SPOT](https://www.findmespot.com/en/), [Garmin InReach](https://explore.garmin.com/en-US/inreach/)) and being tracked by trackleaders is not mandatory but encouraged. Owners of personal trackers can expect to pay $15 to add their own device to Trackleaders. SPOT rentals (approximately $60 for a SPOT Gen3 with 5min tracking service and SOS) will also be available. Tracking signup link will be available about a month before race start.
-
-<div class="row">
-<div class="col-md-2 col-lg-2">
-</div>
-<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
-<div class="alert alert-info" role="alert">
-<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2020 edition of Pinyons and Pines will start on <strong>Saturday, May 22</strong> at 6AM at Flagstaff Bicycle Revolution.
-
-<hr>
-<center>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSf0Hpx2bJai-bseT1WJOTMZnYV5TtgrC0d0hLpGAltCE9qyjQ/viewform?usp=sf_link" class="alert-link" target="_blank">Register here!</a>
-</center>
-
-<!--
-<hr>
-<center>
-<a href="https://form.jotform.com/trackleaders/pinyonspines19" class="alert-link" target="_blank">Trackleaders sign-up and SPOT rental</a>
-</center>
--->
-
-</div>
-</div>
-<div class="col-md-2 col-lg-2"></div>
-</div>
