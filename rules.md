@@ -14,7 +14,6 @@ This is an unsanctioned event. There are no fees, no prizes, but all attempts wi
 
 The rules for this event follow the same principles as similar bikepacking races.  The following guidelines are a remix of the rules for the [Colorado Trail Race](http://www.climbingdreams.net/ctr/), [Arizona Trail Race](http://topofusion.com/azt/race.php), and [Bones to Blue Bikepacking Race](http://bonestoblue.com). We rely on the honor system, so be honorable and have a great ride.  Feel free to ask questions on the event's [Facebook group](https://www.facebook.com/groups/PinyonsAndPines/) (or post in the forum on [bikepacking.net](http://bikepacking.net)).
 
-- **New for 2020:** When riders transition between the two loops, Flagstaff will be neutral territory. This means that riders may visit their cars, hotel rooms, homes, loved ones, etc. However, riders must return to the route where they left it. The details still need to be fleshed out and I will provide more guidance as we get closer to the event.
 -You must purchase an [Arizona State Land Department Recreation Permit](https://land.az.gov/natural-resources/recreational-permits) as the northern part of the second loop passes across state trust land.  Permits can be purchased online. An annual permit is $15.
 - Be overly courteous to all trail users. Just because you are racing does not mean you have right of way! Yield to hikers, equestrians, and uphill bikers.
 - Complete the entire route, under your own power.
@@ -23,7 +22,7 @@ The rules for this event follow the same principles as similar bikepacking races
 - If you are racing in the solo category, you should carry your own gear, food, water, etc.
 - If you are racing in the duo category, you and your partner may share resources.
 - If you are racing in the duo category, you and your partner should stay together for the duration of the race.
-- You may ride with other people, but drafting is not allowed.
+- You may ride with other people, but drafting is not allowed, unless you are in the duo category and it is your partner.
 - Unplanned support from other racers is allowed.
 - Support crews and pacers are not allowed.
 - Visitation by spectators (friends, family) is okay provided the visit is short and no support is provided.
