@@ -16,7 +16,7 @@ The race organizer is [Dana Ernst](http://danaernst.com). Please [contact me](ma
 </div>
 <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 <div class="alert alert-info" role="alert">
-<i class="fas fa-bicycle fa-lg"></i>&nbsp; In light of the COVID-19 pandemic, the 2020 edition of Pinyons and Pines has been postponed until <strong>Saturday, October 10</strong>. We will start at 6AM at Flagstaff Bicycle Revolution.
+<i class="fas fa-bicycle fa-lg"></i>&nbsp; In light of the COVID-19 pandemic, the 2020 edition of Pinyons and Pines has been rescheduled to <strong>Saturday, October 10</strong>. We will start at 6AM at Flagstaff Bicycle Revolution.
 
 <hr>
 <center>
