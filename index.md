@@ -43,8 +43,6 @@ The route for the Southern Portion is more or less finalized, but the Northern P
 
 <br>
 
-<center>
-<iframe src="https://ridewithgps.com/embeds?type=route&id=31949839&sampleGraph=true" style="width: 1px; min-width: 90%; height: 500px; border: none;" scrolling="no"></iframe>
-</center>
+<iframe src="https://ridewithgps.com/embeds?type=route&id=32446093&title=2020%20Pinyons%20and%20Pines%20(subject%20to%20change)&sampleGraph=true" style="width: 1px; min-width: 900%; height: 500px; border: none;" scrolling="no"></iframe>
 
 <br>
