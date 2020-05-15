@@ -10,9 +10,9 @@ layout: default
 
 ## 2020 Course Description
 
-<div class="alert alert-info" role="alert">
+<!-- <div class="alert alert-info" role="alert">
 <strong>Important!</strong> The following description is a draft and will be finalized at least a month prior to the event.
-</div>
+</div> -->
 
 The course for 2020 is roughly 305 miles and consists of a Southern Portion (149 miles) and the Northern Portion (157 miles). The total elevation gain for the route is about 24,000 feet, split evenly between the two portions. The start and finish is at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com). Each year, the Southern Portion will more or less stay the same while the Northern Portion will differ from year to year, typically alternating between a clockwise and a counterclockwise orientation.
 
