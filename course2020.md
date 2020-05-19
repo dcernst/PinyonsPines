@@ -44,7 +44,7 @@ Below are some important notes, including information concerning resupply option
 - **Miles 120-149:** This portion of the route is different than last year. It adds some miles, but it's much more enjoyable.
 - **Mile 149:** Just south of tunnel that goes under Route 89, head southwest on double track to access Conoco Travel Center (open 24 hours).
 
-### Northern Portion (needs to be updated)
+### Northern Portion
 
 - **Mile 149:** After refueling at the Conoco Travel Center, return to the route, pass under Route 89, and follow the AZT towards Shultz Pass.
 - **Mile 156.5:** When you hit Schultz Pass Road, turn right. You will turn left onto Waterline Road shortly afterwards.
