@@ -212,39 +212,39 @@ The 2020 Grand Depart is currently scheduled for Saturday, October 10.
 <tbody>
 
 <tr>
-<td>Liz Carrington</td> <td>Durango, CO</td> <td>5/22/20</td> <td></td>	<td>2:11:59</td>	<td>Current fastest time. Some deviations in Sedona and several bonus miles on AZT prior to end of southern portion.</td>
+<td>Liz&nbsp;Carrington</td> <td>Durango,&nbsp;CO</td> <td>5/22/20</td> <td></td>	<td>2:11:59</td>	<td>Current fastest time. Some deviations in Sedona and several bonus miles on AZT prior to end of southern portion.</td>
 </tr>
 
 <tr>
-<td>Dana Ernst</td> <td>Flagstaff, AZ</td> <td>5/22/20</td> <td>1:08:48</td> <td>2:14:20</td> <td></td>
+<td>Dana&nbsp;Ernst</td> <td>Flagstaff,&nbsp;AZ</td> <td>5/22/20</td> <td>1:08:48</td> <td>2:14:20</td> <td></td>
 </tr>
 
 <tr>
-<td>Bill Akens</td> <td>Flagstaff, AZ</td> <td>5/22/20</td> <td>1:10:20</td> <td>3:12:00</td>	<td>Some deviations.</td>
+<td>Bill&nbsp;Akens</td> <td>Flagstaff,&nbsp;AZ</td> <td>5/22/20</td> <td>1:10:20</td> <td>3:12:00</td>	<td>Some deviations.</td>
 </tr>
 
 <tr>
-<td>Joe Pavlik</td> <td>Flagstaff, AZ</td> <td>5/22/20</td> <td>1:08:48</td> <td></td>	<td>Completed southern portion and rode northern portion to Sunset Crater. Several deviations.</td>
+<td>Joe&nbsp;Pavlik</td> <td>Flagstaff,&nbsp;AZ</td> <td>5/22/20</td> <td>1:08:48</td> <td></td>	<td>Completed southern portion and rode northern portion to Sunset Crater. Several deviations.</td>
 </tr>
 
 <tr>
-<td>Mike Farrell</td> <td>Flagstaff, AZ</td> <td>5/22/20</td> <td>1:08:48</td>	<td></td>	<td>Missed roughly 35 miles of southern portion due to a blown out rear shock. Restarted at Honaki in Sedona. Rode northern portion to Schultz Pass.</td>
+<td>Mike&nbsp;Farrell</td> <td>Flagstaff,&nbsp;AZ</td> <td>5/22/20</td> <td>1:08:48</td>	<td></td>	<td>Missed roughly 35 miles of southern portion due to a blown out rear shock. Restarted at Honaki in Sedona. Rode northern portion to Schultz Pass.</td>
 </tr>
 
 <tr>
-<td>Chris Kuzdas</td> <td>Flagstaff, AZ</td> <td>5/22/20</td> <td>1:09:30</td>	<td></td>	<td>Only completed southern portion.</td>
+<td>Chris&nbsp;Kuzdas</td> <td>Flagstaff,&nbsp;AZ</td> <td>5/22/20</td> <td>1:09:30</td>	<td></td>	<td>Only completed southern portion.</td>
 </tr>
 
 <tr>
-<td>Artec Durham</td> <td>Flagstaff, AZ</td> <td>5/23/20</td>	<td>1:04:20</td> <td>2:13:00</td>	<td>Missed some single track in Sedona.</td>
+<td>Artec&nbsp;Durham</td> <td>Flagstaff,&nbsp;AZ</td> <td>5/23/20</td>	<td>1:04:20</td> <td>2:13:00</td>	<td>Missed some single track in Sedona.</td>
 </tr>
 
 <tr>
-<td>Brad Mattingly</td> <td>Flagstaff, AZ</td> <td>5/23/20</td>	<td>1:10:00</td> <td>3:10:53</td> <td></td>
+<td>Brad&nbsp;Mattingly</td> <td>Flagstaff,&nbsp;AZ</td> <td>5/23/20</td>	<td>1:10:00</td> <td>3:10:53</td> <td></td>
 </tr>
 
 <tr>
-<td>Jeff Hemperley</td> <td>Prescott, AZ</td> <td>5/24/20</td>	<td>1:02:00</td> <td></td> <td>Rode back into Flagstaff on Lake Mary Road instead of following AZT/Loop Trail.</td>
+<td>Jeff&nbsp;Hemperley</td> <td>Prescott,&nbsp;AZ</td> <td>5/24/20</td>	<td>1:02:00</td> <td></td> <td>Rode back into Flagstaff on Lake Mary Road instead of following AZT/Loop Trail.</td>
 </tr>
 
 </tbody>
