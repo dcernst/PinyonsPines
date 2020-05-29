@@ -12,11 +12,11 @@ layout: default
 
 Results will be posted here within a day or two of the conclusion of the race.
 
-<!-- The weather got the better of us on day two. Rain, snow, and intense wind shut down most of the riders. We only had two riders finish the entire route. Check out the event recap over on [bikepacking.com](https://bikepacking.com/news/2019-pinyons-pines-event-recap/) and watch the [Trackleaders replay](http://trackleaders.com/pinyonspines19).
-
 #### Solo Grand Depart
 
-<center>
+The 2020 Grand Depart is currently scheduled for Saturday, October 10.
+
+<!-- <center>
 <div class="table-responsive">
 <table class="table table-striped">
 <thead>
@@ -192,7 +192,7 @@ Results will be posted here within a day or two of the conclusion of the race.
 </tbody>
 </table>
 </div>
-</center>
+</center> -->
 
 #### Solo ITT
 
@@ -202,7 +202,8 @@ Results will be posted here within a day or two of the conclusion of the race.
 <thead>
 <tr>
 <th>Name</th>
-<th>Southern Loop</th>
+<th>Start Date</th>
+<th>Southern Portion</th>
 <th>Full Course</th>
 <th>Notes</th>
 </tr>
@@ -210,11 +211,39 @@ Results will be posted here within a day or two of the conclusion of the race.
 <tbody>
 
 <tr>
-<td>Ceasar Medina (Reno, NV)</td> <td>1:13:14</td>	<td></td>	<td>Only southern loop</td>
+<td>Liz Carrington (Durango, CO)</td> <td>May 22, 2020</td> <td></td>	<td>2:11:59</td>	<td>Current fastest time. Some deviations in Sedona and several bonus miles on AZT prior to end of southern portion.</td>
 </tr>
 
 <tr>
-<td>Jim Geray (Decatur, TX)</td> <td></td>	<td></td>	<td>Dropped out</td>
+<td>Dana Ernst (Flagstaff, AZ)</td> <td>May 22, 2020</td> <td>1:08:48</td> <td>2:14:20</td> <td></td>
+</tr>
+
+<tr>
+<td>Bill Akens (Flagstaff, AZ)</td> <td>May 22, 2020</td> <td>1:10:20</td> <td>3:12:00</td>	<td>Some deviations.</td>
+</tr>
+
+<tr>
+<td>Joe Pavlik (Flagstaff, AZ)</td> <td>May 22, 2020</td> <td>1:08:48</td> <td></td>	<td>Completed southern portion and rode northern portion to Sunset Crater. Several deviations.</td>
+</tr>
+
+<tr>
+<td>Mike Farrell (Flagstaff, AZ)</td> <td>May 22, 2020</td> <td>1:08:48</td>	<td></td>	<td>Missed roughly 35 miles of southern portion due to a blown out rear shock. Restarted at Honaki in Sedona. Rode northern portion to Schultz Pass.</td>
+</tr>
+
+<tr>
+<td>Chris Kuzdas (Flagstaff, AZ)</td> <td>May 22, 2020</td> <td>1:09:30</td>	<td></td>	<td>Only completed southern portion.</td>
+</tr>
+
+<tr>
+<td>Artec Durham (Flagstaff, AZ)</td> <td>May 23, 2020</td>	<td>1:04:20</td> <td>2:13:00</td>	<td>Missed some single track in Sedona.</td>
+</tr>
+
+<tr>
+<td>Brad Mattingly (Flagstaff, AZ)</td> <td>May 23, 2020</td>	<td></td> <td>3:10:53</td> <td></td>
+</tr>
+
+<tr>
+<td>Jeff Hemperley (Prescott, AZ)</td> <td>May 24, 2020</td>	<td>1:02:00</td> <td></td> <td>Rode back into Flagstaff on Lake Mary Road instead of following AZT/Loop Trail.</td>
 </tr>
 
 </tbody>
@@ -222,7 +251,7 @@ Results will be posted here within a day or two of the conclusion of the race.
 </div>
 </center>
 
-#### Duo ITT
+<!-- #### Duo ITT
 
 <center>
 <div class="table-responsive">
