@@ -194,7 +194,7 @@ The 2020 Grand Depart is currently scheduled for Saturday, October 10.
 </div>
 </center> -->
 
-#### Solo ITT
+#### Individual Time Trials
 
 <center>
 <div class="table-responsive">
