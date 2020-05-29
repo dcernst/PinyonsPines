@@ -239,7 +239,7 @@ The 2020 Grand Depart is currently scheduled for Saturday, October 10.
 </tr>
 
 <tr>
-<td>Brad Mattingly (Flagstaff, AZ)</td> <td>May 23, 2020</td>	<td></td> <td>3:10:53</td> <td></td>
+<td>Brad Mattingly (Flagstaff, AZ)</td> <td>May 23, 2020</td>	<td>1:10:00</td> <td>3:10:53</td> <td></td>
 </tr>
 
 <tr>
