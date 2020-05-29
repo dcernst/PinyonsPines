@@ -203,9 +203,9 @@ The 2020 Grand Depart is currently scheduled for Saturday, October 10.
 <tr>
 <th>Name</th>
 <th>Hometown</th>
-<th>Start Date</th>
-<th>Southern Portion</th>
-<th>Full Course</th>
+<th>Start&nbsp;Date</th>
+<th>Southern&nbsp;Portion</th>
+<th>Full&nbsp;Course</th>
 <th>Notes</th>
 </tr>
 </thead>
