@@ -212,7 +212,7 @@ The 2020 Grand Depart is currently scheduled for Saturday, October 10.
 <tbody>
 
 <tr>
-<td>Liz&nbsp;Carrington</td> <td>Durango,&nbsp;CO</td> <td>5/22/20</td> <td></td>	<td>2:11:59</td>	<td>Current fastest time. Some deviations in Sedona and several bonus miles on AZT prior to end of southern portion.</td>
+<td>Liz&nbsp;Carrington</td> <td>Durango,&nbsp;CO</td> <td>5/22/20</td> <td>1:03:12</td>	<td>2:11:59</td>	<td>Current fastest time. Some deviations in Sedona and several bonus miles on AZT prior to end of southern portion.</td>
 </tr>
 
 <tr>
@@ -220,7 +220,7 @@ The 2020 Grand Depart is currently scheduled for Saturday, October 10.
 </tr>
 
 <tr>
-<td>Bill&nbsp;Akens</td> <td>Flagstaff,&nbsp;AZ</td> <td>5/22/20</td> <td>1:10:20</td> <td>3:12:00</td>	<td>Some deviations.</td>
+<td>Bill&nbsp;Akens</td> <td>Flagstaff,&nbsp;AZ</td> <td>5/22/20</td> <td>1:10:20</td> <td>3:12:00</td>	<td></td>
 </tr>
 
 <tr>
