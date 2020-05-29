@@ -12,7 +12,7 @@ layout: default
 
 Results will be posted here within a day or two of the conclusion of the race.
 
-#### Solo Grand Depart
+#### Grand Depart
 
 The 2020 Grand Depart is currently scheduled for Saturday, October 10.
 
