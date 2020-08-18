@@ -14,7 +14,13 @@ layout: default
 <strong>Important!</strong> The following description is a draft and will be finalized at least a month prior to the event.
 </div> -->
 
-The course for 2020 is roughly 303 miles and consists of a Southern Portion (149 miles) and the Northern Portion (154 miles). The total elevation gain for the route is about 24,000 feet, split evenly between the two portions. The start and finish is at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com). Each year, the Southern Portion will more or less stay the same while the Northern Portion will differ from year to year, typically alternating between a clockwise and a counterclockwise orientation.
+Partly to satisfy some requests, but mostly to spread people out in light of the pandemic, there will be three options:
+    1. [Pinyons and Pines](https://ridewithgps.com/routes/32760734): Full course! (303 miles)
+    2. [Pinyons Loop](https://ridewithgps.com/routes/33789032): Southern portion of P&P up to Schultz Pass and then Schultz Creek Trail and some FUTS urban trail back to start. (167 miles)
+    3. [Pines Loop](https://ridewithgps.com/routes/33789363): Start with a climb up Elden Lookout Road and then descend the newly constructed Heart Trail to join with the northern portion of P&P. (164 miles)
+We will cap the total number of riders for all three options at 50. Riders will be required to wear masks and use hand sanitizer when resupplying. If you’ve already signed up for full P&P but would like to switch to one of the shorter options, let me know. The following description is for the full P&P course. 
+
+The full P&P course for 2020 is roughly 303 miles and consists of a Southern Portion (149 miles) and the Northern Portion (154 miles). The total elevation gain for the route is about 24,000 feet, split evenly between the two portions. The start and finish is at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com). Each year, the Southern Portion will more or less stay the same while the Northern Portion will differ from year to year, typically alternating between a clockwise and a counterclockwise orientation.
 
 <!-- The Southern Portion (149 miles) begins with a neutral rollout as the route heads south and navigates through the campus of Northern Arizona University. After about 1.5 miles, the route hangs a right on a portion of the Flagstaff Urban Trail (FUTS).  The race is on after the group crosses Mt. Dell Road, roughly mile 3.3.-->
 
