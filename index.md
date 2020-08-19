@@ -15,7 +15,7 @@ Partly to satisfy some requests, but mostly to spread people out in light of the
 - [Pinyons Loop](https://ridewithgps.com/routes/33789032): Southern portion of P&P up to Schultz Pass and then Schultz Creek Trail and some FUTS urban trail back to start. (167 miles)
 - [Pines Loop](https://ridewithgps.com/routes/33789363): Start with a climb up Elden Lookout Road and then descend the newly constructed Heart Trail to join with the northern portion of P&P. (164 miles)
 
-We will cap the total number of riders for all three options at 50. Riders will be required to wear masks and use hand sanitizer when resupplying. If you’ve already signed up for full P&P but would like to switch to one of the shorter options, let me know. The following description is for the full P&P course.
+We will cap the total number of riders for all three options at 50. Riders will be required to wear masks and use hand sanitizer when resupplying. If you’ve already signed up for full P&P but would like to switch to one of the shorter options, let me know.
 
 <div class="row">
 <div class="col-md-2 col-lg-2">
