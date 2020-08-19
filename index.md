@@ -9,7 +9,7 @@ Pinyons and Pines is an underground self-supported bikepacking race that starts 
 
 Riders can choose between two categories: solo or duo (2-person team). Please consult the [rules]({{ site.baseurl }}/rules) prior to registering for the event. Feel free to ask questions on the event's [Facebook group](https://www.facebook.com/groups/PinyonsAndPines/) (or post in the forum on [bikepacking.net](http://bikepacking.net)).  Check out the [event recap](https://bikepacking.com/news/2019-pinyons-pines-event-recap/) from last year's race over on [Bikepacking.com](http://bikepacking.com).  Hopefully the weather will cooperate in 2020!
 
-Partly to satisfy some requests, but mostly to spread people out in light of the pandemic, there will be three options:
+Partly to satisfy some requests, but mostly to spread people out in light of the pandemic, there will be three options. Click link to access corresponding GPX track.
 
 - [Pinyons and Pines](https://ridewithgps.com/routes/32760734): Full course! (303 miles)
 - [Pinyons Loop](https://ridewithgps.com/routes/33789032): Southern portion of P&P up to Schultz Pass and then Schultz Creek Trail and some FUTS urban trail back to start. (167 miles)

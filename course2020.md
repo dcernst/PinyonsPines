@@ -14,7 +14,7 @@ layout: default
 <strong>Important!</strong> The following description is a draft and will be finalized at least a month prior to the event.
 </div> -->
 
-Partly to satisfy some requests, but mostly to spread people out in light of the pandemic, there will be three options:
+Partly to satisfy some requests, but mostly to spread people out in light of the pandemic, there will be three options. Click link to access corresponding GPX track.
 
 - [Pinyons and Pines](https://ridewithgps.com/routes/32760734): Full course! (303 miles)
 - [Pinyons Loop](https://ridewithgps.com/routes/33789032): Southern portion of P&P up to Schultz Pass and then Schultz Creek Trail and some FUTS urban trail back to start. (167 miles)
