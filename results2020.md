@@ -247,6 +247,10 @@ The 2020 Grand Depart is currently scheduled for Saturday, October 10.
 <td>Jeff&nbsp;Hemperley</td> <td>Prescott,&nbsp;AZ</td> <td>5/24/20</td>	<td>1:02:00</td> <td></td> <td>Rode back into Flagstaff on Lake Mary Road instead of following AZT/Loop Trail.</td>
 </tr>
 
+<tr>
+<td>Nate&nbsp;Woiwode</td> <td>Tucson,&nbsp;AZ</td> <td>9/20/20</td>	<td>4:13:00</td> <td></td> <td>Fully rigid single speed and some stomach issues in Sedona.</td>
+</tr>
+
 </tbody>
 </table>
 </div>

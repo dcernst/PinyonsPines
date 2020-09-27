@@ -41,14 +41,15 @@ Below are some important notes, including information concerning resupply option
 - **Miles 44-54:** This portion of the route is different than last year.  We will follow a part of the [Robbers Roost Bikepacking Route](https://bikepacking.com/routes/robbers-roost-overnighter/) (in the opposite direction). This variation will be more scenic and will hopefully reduce the interaction with Jeeps and Razors.
 - **Mile 49.1:** There is a bathroom at the Honanki Heritage Site, but no water.
 - **Mile 55.5:** Turn right into a what looks like a dirt parking lot and then follow a faint trail to the Aerie Trailhead.
-- **Mile 61.6:** Shortly after crossing a paved road, there is an intermittent stream that may have water in it. Water needs to be filtered or treated.
+- **Mile 61.6:** Shortly after crossing a paved road, there is an intermittent stream that may have water in it. Water needs to be filtered or treated. CURRENT STATUS: dry.
 - **Mile 64.2:** Turn left off of Dry Creek Road onto the Chimney Rock Connector Trail.  You will need to hop a white fence to continue on the route.  If you'd prefer not to lift your bike over the fence, you can continue south on Dry Creek Road and navigate your way through the neighborhood and eventually regain the route at the Thunder Mountain Trailhead.
 - **Mile 70.4:** Pass through a tunnel, which goes under Route 89A.
 - **Mile 70.6:** Shortly after merging onto Route 89A, you'll have a few options for stocking up on food and water before leaving Sedona. There is a 76 gas station on the right side of Route 89A at the second round about that has a modest supply of snacks. After turning south on Route 179, Arroyo Roble Marketplace is on the right side of the road. There is a Circle K on Route 179 about a quarter of a mile past the turn onto Schnebly Hill Road. If you want to grab a meal, there is a Burger King on the right side of 89A just before the second round about and Oregano's is a short distance south on Route 179. Both of these are on route. In addition, Starbucks, Chipotle, and Wildflower Bread Company are in a shopping plaza on a hill on 89A a bit north of the intersection with Route 179. There are also a few bike shops in Sedona.  [Over the Edge](https://otesports.com/locations/sedona/) and the [Fat Tire Bike Shop](https://www.facebook.com/pages/The-Fat-Tire-Bike-Shop/188731981168703) are the closest shops to the route.
 - **Mile 83.1:** There is a water spigot at the ADOT yard just before crossing under Interstate 17. The spigot is located near a ramada in a grassy area by some houses. If for some reason this spigot is turned off, you might consider riding north on the interstate to the town of Munds Park, where you'll have access to food and water.
 - **Mile 96.6:** You'll be riding fast on a dirt road and the lefthand turn onto the Arizona Trail is easy to miss. In the event of an emergency, continue straight on FS240 and then turn right at the bottom of the hill towards Mormon Lake Lodge.
-- **Mile 105.2:** Weimer Spring is just south of the road.  You'll need to filter/treat the water. If you are thinking of splitting the Southern Portion into two days, this would make a nice place to camp.
-- **Mile 120.2:** The [Lake Mary Country Store](http://www.lakemarycountrystore.com) (7am-6pm, 5pm on Sunday) is on your right along Lake Mary Road.
+- **Mile 98:** There is a water spigot located at the Dairy Springs Campground. Turn right on the Mormon Mountain Trail and descend for 2 minutes to the campground.  It's roughly 5 minutes of climbing to get back on route. CURRENT STATUS: I do not know if the spigot will be turned on during the weekend of the race.
+- **Mile 105.2:** Weimer Spring is just south of the road.  You'll need to filter/treat the water. If you are thinking of splitting the Southern Portion into two days, this would make a nice place to camp. CURRENT STATUS: There is water here, but not a lot and it's pretty murky.
+- **Mile 120.2:** The [Lake Mary Country Store](http://www.lakemarycountrystore.com) (7am-6pm, 5pm on Sunday) is on your right along Lake Mary Road. CURRENT STATUS: The store will be CLOSED for the season on race weekend.
 - **Mile 149.5:** Just south of tunnel that goes under Route 89, head southwest on double track to access Conoco Travel Center (open 24 hours).
 
 ### Northern Portion
@@ -60,13 +61,13 @@ Below are some important notes, including information concerning resupply option
 - **Mile 168.3:** There is a small pond on the left just before turning left onto Lockett Meadow Road. Water needs to be filtered or treated.
 - **Mile 174.8:** Depending on when you enter Sunset Crater National Monument, you may be stopped at the entrance booth. If you have a Parks Pass, bring it with you just in case. Just after passing the entrance booth, there is a Visitor's Center on the right. There is drinking fountain outside that you can use to refill water.  There is also a vending machine, but does not always work (and the staff in the Visitor's Center does not always have the means to break change or help with the machine). There is also a bathroom that is sometimes open after hours, but do not assume it will be open. It's a long way to the next water source!
 - **Mile 215.6:** Where the AZT merges in from the left (we are not going that way), there is a public cache box hidden in the bushes. Do not take any water (or food) that is designated for an individual! The race organizer (Dana Ernst) will stock this cache before and after the race.
-- **Mile 232.3:** Tip Top Tank is on your right. Water needs to be filtered or treated.
+- **Mile 232.3:** Tip Top Tank is on your right. Water needs to be filtered or treated. CURRENT STATUS: Likely dry.
 - **Mile 235.1:** Beware of dogs!
 - **Mile 242.4:** There is a public water spigot at Spring Valley Cabin. It may or may not be turned on. These cabins are rented out, so please be respectful and quiet if stopping here.
 - **Mile 250.7:** Parks General Store.
 - **Mile 251.2:** Texaco Gas Station on right.
 - **Mile 255.3:** Roughly 1.5 miles off route to McDonald's and Pilot Travel Center in Bellemont.
-- **Mile 262.9:** Metal stock tank usually has reliable water. Water needs to be filtered or treated.
+- **Mile 262.9:** Metal stock tank usually has reliable water. Water needs to be filtered or treated. CURRENT STATUS: Likely dry.
 - **Miles 269.9-278.1:** Follow Peaks Moto Trail. This is mostly singletrack built for motorcycles, not mountain bikes. A few sections of short but steep hike-a-bike. This may not be a popular addition to course, but I quite enjoy it.
 - **Mile 278.1:** Turn right onto AZT.
 - **Mile 286.4:** Alfa Fia Tank is a short distance to the west. Water needs to be filtered or treated.
