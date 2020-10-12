@@ -68,7 +68,7 @@ Below are some important notes, including information concerning resupply option
 - **Mile 242.4:** There is a public water spigot at Spring Valley Cabin. It may or may not be turned on. These cabins are rented out, so please be respectful and quiet if stopping here.
 - **Mile 250.7:** Parks General Store.
 - **Mile 251.2:** Texaco Gas Station on right.
-- **Mile 255.3:** Roughly 3 miles off route to McDonald's and Pilot Travel Center in Bellemont.
+- **Mile 255.3:** Roughly 3.5 miles off route to McDonald's and Pilot Travel Center in Bellemont.
 - **Mile 262.9:** Metal stock tank usually has reliable water. Water needs to be filtered or treated. CURRENT STATUS: Likely dry.
 - **Miles 269.9-278.1:** Follow Peaks Moto Trail. This is mostly singletrack built for motorcycles, not mountain bikes. A few sections of short but steep hike-a-bike. This may not be a popular addition to course, but I quite enjoy it.
 - **Mile 278.1:** Turn right onto AZT.
