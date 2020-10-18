@@ -10,7 +10,7 @@ layout: default
 
 ## 2020 Results
 
-We had a much higher finishing rate than 2019, but the heat, lack of water, and dust still took its toll on the field.
+We had a much higher finishing rate than 2019, but the heat, lack of water, and dust took its toll on the field.
 
 ### Grand Depart
 
