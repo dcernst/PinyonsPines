@@ -32,7 +32,7 @@ The 2020 Grand Depart took place at 6am on Saturday, October 10.
 <tbody>
 
 <tr>
-<td>Brendan James Heinig</td> <td>Boulder, CO</td> <td>1:17:00</td> <td>First place male, men's course record</td>
+<td>Brendan James Heinig</td> <td>Boulder, CO</td> <td>1:13:00</td> <td>First place male, men's course record</td>
 </tr>
 
 <tr>
