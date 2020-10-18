@@ -40,7 +40,91 @@ The 2020 Grand Depart took place at 6am on Saturday, October 10.
 </tr>
 
 <tr>
-<td>???</td>	<td>???</td>	<td>???</td>	<td>???</td>
+<td>Brad Ells</td>	<td>Fort Collins, CO</td>	<td>1:23:30</td>	<td>Third place male, first single speed</td>
+</tr>
+
+<tr>
+<td>Andrew Strempke</td>	<td>Olathe, KS</td>	<td>2:02:37</td>	<td>Fourth place male, second single speed</td>
+</tr>
+
+<tr>
+<td>Rylee Sweeney</td>	<td>Bishop, CA</td>	<td>2:08:40</td>	<td>First place female, women's course record</td>
+</tr>
+
+<tr>
+<td>Elizabeth Sampey</td>	<td>Carbondale, CO</td>	<td>2:08:40</td>	<td>Second place female</td>
+</tr>
+
+<tr>
+<td>Bob Horn</td>	<td>Salt Lake City, UT</td>	<td>2:11:19</td>	<td></td>
+</tr>
+
+<tr>
+<td>Kyle Quinn</td>	<td>Littleton, CO</td>	<td>2:11:19</td>	<td>Third single speed</td>
+</tr>
+
+<tr>
+<td>Hannah Caproon</td>	<td>Flagstaff, AZ</td>	<td>2:20:20</td>	<td>Third place female</td>
+</tr>
+
+<tr>
+<td>Dan Dunn</td>	<td>Flagstaff, AZ</td>	<td>2:20:20</td>	<td></td>
+</tr>
+
+<tr>
+<td>Knox Kinlaw</td>	<td>Sante Fe, NM</td>	<td>3:04:00</td>	<td></td>
+</tr>
+
+<tr>
+<td>Nico Hawbaker</td>	<td>Flagstaff, AZ</td>	<td>DNF</td>	<td>Dropped out after O'Leary Peak (roughly mile 190)</td>
+</tr>
+
+<tr>
+<td>Pete Schuster</td>	<td>Littleton, CO</td>	<td>DNF</td>	<td>Dropped out at Sunset Crater (roughly mile 175)</td>
+</tr>
+
+<tr>
+<td>Aaron Denberg</td>	<td>Big Horn, WY</td>	<td>DNF</td>	<td>Dropped out at Route 89 (roughly mile 150)</td>
+</tr>
+
+<tr>
+<td>Katie Strempke</td>	<td>Olathe, KS</td>	<td>DNF</td>	<td>Dropped out at Route 66 (roughly mile 145) with broken frame</td>
+</tr>
+
+<tr>
+<td>Troy Marino</td>	<td>Flagstaff, AZ</td>	<td>DNF</td>	<td>Dropped out at Dairy Springs Campground (roughly mile 99) and then rode home</td>
+</tr>
+
+<tr>
+<td>Dylan Turner</td>	<td>Flagstaff, AZ</td>	<td>DNF</td>	<td>Dropped out near Mormon Mountain (roughly mile 95)</td>
+</tr>
+
+<tr>
+<td>Brent Alexander</td>	<td>Phoenix, AZ</td>	<td>DNF</td>	<td>Dropped after crossing I-17 (roughly mile 83)</td>
+</tr>
+
+<tr>
+<td>Bailey Newbrey</td>	<td>Santa Fe, NM</td>	<td>DNF</td>	<td>Dropped shortly after Sedona (roughly mile 75)</td>
+</tr>
+
+<tr>
+<td>Justin Dubois (Trick Turner)</td>	<td>Estes Park, CO</td>	<td>DNF</td>	<td>Dropped in Sedona</td>
+</tr>
+
+<tr>
+<td>Ian Wigger</td>	<td>Boise, ID</td>	<td>DNF</td>	<td>Dropped in Sedona</td>
+</tr>
+
+<tr>
+<td>Wyatt Spalding</td>	<td>Phoenix, AZ</td>	<td>DNF</td>	<td>Dropped in Sedona</td>
+</tr>
+
+<tr>
+<td>Veronika Hewitt</td>	<td>Dillon, CO</td>	<td>DNF</td>	<td>Dropped in Sedona</td>
+</tr>
+
+<tr>
+<td>Harrison Shotzbarger</td>	<td>Colorado Plateau and CA</td>	<td>DNF</td>	<td>Dropped in Sedona</td>
 </tr>
 
 </tbody>
@@ -68,11 +152,15 @@ The 2020 Grand Depart took place at 6am on Saturday, October 10.
 </tr>
 
 <tr>
-<td>???</td>	<td>???</td>	<td>???</td>	<td>???</td>
+<td>Michael Krause</td>	<td>Irvine, CA</td>	<td></td>	<td>Modified Pinyons Loop</td>
 </tr>
 
 <tr>
-<td>???</td>	<td>???</td>	<td>???</td>	<td>???</td>
+<td>Brett Goett</td>	<td>Scottsdale, AZ</td>	<td></td>	<td>Modified Pinyons Loop</td>
+</tr>
+
+<tr>
+<td>Rick Honsinger</td>	<td>Williams, AZ</td>	<td>DNF</td>	<td></td>
 </tr>
 
 </tbody>
@@ -124,11 +212,19 @@ The 2020 Grand Depart took place at 6am on Saturday, October 10.
 </tr>
 
 <tr>
-<td>???</td>	<td>???</td>	<td>???</td>	<td>???</td>
+<td>Ian Crombie</td>	<td>Tucson, AZ</td>	<td></td>	<td>Completed a modified loop</td>
 </tr>
 
 <tr>
-<td>???</td>	<td>???</td>	<td>???</td>	<td>???</td>
+<td>Artec Durham</td>	<td>Flagstaff, AZ</td>	<td>DNF</td>	<td>Completed a modified loop</td>
+</tr>
+
+<tr>
+<td>Rich Wolf</td>	<td>Julian, CA</td>	<td>DNF</td>	<td></td>
+</tr>
+
+<tr>
+<td>Anthony Farley</td>	<td>Salt Lake City, UT</td>	<td>DNF</td>	<td></td>
 </tr>
 
 </tbody>
