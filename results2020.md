@@ -10,147 +10,37 @@ layout: default
 
 ## 2020 Results
 
-Results will be posted here within a day or two of the conclusion of the race.
+We had a much higher finishing rate than 2019, but the heat, lack of water, and dust still took its toll on the field.
 
-#### Grand Depart
+### Grand Depart
 
-The 2020 Grand Depart is currently scheduled for Saturday, October 10.
+The 2020 Grand Depart took place at 6am on Saturday, October 10.
 
-<!-- <center>
+#### Pinyons and Pines (full course)
+
+<center>
 <div class="table-responsive">
 <table class="table table-striped">
 <thead>
 <tr>
 <th>Name</th>
-<th>Southern Loop</th>
-<th>Full Course</th>
+<th>Hometown</th>
+<th>Elapsed Time</th>
 <th>Notes</th>
 </tr>
 </thead>
 <tbody>
 
 <tr>
-<td>Ben Hanus (Buena Vista, CO)</td> <td>0:16:54</td> <td>1:17:20</td> <td>First place</td>
+<td>Brendan James Heinig</td> <td>Boulder, CO</td> <td>1:17:00</td> <td>First place male, men's course record</td>
 </tr>
 
 <tr>
-<td><a href="http://www.lostonabike.com/pinyons-and-pines/">Chris Seistrup</a> (Prescott, AZ)</td>	<td>0:16:49</td>	<td>1:20:10</td>	<td>Second place</td>
+<td>Cookie Mike</td>	<td>Bellvue, CO</td>	<td>1:21:45</td>	<td>Second place male</td>
 </tr>
 
 <tr>
-<td>Chris Cone (Flagstaff, AZ)</td>	<td>0:12:53</td>	<td></td>	<td>Dropped out at mile 232, fastest time for southern loop</td>
-</tr>
-
-<tr>
-<td>Dana Ernst (Flagstaff, AZ)</td>	<td>0:12:59</td>	<td></td>	<td>Dropped out at mile 255</td>
-</tr>
-
-<tr>
-<td>Ty Hopkins (American Fork, UT)</td> <td>0:12:59</td>	<td></td>	<td>Only southern loop</td>
-</tr>
-
-<tr>
-<td>Luke Ratliff (Fort Collins, CO)</td> <td>0:13:52</td>	<td></td>	<td>Only southern loop</td>
-</tr>
-
-<tr>
-<td>Micah Clinger (Flagstaff, AZ)</td> <td>0:13:52</td>	<td></td>	<td>Dropped out somewhere near Kendrick Mountain, slept at home</td>
-</tr>
-
-<tr>
-<td><a href="https://www.youtube.com/watch?v=y7pIqSvOfiE">Mack Gerrit</a> (Corona, CA)</td> <td>0:14:50</td>	<td></td>	<td>Only southern loop</td>
-</tr>
-
-<tr>
-<td>Dave Harris (St George, UT)</td> <td>0:15:02</td>	<td></td>	<td>Only southern loop</td>
-</tr>
-
-<tr>
-<td>Artec Durham (Flagstaff, AZ)</td> <td>0:16:55</td>	<td></td>	<td>Dropped out at mile 151</td>
-</tr>
-
-<tr>
-<td>Andy Havey (Plymouth, NH)</td> <td>0:17:15</td>	<td></td>	<td>Only southern loop</td>
-</tr>
-
-<tr>
-<td>Billy McMillen (Prescott, AZ)</td> <td>0:20:39</td>	<td></td>	<td>Only southern loop</td>
-</tr>
-
-<tr>
-<td>Brad Mattingly (Flagstaff, AZ)</td> <td>1:02:51</td>	<td></td>	<td>Dropped out at mile 141</td>
-</tr>
-
-<tr>
-<td>Russ Cummings (Prescott, AZ)</td> <td>1:02:51</td>	<td></td>	<td>Dropped out at mile 153</td>
-</tr>
-
-<tr>
-<td>Chris Kuzdas (Flagstaff, AZ)</td> <td>1:03:01</td>	<td></td>	<td>Dropped out at mile 153</td>
-</tr>
-
-<tr>
-<td>Dylan Turner (Tucson, AZ)</td> <td>1:03:15</td>	<td></td>	<td>Dropped out at mile 137</td>
-</tr>
-
-<tr>
-<td><a href="https://carefreewanderings.com/pinyons-and-pines-2019-fun-with-singletrack-and-snow-storms/?fbclid=IwAR3dgGCMAFy7DzIBO8vDeIRYdSmJydN419gjlpOko7mySCbfEDuOnGQcOKM">Lindsay Shepard</a> (Albuquerque, NM)</td> <td>1:03:16</td>	<td></td>	<td>Dropped out at mile 184</td>
-</tr>
-
-<tr>
-<td>Bill Akens (Flagstaff, AZ)</td> <td>1:03:26</td>	<td></td>	<td>Dropped out at mile 141</td>
-</tr>
-
-<tr>
-<td>Matthew Pacheco (Flagstaff, AZ)</td> <td>1:03:26</td>	<td></td>	<td>Only southern loop</td>
-</tr>
-
-<tr>
-<td>Jeff Taylor (Bend, OR)</td> <td>1:04:42</td>	<td></td>	<td>Only southern loop</td>
-</tr>
-
-<tr>
-<td>Brian Martin (Salt Lake City, UT)</td> <td>1:05:23</td>	<td></td>	<td>Dropped out at mile 130</td>
-</tr>
-
-<tr>
-<td>Jake Keyser (Fort Collins, CO)</td> <td>1:05:36</td>	<td></td>	<td>Dropped out at mile 137</td>
-</tr>
-
-<tr>
-<td>Spencer Holmes (Chico, CA)</td> <td>1:08:46</td>	<td></td>	<td>Only southern loop</td>
-</tr>
-
-<tr>
-<td>Adam Lisonbee (Highland, UT)</td> <td></td>	<td></td>	<td>Dropped out at mile 110</td>
-</tr>
-
-<tr>
-<td>Mike Enfield (Show Low, AZ)</td> <td></td>	<td></td>	<td>Dropped out at mile 80 with injured hand</td>
-</tr>
-
-<tr>
-<td>Nick Armstrong (Felton, CA)</td> <td></td>	<td></td>	<td>Dropped out at mile 67 with kidney issues</td>
-</tr>
-
-<tr>
-<td>Wayne Mosser (Ramona, CA)</td> <td></td>	<td></td>	<td>Dropped out at mile 67</td>
-</tr>
-
-<tr>
-<td>Patrick Lyons (Cortez, CO)</td> <td></td>	<td></td>	<td>Dropped out at mile 67</td>
-</tr>
-
-<tr>
-<td>John Schilling (Queen Creek, AZ)</td> <td></td>	<td></td>	<td>Rode part of northern loop before crashing out</td>
-</tr>
-
-<tr>
-<td>Liz Sampey (Van Life)</td> <td></td>	<td></td>	<td>Joined in for Grand Depart and rode to Sedona</td>
-</tr>
-
-<tr>
-<td>Robin Schwartz (Flagstaff, AZ)</td> <td></td>	<td></td>	<td>Joined in for Grand Depart and rode out to top of Casner Mountain and back</td>
+<td>???</td>	<td>???</td>	<td>???</td>	<td>???</td>
 </tr>
 
 </tbody>
@@ -158,43 +48,95 @@ The 2020 Grand Depart is currently scheduled for Saturday, October 10.
 </div>
 </center>
 
-#### Duo Grand Depart
+#### Pinyons Loop
 
 <center>
 <div class="table-responsive">
 <table class="table table-striped">
 <thead>
 <tr>
-<th>Team Names</th>
-<th>Southern Loop</th>
-<th>Full Course</th>
+<th>Name</th>
+<th>Hometown</th>
+<th>Elapsed Time</th>
 <th>Notes</th>
 </tr>
 </thead>
 <tbody>
 
 <tr>
-<td>Rich Wolf (Julian, CA), Sharon Sell (Boise, ID)</td> <td>1:10:09</td>	<td></td>	<td>Only southern loop</td>
+<td>Dana Ernst</td> <td>Flagstaff, AZ</td> <td>0:20:58</td> <td>Only finisher of complete Pinyons Loop</td>
 </tr>
 
 <tr>
-<td>Oliver Sieghart (Westlake Village, CA), Eric Brown (Westlake Village, CA)</td> <td>1:09:19</td>	<td></td>	<td>Only southern loop with some deviations</td>
+<td>???</td>	<td>???</td>	<td>???</td>	<td>???</td>
 </tr>
 
 <tr>
-<td>Scott Chenue (Castro Valley, CA), Jeffrey Leenhouts (Castro Valley, CA)</td> <td></td>	<td></td>	<td>Dropped out at mile 67</td>
-</tr>
-
-<tr>
-<td>Jason Hanson (Florence, AZ), Jennifer Hanson (Florence, AZ)</td> <td></td>	<td></td>	<td>Rode part of northern loop</td>
+<td>???</td>	<td>???</td>	<td>???</td>	<td>???</td>
 </tr>
 
 </tbody>
 </table>
 </div>
-</center> -->
+</center>
 
-#### Individual Time Trials
+#### Duo Pinyons and Pines (full course)
+
+<center>
+<div class="table-responsive">
+<table class="table table-striped">
+<thead>
+<tr>
+<th>Name</th>
+<th>Hometown</th>
+<th>Elapsed Time</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td>Daniel Dickason and Carlos Danel</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td>Dropped out in Sedona</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+</center>
+
+#### Pines Loop
+
+<center>
+<div class="table-responsive">
+<table class="table table-striped">
+<thead>
+<tr>
+<th>Name</th>
+<th>Hometown</th>
+<th>Elapsed Time</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td>Brad Mattingly</td> <td>Flagstaff, AZ</td> <td>1:10:45</td> <td>Only finisher of complete Pines Loop</td>
+</tr>
+
+<tr>
+<td>???</td>	<td>???</td>	<td>???</td>	<td>???</td>
+</tr>
+
+<tr>
+<td>???</td>	<td>???</td>	<td>???</td>	<td>???</td>
+</tr>
+
+</tbody>
+</table>
+</div>
+</center>
+
+### Individual Time Trials
 
 <center>
 <div class="table-responsive">
@@ -212,7 +154,7 @@ The 2020 Grand Depart is currently scheduled for Saturday, October 10.
 <tbody>
 
 <tr>
-<td>Liz&nbsp;Carrington</td> <td>Durango,&nbsp;CO</td> <td>5/22/20</td> <td>1:03:12</td>	<td>2:11:59</td>	<td>Current fastest time. Several bonus miles on AZT prior to end of southern portion.</td>
+<td>Liz&nbsp;Carrington</td> <td>Durango,&nbsp;CO</td> <td>5/22/20</td> <td>1:03:12</td>	<td>2:11:59</td>	<td>Several bonus miles on AZT prior to end of southern portion.</td>
 </tr>
 
 <tr>
@@ -248,7 +190,7 @@ The 2020 Grand Depart is currently scheduled for Saturday, October 10.
 </tr>
 
 <tr>
-<td>Nate&nbsp;Woiwode</td> <td>Tucson,&nbsp;AZ</td> <td>9/20/20</td>	<td>4:13:00</td> <td></td> <td>Fully rigid single speed and some stomach issues in Sedona.</td>
+<td>Nate&nbsp;Woiwode</td> <td>Tucson,&nbsp;AZ</td> <td>9/20/20</td>	<td></td> <td>4:13:00</td> <td>Fully rigid single speed and some stomach issues in Sedona.</td>
 </tr>
 
 </tbody>
