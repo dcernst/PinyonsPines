@@ -216,7 +216,7 @@ The 2020 Grand Depart took place at 6am on Saturday, October 10.
 </tr>
 
 <tr>
-<td>Artec Durham</td>	<td>Flagstaff, AZ</td>	<td>DNF</td>	<td>Completed a modified loop</td>
+<td>Artec Durham</td>	<td>Flagstaff, AZ</td>	<td></td>	<td>Completed a modified loop</td>
 </tr>
 
 <tr>
