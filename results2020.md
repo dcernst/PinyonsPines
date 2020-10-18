@@ -52,7 +52,7 @@ The 2020 Grand Depart took place at 6am on Saturday, October 10.
 </tr>
 
 <tr>
-<td>Elizabeth Sampey</td>	<td>Carbondale, CO</td>	<td>2:08:40</td>	<td>Second place female</td>
+<td>Elizabeth Sampey</td>	<td>Carbondale, CO</td>	<td>2:09:30</td>	<td>Second place female</td>
 </tr>
 
 <tr>
