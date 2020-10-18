@@ -80,7 +80,7 @@ The 2020 Grand Depart took place at 6am on Saturday, October 10.
 </div>
 </center>
 
-#### Duo Pinyons and Pines (full course)
+#### Duo Pinyons Loop
 
 <center>
 <div class="table-responsive">
