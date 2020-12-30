@@ -22,7 +22,7 @@ We will cap the total number of riders for all three options at 50. Riders will 
 </div>
 <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 <div class="alert alert-info" role="alert">
-<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2021 edition of Pinyons and Pines is tentatively scheduled to start on <strong>Thursday, May 20</strong>. We will start at 6AM at Flagstaff Bicycle Revolution.
+<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2021 edition of Pinyons and Pines is tentatively scheduled to start at 6AM on <strong>Thursday, May 20</strong> at Flagstaff Bicycle Revolution.
 
 <!-- <hr>
 <center>
