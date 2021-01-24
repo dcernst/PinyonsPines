@@ -1,0 +1,41 @@
+---
+title: 2020 Course
+author: Dana Ernst
+layout: default
+---
+
+<img src="{{ site.baseurl }}/images/CinderCones-Refsnider.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
+
+<i class="fas fa-camera fa-lg"></i>&nbsp; Photo by <a href="https://www.ultramtb.net/about-kurt-refsnider.html#/" target="_blank">Kurt Refsnider</a>
+
+## 2021 Course Description
+
+<div class="alert alert-info" role="alert">
+<strong>Important!</strong> The course for the 2021 edition of Pinyons and Pines coming soon!
+</div>
+
+Pinyons and Pines is an underground self-supported bikepacking race that starts and ends in Flagstaff, AZ (6,910 feet). The route is a magnificent tour of Northern Arizona, utilizing a mixture of singletrack, double track, and dirt roads.  The start and finish are at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com).
+
+The 2021 edition of Pinyons and Pines will start at 6:00AM on Thursday, May 20. The course changes each year and for 2021 we are going to mix things up a bit. This year’s course will be roughly 300 miles and will consist of one big southern loop. In light of the COVID-19 pandemic, which will still be an issue in May, we will cap the total number of riders at 50. Riders will also be required to wear masks and use hand sanitizer when resupplying.
+
+Flagstaff sits at the base of the [San Francisco Peaks](https://en.wikipedia.org/wiki/San_Francisco_Peaks), on homelands sacred to Native Americans throughout the region.  The Peaks, which includes [Humphreys Peak](https://en.wikipedia.org/wiki/Humphreys_Peak) (12,633 feet), the highest point in Arizona, have religious significance to several Native American tribes. In particular, the Peaks form the [Diné](https://en.wikipedia.org/wiki/Navajo) (Navajo) sacred mountain of the west, called Dook'o'oosłííd, which means "the summit that never melts". The [Hopi](https://en.wikipedia.org/wiki/Hopi) name for the Peaks is Nuva'tukya'ovi, which translates to "place-of-snow-on-the-very-top".  This year's course traverses the ancestral homelands of the [Hopi](https://en.wikipedia.org/wiki/Hopi), [Ndee/Nnēē](https://en.wikipedia.org/wiki/Western_Apache_people) (Western Apache), [Yavapai](https://en.wikipedia.org/wiki/Yavapai), [A:shiwi](https://en.wikipedia.org/wiki/Zuni_people) (Zuni Pueblo), and [Diné](https://en.wikipedia.org/wiki/Navajo) (Navajo). We honor their past, present, and future generations, who have lived here for millennia and will forever call this place home.
+
+**Important!** This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time in comparison to others. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
+
+<!-- Due to construction on south campus of NAU, the first few miles of the route have been modified. The race is on after the group crosses Mt. Dell Road, roughly mile 4.5. Riders will turn right about a mile later and follow singletrack for several miles before reaching Woody Mountain Road. The route then heads south following mostly dirt roads and eventually descends [Casner Mountain Trail](https://www.fs.usda.gov/recarea/coconino/recarea/?recid=55262) to the red rock of [Sedona](https://en.wikipedia.org/wiki/Sedona,_Arizona) (4,350 feet). Be careful descending Casner Mountain! More dirt roads eventually deposit riders onto some of Sedona's best singletrack as the route navigates towards the bottom of Schnebly Hill Road. Riders should be sure to refuel and stock up on food and water before ascending Schnebly Hill Road. After crossing under Interstate 17, the route weaves its way east via a network of Forest Service roads to meet up with the [Arizona Trail](https://aztrail.org) above [Mormon Lake](https://en.wikipedia.org/wiki/Mormon_Lake), Arizona's largest natural lake. The route then follows the AZT north via mostly singletrack for a few miles before turning onto dirt roads, which riders will follow until reaching Lake Mary Road. After a couple miles of pavement, the route climbs up to Marshall Lake to rejoin the AZT, which riders will follow (choosing the equestrian bypass option at roughly mile 132.5) until Campbell Mesa. The route follows a few miles of single track through Campbell Mesa and then rejoins the AZT. The Southern Portion officially ends where the route crosses under Route 89. A 24-hour resupply option is a short distance to the southwest just before the tunnel.
+
+The Northern Portion (154 miles) winds its way through Ponderosa pine forests and grasslands among hundreds of extinct volcanoes. The centerpiece of the second loop is the [San Francisco Peaks](https://en.wikipedia.org/wiki/San_Francisco_Peaks), home to [Humphreys Peak](https://en.wikipedia.org/wiki/Humphreys_Peak) (12,633 feet), the highest point in Arizona.  The Peaks have religious significance to several Native American tribes. In particular, the Peaks form the [Diné](https://en.wikipedia.org/wiki/Navajo) (Navajo) sacred mountain of the west, called Dook'o'oosłííd, which means "the summit that never melts". The [Hopi](https://en.wikipedia.org/wiki/Hopi) name for the Peaks is Nuva'tukya'ovi, which translates to "place-of-snow-on-the-very-top". After refueling at the Conoco on 89A, the Northern Portion begins by heading north on the AZT towards Schultz Pass.  From Schultz Pass, the route climbs Waterline Road for nearly 10 miles before descending on the Inner Basin Trail (yield to hikers!) to Lockett Meadow.  A quick descent on a dirt road leads riders to the entrance to Sunset Crater National Monument. After a few miles of pavement, the route turns north onto black cinder roads that loop around O'Leary Peak.  Shortly after crossing Route 89, the route navigates its way past numerous cinder cone volcanoes, the most magnificent of which is SP Crater. Several miles of dirt roads through the grasslands of Babbitt Ranch lead riders to an AZT cache box (mile 215). Instead of following the AZT, the route ascends on dusty double track to Route 180. After crossing the highway, more double track and dirt roads pass by Slate Mountain and eventually climb up onto the northern shoulder of Kendrick Peak. Riders arrive in Pumpkin Center after descending from Bull Basin and then weave their way through the beautiful grasslands of Government Prairie. After resupplying in the town of Parks, the route heads back north passing along the eastern edge of Government Prairie, eventually passing Wild Bill Hill and Antelope Hill.  A few miles of smooth dirt roads lead riders to Route 180, which they will follow for a mile before turning east on more dirt.  After a couple of quick miles, the route turns north onto the Peaks Moto Trail.  The next 8 miles are a mix of sweet and sometimes rugged singletrack mixed in with short stretches of hike-a-bike. When the route reaches the AZT, riders will turn south and follow the AZT for nearly 20 miles before reaching Schultz Creek Trail. A fun 4-mile descent on singletrack deposits riders near Route 180.  A few more miles, mostly on the FUTS urban trail, returns riders back to where they started. -->
+
+Below are some important notes, including information concerning resupply options for food and water. All mileages are approximate.
+
+### Route information
+
+- Coming soon...
+
+<br>
+
+<center>
+<iframe src="https://ridewithgps.com/embeds?type=route&id=32760734&sampleGraph=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
+</center>
+
+<br>
