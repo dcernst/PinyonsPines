@@ -5,24 +5,18 @@ title: Pinyons and Pines
 
 <img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
 
-Pinyons and Pines is an underground self-supported bikepacking race that starts and ends in [Flagstaff, AZ](https://en.wikipedia.org/wiki/Flagstaff,_Arizona) (6,910 feet). The route is a magnificent tour of Northern Arizona, utilizing a mixture of singletrack, double track, and dirt roads.  The start and finish are at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com). The course for 2020 is roughly 303 miles and consists of a Southern Portion (149 miles) and the Northern Portion (153 miles). The total elevation gain for the route is about 24,000 feet, split evenly between the two portions. The Southern Portion passes through [Sedona](https://en.wikipedia.org/wiki/Sedona,_Arizona) (4,350 feet) prior to following a mixture of dirt roads and the [Arizona Trail](https://aztrail.org) back to Flagstaff.  The Northern Portion circumnavigates several extinct volcanoes, including the [San Francisco Peaks](https://en.wikipedia.org/wiki/San_Francisco_Peaks), home to [Humphreys Peak](https://en.wikipedia.org/wiki/Humphreys_Peak) (12,633 feet), the highest point in Arizona. Each year, the Southern Portion will more or less stay the same while the Northern Portion will differ from year to year, typically alternating between a clockwise and a counterclockwise orientation. Most years the Northern Portion will overlap substantially with the popular [Craters and Cinder Cones Loop](https://www.bikepackingroots.org/craters-and-cinder-cones.html). The race organizer is [Dana Ernst](http://danaernst.com). Please [contact me](mailto:ernst.tribe@gmail.com) with any questions or concerns.
+Pinyons and Pines is an underground self-supported bikepacking race that starts and ends in [Flagstaff, AZ](https://en.wikipedia.org/wiki/Flagstaff,_Arizona) (6,910 feet). The route is a magnificent tour of Northern Arizona, utilizing a mixture of singletrack, double track, and dirt roads.  The start and finish are at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com). The 2021 edition of Pinyons and Pines will start at 6:00AM on **Thursday, May 20**. The course changes each year and for 2021 we are going to mix things up a bit. This year’s course will be roughly 300 miles and will consist of one big southern loop. In light of the COVID-19 pandemic, which will still be an issue in May, we will cap the total number of riders at 50. Riders will also be required to wear masks and use hand sanitizer when resupplying. The race organizer is [Dana Ernst](http://danaernst.com). Please [contact me](mailto:ernst.tribe@gmail.com) with any questions or concerns.
+
+Flagstaff sits at the base of the [San Francisco Peaks](https://en.wikipedia.org/wiki/San_Francisco_Peaks), on homelands sacred to Native Americans throughout the region.  The Peaks, which includes [Humphreys Peak](https://en.wikipedia.org/wiki/Humphreys_Peak) (12,633 feet), the highest point in Arizona, have religious significance to several Native American tribes. In particular, the Peaks form the [Diné](https://en.wikipedia.org/wiki/Navajo) (Navajo) sacred mountain of the west, called Dook'o'oosłííd, which means "the summit that never melts". The [Hopi](https://en.wikipedia.org/wiki/Hopi) name for the Peaks is Nuva'tukya'ovi, which translates to "place-of-snow-on-the-very-top".  This year's course traverses the ancestral homelands of the [Hopi](https://en.wikipedia.org/wiki/Hopi), [Ndee/Nnēē](https://en.wikipedia.org/wiki/Western_Apache_people) (Western Apache), [Yavapai](https://en.wikipedia.org/wiki/Yavapai), [A:shiwi](https://en.wikipedia.org/wiki/Zuni_people) (Zuni Pueblo), and [Diné](https://en.wikipedia.org/wiki/Navajo) (Navajo). We honor their past, present, and future generations, who have lived here for millennia and will forever call this place home.
 
 Riders can choose between two categories: solo or duo (2-person team). Please consult the [rules]({{ site.baseurl }}/rules) prior to registering for the event. Feel free to ask questions on the event's [Facebook group](https://www.facebook.com/groups/PinyonsAndPines/) (or post in the forum on [bikepacking.net](http://bikepacking.net)).  Check out the event recaps for [2019](https://bikepacking.com/news/2019-pinyons-pines-event-recap/) and [2020](https://bikepacking.com/news/2020-pinyons-and-pines-event-recap/) on [Bikepacking.com](http://bikepacking.com).
-
-<!-- Partly to satisfy some requests, but mostly to spread people out in light of the pandemic, there will be three options. Click link to access corresponding GPX track.
-
-- [Pinyons and Pines](https://ridewithgps.com/routes/32760734): Full course! (303 miles)
-- [Pinyons Loop](https://ridewithgps.com/routes/33789032): Southern portion of P&P up to Schultz Pass and then Schultz Creek Trail and some FUTS urban trail back to start. (167 miles)
-- [Pines Loop](https://ridewithgps.com/routes/33789363): Start with a climb up Elden Lookout Road and then descend the newly constructed Heart Trail to join with the northern portion of P&P. (164 miles)
-
-We will cap the total number of riders for all three options at 50. Riders will be required to wear masks and use hand sanitizer when resupplying. If you’ve already signed up for full P&P but would like to switch to one of the shorter options, let me know. -->
 
 <div class="row">
 <div class="col-md-2 col-lg-2">
 </div>
 <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 <div class="alert alert-info" role="alert">
-<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2021 edition of Pinyons and Pines is tentatively scheduled to start at 6AM on <strong>Thursday, May 20</strong> at Flagstaff Bicycle Revolution.
+<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2021 edition of Pinyons and Pines is scheduled to start at 6AM on <strong>Thursday, May 20</strong> at Flagstaff Bicycle Revolution.
 
 <!-- <hr>
 <center>
@@ -45,7 +39,7 @@ We will cap the total number of riders for all three options at 50. Riders will 
 
 The event will utilize [Trackleaders](http://trackleaders.com), providing a live map, elevation profile and other stats that can be used to follow along. Carrying a personal tracker (e.g., [SPOT](https://www.findmespot.com/en/), [Garmin InReach](https://explore.garmin.com/en-US/inreach/)) and being tracked by trackleaders is not mandatory but encouraged. Owners of personal trackers can expect to pay $15 to add their own device to Trackleaders. SPOT rentals (approximately $60 for a SPOT Gen3 with 5min tracking service and SOS) will also be available. Tracking signup link will be available about a month before race start.
 
-Below is the route we used in October 2020.  The route for 2021 is going to mix things up a bit, but it'll be just as good if not better.
+Below is the route we used in October 2020.  The route for 2021 is going to mix things up a bit, but it'll be just as good if not better. We will post the route for 2021 soon!
 
 <br>
 
