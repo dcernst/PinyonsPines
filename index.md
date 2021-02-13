@@ -31,7 +31,7 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 </div>
 <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 <div class="alert alert-info" role="alert">
-<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2021 edition of Pinyons and Pines is scheduled to start at 6AM on <strong>Thursday, May 20</strong> at Flagstaff Bicycle Revolution.
+<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2021 edition of Pinyons and Pines starts at 6AM on <strong>Thursday, May 20</strong> at Flagstaff Bicycle Revolution.
 
 <!-- <hr>
 <center>
@@ -59,7 +59,7 @@ The route for 2021 is going to mix things up a bit, but it'll be just as good if
 <br>
 
 <center>
-<iframe src='https://www.gaiagps.com/public/cwrxYouBzGakUCJxOo52zRGC?embed=True' style='border:none; overflow-y: hidden; background-color:white; min-width: 90%; height: 600px;' scrolling='no' seamless='seamless'></iframe>
+<iframe src='https://www.gaiagps.com/public/Pe2ir2YeyDwcjqIlXYxDPFkZ?embed=True' style='border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:95%px; width:100%; height: 95%px;' scrolling='no' seamless='seamless'></iframe>
 </center>
 
 <center>
