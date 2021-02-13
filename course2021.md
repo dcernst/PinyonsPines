@@ -41,6 +41,6 @@ This year's route is a departure from what we've done the past two years. The cu
 - The Camp Verde area has the potential to be the warmest part of the course, but I'm hoping that most people will be passing through during the evening on the first day or early I the morning on the second day, so I think it'll be perfect.
 - The second half of the course has a lot of single track on it and will certainly take longer than the first half.
 - There is some hike-a-bike around miles 193-196 as we gain the Mogollon Rim.
-- One thing I am uncertain about is whether camping is legal along Fossil Creek Road (roughly between Camp Verde and Strawberry). I know we can ride through without a permit, but I'm guessing that camping on that stretch is a not allowed.  I'll update when I have more info.
+- You are allowed to camp along the first 10 miles of Fossil Springs Road, but after mile 10, you are not allowed to camp for roughly the next 10 miles (miles 153.6-164).
 
 I will post more details once the route is finalized.
