@@ -5,9 +5,20 @@ title: Pinyons and Pines
 
 <img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
 
-<div class="alert alert-info" role="alert">
-<strong>We have reached capacity!  If you are interested in being on a waitlist, please contact me.</strong>
+<div class="row">
+<div class="col-md-2 col-lg-2">
 </div>
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+<div class="alert alert-info" role="alert">
+<i class="fas fa-bicycle fa-lg"></i>&nbsp; We have reached capacity!  If you are interested in being on a waitlist, please contact me.
+</div>
+</div>
+<div class="col-md-2 col-lg-2"></div>
+</div>
+
+<!-- <div class="alert alert-info" role="alert">
+<strong>We have reached capacity!  If you are interested in being on a waitlist, please contact me.</strong>
+</div> -->
 
 Pinyons and Pines is an underground self-supported bikepacking race that starts and ends in [Flagstaff, AZ](https://en.wikipedia.org/wiki/Flagstaff,_Arizona) (6,910 feet). The route is a magnificent tour of Northern Arizona, utilizing a mixture of singletrack, double track, and dirt roads.  The start and finish are at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com). The 2021 edition of Pinyons and Pines will start at 6:00AM on **Thursday, May 20**. The course changes each year and for 2021 we are going to mix things up a bit. This year’s course will be roughly 310 miles and will consist of one big southern loop. In light of the COVID-19 pandemic, which will still be an issue in May, we will cap the total number of riders at 50. Riders will also be required to wear masks and use hand sanitizer when resupplying. The race organizer is [Dana Ernst](http://danaernst.com). Please [contact me](mailto:ernst.tribe@gmail.com) with any questions or concerns.
 
@@ -48,7 +59,7 @@ The route for 2021 is going to mix things up a bit, but it'll be just as good if
 <br>
 
 <center>
-<iframe src='https://www.gaiagps.com/public/cwrxYouBzGakUCJxOo52zRGC?embed=True' style='border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:95%; height: 420px;' scrolling='no' seamless='seamless'></iframe>
+<iframe src='https://www.gaiagps.com/public/cwrxYouBzGakUCJxOo52zRGC?embed=True' style='border:none; overflow-y: hidden; background-color:white; min-width: 90%; height: 600px;' scrolling='no' seamless='seamless'></iframe>
 </center>
 
 <center>
