@@ -48,6 +48,10 @@ The route for 2021 is going to mix things up a bit, but it'll be just as good if
 <br>
 
 <center>
+<iframe src='https://www.gaiagps.com/public/cwrxYouBzGakUCJxOo52zRGC?embed=True' style='border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:95%; height: 420px;' scrolling='no' seamless='seamless'></iframe>
+</center>
+
+<center>
 <iframe src="https://ridewithgps.com/embeds?type=route&id=34815265&sampleGraph=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
 </center>
 
