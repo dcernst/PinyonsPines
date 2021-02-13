@@ -25,24 +25,22 @@ Here is a draft of the proposed route for 2021.
 <br>
 
 <center>
-<iframe src="https://ridewithgps.com/embeds?type=route&id=34815265&sampleGraph=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=route&id=35134531&sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 </center>
 
 <br>
 
 ### Route Information
 
-This year's route is a departure from what we've done the past two years. The current draft is 310 miles with 24,000 feet of climbing. The intention is to do the loop in the counterclockwise direction, but perhaps we can let folks choose which way to go.  Some general comments:
+This year's route is a departure from what we've done the past two years. The current draft is 312 miles with 25,000 feet of climbing. The intention is to do the loop in the counterclockwise direction, but perhaps we can let folks choose which way to go.  Some general comments:
 
-- I have no intentions of making the route longer, but it could get a little shorter. In particular, I might change the portion from mile 272 to mile 290, but if I do that, we will not be riding the AZT on Anderson Mesa. The AZT 800 and the Coconino 250 can have that section;)
-- I've personally ridden most of the route, but portions of miles 170-210 are new to me.  However, most of that terrain is well-established single track (e.g., cabin loops stuff) or dirt roads (e.g., FS 300).
 - I've added POIs for potential water sources, but it's important to point out that these are potential and not guarantees.  I suggest reading the notes I added to each POI. In particular, there's no guarantee that the water spigots at the campgrounds will be turned on during the race.  Obviously, I will update as I get more beta.
 - The route will pass through the towns of Parks, Jerome, Camp Verde, and Strawberry.  In addition, Mormon Lake Village isn't too far off route.
 - The first half of the route is spectacular in my opinion.  The section on Mingus Mountain after Jerome is particularly awesome.  I hope most of you can see this part during daylight. There isn't much single track on the first half, but you will not be disappointed.
 - The current draft has 10+ miles of pavement near Camp Verde.  There is a good shoulder for pretty much all of this. I may look for ways to minimize pavement on this section, but I actually think you'll thank me when you are on this portion of the route. Prior to this isn't easy and right after isn't easy either.
 - The Camp Verde area has the potential to be the warmest part of the course, but I'm hoping that most people will be passing through during the evening on the first day or early I the morning on the second day, so I think it'll be perfect.
 - The second half of the course has a lot of single track on it and will certainly take longer than the first half.
-- There is some hike-a-bike around miles 177-179 in Pine Canyon.
+- There is some hike-a-bike around miles 193-196 as we gain the Mogollon Rim.
 - One thing I am uncertain about is whether camping is legal along Fossil Creek Road (roughly between Camp Verde and Strawberry). I know we can ride through without a permit, but I'm guessing that camping on that stretch is a not allowed.  I'll update when I have more info.
 
 I will post more details once the route is finalized.
