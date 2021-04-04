@@ -51,15 +51,14 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 <tr>
 <th>Name</th>
 <th>Hometown</th>
-<th>Start&nbsp;Date</th>
 <th>Full&nbsp;Course</th>
-<th>Notes</th>
+<th>Start&nbsp;Date & Notes</th>
 </tr>
 </thead>
 <tbody>
 
 <tr>
-<td> </td> <td> </td> <td> </td> <td> </td>	<td> </td>
+<td> </td> <td> </td> <td> </td> <td> </td>
 </tr>
 
 </tbody>
