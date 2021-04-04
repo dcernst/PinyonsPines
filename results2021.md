@@ -4,7 +4,9 @@ author: Dana Ernst
 layout: default
 ---
 
+<center>
 <img src="{{ site.baseurl }}/images/2021PinyonsPines2.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="80%"/>
+</center>
 
 <i class="fas fa-camera fa-lg"></i>&nbsp; Artwork by <a href="https://www.dkoyawenaarts.com">Duane Koyawena.</a>
 
