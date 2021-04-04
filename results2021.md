@@ -50,7 +50,6 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 <th>Name</th>
 <th>Hometown</th>
 <th>Start&nbsp;Date</th>
-<th>Southern&nbsp;Portion</th>
 <th>Full&nbsp;Course</th>
 <th>Notes</th>
 </tr>
@@ -58,7 +57,7 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 <tbody>
 
 <tr>
-<td> </td> <td> </td> <td> </td> <td> </td>	<td> </td>	<td> </td>
+<td> </td> <td> </td> <td> </td> <td> </td>	<td> </td>
 </tr>
 
 </tbody>
