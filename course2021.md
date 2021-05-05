@@ -1,5 +1,5 @@
 ---
-title: 2020 Course
+title: 2021 Course
 author: Dana Ernst
 layout: default
 ---
@@ -27,7 +27,7 @@ Here is a draft of the proposed route for 2021.
 <br>
 
 <center>
-<iframe src="https://ridewithgps.com/embeds?type=route&id=35134531&sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=route&id=35861893&sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
 </center>
 
 <br>
