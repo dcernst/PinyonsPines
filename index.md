@@ -33,10 +33,10 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 <div class="alert alert-info" role="alert">
 <i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2021 edition of Pinyons and Pines starts at 6AM on <strong>Thursday, May 20</strong> at Flagstaff Bicycle Revolution.
 
-<!-- <hr>
+<hr>
 <center>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfTzutd3EjbA8s4sA0qCgnYIQwHvNM1M8ZJCN6j867e3ypTyA/viewform" class="alert-link" target="_blank">Register here!</a>
-</center> -->
+<a href="https://docs.google.com/forms/d/1L4pi7rns0zoXbd64g0gGPeSi_lDdUseP3MgYgXIPl74/edit" class="alert-link" target="_blank">Register here!</a>
+</center>
 
 <!--
 <hr>
