@@ -54,13 +54,9 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 The event will utilize [Trackleaders](http://trackleaders.com), providing a live map, elevation profile and other stats that can be used to follow along. Carrying a personal tracker (e.g., [SPOT](https://www.findmespot.com/en/), [Garmin InReach](https://explore.garmin.com/en-US/inreach/)) and being tracked by trackleaders is not mandatory but encouraged. Owners of personal trackers can expect to pay $15 to add their own device to Trackleaders. SPOT rentals (approximately $60 for a SPOT Gen3 with 5min tracking service and SOS) will also be available. Tracking signup link will be available about a month before race start.
 
-The route for 2021 is going to mix things up a bit, but it'll be just as good if not better. Below is a draft of the proposed route for 2021.
+The route for 2021 is going to mix things up a bit, but it'll be just as good if not better. Below is the proposed route for 2021.
 
 <br>
-
-<!-- <center>
-<iframe src='https://www.gaiagps.com/public/oIiSQUVgnSv5ZYKYLUKlRCrj?embed=True' style='border:none; overflow-y: hidden; background-color:white; min-width: 320px; max-width:420px; width:100%; height: 420px;' scrolling='no' seamless='seamless'></iframe>
-</center> -->
 
 <center>
 <iframe src="https://ridewithgps.com/embeds?type=route&id=35861893&sampleGraph=true" style="width: 1px; min-width: 90%; height: 600px; border: none;" scrolling="no"></iframe>
