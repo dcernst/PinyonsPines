@@ -69,4 +69,4 @@ Comments about water and resupply:
 - Mile 261.6: Dairy Springs Campground. Where the route turns to head up Mormon Mountain, instead turn right and descent to campground. Water spigot should be on.
 - Mile 268.3: Weimer Spring. I checked this out a week or so ago and there wasn’t much water.
 - Mile 283.1: Lake Mary Country Store.
-- Mile 283.8: Access to Upper Lake Mary. Scramble down near fenced parking area.
+- Mile 286.7: Detour to Upper Lake Mary. Instead of turning up towards Marshall Lake, continue on Lake Mary Road until you see the lake. Scramble down near fenced parking area.
