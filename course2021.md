@@ -55,18 +55,18 @@ Comments about water and resupply:
 - Mile 99.3 (approximate): There is a piped spring on the right. It was flowing strong a couple months ago, but no guarantees that it is still flowing.
 - Mile 133: Town of Camp Verde. A few 24 hours options.
 - Mile 141.7: Clear Creek Campground. Water spigot.
-- Mile 158.3: Fossil Creek. You can easily access river in a few spots.
+- Mile 158.3: Fossil Creek. You can easily access river in a few spots. However, the mineral content of the water is very high, so you might want to skip getting water here.
 - Mile 169.2: Town of Strawberry. Limited hours, so plan accordingly. The PIEbar is excellent if it is open when you pass through.
 - Mile 173.5: Town of Pine. Route passes the Ponderosa Market (grocery store), but hours are limited, so plan accordingly. Uncle Tom’s Kwik Stop is roughly a half mile to the north on HWY 260. There is a water dispenser outside that is available 24 hours per day. You need quarters to use the machine.
 - Mile 179.6 (approximate): After topping out on Donahue Trail, there is a stock tank with water in it.
-- Mile 204.6: Aspen Spring. Usually flowing, but the Stempke’s tell me that it is nothing but a trickle.
-- Mile 205.9: The trail crosses a small creek near Pinchot Spring.
-- Mile 212.7: Water in Clear Creek at bottom of Barbershop Canyon.
-- Mile 219: Instead of crossing over HWY 87, turn left and ride a short distance to ranger station. There is a water spigot behind the first building on the right.
-- Mile 239.4: Bargaman Tank. This stock tank likely has water in it.
-- Mile 255.4: Detour to town of Mormon Lake.
-- Mile 260: Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
-- Mile 261.7: Dairy Springs Campground. Where the route turns to head up Mormon Mountain, instead turn right and descent to campground. Water spigot should be on.
-- Mile 268.4: Weimer Spring. I checked this out a week or so ago and there wasn’t much water.
-- Mile 283.2: Lake Mary Country Store.
-- Mile 283.9: Access to Upper Lake Mary. Scramble down near fenced parking area.
+- Mile 204.5: Aspen Spring. Usually flowing, but the Stempke’s tell me that it is nothing but a trickle.
+- Mile 205.8: The trail crosses a small creek near Pinchot Spring.
+- Mile 212.6: Water in Clear Creek at bottom of Barbershop Canyon.
+- Mile 218.9: Instead of crossing over HWY 87, turn left and ride a short distance to ranger station. There is a water spigot behind the first building on the right.
+- Mile 239.3: Bargaman Tank. This stock tank likely has water in it.
+- Mile 255.3: Detour to town of Mormon Lake if you are in need of food, etc.
+- Mile 259.9: Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
+- Mile 261.6: Dairy Springs Campground. Where the route turns to head up Mormon Mountain, instead turn right and descent to campground. Water spigot should be on.
+- Mile 268.3: Weimer Spring. I checked this out a week or so ago and there wasn’t much water.
+- Mile 283.1: Lake Mary Country Store.
+- Mile 283.8: Access to Upper Lake Mary. Scramble down near fenced parking area.
