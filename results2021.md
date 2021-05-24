@@ -159,7 +159,7 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 <tr>
 <td>Ben Hanus</td> <td>Buena Vista, CA</td> <td></td> <td>Scratch at Sycamore Rim.</td>
 </tr>
-</tr>
+
 </tbody>
 </table>
 </div>
