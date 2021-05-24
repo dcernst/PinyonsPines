@@ -31,8 +31,8 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 <th>Notes</th>
 </tr>
 </thead>
-<tbody>
 
+<tbody>
 <tr>
 <td>Andrew Strempke</td> <td>Van Life</td> <td>2:00:05</td> <td>First place overall! Single speed.</td>
 </tr>
@@ -100,64 +100,64 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 <td>Lindsay, Nohl</td> <td>Victor, ID</td> <td>???</td> <td></td>
 </tr>
 <tr>
-<td>Kevin Emery</td> <td>Victor, ID</td> <td></td> <td>Scratch at Lake Mary Road, rode pavement back to town.</td>
+<td>Kevin Emery</td> <td>Victor, ID</td> <td>DNF</td> <td>Scratch at Lake Mary Road, rode pavement back to town.</td>
 </tr>
 <tr>
-<td>Billy Nixon</td> <td>Victor, ID</td> <td></td> <td>Scratch at Lake Mary Road, rode pavement back to town.</td>
+<td>Billy Nixon</td> <td>Victor, ID</td> <td>DNF</td> <td>Scratch at Lake Mary Road, rode pavement back to town.</td>
 </tr>
 <tr>
-<td>Ryan Carruth</td> <td>Cripple Creek, CO</td> <td></td> <td>Scratch at Mormon Lake Village, rode pavement back to town.</td>
+<td>Ryan Carruth</td> <td>Cripple Creek, CO</td> <td>DNF</td> <td>Scratch at Mormon Lake Village, rode pavement back to town.</td>
 </tr>
 <tr>
-<td>Spencer Holmes</td> <td>Chico, CA</td> <td></td> <td>Scratch on AZT after breaking axle.</td>
+<td>Spencer Holmes</td> <td>Chico, CA</td> <td>DNF</td> <td>Scratch on AZT after breaking axle.</td>
 </tr>
 <tr>
-<td>Forest Baker</td> <td>Truckee, CA</td> <td></td> <td>Scratch at first crossing of Lake Mary Road.</td>
+<td>Forest Baker</td> <td>Truckee, CA</td> <td>DNF</td> <td>Scratch at first crossing of Lake Mary Road.</td>
 </tr>
 <tr>
-<td>Martin Murillo</td> <td>Flastaff, AZ</td> <td></td> <td>Scratch on Rim Road.</td>
+<td>Martin Murillo</td> <td>Flastaff, AZ</td> <td>DNF</td> <td>Scratch on Rim Road.</td>
 </tr>
 <tr>
-<td>Matthew Turner</td> <td>Park City, UT</td> <td></td> <td>Scratch at Pine.</td>
+<td>Matthew Turner</td> <td>Park City, UT</td> <td>DNF</td> <td>Scratch at Pine.</td>
 </tr>
 <tr>
-<td>Artec Durham</td> <td>Flastaff, AZ</td> <td></td> <td>Scratch at Pine.</td>
+<td>Artec Durham</td> <td>Flastaff, AZ</td> <td>DNF</td> <td>Scratch at Pine.</td>
 </tr>
 <tr>
-<td>Dan Moses & Ben Sherman</td> <td>Venice, CA</td> <td></td> <td>Duo. Scratch at Pine.</td>
+<td>Dan Moses & Ben Sherman</td> <td>Venice, CA</td> <td>DNF</td> <td>Duo. Scratch at Pine.</td>
 </tr>
 <tr>
-<td>Gerrit Mack</td> <td>Gold Canyon, AZ</td> <td></td> <td>Scratch Fossil Creek.</td>
+<td>Gerrit Mack</td> <td>Gold Canyon, AZ</td> <td>DNF</td> <td>Scratch Fossil Creek.</td>
 </tr>
 <tr>
-<td>Dana Ernst</td> <td>Flagstaff, AZ</td> <td></td> <td>Scratch at Camp Verde.</td>
+<td>Dana Ernst</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td>Scratch at Camp Verde.</td>
 </tr>
 <tr>
-<td>Billy The Kid McMillen</td> <td>Prescott, AZ</td> <td></td> <td>Scratch at Camp Verde.</td>
+<td>Billy The Kid McMillen</td> <td>Prescott, AZ</td> <td>DNF</td> <td>Scratch at Camp Verde.</td>
 </tr>
 <tr>
-<td>Chris Kuzdas</td> <td>Flastaff, AZ</td> <td></td> <td>Scratch at Camp Verde.</td>
+<td>Chris Kuzdas</td> <td>Flastaff, AZ</td> <td>DNF</td> <td>Scratch at Camp Verde.</td>
 </tr>
 <tr>
-<td>Wyatt Spalding</td> <td>Buckeye, AZ</td> <td></td> <td>Scratch at Jerome.</td>
+<td>Wyatt Spalding</td> <td>Buckeye, AZ</td> <td>DNF</td> <td>Scratch at Jerome.</td>
 </tr>
 <tr>
-<td>Rhino Knifer</td> <td>El Mirage, AZ</td> <td></td> <td>Scratch at Jerome.</td>
+<td>Rhino Knifer</td> <td>El Mirage, AZ</td> <td>DNF</td> <td>Scratch at Jerome.</td>
 </tr>
 <tr>
-<td>John Schilling</td> <td>Queen Creek, AZ</td> <td></td> <td>Scratch at Jerome.</td>
+<td>John Schilling</td> <td>Queen Creek, AZ</td> <td>DNF</td> <td>Scratch at Jerome.</td>
 </tr>
 <tr>
-<td>Craig Runnalls & Steve Economos</td> <td>San Clementre, CA</td> <td></td> <td>Duo. Scratch at Jerome.</td>
+<td>Craig Runnalls & Steve Economos</td> <td>San Clementre, CA</td> <td>DNF</td> <td>Duo. Scratch at Jerome.</td>
 </tr>
 <tr>
-<td>Hannah Caproon</td> <td>Flagstaff, AZ</td> <td></td> <td>Scratch at Jerome.</td>
+<td>Hannah Caproon</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td>Scratch at Jerome.</td>
 </tr>
 <tr>
-<td>Alex Kauffman</td> <td>Flagstaff, AZ</td> <td></td> <td>Scratch at Jerome.</td>
+<td>Alex Kauffman</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td>Scratch at Jerome.</td>
 </tr>
 <tr>
-<td>Ben Hanus</td> <td>Buena Vista, CA</td> <td></td> <td>Scratch at Sycamore Rim.</td>
+<td>Ben Hanus</td> <td>Buena Vista, CA</td> <td>DNF</td> <td>Scratch at Sycamore Rim.</td>
 </tr>
 
 </tbody>
@@ -165,7 +165,7 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 </div>
 </center>
 
-#### Pinyons and Pines (Clockwise)
+<!-- #### Pinyons and Pines (Clockwise)
 
 <center>
 <div class="table-responsive">
@@ -178,25 +178,25 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 <th>Notes</th>
 </tr>
 </thead>
-<tbody>
 
+<tbody>
 <tr>
 <td>Robert LaRoche & Mike Sowers</td> <td>Scottsdale, AZ</td> <td>3:07:21</td> <td>Duo. Only folks to finish clockwise!</td>
 </tr>
 <tr>
-<td>Max Milburn</td> <td>Jackson, WY</td> <td></td> <td>Scratch at Pine.</td>
+<td>Max Milburn</td> <td>Jackson, WY</td> <td>DNF</td> <td>Scratch at Pine.</td>
 </tr>
 <tr>
-<td>Brian Martin</td> <td>Salt Lake City, UT</td> <td></td> <td>Scratch at Pine.</td>
+<td>Brian Martin</td> <td>Salt Lake City, UT</td> <td>DNF</td> <td>Scratch at Pine.</td>
 </tr>
 <tr>
-<td>Joe Pavlik & Nathan Franklin</td> <td>Flastaff, AZ</td> <td></td> <td>Duo. A few deviations. Scratch at Verde River.</td>
+<td>Joe Pavlik & Nathan Franklin</td> <td>Flastaff, AZ</td> <td>DNF</td> <td>Duo. A few deviations. Scratch at Verde River.</td>
 </tr>
 <tr>
-<td>Eric Ivey</td> <td>Las Vegas, NV</td> <td></td> <td>Scratch on AZT.</td>
+<td>Eric Ivey</td> <td>Las Vegas, NV</td> <td>DNF</td> <td>Scratch on AZT.</td>
 </tr>
-
 </tbody>
+
 </table>
 </div>
 </center>
@@ -215,8 +215,8 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 <th>Notes</th>
 </tr>
 </thead>
-<tbody>
 
+<tbody>
 <tr>
 <td>Peter Schuster</td> <td>Littleton, CO</td> <td>2:06:51</td> <td>May 14, 2021</td> <td>Counterclockwise. Scratch at first crossing of Lake Mary Road, rode pavement back to town.</td>
 </tr>
@@ -226,8 +226,8 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 <tr>
 <td>Mike Enfield</td> <td>Show Low, AZ</td> <td> </td> <td>May 20, 2021</td> <td>Counterclockwise. Rode to start at Rim Road. Scratch on AZT.</td>
 </tr>
-
 </tbody>
+
 </table>
 </div>
-</center>
+</center> -->
