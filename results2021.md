@@ -73,31 +73,31 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 <td>Greg Deemer</td> <td>Salt Lake City, UT</td> <td>2:13:37</td> <td></td>
 </tr>
 <tr>
-<td>Jeff Hemperley & Holly Hovious</td> <td>Prescott, AZ</td> <td>???</td> <td>Second place duo.</td>
+<td>Jeff Hemperley & Holly Hovious</td> <td>Prescott, AZ</td> <td>2:14:02</td> <td>Second place duo.</td>
 </tr>
 <tr>
-<td>Jeff Leenhouts</td> <td>Castro Valley, CA</td> <td>???</td> <td></td>
+<td>Jeff Leenhouts</td> <td>Castro Valley, CA</td> <td>2:15:00</td> <td></td>
 </tr>
 <tr>
-<td>Alexandera Houchin</td> <td>Cloquet, MN</td> <td>???</td> <td>Single speed.</td>
+<td>Alexandera Houchin</td> <td>Cloquet, MN</td> <td>2:15:25</td> <td>Single speed.</td>
 </tr>
 <tr>
-<td>Paul Kuzdas</td> <td>Phoenix, AZ</td> <td>???</td> <td></td>
+<td>Paul Kuzdas</td> <td>Phoenix, AZ</td> <td>2:16:20</td> <td></td>
 </tr>
 <tr>
-<td>Ian Wigger</td> <td>Boise, ID</td> <td>???</td> <td></td>
+<td>Ian Wigger</td> <td>Boise, ID</td> <td>2:18:00</td> <td></td>
 </tr>
 <tr>
-<td>Dan Dunn</td> <td>Flagstaff, AZ</td> <td>???</td> <td>Saw two mountain lions!</td>
+<td>Dan Dunn</td> <td>Flagstaff, AZ</td> <td>2:18:24</td> <td>Saw two mountain lions!</td>
 </tr>
 <tr>
-<td>Dylan Turner</td> <td>Flagstaff, AZ</td> <td>???</td> <td></td>
+<td>Dylan Turner</td> <td>Flagstaff, AZ</td> <td>3:08:00</td> <td></td>
 </tr>
 <tr>
 <td>Brad Mattingly</td> <td>Flagstaff, AZ</td> <td>3:04:05</td> <td></td>
 </tr>
 <tr>
-<td>Lindsay, Nohl</td> <td>Victor, ID</td> <td>???</td> <td></td>
+<td>Lindsay, Nohl</td> <td>Victor, ID</td> <td>3:09:48</td> <td></td>
 </tr>
 <tr>
 <td>Kevin Emery</td> <td>Victor, ID</td> <td>DNF</td> <td>Scratch at Lake Mary Road, rode pavement back to town.</td>
@@ -221,10 +221,10 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 <td>Peter Schuster</td> <td>Littleton, CO</td> <td>2:06:51</td> <td>May 14, 2021</td> <td>Counterclockwise. Scratch at first crossing of Lake Mary Road, rode pavement back to town.</td>
 </tr>
 <tr>
-<td>Eric Morton</td> <td>Flagstaff, AZ</td> <td> </td> <td>May 25, 2021.</td>
+<td>Mike Enfield</td> <td>Show Low, AZ</td> <td> </td> <td>May 20, 2021</td> <td>Counterclockwise. Rode to start at Rim Road. Scratch on AZT.</td>
 </tr>
 <tr>
-<td>Mike Enfield</td> <td>Show Low, AZ</td> <td> </td> <td>May 20, 2021</td> <td>Counterclockwise. Rode to start at Rim Road. Scratch on AZT.</td>
+<td>Eric Morton</td> <td>Flagstaff, AZ</td> <td> </td> <td>May 25, 2021.</td>
 </tr>
 </tbody>
 
