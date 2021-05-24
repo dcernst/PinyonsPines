@@ -12,13 +12,13 @@ layout: default
 
 ## 2021 Results
 
-Posted within a few days after Grand Depart.
+<!-- Posted within a few days after Grand Depart. -->
 
 ### Grand Depart
 
 The 2021 Grand Depart took place at 6am on Thursday, May 20.
 
-#### Pinyons and Pines (Counterclockwise)
+#### Counterclockwise
 
 <center>
 <div class="table-responsive">
@@ -165,7 +165,7 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 </div>
 </center>
 
-#### Pinyons and Pines (Clockwise)
+#### Clockwise
 
 <center>
 <div class="table-responsive">
