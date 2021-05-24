@@ -34,19 +34,19 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 
 <tbody>
 <tr>
-<td>Andrew Strempke</td> <td>Van Life</td> <td>2:00:05</td> <td>First place overall! Single speed.</td>
+<td>Andrew Strempke</td> <td>Van Life</td> <td>1:18:05</td> <td>First place overall! Single speed.</td>
 </tr>
 <tr>
-<td>Ezra Ward-Packard</td> <td>Van Life</td> <td>???</td> <td>Second place overall.</td>
+<td>Ezra Ward-Packard</td> <td>Van Life</td> <td>2:00:25</td> <td>Second place overall.</td>
 </tr>
 <tr>
-<td>Katie Strempke</td> <td>Van Life</td> <td>???</td> <td>Third place overall, first place female. Single speed.</td>
+<td>Katie Strempke</td> <td>Van Life</td> <td>2:03:47</td> <td>Third place overall, first place female. Single speed.</td>
 </tr>
 <tr>
-<td>Nelson Jones</td> <td>Buena Vista, CO</td> <td>???</td> <td>Single speed.</td>
+<td>Nelson Jones</td> <td>Buena Vista, CO</td> <td>2:05:25</td> <td>Single speed.</td>
 </tr>
 <tr>
-<td>Jeff Spencer</td> <td>Leadville, CO</td> <td>???</td> <td>Single speed.</td>
+<td>Jeff Spencer</td> <td>Leadville, CO</td> <td>2:05:25</td> <td>Single speed.</td>
 </tr>
 <tr>
 <td>Liz Carrington</td> <td>Durango, CO</td> <td>2:07:08</td> <td>Second place female.</td>
@@ -55,22 +55,22 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 <td>Eric Payne</td> <td>Silver City, NM</td> <td>2:09:15</td> <td></td>
 </tr>
 <tr>
-<td>Leigh and Matt Bowe</td> <td>Flagstaff, AZ</td> <td>???</td> <td>First place duo.</td>
+<td>Leigh and Matt Bowe</td> <td>Flagstaff, AZ</td> <td>2:11:15</td> <td>First place duo.</td>
 </tr>
 <tr>
-<td>Pat Adrian</td> <td>Roseau, MN</td> <td>???</td> <td></td>
+<td>Pat Adrian</td> <td>Roseau, MN</td> <td>2:12:32</td> <td></td>
 </tr>
 <tr>
-<td>Tim Nipper</td> <td>Albuqueque, NM</td> <td>???</td> <td></td>
+<td>Tim Nipper</td> <td>Albuqueque, NM</td> <td>2:12:59</td> <td></td>
 </tr>
 <tr>
-<td>Curtis Barrett</td> <td>Mesa, AZ</td> <td>???</td> <td></td>
+<td>Curtis Barrett</td> <td>Mesa, AZ</td> <td>2:13:37</td> <td></td>
 </tr>
 <tr>
-<td>Mike Farrell</td> <td>Flagstaff, AZ</td> <td>???</td> <td></td>
+<td>Mike Farrell</td> <td>Flagstaff, AZ</td> <td>2:13:37</td> <td></td>
 </tr>
 <tr>
-<td>Greg Deemer</td> <td>Salt Lake City, UT</td> <td>???</td> <td></td>
+<td>Greg Deemer</td> <td>Salt Lake City, UT</td> <td>2:13:37</td> <td></td>
 </tr>
 <tr>
 <td>Jeff Hemperley & Holly Hovious</td> <td>Prescott, AZ</td> <td>???</td> <td>Second place duo.</td>
@@ -165,7 +165,7 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 </div>
 </center>
 
-<!-- #### Pinyons and Pines (Clockwise)
+#### Pinyons and Pines (Clockwise)
 
 <center>
 <div class="table-responsive">
@@ -230,4 +230,4 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 
 </table>
 </div>
-</center> -->
+</center>
