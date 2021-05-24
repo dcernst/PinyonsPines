@@ -70,7 +70,7 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 <td>Mike Farrell</td> <td>Flagstaff, AZ</td> <td>???</td> <td></td>
 </tr>
 <tr>
-<td>Greg Deemer</td> <td>Salt Lake City, UT/td> <td>???</td> <td></td>
+<td>Greg Deemer</td> <td>Salt Lake City, UT</td> <td>???</td> <td></td>
 </tr>
 <tr>
 <td>Jeff Hemperley & Holly Hovious</td> <td>Prescott, AZ</td> <td>???</td> <td>Second place duo.</td>
