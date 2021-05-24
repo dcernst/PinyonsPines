@@ -124,7 +124,7 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 <td>Artec Durham</td> <td>Flastaff, AZ</td> <td>DNF</td> <td>Scratch at Pine.</td>
 </tr>
 <tr>
-<td>Dan Moses & Ben Sherman</td> <td>Venice, CA</td> <td>DNF</td> <td>Duo. Scratch at Pine.</td>
+<td>Dan Moses & Ben Sherman</td> <td>Venice, CA</td> <td>DNF</td> <td>Duo. Scratch at Highway 87.</td>
 </tr>
 <tr>
 <td>Gerrit Mack</td> <td>Gold Canyon, AZ</td> <td>DNF</td> <td>Scratch Fossil Creek.</td>
