@@ -190,7 +190,7 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 <td>Brian Martin</td> <td>Salt Lake City, UT</td> <td>DNF</td> <td>Scratch at Pine.</td>
 </tr>
 <tr>
-<td>Joe Pavlik & Nathan Franklin</td> <td>Flastaff, AZ</td> <td>DNF</td> <td>Duo. A few deviations. Scratch at Verde River.</td>
+<td>Joe Pavlik & Nathan Franklin</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td>Duo. A few deviations. Scratch at Verde River.</td>
 </tr>
 <tr>
 <td>Eric Ivey</td> <td>Las Vegas, NV</td> <td>DNF</td> <td>Scratch on AZT.</td>
