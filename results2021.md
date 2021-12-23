@@ -12,8 +12,7 @@ layout: default
 
 ## 2021 Results
 
-<!-- Posted within a few days after Grand Depart. -->
-
+Check out the [event recap](https://bikepacking.com/news/2021-pinyons-and-pines-event-recap/) by [Katie and Andrew Strempke](https://ridingbikeswithandrewandkatie.blogspot.com/) on [Bikepacking.com](http://bikepacking.com).
 ### Grand Depart
 
 The 2021 Grand Depart took place at 6am on Thursday, May 20.
