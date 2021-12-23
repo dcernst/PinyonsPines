@@ -10,11 +10,11 @@ layout: default
 
 <i class="fas fa-paint-brush fa-lg"></i>&nbsp; Artwork by <a href="https://www.dkoyawenaarts.com">Duane Koyawena.</a>
 
-## 2021 Results
+## 2022 Results
 
-<!-- Posted within a few days after Grand Depart. -->
+Posted within a few days after Grand Depart.
 
-### Grand Depart
+<!-- ### Grand Depart
 
 The 2021 Grand Depart took place at 6am on Thursday, May 20.
 
@@ -230,4 +230,4 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 
 </table>
 </div>
-</center>
+</center> -->

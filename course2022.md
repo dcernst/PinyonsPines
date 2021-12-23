@@ -1,5 +1,5 @@
 ---
-title: 2021 Course
+title: 2022 Course
 author: Dana Ernst
 layout: default
 ---
@@ -10,31 +10,31 @@ layout: default
 
 <i class="fas fa-paint-brush fa-lg"></i>&nbsp; Artwork by <a href="https://www.dkoyawenaarts.com">Duane Koyawena.</a>
 
-## 2021 Course Description
+## 2022 Course Information
 
-<!-- <div class="alert alert-info" role="alert">
-<strong>Important!</strong> The course for the 2021 edition of Pinyons and Pines coming soon!
-</div> -->
-
-Pinyons and Pines is an underground self-supported bikepacking race that starts and ends in [Flagstaff, AZ](https://en.wikipedia.org/wiki/Flagstaff,_Arizona) (6,910 feet). The route is a magnificent tour of Northern Arizona, utilizing a mixture of singletrack, double track, and dirt roads.  The start and finish are at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com). The 2021 edition of Pinyons and Pines will start at 6:00AM on **Thursday, May 20**. The course changes each year and for 2021 we are going to mix things up a bit. This year’s course will be roughly 300 miles and will consist of one big southern loop. In light of the COVID-19 pandemic, which will still be an issue in May, we will cap the total number of riders at 50. Riders will also be required to wear masks and use hand sanitizer when resupplying. The race organizer is [Dana Ernst](http://danaernst.com). Please [contact me](mailto:ernst.tribe@gmail.com) with any questions or concerns.
+Pinyons and Pines is an underground self-supported bikepacking race that starts and ends in [Flagstaff, AZ](https://en.wikipedia.org/wiki/Flagstaff,_Arizona) (6,910 feet). The route is a magnificent tour of Northern Arizona, utilizing a mixture of singletrack, double track, and dirt roads.  The start and finish are at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com). The course changes each year, but is typically around 300 miles. The 2022 edition of Pinyons and Pines will start at 6:00AM on **Thursday, May 12** and will be roughly 320 miles. In light of the COVID-19 pandemic, riders are asked to wear masks and use hand sanitizer when resupplying. The race organizer is [Dana Ernst](http://danaernst.com). Please [contact me](mailto:ernst.tribe@gmail.com) with any questions or concerns.
 
 Flagstaff sits at the base of the [San Francisco Peaks](https://en.wikipedia.org/wiki/San_Francisco_Peaks), on homelands sacred to Native Americans throughout the region.  The Peaks, which includes [Humphreys Peak](https://en.wikipedia.org/wiki/Humphreys_Peak) (12,633 feet), the highest point in Arizona, have religious significance to several Native American tribes. In particular, the Peaks form the [Diné](https://en.wikipedia.org/wiki/Navajo) (Navajo) sacred mountain of the west, called Dook'o'oosłííd, which means "the summit that never melts". The [Hopi](https://en.wikipedia.org/wiki/Hopi) name for the Peaks is Nuva'tukya'ovi, which translates to "place-of-snow-on-the-very-top".  This year's course traverses the ancestral homelands of the [Hopi](https://en.wikipedia.org/wiki/Hopi), [Ndee/Nnēē](https://en.wikipedia.org/wiki/Western_Apache_people) (Western Apache), [Yavapai](https://en.wikipedia.org/wiki/Yavapai), [A:shiwi](https://en.wikipedia.org/wiki/Zuni_people) (Zuni Pueblo), and [Diné](https://en.wikipedia.org/wiki/Navajo) (Navajo). We honor their past, present, and future generations, who have lived here for millennia and will forever call this place home.
 
 **Important!** This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time in comparison to others. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
 
-Here is the route for 2021.
+Here is a draft of the route for 2022.
 
 <br>
 
 <center>
-<iframe src="https://ridewithgps.com/embeds?type=route&id=35861893&sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=route&id=35861893&sampleGraph=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
 </center>
 
 <br>
 
-### Route Information
+### Detailed Course Description
 
-This year's route is a departure from what we've done the past two years. The current draft is 302 miles with 25,000 feet of climbing. Riders can choose to ride the route counterclockwise or clockwise. Some general comments (assuming counterclockwise direction):
+<div class="alert alert-info" role="alert">
+<strong>Important!</strong> Course description for the 2022 edition of Pinyons and Pines coming soon!
+</div>
+
+<!-- This year's route is a departure from what we've done the past two years. The current draft is 302 miles with 25,000 feet of climbing. Riders can choose to ride the route counterclockwise or clockwise. Some general comments (assuming counterclockwise direction):
 
 - I've added POIs for potential water sources, but it's important to point out that these are potential and not guarantees.  I suggest reading the notes I added to each POI.
 - The route will pass through the towns of Parks, Jerome, Camp Verde, Strawberry, and Pine.  In addition, Mormon Lake Village isn't too far off route.
@@ -69,4 +69,4 @@ Comments about water and resupply:
 - Mile 261.6: Dairy Springs Campground. Where the route turns to head up Mormon Mountain, instead turn right and descent to campground. Water spigot should be on.
 - Mile 268.3: Weimer Spring. I checked this out a week or so ago and there wasn’t much water.
 - Mile 283.1: Lake Mary Country Store.
-- Mile 286.7: Detour to Upper Lake Mary. Instead of turning up towards Marshall Lake, continue on Lake Mary Road until you see the lake. Scramble down near fenced parking area.
+- Mile 286.7: Detour to Upper Lake Mary. Instead of turning up towards Marshall Lake, continue on Lake Mary Road until you see the lake. Scramble down near fenced parking area. -->

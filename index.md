@@ -33,7 +33,7 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 <hr>
 <center>
-<a href="https://docs.google.com/forms/d/1L4pi7rns0zoXbd64g0gGPeSi_lDdUseP3MgYgXIPl74/edit" class="alert-link" target="_blank">Register here!</a>
+<a href="https://forms.gle/aA5Sn568QGikhCoY7" class="alert-link" target="_blank">Register here!</a>
 </center>
 
 <!--
@@ -62,7 +62,7 @@ Below is the proposed route for 2022.
 
 <br>
 
-The design for this year's patch was created by Hopi artist and local mountain biker [Duane Koyawena](https://www.dkoyawenaarts.com).
+The design for last year's patch was created by Hopi artist and local mountain biker [Duane Koyawena](https://www.dkoyawenaarts.com).
 
 <center>
 <img src="{{ site.baseurl }}/images/2021PinyonsPines.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
