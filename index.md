@@ -32,8 +32,13 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 <i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2022 edition of Pinyons and Pines starts at 6AM on <strong>Thursday, May 12</strong> at Flagstaff Bicycle Revolution.
 
 <hr>
+
+Registration is full! However, you can sign up for the waitlist. As spots become available, people will move off the waitlist.
+
+<hr>
+
 <center>
-<a href="https://forms.gle/aA5Sn568QGikhCoY7" class="alert-link" target="_blank">Register here!</a>
+<a href="https://forms.gle/aA5Sn568QGikhCoY7" class="alert-link" target="_blank">Register for waitlist here!</a>
 </center>
 
 <!--
