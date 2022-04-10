@@ -70,28 +70,16 @@ Below is the proposed route for 2022.
 <div class="container-fluid">
 <div class="row align-items-end">
 <div class="col-md-3">
-<figure class="figure">
-<img src="{{ site.baseurl }}/images/2019PinyonsPinesLogo.png" class="figure-img img-fluid rounded">
-<figcaption class="figure-caption text-center">2019 Patch</figcaption>
-</figure>
+<img src="{{ site.baseurl }}/images/2019PinyonsPinesLogo.png" class="img-fluid rounded">
 </div>
 <div class="col-md-3">
-<figure class="figure">
-<img src="{{ site.baseurl }}/images/2020PinyonsPinesLogo.png" class="figure-img img-fluid rounded">
-<figcaption class="figure-caption text-center">2020 Patch</figcaption>
-</figure>
+<img src="{{ site.baseurl }}/images/2020PinyonsPinesLogo.png" class="img-fluid rounded">
 </div>
 <div class="col-md-3">
-<figure class="figure">
-<img src="{{ site.baseurl }}/images/2021PinyonsPinesLogo.png" class="figure-img img-fluid rounded">
-<figcaption class="figure-caption text-center">2021 Patch</figcaption>
-</figure>
+<img src="{{ site.baseurl }}/images/2021PinyonsPinesLogo.png" class="img-fluid rounded">
 </div>
 <div class="col-md-3">
-<figure class="figure">
-<img src="{{ site.baseurl }}/images/2022PinyonsPinesLogo.png" class="figure-img img-fluid rounded">
-<figcaption class="figure-caption text-center">2022 Patch</figcaption>
-</figure>
+<img src="{{ site.baseurl }}/images/2022PinyonsPinesLogo.png" class="img-fluid rounded">
 </div>
 </div>
 </div>
