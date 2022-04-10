@@ -82,25 +82,8 @@ Below is the proposed route for 2022.
 <img src="{{ site.baseurl }}/images/2022PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px"/>
 </div>
 </div>
-<div class="row align-items-end">
-<div class="col-md-3">
-<center>
-2019 Patch
-</center>
-<div class="col-md-3">
-<center>
-2020 Patch
-</center>
-<div class="col-md-3">
-<center>
-2021 Patch
-</center>
-<div class="col-md-3">
-<center>
-2022 Patch
-</center>
-</div>
-</div>
+
+<!-- </div> -->
 </div>
 
 The design for last year's patch was created by Hopi artist and local mountain biker [Duane Koyawena](https://www.dkoyawenaarts.com).
