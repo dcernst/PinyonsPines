@@ -71,7 +71,7 @@ Below is the proposed route for 2022.
 <div class="row">
 <div class="col-3">
 <center>
-<img src="{{ site.baseurl }}/images/2019PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+<img src="{{ site.baseurl }}/images/2019PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
 </center>
 </div>
 <div class="col-3">
