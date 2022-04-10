@@ -69,16 +69,16 @@ Below is the proposed route for 2022.
 
 <div class="container-fluid">
 <div class="row align-items-end">
-<div class="col-3">
+<div class="col-md-3">
 <img src="{{ site.baseurl }}/images/2019PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px"/>
 </div>
-<div class="col-3">
+<div class="col-md-3">
 <img src="{{ site.baseurl }}/images/2020PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px"/>
 </div>
-<div class="col-3">
+<div class="col-md-3">
 <img src="{{ site.baseurl }}/images/2021PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px"/>
 </div>
-<div class="col-3">
+<div class="col-md-3">
 <img src="{{ site.baseurl }}/images/2022PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px"/>
 </div>
 </div>
