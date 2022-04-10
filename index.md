@@ -86,12 +86,8 @@ Below is the proposed route for 2022.
 <!-- </div> -->
 </div>
 
-The design for last year's patch was created by Hopi artist and local mountain biker [Duane Koyawena](https://www.dkoyawenaarts.com).
-
-<center>
-<img src="{{ site.baseurl }}/images/2021PinyonsPines.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
-</center>
-
-Here is what Duane has to say about the design:
+The design for the 2021 patch was created by Hopi artist and local mountain biker [Duane Koyawena](https://www.dkoyawenaarts.com). Here is what Duane has to say about the design:
 
 > Within this work are images representative of our values as Hopi. We look to the sun, Tawa, in reverence as a guiding force and source of strength within our lives. Centered, Nuvatukyaovi, the place of snow, conveys the importance of this sacred place within our spiritual and cultural beliefs. The color red is symbolic of our land, Tuutskwa, the white dashes relate the importance of moisture, and the colors blue and yellow represent male and female.
+
+The design for the 2022 path is a riff on Duane's artwork by [Chris Cone](https://www.instagram.com/conermania/).
