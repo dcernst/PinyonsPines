@@ -67,7 +67,7 @@ Below is the proposed route for 2022.
 
 <br>
 
-<div class="container">
+<div class="container-fluid">
 <div class="row align-items-end">
 <div class="col-3">
 <center>
