@@ -75,6 +75,7 @@ Below is the proposed route for 2022.
 <center>
 2019 Patch
 </center>
+<br>
 </div>
 <div class="col-md-3">
 <img src="{{ site.baseurl }}/images/2020PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px">
@@ -82,6 +83,7 @@ Below is the proposed route for 2022.
 <center>
 2020 Patch
 </center>
+<br>
 </div>
 <div class="col-md-3">
 <img src="{{ site.baseurl }}/images/2021PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
@@ -89,6 +91,7 @@ Below is the proposed route for 2022.
 <center>
 2021 Patch
 </center>
+<br>
 </div>
 <div class="col-md-3">
 <img src="{{ site.baseurl }}/images/2022PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px">
@@ -96,6 +99,7 @@ Below is the proposed route for 2022.
 <center>
 2022 Patch
 </center>
+<br>
 </div>
 </div>
 </div>
