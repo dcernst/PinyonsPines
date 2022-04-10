@@ -71,20 +71,20 @@ Below is the proposed route for 2022.
 <div class="row">
 <div class="col-sm">
 <center>
-<img src="{{ site.baseurl }}/images/2019PinyonsPines.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+<img src="{{ site.baseurl }}/images/2019PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
 </center>
 </div>
 <div class="col-sm">
 <center>
-<img src="{{ site.baseurl }}/images/2020PinyonsPines.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+<img src="{{ site.baseurl }}/images/2020PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
 </center>
 </div>
 <div class="col-sm">
 <center>
-<img src="{{ site.baseurl }}/images/2021PinyonsPines.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+<img src="{{ site.baseurl }}/images/2021PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
 </center>
 <center>
-<img src="{{ site.baseurl }}/images/2022PinyonsPines.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+<img src="{{ site.baseurl }}/images/2022PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
 </center>
 </div>
 </div>
