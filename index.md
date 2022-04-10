@@ -106,7 +106,7 @@ Below is the proposed route for 2022.
 
 <br>
 
-The original 2019 patch was designed by [Shannon Villegas](https://www.instagram.com/macerdoodles/?hl=en). [Chris Cone](https://www.instagram.com/conermania/) came up with the design for 2020. The design for the 2021 patch was created by Hopi artist and local mountain biker [Duane Koyawena](https://www.dkoyawenaarts.com). Here is what Duane has to say about the design:
+The original 2019 patch was designed by [Shannon Villegas](https://www.instagram.com/macerdoodles/?hl=en). The design for the 2020 patch was a modification of the patch from our first year and was put together by [Chris Cone](https://www.instagram.com/conermania/). The 2021 patch was created from original artwork by Hopi artist and local mountain biker [Duane Koyawena](https://www.dkoyawenaarts.com). Here is what Duane has to say about the design:
 
 > Within this work are images representative of our values as Hopi. We look to the sun, Tawa, in reverence as a guiding force and source of strength within our lives. Centered, Nuvatukyaovi, the place of snow, conveys the importance of this sacred place within our spiritual and cultural beliefs. The color red is symbolic of our land, Tuutskwa, the white dashes relate the importance of moisture, and the colors blue and yellow represent male and female.
 
