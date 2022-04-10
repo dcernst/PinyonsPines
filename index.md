@@ -76,19 +76,16 @@ Below is the proposed route for 2022.
 </figure>
 </div>
 <div class="col-md-3">
-
 <figure class="figure">
 <img src="{{ site.baseurl }}/images/2020PinyonsPinesLogo.png" class="figure-img img-fluid rounded">
 <figcaption class="figure-caption text-center">2020 Patch</figcaption>
 </figure>
-</div>
 </div>
 <div class="col-md-3">
 <figure class="figure">
 <img src="{{ site.baseurl }}/images/2021PinyonsPinesLogo.png" class="figure-img img-fluid rounded">
 <figcaption class="figure-caption text-center">2021 Patch</figcaption>
 </figure>
-</div>
 </div>
 <div class="col-md-3">
 <figure class="figure">
@@ -98,9 +95,6 @@ Below is the proposed route for 2022.
 </div>
 </div>
 </div>
-
-<!-- </div> -->
-<!-- </div> -->
 
 The design for the 2021 patch was created by Hopi artist and local mountain biker [Duane Koyawena](https://www.dkoyawenaarts.com). Here is what Duane has to say about the design:
 
