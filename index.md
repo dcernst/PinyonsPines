@@ -62,10 +62,33 @@ Below is the proposed route for 2022.
 <br>
 
 <center>
-<iframe src="https://ridewithgps.com/embeds?type=route&id=35861893&sampleGraph=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=route&id=38966941&sampleGraph=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
 </center>
 
 <br>
+
+<div class="container">
+<div class="row">
+<div class="col-sm">
+<center>
+<img src="{{ site.baseurl }}/images/2019PinyonsPines.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+</center>
+</div>
+<div class="col-sm">
+<center>
+<img src="{{ site.baseurl }}/images/2020PinyonsPines.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+</center>
+</div>
+<div class="col-sm">
+<center>
+<img src="{{ site.baseurl }}/images/2021PinyonsPines.png" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+</center>
+<center>
+<img src="{{ site.baseurl }}/images/2022PinyonsPines.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px" width="90%"/>
+</center>
+</div>
+</div>
+</div>
 
 The design for last year's patch was created by Hopi artist and local mountain biker [Duane Koyawena](https://www.dkoyawenaarts.com).
 
