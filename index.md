@@ -71,6 +71,10 @@ Below is the proposed route for 2022.
 <div class="row align-items-end">
 <div class="col-md-3">
 <img src="{{ site.baseurl }}/images/2019PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<br>
+<center>
+2019 Patch
+</center>
 </div>
 <div class="col-md-3">
 <img src="{{ site.baseurl }}/images/2020PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px">
