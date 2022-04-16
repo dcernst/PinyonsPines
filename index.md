@@ -62,7 +62,7 @@ Below is the proposed route for 2022.
 <br>
 
 <center>
-<iframe src="https://ridewithgps.com/embeds?type=route&id=39028932&sampleGraph=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=route&id=39077083&sampleGraph=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
 </center>
 
 <br>

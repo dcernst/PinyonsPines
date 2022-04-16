@@ -18,55 +18,55 @@ Flagstaff sits at the base of the [San Francisco Peaks](https://en.wikipedia.org
 
 **Important!** This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time in comparison to others. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
 
-Here is a draft of the route for 2022.
+Here is the route for 2022.
 
 <br>
 
 <center>
-<iframe src="https://ridewithgps.com/embeds?type=route&id=39028932&sampleGraph=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=route&id=39077083&sampleGraph=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
 </center>
 
 <br>
 
 ### Detailed Course Description
 
-<div class="alert alert-info" role="alert">
+<!-- <div class="alert alert-info" role="alert">
 <strong>Important!</strong> Course description for the 2022 edition of Pinyons and Pines coming soon!
-</div>
+</div> -->
 
-<!-- This year's route is a departure from what we've done the past two years. The current draft is 302 miles with 25,000 feet of climbing. Riders can choose to ride the route counterclockwise or clockwise. Some general comments (assuming counterclockwise direction):
+This year's route is 323 miles with 26,000 feet of climbing. The intenion is for riders to ride the route counterclockwise, but there are a handful that are intending to ride the loop clockwise. Some general comments (assuming counterclockwise direction):
 
-- I've added POIs for potential water sources, but it's important to point out that these are potential and not guarantees.  I suggest reading the notes I added to each POI.
-- The route will pass through the towns of Parks, Jerome, Camp Verde, Strawberry, and Pine.  In addition, Mormon Lake Village isn't too far off route.
-- The first half of the route is spectacular in my opinion.  The section on Mingus Mountain after Jerome is particularly awesome.  I hope most of you can see this part during daylight. There isn't much single track on the first half, but you will not be disappointed.
-- There is 10+ miles of pavement near Camp Verde.  There is a good shoulder for pretty much all of this, but I suggest you use a tail light.
-- The Camp Verde area has the potential to be the warmest part of the course, but most people will be passing through during the evening on the first day or early in the morning on the second day.
-- The second half of the course has a lot of single track on it and will certainly take longer than the first half.
-- There is some hike-a-bike around miles 177-179 as we gain the Mogollon Rim and miles 262-264 as we ascend Mormon Mountain.
-- You are allowed to camp along the first 10 miles of Fossil Springs Road, but after mile 10, you are not allowed to camp for roughly the next 10 miles.
+- Please consult the [race rules]({{ site.baseurl }}/rules/).
+- The start and finish is at Flagstaff Bicycle Revolution.  If no one is at the finish to greet you, put your finish time on the sign in sheet that will be in the mailbox.
+- Neutral roll out for the first 1.2 miles.  Race is on after the group reaches Thorpe Park.  
+- The group will still be large when reaching Fort Valley Road (Route 180).  There is a stop light where the route crosses the road.  **Do not run this stop light!**
+- We start descending the new Heart Trail at mile 11.7.  The large group will likely be fractured into smaller groups after climbing up Elden Lookout Road.  Enjoy this descent, but remember that it is a long way to the finish.
+- The route will pass through the towns of Williams, Jerome, and Camp Verde.  In addition, Mormon Lake Village isn't too far off route.
+- Depending on when you enter Sunset Crater National Monument (mile 57), you may be stopped at the entrance booth. If you have a Parks Pass, bring it with you just in case. **Do not mention that you are doing a race!**
+- There is some hike-a-bike around miles 41-45 as we wander through the White Horse Hills on some moto trails.
+- We descend the Mingus Black Canyon Trail at miles 199.5-207.5.  This trail is magnificent.  However, it has quite a bit of exposure and there are a few places you do not want to fall.  Be careful when descending this trail! When in doubt, walk your bike.
+- There are several significant sections of pavement (miles 55-61, 131-141, 152.5-159, 211-229, 251-256, 304-308).  That might seem like a lot of pavement, but I'm confident you'll be grateful most of the times you are on it.  With the exception of the section around Camp Verde (miles 211-229), there is minimal car traffic.  Thankfully there is a good shoulder for most of the stretch near Camp Verde.  However, I suggest everyone use a tail light while riding the pavement sections.
+- As with all long rides in the southwest, water is always a challenge. I have added POIs for potential water sources that I am aware of. However, it is important to point out that these are potential sources and not guarantees.  I suggest reading the notes I added to each POI. Plan accordingly.
+- The Camp Verde area has the potential to be the warmest part of the course.  Plan accordingly.
+- Unless you can actually see another rider coming behind you, always close a gate you open.
 
 Comments about water and resupply:
-
-- Mile 17.5: short detour to Bellemont truck stop.
-- Mile 24.6: Town of Parks (gas station and general store)
-- Mile 41.6: Whitehorse Lake Campground. Water spigot should be on.
-- Mile 72.3: Verde River. Easy access to water.
-- Mile 89.3: Town of Jerome. If you plan to stop here, plan on it taking a while. I’ll likely stop at the Flatiron Cafe.
-- Mile 99.3 (approximate): There is a piped spring on the right. It was flowing strong a couple months ago, but no guarantees that it is still flowing.
-- Mile 133: Town of Camp Verde. A few 24 hours options.
-- Mile 141.7: Clear Creek Campground. Water spigot.
-- Mile 158.3: Fossil Creek. You can easily access river in a few spots. However, the mineral content of the water is very high, so you might want to skip getting water here.
-- Mile 169.2: Town of Strawberry. Limited hours, so plan accordingly. The PIEbar is excellent if it is open when you pass through.
-- Mile 173.5: Town of Pine. Route passes the Ponderosa Market (grocery store), but hours are limited, so plan accordingly. Uncle Tom’s Kwik Stop is roughly a half mile to the north on HWY 260. There is a water dispenser outside that is available 24 hours per day. You need quarters to use the machine.
-- Mile 179.6 (approximate): After topping out on Donahue Trail, there is a stock tank with water in it.
-- Mile 204.5: Aspen Spring. Usually flowing, but the Stempke’s tell me that it is nothing but a trickle.
-- Mile 205.8: The trail crosses a small creek near Pinchot Spring.
-- Mile 212.6: Water in Clear Creek at bottom of Barbershop Canyon.
-- Mile 218.9: Instead of crossing over HWY 87, turn left and ride a short distance to ranger station. There is a water spigot behind the first building on the right.
-- Mile 239.3: Bargaman Tank. This stock tank likely has water in it.
-- Mile 255.3: Detour to town of Mormon Lake if you are in need of food, etc.
-- Mile 259.9: Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
-- Mile 261.6: Dairy Springs Campground. Where the route turns to head up Mormon Mountain, instead turn right and descent to campground. Water spigot should be on.
-- Mile 268.3: Weimer Spring. I checked this out a week or so ago and there wasn’t much water.
-- Mile 283.1: Lake Mary Country Store.
-- Mile 286.7: Detour to Upper Lake Mary. Instead of turning up towards Marshall Lake, continue on Lake Mary Road until you see the lake. Scramble down near fenced parking area. -->
+- Mile 57.2:  Just after passing the entrance booth for Sunset Crater National Monument, there is a Visitor’s Center on the right. There is drinking fountain outside that you can use to refill water. There is also a bathroom that is sometimes open after hours, but do not assume it will be open. It’s a long way to the next guaranteed water source!
+- Mile 89.6: Potential water source at stock tank on north side of road.  There may also be access to a spring a little further west and on the other side of the road. Water needs to be filtered/treated.
+- Mile 94: Potential water source at Tip Top Tank is on your right. Water needs to be filtered/treated.
+- Mile 127.3: Gas station on the right.
+- Mile 134.5: Town of Williams.  All services including McDonald's and Safeway. Plenty of options for a sit down meal if you arrive during open hours.
+- Mile 147.3: Potential water source at MC Tank on the left. Water needs to be filtered/treated.
+- Mile 168.5: Verde River. Easy access to water. Water needs to be filtered/treated.
+- Mile 185: Town of Jerome. Limited services and limited hours.  Flatiron Cafe and Haunted Hamburger and good places to stop for a meal.  There may also be acces to water at the fire station.
+- Mile 197.5: Copper Cheif Spring is a piped spring on the right. No guarantees that this spring is still flowing. Water needs to be filtered/treated.
+- Mile 197.3: Allen Spring flows out of a large pipe on the downhill side of the road. Easy to miss if you aren't listening for the water flowing.  No guarantees that this spring is still flowing, but it usually is during May. Water needs to be filtered/treated.
+- Mile 220.4: Camp Verde. A few 24 hours options.
+- Mile 228.8: Clear Creek Campground is located about a mile off route. Continue on pavement passed the turn onto FS 618 to the turn to the campground.  Water spigot at campground.
+- Mile 240.3: Potential water source at Wet Beaver Creek. Water needs to be filtered/treated.
+- Mile 275: Detour to Mormon Lake Village. Limited services with limited hours.  If you leave the route to access Mormon Lake Village, you need to return to the route where you left it.
+- Mile 280.1: Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
+- Mile 281.8: Dairy Springs Campground. Where the Mormon Mountain Trail crosses the AZT, turn right and descent to campground. Water spigot should be on.
+- Mile 289.2: Potential water source at Weimer Spring. The spring is a short walk to the south. Water needs to be filtered/treated.
+- Mile 304.2: Lake Mary Country Store.
+- Mile 307.5: Detour to Upper Lake Mary. Instead of turning up towards Marshall Lake, continue on Lake Mary Road until you see the lake. Scramble down near fenced parking area. Water needs to be filtered/treated.
