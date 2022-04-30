@@ -56,7 +56,7 @@ Comments about water and resupply:
 - Mile 73.6: Potential water source at Tip Top Tank is on your right. Water needs to be filtered/treated.
 - Mile 106.9: Gas station on the right.
 - Mile 114: Town of Williams.  All services including McDonald's and Safeway. Plenty of options for a sit down meal if you arrive during open hours.
-- Mile 12.7: Kaibab Lake. Water needs to be filtered/treated.
+- Mile 122.7: Coleman Lake. Water needs to be filtered/treated.
 - Mile 126.8: Potential water source at MC Tank on the left. Water needs to be filtered/treated.
 - Mile 131.6: Potential water source at DT Tank on the left. Water needs to be filtered/treated.
 - Mile 148.1: Verde River. Easy access to water. Water needs to be filtered/treated.
@@ -66,7 +66,7 @@ Comments about water and resupply:
 - Mile 200.3: Camp Verde. A few 24 hours options.
 - Mile 207.5: Dollar General.
 - Mile 208.4: Clear Creek Campground is located about a mile off route. Continue on pavement passed the turn onto FS 618 to the turn to the campground.  Water spigot at campground.
-- Mile 212.8: Potential water source shortly after turnin onto Oak Flats Road. Water needs to be filtered/treated.
+- Mile 212.8: Potential water source shortly after turnin onto Cedar Flats Road. Water needs to be filtered/treated.
 - Mile 238.4: Potential water source in creek. Water needs to be filtered/treated.
 - Mile 240: Potential water source in creek. Water needs to be filtered/treated.
 - Mile 261.9: Detour to Mormon Lake Village. Limited services with limited hours.  If you leave the route to access Mormon Lake Village, you need to return to the route where you left it.
