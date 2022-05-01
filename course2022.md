@@ -66,9 +66,13 @@ Comments about water and resupply:
 - Mile 200.3: Camp Verde. A few 24 hours options.
 - Mile 207.5: Dollar General.
 - Mile 208.4: Clear Creek Campground is located about a mile off route. Continue on pavement passed the turn onto FS 618 to the turn to the campground.  Water spigot at campground.
-- Mile 212.8: Potential water source shortly after turnin onto Cedar Flats Road. Water needs to be filtered/treated.
-- Mile 238.4: Potential water source in creek. Water needs to be filtered/treated.
-- Mile 240: Potential water source in creek. Water needs to be filtered/treated.
+- Mile  212.75: There's a cattle trough on the left that's fed via float (operational, good clean water coming out of it).
+- Mile 224: Twin Buttes tank is full. Very muddy water and plenty of cattle around.
+- Mile 226.8: Windmill Tank. Should have clear-ish/nice water.
+- Mile 235.1: Creek crossing has large pools of clear water.
+- Mile 236.5: Tank about 100 meters southwest of route.
+- Mile 238.2: Creek crossing has large pools of clear water.
+- Mile 240.3: Wildlife Preserve area, fenced with large amounts of water. 
 - Mile 261.9: Detour to Mormon Lake Village. Limited services with limited hours.  If you leave the route to access Mormon Lake Village, you need to return to the route where you left it.
 - Mile 267.1: Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
 - Mile 268.8: Dairy Springs Campground. Where the Mormon Mountain Trail crosses the AZT, turn right and descent to campground. Water spigot should be on.
