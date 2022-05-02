@@ -58,7 +58,7 @@ Comments about water and resupply:
 - Mile 114: Town of Williams.  All services including McDonald's and Safeway. Plenty of options for a sit down meal if you arrive during open hours.
 - Mile 122.7: Coleman Lake. Water needs to be filtered/treated.
 - Mile 126.8: Potential water source at MC Tank on the left. Water needs to be filtered/treated.
-- Mile 131.6: Potential water source at DT Tank on the left. Water needs to be filtered/treated.
+- Mile 131.6: Potential water source at DT Tank on the right. Water needs to be filtered/treated.
 - Mile 148.1: Verde River. Easy access to water. Water needs to be filtered/treated.
 - Mile 164.6: Town of Jerome. Limited services and limited hours.  Flatiron Cafe and Haunted Hamburger and good places to stop for a meal.  There may also be acces to water at the fire station.
 - Mile 175.3: Copper Chief Spring is a piped spring on the right. No guarantees that this spring is still flowing. Water needs to be filtered/treated.
@@ -72,7 +72,7 @@ Comments about water and resupply:
 - Mile 235.1: Creek crossing has large pools of clear water.
 - Mile 236.5: Tank about 100 meters southwest of route.
 - Mile 238.2: Creek crossing has large pools of clear water.
-- Mile 240.3: Wildlife Preserve area, fenced with large amounts of water. 
+- Mile 240.3: Wildlife Preserve area, fenced with large amounts of water.
 - Mile 261.9: Detour to Mormon Lake Village. Limited services with limited hours.  If you leave the route to access Mormon Lake Village, you need to return to the route where you left it.
 - Mile 267.1: Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
 - Mile 268.8: Dairy Springs Campground. Where the Mormon Mountain Trail crosses the AZT, turn right and descent to campground. Water spigot should be on.
