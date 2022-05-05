@@ -51,31 +51,32 @@ This year's route is 323 miles with 26,000 feet of climbing. The intenion is for
 - Unless you can actually see another rider coming behind you, always close a gate you open.
 
 Comments about water and resupply:
-- Mile 69.2: Potential water source at stock tank on north side of road.  Water needs to be filtered/treated.
-- Mile 69.3: Spring-fed concrete tank on south side of road. Water needs to be filtered/treated.
-- Mile 73.6: Potential water source at Tip Top Tank is on your right. Water needs to be filtered/treated.
-- Mile 106.9: Gas station on the right.
-- Mile 114: Town of Williams.  All services including McDonald's and Safeway. Plenty of options for a sit down meal if you arrive during open hours.
-- Mile 122.7: Coleman Lake. Water needs to be filtered/treated.
-- Mile 126.8: Potential water source at MC Tank on the left. Water needs to be filtered/treated.
-- Mile 131.6: Potential water source at DT Tank on the right. Water needs to be filtered/treated.
-- Mile 148.1: Verde River. Easy access to water. Water needs to be filtered/treated.
-- Mile 164.6: Town of Jerome. Limited services and limited hours.  Flatiron Cafe and Haunted Hamburger and good places to stop for a meal.  There may also be acces to water at the fire station.
-- Mile 175.3: Copper Chief Spring is a piped spring on the right. No guarantees that this spring is still flowing. Water needs to be filtered/treated.
-- Mile 176.9: Allen Spring flows out of a large pipe on the downhill side of the road. Easy to miss if you aren't listening for the water flowing.  No guarantees that this spring is still flowing, but it usually is during May. Water needs to be filtered/treated.
-- Mile 200.3: Camp Verde. A few 24 hours options.
-- Mile 207.5: Dollar General.
-- Mile 208.4: Clear Creek Campground is located about a mile off route. Continue on pavement passed the turn onto FS 618 to the turn to the campground.  Water spigot at campground.
-- Mile  212.75: There's a cattle trough on the left that's fed via float (operational, good clean water coming out of it).
-- Mile 224: Twin Buttes tank is full. Very muddy water and plenty of cattle around.
-- Mile 226.8: Windmill Tank. Should have clear-ish/nice water.
-- Mile 235.1: Creek crossing has large pools of clear water.
-- Mile 236.5: Tank about 100 meters southwest of route.
-- Mile 238.2: Creek crossing has large pools of clear water.
-- Mile 240.3: Wildlife Preserve area, fenced with large amounts of water.
-- Mile 261.9: Detour to Mormon Lake Village. Limited services with limited hours.  If you leave the route to access Mormon Lake Village, you need to return to the route where you left it.
-- Mile 267.1: Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
-- Mile 268.8: Dairy Springs Campground. Where the Mormon Mountain Trail crosses the AZT, turn right and descent to campground. Water spigot should be on.
-- Mile 276.2: Potential water source at Weimer Spring. The spring is a short walk to the south. Water needs to be filtered/treated.
-- Mile 291.2: Lake Mary Country Store.
-- Mile 294.2: Detour to Upper Lake Mary. Instead of turning up towards Marshall Lake, continue on Lake Mary Road until you see the lake. Scramble down near fenced parking area. Water needs to be filtered/treated.
+- Mile 43.1: At the end of the Peaks Moto Trail, I will put enough water for each person to take up to 2 liters.
+- Mile 67.2: Potential water source at stock tank on north side of road.  Water needs to be filtered/treated.
+- Mile 67.3: Spring-fed concrete tank on south side of road. Water needs to be filtered/treated.
+- Mile 71.6: Potential water source at Tip Top Tank is on your right. Water needs to be filtered/treated.
+- Mile 104.9: Gas station on the right.
+- Mile 112: Town of Williams.  All services including McDonald's and Safeway. Plenty of options for a sit down meal if you arrive during open hours.
+- Mile 120.7: Coleman Lake. Water needs to be filtered/treated.
+- Mile 124.8: Potential water source at MC Tank on the left. Water needs to be filtered/treated.
+- Mile 129.6: Potential water source at DT Tank on the right. Water needs to be filtered/treated.
+- Mile 146.1: Verde River. Easy access to water. Water needs to be filtered/treated.
+- Mile 162.6: Town of Jerome. Limited services and limited hours.  Flatiron Cafe and Haunted Hamburger and good places to stop for a meal.  There may also be acces to water at the fire station.
+- Mile 173.3: Copper Chief Spring is a piped spring on the right. No guarantees that this spring is still flowing. Water needs to be filtered/treated.
+- Mile 174.9: Allen Spring flows out of a large pipe on the downhill side of the road. Easy to miss if you aren't listening for the water flowing.  No guarantees that this spring is still flowing, but it usually is during May. Water needs to be filtered/treated.
+- Mile 198.3: Camp Verde. A few 24 hours options.
+- Mile 205.5: Dollar General.
+- Mile 206.4: Clear Creek Campground is located about a mile off route. Continue on pavement passed the turn onto FS 618 to the turn to the campground.  Water spigot at campground.
+- Mile  210.75: There's a cattle trough on the left that's fed via float (operational, good clean water coming out of it).
+- Mile 222: Twin Buttes tank is full. Very muddy water and plenty of cattle around.
+- Mile 224.8: Windmill Tank. Should have clear-ish/nice water.
+- Mile 233.1: Creek crossing has large pools of clear water.
+- Mile 234.5: Tank about 100 meters southwest of route.
+- Mile 236.2: Creek crossing has large pools of clear water.
+- Mile 238.3: Wildlife Preserve area, fenced with large amounts of water.
+- Mile 259.9: Detour to Mormon Lake Village. Limited services with limited hours.  If you leave the route to access Mormon Lake Village, you need to return to the route where you left it.
+- Mile 265.1: Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
+- Mile 266.8: Dairy Springs Campground. Where the Mormon Mountain Trail crosses the AZT, turn right and descent to campground. Water spigot should be on.
+- Mile 274.2: Potential water source at Weimer Spring. The spring is a short walk to the south. Water needs to be filtered/treated.
+- Mile 289.2: Lake Mary Country Store.
+- Mile 292.2: Detour to Upper Lake Mary. Instead of turning up towards Marshall Lake, continue on Lake Mary Road until you see the lake. Scramble down near fenced parking area. Water needs to be filtered/treated.
