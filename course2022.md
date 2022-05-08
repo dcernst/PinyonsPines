@@ -34,49 +34,46 @@ Here is the route for 2022.
 <strong>Important!</strong> Course description for the 2022 edition of Pinyons and Pines coming soon!
 </div> -->
 
-This year's route is 323 miles with 26,000 feet of climbing. The intenion is for riders to ride the route counterclockwise, but there are a handful that are intending to ride the loop clockwise. Some general comments (assuming counterclockwise direction):
+After several changes to the originally-proposed route (some at the last minute), this year's route is 310 miles with 24,000 feet of climbing. The intention is for riders to ride the route counterclockwise, but there are a handful that are intending to ride the loop clockwise. Some general comments (assuming counterclockwise direction):
 
 - Please consult the [race rules]({{ site.baseurl }}/rules/).
 - The start and finish is at Flagstaff Bicycle Revolution.  If no one is at the finish to greet you, put your finish time on the sign in sheet that will be in the mailbox.
-- Neutral roll out for the first 1.2 miles.  Race is on after the group reaches Thorpe Park.  
+- Neutral roll out for the first 4.1 miles.  Race is on after the group crosses Route 180.  
 - The group will still be large when reaching Fort Valley Road (Route 180).  There is a stop light where the route crosses the road.  **Do not run this stop light!**
-- We start descending the new Heart Trail at mile 11.7.  The large group will likely be fractured into smaller groups after climbing up Elden Lookout Road.  Enjoy this descent, but remember that it is a long way to the finish.
 - The route will pass through the towns of Williams, Jerome, and Camp Verde.  In addition, Mormon Lake Village isn't too far off route.
-- Depending on when you enter Sunset Crater National Monument (mile 57), you may be stopped at the entrance booth. If you have a Parks Pass, bring it with you just in case. **Do not mention that you are doing a race!**
-- There is some hike-a-bike around miles 41-45 as we wander through the White Horse Hills on some moto trails.
-- We descend the Mingus Black Canyon Trail at miles 199.5-207.5.  This trail is magnificent.  However, it has quite a bit of exposure and there are a few places you do not want to fall.  Be careful when descending this trail! When in doubt, walk your bike.
-- There are several significant sections of pavement (miles 55-61, 131-141, 152.5-159, 211-229, 251-256, 304-308).  That might seem like a lot of pavement, but I'm confident you'll be grateful most of the times you are on it.  With the exception of the section around Camp Verde (miles 211-229), there is minimal car traffic.  Thankfully there is a good shoulder for most of the stretch near Camp Verde.  However, I suggest everyone use a tail light while riding the pavement sections.
+- We descend the Mingus Black Canyon Trail at miles 148.5-156.5.  This trail is magnificent.  However, it has quite a bit of exposure and there are a few places you do not want to fall.  Be careful when descending this trail! When in doubt, walk your bike.
+- There are several significant sections of pavement, but I'm confident you'll be grateful most of the times you are on it.  With the exception of the section around Camp Verde (miles 160-178), there is minimal car traffic.  Thankfully there is a good shoulder for most of the stretch near Camp Verde.  However, I suggest everyone use a tail light while riding the pavement sections.
 - As with all long rides in the southwest, water is always a challenge. I have added POIs for potential water sources that I am aware of. However, it is important to point out that these are potential sources and not guarantees.  I suggest reading the notes I added to each POI. Plan accordingly.
 - The Camp Verde area has the potential to be the warmest part of the course.  Plan accordingly.
 - Unless you can actually see another rider coming behind you, always close a gate you open.
 
 Comments about water and resupply:
-- Mile 43.1: At the end of the Peaks Moto Trail, I will put enough water for each person to take up to 2 liters.
-- Mile 67.2: Potential water source at stock tank on north side of road.  Water needs to be filtered/treated.
-- Mile 67.3: Spring-fed concrete tank on south side of road. Water needs to be filtered/treated.
-- Mile 71.6: Potential water source at Tip Top Tank is on your right. Water needs to be filtered/treated.
-- Mile 104.9: Gas station on the right.
-- Mile 112: Town of Williams.  All services including McDonald's and Safeway. Plenty of options for a sit down meal if you arrive during open hours.
-- Mile 120.7: Coleman Lake. Water needs to be filtered/treated.
-- Mile 124.8: Potential water source at MC Tank on the left. Water needs to be filtered/treated.
-- Mile 129.6: Potential water source at DT Tank on the right. Water needs to be filtered/treated.
-- Mile 146.1: Verde River. Easy access to water. Water needs to be filtered/treated.
-- Mile 162.6: Town of Jerome. Limited services and limited hours.  Flatiron Cafe and Haunted Hamburger and good places to stop for a meal.  There may also be acces to water at the fire station.
-- Mile 173.3: Copper Chief Spring is a piped spring on the right. No guarantees that this spring is still flowing. Water needs to be filtered/treated.
-- Mile 174.9: Allen Spring flows out of a large pipe on the downhill side of the road. Easy to miss if you aren't listening for the water flowing.  No guarantees that this spring is still flowing, but it usually is during May. Water needs to be filtered/treated.
-- Mile 198.3: Camp Verde. A few 24 hours options.
-- Mile 205.5: Dollar General.
-- Mile 206.4: Clear Creek Campground is located about a mile off route. Continue on pavement passed the turn onto FS 618 to the turn to the campground.  Water spigot at campground.
-- Mile  210.75: There's a cattle trough on the left that's fed via float (operational, good clean water coming out of it).
-- Mile 222: Twin Buttes tank is full. Very muddy water and plenty of cattle around.
-- Mile 224.8: Windmill Tank. Should have clear-ish/nice water.
-- Mile 233.1: Creek crossing has large pools of clear water.
-- Mile 234.5: Tank about 100 meters southwest of route.
-- Mile 236.2: Creek crossing has large pools of clear water.
-- Mile 238.3: Wildlife Preserve area, fenced with large amounts of water.
-- Mile 259.9: Detour to Mormon Lake Village. Limited services with limited hours.  If you leave the route to access Mormon Lake Village, you need to return to the route where you left it.
-- Mile 265.1: Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
-- Mile 266.8: Dairy Springs Campground. Where the Mormon Mountain Trail crosses the AZT, turn right and descent to campground. Water spigot should be on.
-- Mile 274.2: Potential water source at Weimer Spring. The spring is a short walk to the south. Water needs to be filtered/treated.
-- Mile 289.2: Lake Mary Country Store.
-- Mile 292.2: Detour to Upper Lake Mary. Instead of turning up towards Marshall Lake, continue on Lake Mary Road until you see the lake. Scramble down near fenced parking area. Water needs to be filtered/treated.
+- Mile 38.7: Potential water source at stock tank on north side of road.  Water needs to be filtered/treated.
+- Mile 38.8: Spring-fed concrete tank on south side of road. Water needs to be filtered/treated.
+- Mile 43: Potential water source at Tip Top Tank is on your right. Water needs to be filtered/treated.
+- Mile 76.3: Gas station on the right.
+- Mile 83.5: Town of Williams.  All services including McDonald's and Safeway. Plenty of options for a sit down meal if you arrive during open hours.
+- Mile 92.1: Coleman Lake. Water needs to be filtered/treated.
+- Mile 96.3: Potential water source at MC Tank on the left. Water needs to be filtered/treated.
+- Mile 101.1: Potential water source at DT Tank on the right. Water needs to be filtered/treated.
+- Mile 117.5: Verde River. Easy access to water. Water needs to be filtered/treated.
+- Mile 134.2: Town of Jerome. Limited services and limited hours.  Flatiron Cafe and Haunted Hamburger and good places to stop for a meal.  There may also be acces to water at the fire station.
+- Mile 144.7: Copper Chief Spring is a piped spring on the right. No guarantees that this spring is still flowing. Water needs to be filtered/treated.
+- Mile 146.3: Allen Spring flows out of a large pipe on the downhill side of the road. Easy to miss if you aren't listening for the water flowing.  No guarantees that this spring is still flowing, but it usually is during May. Water needs to be filtered/treated.
+- Mile 169.9: Camp Verde. A few 24 hours options.
+- Mile 172.5: 76 Gas Station.
+- Mile 177: Dollar General.
+- Mile 177.8: Clear Creek Campground is located about a mile off route. Continue on pavement passed the turn onto FS 618 to the turn to the campground.  Water spigot at campground.
+- Mile 182.1: There's a cattle trough on the left that's fed via float (operational, good clean water coming out of it).
+- Mile 193.4: Twin Buttes tank is full. Very muddy water and plenty of cattle around.
+- Mile 196.2: Windmill Tank. Should have clear-ish/nice water.
+- Mile 204.5: Creek crossing has large pools of clear water.
+- Mile 207.7: Creek crossing has large pools of clear water.
+- Mile 209.7: Wildlife Preserve area, fenced with large amounts of water.
+- Mile 231.4: Detour to Mormon Lake Village. Limited services with limited hours.  If you leave the route to access Mormon Lake Village, you need to return to the route where you left it.
+- Mile 236.5: Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
+- Mile 238.3: Dairy Springs Campground. Where the Mormon Mountain Trail crosses the AZT, turn right and descent to campground. Water spigot should be on.
+- Mile 245.6: Potential water source at Weimer Spring. The spring is a short walk to the south. Water needs to be filtered/treated.
+- Mile 260.6: Lake Mary Country Store.
+- Mile 264: Detour to Upper Lake Mary. Instead of turning up towards Marshall Lake, continue on Lake Mary Road until you see the lake. Scramble down near fenced parking area. Water needs to be filtered/treated.
+- Mile 290.1: Just south of tunnel that goes under Route 89, head southwest on double track to access Conoco Travel Center (open 24 hours).
