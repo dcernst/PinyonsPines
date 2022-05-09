@@ -57,7 +57,7 @@ Comments about water and resupply:
 - Mile 96.3: Potential water source at MC Tank on the left. Water needs to be filtered/treated.
 - Mile 101.1: Potential water source at DT Tank on the right. Water needs to be filtered/treated.
 - Mile 117.5: Verde River. Easy access to water. Water needs to be filtered/treated.
-- Mile 134.2: Town of Jerome. Limited services and limited hours.  Flatiron Cafe and Haunted Hamburger and good places to stop for a meal.  There may also be acces to water at the fire station.
+- Mile 134.2: Town of Jerome. Limited services and limited hours.  Flatiron Cafe and Haunted Hamburger and good places to stop for a meal.  There may also be access to water at the fire station.
 - Mile 144.7: Copper Chief Spring is a piped spring on the right. No guarantees that this spring is still flowing. Water needs to be filtered/treated.
 - Mile 146.3: Allen Spring flows out of a large pipe on the downhill side of the road. Easy to miss if you aren't listening for the water flowing.  No guarantees that this spring is still flowing, but it usually is during May. Water needs to be filtered/treated.
 - Mile 169.9: Camp Verde. A few 24 hours options.
