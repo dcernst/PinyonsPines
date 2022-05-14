@@ -47,7 +47,6 @@ The 2022 Grand Depart took place at 6am on Thursday, May 1.
 <td>Jesse Boudart</td> <td>Oakland, CA</td> <td>1:17:35</td> <td></td>
 </tr>
 <tr>
-<tr>
 <td>Gregg Dunham</td> <td>Thousand Oaks, CA</td> <td>1:17:37</td> <td></td>
 </tr>
 <tr>
@@ -104,34 +103,3 @@ The 2022 Grand Depart took place at 6am on Thursday, May 1.
 </table>
 </div>
 </center>
-
-<!-- ### Individual Time Trials
-
-<center>
-<div class="table-responsive">
-<table class="table table-striped">
-<thead>
-<tr>
-<th>Name</th>
-<th>Hometown</th>
-<th>Elapsed Time</th>
-<th>Start&nbsp;Date</th>
-<th>Notes</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td>Peter Schuster</td> <td>Littleton, CO</td> <td>2:06:51</td> <td>May 14, 2021</td> <td>Counterclockwise. Scratch at first crossing of Lake Mary Road, rode pavement back to town.</td>
-</tr>
-<tr>
-<td>Mike Enfield</td> <td>Show Low, AZ</td> <td> </td> <td>May 20, 2021</td> <td>Counterclockwise. Rode to start at Rim Road. Scratch on AZT.</td>
-</tr>
-<tr>
-<td>Eric Morton</td> <td>Flagstaff, AZ</td> <td>3:18:56</td> <td>May 25, 2021.</td>
-</tr>
-</tbody>
-
-</table>
-</div>
-</center> -->
