@@ -1,5 +1,5 @@
 ---
-title: 2021 Results
+title: 2022 Results
 author: Dana Ernst
 layout: default
 ---
@@ -12,13 +12,11 @@ layout: default
 
 ## 2022 Results
 
-Posted within a few days after Grand Depart.
+<!-- Posted within a few days after Grand Depart. -->
 
-<!-- ### Grand Depart
+### Grand Depart
 
-The 2021 Grand Depart took place at 6am on Thursday, May 20.
-
-#### Counterclockwise
+The 2022 Grand Depart took place at 6am on Thursday, May 1.
 
 <center>
 <div class="table-responsive">
@@ -34,130 +32,72 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 
 <tbody>
 <tr>
-<td>Andrew Strempke</td> <td>Van Life</td> <td>1:18:05</td> <td>First place overall! Single speed.</td>
+<td>Andrew Strempke</td> <td>Van Life</td> <td>1:11:37</td> <td>First place overall! Single speed.</td>
 </tr>
 <tr>
-<td>Ezra Ward-Packard</td> <td>Van Life</td> <td>2:00:25</td> <td>Second place overall.</td>
+<td>Matthew Turner</td> <td>Park City, UT</td> <td>1:12:58</td> <td>Second place overall.</td>
 </tr>
 <tr>
-<td>Katie Strempke</td> <td>Van Life</td> <td>2:03:47</td> <td>Third place overall, first place female. Single speed.</td>
+<td>Matt Bowe</td> <td>Flagstaff, AZ</td> <td>1:15:28</td> <td>Finished together with Andy Wentzel. Drop bar bike!</td>
 </tr>
 <tr>
-<td>Nelson Jones</td> <td>Buena Vista, CO</td> <td>2:05:25</td> <td>Single speed.</td>
+<td>Andy Wentzel</td> <td>Tempe, AZ</td> <td>1:15:28</td> <td>Finished together with Matt Bowe. Single speed.</td>
 </tr>
 <tr>
-<td>Jeff Spencer</td> <td>Leadville, CO</td> <td>2:05:25</td> <td>Single speed.</td>
+<td>Jesse Boudart</td> <td>Oakland, CA</td> <td>1:17:35</td> <td></td>
 </tr>
 <tr>
-<td>Liz Carrington</td> <td>Durango, CO</td> <td>2:07:08</td> <td>Second place female.</td>
+<tr>
+<td>Gregg Dunham</td> <td>Thousand Oaks, CA</td> <td>1:17:37</td> <td></td>
 </tr>
 <tr>
-<td>Eric Payne</td> <td>Silver City, NM</td> <td>2:09:15</td> <td></td>
+<td>Artec Durham</td> <td>Flagstaff, AZ</td> <td>1:13:05</td> <td></td>
 </tr>
 <tr>
-<td>Leigh and Matt Bowe</td> <td>Flagstaff, AZ</td> <td>2:11:15</td> <td>First place duo.</td>
+<td>Creigh Godson</td> <td>Durango, CO</td> <td>1:30:00</td> <td>Drop bar Fargo!</td>
 </tr>
 <tr>
-<td>Pat Adrian</td> <td>Roseau, MN</td> <td>2:12:32</td> <td></td>
+<td>Josh Hicks</td> <td>Lakewood, CO</td> <td>2:02:46</td> <td>Single speed.</td>
 </tr>
 <tr>
-<td>Tim Nipper</td> <td>Albuqueque, NM</td> <td>2:12:59</td> <td></td>
+<td>Katie Strempke</td> <td>Van Life</td> <td>2:05:21</td> <td>First place female. Single speed. 5 bacon strips and t-shirt in front tire.</td>
 </tr>
 <tr>
-<td>Curtis Barrett</td> <td>Mesa, AZ</td> <td>2:13:37</td> <td></td>
+<td>Dylan Turner</td> <td>Flagstaff, AZ</td> <td>2:05:24</td> <td></td>
+</tr>
+
+<tr>
+<td>Ivan Moore</td> <td>Bellingham, WA</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Mike Farrell</td> <td>Flagstaff, AZ</td> <td>2:13:37</td> <td></td>
+<td>Sean Huzieff</td> <td>Bellvue, CO</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Greg Deemer</td> <td>Salt Lake City, UT</td> <td>2:13:37</td> <td></td>
+<td>Billy "The Kid" McMillen</td> <td>Prescott, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Jeff Hemperley & Holly Hovious</td> <td>Prescott, AZ</td> <td>2:14:02</td> <td>Second place duo.</td>
+<td>Jacob Miller</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Jeff Leenhouts</td> <td>Castro Valley, CA</td> <td>2:15:00</td> <td></td>
+<td>Matt Porembski</td> <td>Mesa, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Alexandera Houchin</td> <td>Cloquet, MN</td> <td>2:15:25</td> <td>Single speed.</td>
+<td>Ezra Ward-Packard</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Paul Kuzdas</td> <td>Phoenix, AZ</td> <td>2:16:20</td> <td></td>
+<td>Chase Edwards</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Ian Wigger</td> <td>Boise, ID</td> <td>2:18:00</td> <td></td>
+<td>Scott Heinsius</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Dan Dunn</td> <td>Flagstaff, AZ</td> <td>2:18:24</td> <td>Saw two mountain lions!</td>
+<td>Kyle Zelt</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Dylan Turner</td> <td>Flagstaff, AZ</td> <td>3:08:00</td> <td></td>
+<td>Connor Adkisson</td> <td>Tucson, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Brad Mattingly</td> <td>Flagstaff, AZ</td> <td>3:04:05</td> <td></td>
-</tr>
-<tr>
-<td>Lindsay, Nohl</td> <td>Victor, ID</td> <td>3:09:48</td> <td></td>
-</tr>
-<tr>
-<td>Kevin Emery</td> <td>Victor, ID</td> <td>DNF</td> <td>Scratch at Lake Mary Road, rode pavement back to town.</td>
-</tr>
-<tr>
-<td>Billy Nixon</td> <td>Victor, ID</td> <td>DNF</td> <td>Scratch at Lake Mary Road, rode pavement back to town.</td>
-</tr>
-<tr>
-<td>Ryan Carruth</td> <td>Cripple Creek, CO</td> <td>DNF</td> <td>Scratch at Mormon Lake Village, rode pavement back to town.</td>
-</tr>
-<tr>
-<td>Spencer Holmes</td> <td>Chico, CA</td> <td>DNF</td> <td>Scratch on AZT after breaking axle.</td>
-</tr>
-<tr>
-<td>Forest Baker</td> <td>Truckee, CA</td> <td>DNF</td> <td>Scratch at first crossing of Lake Mary Road.</td>
-</tr>
-<tr>
-<td>Martin Murillo</td> <td>Flastaff, AZ</td> <td>DNF</td> <td>Scratch on Rim Road.</td>
-</tr>
-<tr>
-<td>Matthew Turner</td> <td>Park City, UT</td> <td>DNF</td> <td>Scratch at Pine.</td>
-</tr>
-<tr>
-<td>Artec Durham</td> <td>Flastaff, AZ</td> <td>DNF</td> <td>Scratch at Pine.</td>
-</tr>
-<tr>
-<td>Dan Moses & Ben Sherman</td> <td>Venice, CA</td> <td>DNF</td> <td>Duo. Scratch at Highway 87.</td>
-</tr>
-<tr>
-<td>Gerrit Mack</td> <td>Gold Canyon, AZ</td> <td>DNF</td> <td>Scratch Fossil Creek.</td>
-</tr>
-<tr>
-<td>Dana Ernst</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td>Scratch at Camp Verde.</td>
-</tr>
-<tr>
-<td>Billy The Kid McMillen</td> <td>Prescott, AZ</td> <td>DNF</td> <td>Scratch at Camp Verde.</td>
-</tr>
-<tr>
-<td>Chris Kuzdas</td> <td>Flastaff, AZ</td> <td>DNF</td> <td>Scratch at Camp Verde.</td>
-</tr>
-<tr>
-<td>Wyatt Spalding</td> <td>Buckeye, AZ</td> <td>DNF</td> <td>Scratch at Jerome.</td>
-</tr>
-<tr>
-<td>Rhino Knifer</td> <td>El Mirage, AZ</td> <td>DNF</td> <td>Scratch at Jerome.</td>
-</tr>
-<tr>
-<td>John Schilling</td> <td>Queen Creek, AZ</td> <td>DNF</td> <td>Scratch at Jerome.</td>
-</tr>
-<tr>
-<td>Craig Runnalls & Steve Economos</td> <td>San Clementre, CA</td> <td>DNF</td> <td>Duo. Scratch at Jerome.</td>
-</tr>
-<tr>
-<td>Hannah Caproon</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td>Scratch at Jerome.</td>
-</tr>
-<tr>
-<td>Alex Kauffman</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td>Scratch at Jerome.</td>
-</tr>
-<tr>
-<td>Ben Hanus</td> <td>Buena Vista, CA</td> <td>DNF</td> <td>Scratch at Sycamore Rim.</td>
+<td>Joe DeSalme</td> <td>Chino Valley, AZ</td> <td>DNF</td> <td></td>
 </tr>
 
 </tbody>
@@ -165,43 +105,7 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 </div>
 </center>
 
-#### Clockwise
-
-<center>
-<div class="table-responsive">
-<table class="table table-striped">
-<thead>
-<tr>
-<th>Name</th>
-<th>Hometown</th>
-<th>Elapsed Time</th>
-<th>Notes</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td>Robert LaRoche & Mike Sowers</td> <td>Scottsdale, AZ</td> <td>3:07:21</td> <td>Duo. Only folks to finish clockwise!</td>
-</tr>
-<tr>
-<td>Max Milburn</td> <td>Jackson, WY</td> <td>DNF</td> <td>Scratch at Pine.</td>
-</tr>
-<tr>
-<td>Brian Martin</td> <td>Salt Lake City, UT</td> <td>DNF</td> <td>Scratch at Pine.</td>
-</tr>
-<tr>
-<td>Joe Pavlik & Nathan Franklin</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td>Duo. A few deviations. Scratch at Verde River.</td>
-</tr>
-<tr>
-<td>Eric Ivey</td> <td>Las Vegas, NV</td> <td>DNF</td> <td>Scratch on AZT.</td>
-</tr>
-</tbody>
-
-</table>
-</div>
-</center>
-
-### Individual Time Trials
+<!-- ### Individual Time Trials
 
 <center>
 <div class="table-responsive">
