@@ -66,6 +66,94 @@ The 2022 Grand Depart took place at 6am on Thursday, May 1.
 </tr>
 
 <tr>
+<td>Mike Chapman</td> <td>Santa Fe, NM</td> <td>2:08:37</td> <td></td>
+</tr>
+<tr>
+<td>Lauren Brownlee</td> <td>Boise, ID</td> <td>2:08:50</td> <td>Second place female. Drop bar bike, 40mm rear tire!</td>
+</tr>
+<tr>
+<td>Perry Jewett</td> <td>Spearfish, SD</td> <td>2:08:35</td> <td></td>
+</tr>
+<tr>
+<td>James Willis</td> <td>Flagstaff, AZ</td> <td>2:11:18</td> <td></td>
+</tr>
+<tr>
+<td>Daniel Dickason</td> <td>Flagstaff, AZ</td> <td>2:11:44</td> <td>Sprint finish with Richard Jara!</td>
+</tr>
+<tr>
+<td>Richard Jara</td> <td>Boulder, CO</td> <td>2:11:44</td> <td>Sprint finish with Daniel Dickason!</td>
+</tr>
+<tr>
+<td>Jeff Sowers</td> <td>Tucson, AZ</td> <td>2:12:21</td> <td></td>
+</tr>
+<tr>
+<td>Jeff Hemperley & Holly Hovious</td> <td>Prescott, AZ</td> <td>2:13:51</td> <td>First duo! Third time finishing P&P.</td>
+</tr>
+<tr>
+<td>Meg Knobel</td> <td>San Diego, CA</td> <td>2:14:31</td> <td></td>
+</tr>
+<tr>
+<td>Dan Moses</td> <td>Venice, CA</td> <td>2:17:43</td> <td></td>
+</tr>
+<tr>
+<td>Dan Lambert</td> <td>Carlsbad, CA</td> <td>2:19:29</td> <td></td>
+</tr>
+<tr>
+<td>Ian Graham</td> <td>Santa Paula, CA</td> <td>2:19:48</td> <td></td>
+</tr>
+<tr>
+<td>Craig Johnson</td> <td>Tucson, AZ</td> <td>2:??:??</td> <td></td>
+</tr>
+<tr>
+<td>Jason Marley</td> <td>Bozeman, MT</td> <td>3:00:49</td> <td></td>
+</tr>
+<tr>
+<td>Sarah Higgins</td> <td>Flagstaff, AZ</td> <td>3:05:24</td> <td></td>
+</tr>
+<tr>
+<td>Brie Hevener</td> <td>Carlsbad, CA</td> <td>3:07:17</td> <td></td>
+</tr>
+<tr>
+<td>Bret Parke</td> <td>Scottsdale, AZ</td> <td>3:08:37</td> <td></td>
+</tr>
+<tr>
+<td>Mason Tuttle</td> <td>Bozeman, MT</td> <td>3:09:21</td> <td></td>
+</tr>
+<tr>
+<td>Spencer Holmes</td> <td>Chico, CA</td> <td>3:09:21</td> <td></td>
+</tr>
+<tr>
+<td>Cole Chambers</td> <td>Flagstaff, AZ</td> <td>3:10:16</td> <td>Remaining member of Colehler duo.</td>
+</tr>
+<tr>
+<td>Alissa Bell</td> <td>Redwood City, CA</td> <td>3:11:15</td> <td></td>
+</tr>
+<tr>
+<td>Brad Mattingly</td> <td>Flagstaff, AZ</td> <td>3:11:40</td> <td>Rode course in reverse! Brad's fourth finish in P&P.</td>
+</tr>
+<tr>
+<td>David Brown</td> <td>Dillon, CO</td> <td>3:14:17</td> <td></td>
+</tr>
+<tr>
+<td>Joe Mangan</td> <td>Salt Lake City, UT</td> <td>3:18:51</td> <td></td>
+</tr>
+<tr>
+<td>Kate Sabo</td> <td>Flagstaff, AZ</td> <td>4:??:??</td> <td>Single speed.</td>
+</tr>
+<tr>
+<td>Braden Lloyd</td> <td>Cayucos, CA</td> <td>3:10:35</td> <td>Deviated from route after mile 217.</td>
+</tr>
+
+<tr>
+<td>Richard Meyers</td> <td>Scottsdale, AZ</td> <td>DNF</td> <td></td>
+</tr>
+<tr>
+<td> Lawrence Dennis</td> <td>San Antonio,  TX </td> <td>DNF</td> <td></td>
+</tr>
+<tr>
+<td>Ben Ruffatto</td> <td>Bozeman, MT</td> <td>DNF</td> <td></td>
+</tr>
+<tr>
 <td>Ivan Moore</td> <td>Bellingham, WA</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
