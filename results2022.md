@@ -44,10 +44,10 @@ The 2022 Grand Depart took place at 6am on Thursday, May 1.
 <td>Andy Wentzel</td> <td>Tempe, AZ</td> <td>1:15:28</td> <td>Finished together with Matt Bowe. Single speed.</td>
 </tr>
 <tr>
-<td>Jesse Boudart</td> <td>Oakland, CA</td> <td>1:17:35</td> <td></td>
+<td>Jesse Boudart</td> <td>Oakland, CA</td> <td>1:17:48</td> <td></td>
 </tr>
 <tr>
-<td>Gregg Dunham</td> <td>Thousand Oaks, CA</td> <td>1:17:37</td> <td></td>
+<td>Gregg Dunham</td> <td>Thousand Oaks, CA</td> <td>1:17:41</td> <td></td>
 </tr>
 <tr>
 <td>Artec Durham</td> <td>Flagstaff, AZ</td> <td>1:13:05</td> <td></td>
@@ -93,19 +93,19 @@ The 2022 Grand Depart took place at 6am on Thursday, May 1.
 <td>Meg Knobel</td> <td>San Diego, CA</td> <td>2:14:31</td> <td></td>
 </tr>
 <tr>
-<td>Dan Moses</td> <td>Venice, CA</td> <td>2:17:43</td> <td></td>
+<td>Dan Moses</td> <td>Venice, CA</td> <td>2:17:49</td> <td></td>
 </tr>
 <tr>
-<td>Dan Lambert</td> <td>Carlsbad, CA</td> <td>2:19:29</td> <td></td>
+<td>Dan Lambert</td> <td>Carlsbad, CA</td> <td>2:19:25</td> <td></td>
 </tr>
 <tr>
 <td>Ian Graham</td> <td>Santa Paula, CA</td> <td>2:19:48</td> <td></td>
 </tr>
 <tr>
-<td>Craig Johnson</td> <td>Tucson, AZ</td> <td>2:??:??</td> <td></td>
+<td>Craig Johnson</td> <td>Tucson, AZ</td> <td>2:21:40</td> <td></td>
 </tr>
 <tr>
-<td>Jason Marley</td> <td>Bozeman, MT</td> <td>3:00:49</td> <td></td>
+<td>Jason Marley</td> <td>Bozeman, MT</td> <td>3:00:35</td> <td></td>
 </tr>
 <tr>
 <td>Sarah Higgins</td> <td>Flagstaff, AZ</td> <td>3:05:24</td> <td></td>
@@ -117,13 +117,13 @@ The 2022 Grand Depart took place at 6am on Thursday, May 1.
 <td>Bret Parke</td> <td>Scottsdale, AZ</td> <td>3:08:37</td> <td></td>
 </tr>
 <tr>
-<td>Mason Tuttle</td> <td>Bozeman, MT</td> <td>3:09:21</td> <td></td>
+<td>Mason Tuttle</td> <td>Bozeman, MT</td> <td>3:09:25</td> <td></td>
 </tr>
 <tr>
-<td>Spencer Holmes</td> <td>Chico, CA</td> <td>3:09:21</td> <td></td>
+<td>Spencer Holmes</td> <td>Chico, CA</td> <td>3:09:25</td> <td></td>
 </tr>
 <tr>
-<td>Cole Chambers</td> <td>Flagstaff, AZ</td> <td>3:10:16</td> <td>Remaining member of Colehler duo.</td>
+<td>Cole Chambers</td> <td>Flagstaff, AZ</td> <td>3:09:50</td> <td>Remaining member of Colehler duo.</td>
 </tr>
 <tr>
 <td>Alissa Bell</td> <td>Redwood City, CA</td> <td>3:11:15</td> <td></td>
@@ -132,13 +132,13 @@ The 2022 Grand Depart took place at 6am on Thursday, May 1.
 <td>Brad Mattingly</td> <td>Flagstaff, AZ</td> <td>3:11:40</td> <td>Rode course in reverse! Brad's fourth finish in P&P.</td>
 </tr>
 <tr>
-<td>David Brown</td> <td>Dillon, CO</td> <td>3:14:17</td> <td></td>
+<td>David Brown</td> <td>Dillon, CO</td> <td>3:14:20</td> <td></td>
 </tr>
 <tr>
 <td>Joe Mangan</td> <td>Salt Lake City, UT</td> <td>3:18:51</td> <td></td>
 </tr>
 <tr>
-<td>Kate Sabo</td> <td>Flagstaff, AZ</td> <td>4:??:??</td> <td>Single speed.</td>
+<td>Kate Sabo</td> <td>Flagstaff, AZ</td> <td>4:07:25</td> <td>Single speed.</td>
 </tr>
 <tr>
 <td>Braden Lloyd</td> <td>Cayucos, CA</td> <td>3:10:35</td> <td>Deviated from route after mile 217.</td>
