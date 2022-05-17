@@ -135,7 +135,7 @@ The 2022 Grand Depart took place at 6am on Thursday, May 1.
 <td>David Brown</td> <td>Dillon, CO</td> <td>3:14:20</td> <td></td>
 </tr>
 <tr>
-<td>Joe Mangan</td> <td>Salt Lake City, UT</td> <td>3:18:51</td> <td></td>
+<td>Joe Mangan</td> <td>Salt Lake City, UT</td> <td>3:18:51</td> <td>Mountain lion encounter on Little Bear!</td>
 </tr>
 <tr>
 <td>Kate Sabo</td> <td>Flagstaff, AZ</td> <td>4:07:25</td> <td>Single speed.</td>
@@ -143,7 +143,6 @@ The 2022 Grand Depart took place at 6am on Thursday, May 1.
 <tr>
 <td>Braden Lloyd</td> <td>Cayucos, CA</td> <td>3:10:35</td> <td>Deviated from route after mile 217.</td>
 </tr>
-
 <tr>
 <td>Richard Meyers</td> <td>Scottsdale, AZ</td> <td>DNF</td> <td></td>
 </tr>
