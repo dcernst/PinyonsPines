@@ -141,6 +141,9 @@ The 2022 Grand Depart took place at 6am on Thursday, May 1.
 <td>Kate Sabo</td> <td>Flagstaff, AZ</td> <td>4:07:25</td> <td>Single speed.</td>
 </tr>
 <tr>
+<td>Joe Pavlik</td> <td>Flagstaff, AZ</td> <td>3+ days</td> <td>Started the evening after grand depart, deviated from route in a few spots.</td>
+</tr>
+<tr>
 <td>Braden Lloyd</td> <td>Cayucos, CA</td> <td>3:10:35</td> <td>Deviated from route after mile 217.</td>
 </tr>
 <tr>
