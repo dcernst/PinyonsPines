@@ -138,7 +138,7 @@ The 2022 Grand Depart took place at 6am on Thursday, May 1.
 <td>Joe Mangan</td> <td>Salt Lake City, UT</td> <td>3:18:51</td> <td>Mountain lion encounter on Little Bear!</td>
 </tr>
 <tr>
-<td>Kate Sabo</td> <td>Flagstaff, AZ</td> <td>4:07:25</td> <td>Single speed.</td>
+<td>Kate Sabo</td> <td>Flagstaff, AZ</td> <td>4:07:25</td> <td>Single speed. Received aid from a friend (new pedal).</td>
 </tr>
 <tr>
 <td>Joe Pavlik</td> <td>Flagstaff, AZ</td> <td>3+ days</td> <td>Started the evening after grand depart, deviated from route in a few spots.</td>
