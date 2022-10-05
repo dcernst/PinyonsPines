@@ -34,6 +34,8 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 - [Katie Strempke is First Woman to Finish 2022 Pinyons and Pines](https://bikepacking.com/news/katie-strempke-2022-pinyons-and-pines/)
 - [2022 Event Recap](https://bikepacking.com/plog/2022-pinyons-and-pines-report/)
 
+<br>
+
 <div class="row">
 <div class="col-md-2 col-lg-2">
 </div>
@@ -44,11 +46,13 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 <hr>
 
-Registration is full! You can sign up for the waitlist. As spots become available, people will move off the waitlist.
+Registration will open in January 2023.
+
+<!-- Registration is full! You can sign up for the waitlist. As spots become available, people will move off the waitlist.
 
 <hr>
 
-<a href="https://forms.gle/aA5Sn568QGikhCoY7" class="alert-link" target="_blank">Register for waitlist here!</a>
+<a href="https://forms.gle/aA5Sn568QGikhCoY7" class="alert-link" target="_blank">Register for waitlist here!</a> -->
 </center>
 
 <!--
