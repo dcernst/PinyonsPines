@@ -34,11 +34,7 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 - [Katie Strempke is First Woman to Finish 2022 Pinyons and Pines](https://bikepacking.com/news/katie-strempke-2022-pinyons-and-pines/)
 - [2022 Event Recap](https://bikepacking.com/plog/2022-pinyons-and-pines-report/)
 
-<br>
-
 <strong>Important!</strong> This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time in comparison to others. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
-
-<br>
 
 <div class="row">
 <div class="col-md-2 col-lg-2">
