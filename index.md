@@ -18,11 +18,21 @@ title: Pinyons and Pines
 
 <br>
 
-Pinyons and Pines is an underground self-supported bikepacking race that starts and ends in [Flagstaff, AZ](https://en.wikipedia.org/wiki/Flagstaff,_Arizona) (6,910 feet). The route is a magnificent tour of Northern Arizona, utilizing a mixture of singletrack, double track, and dirt roads.  The start and finish are at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com). The course changes each year, but is typically around 300 miles. The 2022 edition of Pinyons and Pines will start at 6:00AM on **Thursday, May 12** and will be roughly 310 miles. In light of the COVID-19 pandemic, riders are asked to wear masks and use hand sanitizer when resupplying. The race organizer is [Dana Ernst](http://danaernst.com). Please [contact me](mailto:ernst.tribe@gmail.com) with any questions or concerns.
+Pinyons and Pines is an underground self-supported bikepacking race that starts and ends in [Flagstaff, AZ](https://en.wikipedia.org/wiki/Flagstaff,_Arizona) (6,910 feet). The route is a magnificent tour of Northern Arizona, utilizing a mixture of singletrack, double track, and dirt roads.  The start and finish are at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com). The course changes each year, but is typically around 300 miles. The 2023 edition of Pinyons and Pines will start at 6:00AM on **Thursday, May 18**. New for this year, there will be a 300+ mile course and a 500+ course to choose from. The race organizer is [Dana Ernst](http://danaernst.com). Please [contact me](mailto:ernst.tribe@gmail.com) with any questions or concerns.
+
+<!-- In light of the COVID-19 pandemic, riders are asked to wear masks and use hand sanitizer when resupplying.  -->
 
 Flagstaff sits at the base of the [San Francisco Peaks](https://en.wikipedia.org/wiki/San_Francisco_Peaks), on homelands sacred to Native Americans throughout the region.  The Peaks, which includes [Humphreys Peak](https://en.wikipedia.org/wiki/Humphreys_Peak) (12,633 feet), the highest point in Arizona, have religious significance to several Native American tribes. In particular, the Peaks form the [Diné](https://en.wikipedia.org/wiki/Navajo) (Navajo) sacred mountain of the west, called Dook'o'oosłííd, which means "the summit that never melts". The [Hopi](https://en.wikipedia.org/wiki/Hopi) name for the Peaks is Nuva'tukya'ovi, which translates to "place-of-snow-on-the-very-top".  This year's course traverses the ancestral homelands of the [Hopi](https://en.wikipedia.org/wiki/Hopi), [Ndee/Nnēē](https://en.wikipedia.org/wiki/Western_Apache_people) (Western Apache), [Yavapai](https://en.wikipedia.org/wiki/Yavapai), [A:shiwi](https://en.wikipedia.org/wiki/Zuni_people) (Zuni Pueblo), and [Diné](https://en.wikipedia.org/wiki/Navajo) (Navajo). We honor their past, present, and future generations, who have lived here for millennia and will forever call this place home.
 
-Riders can choose between two categories: solo or duo (2-person team). Please consult the [rules]({{ site.baseurl }}/rules) prior to registering for the event. Feel free to ask questions on the event's [Facebook group](https://www.facebook.com/groups/PinyonsAndPines/) (or post in the forum on [bikepacking.net](http://bikepacking.net)).  Check out the event recaps for [2019](https://bikepacking.com/news/2019-pinyons-pines-event-recap/), [2020](https://bikepacking.com/news/2020-pinyons-and-pines-event-recap/), and [2021](https://bikepacking.com/news/2021-pinyons-and-pines-event-recap/) on [Bikepacking.com](http://bikepacking.com).
+Riders can choose between two categories: solo or duo (2-person team). Please consult the [rules]({{ site.baseurl }}/rules) prior to registering for the event. Feel free to ask questions on the event's [Facebook group](https://www.facebook.com/groups/PinyonsAndPines/) (or post in the forum on [bikepacking.net](http://bikepacking.net)).  Check out the event recaps on [Bikepacking.com](http://bikepacking.com):
+
+- [2019 Event Recap](https://bikepacking.com/news/2019-pinyons-pines-event-recap/)
+- [2020 Event Recap](https://bikepacking.com/news/2020-pinyons-and-pines-event-recap/)
+- [2021 Event Recap](https://bikepacking.com/news/2021-pinyons-and-pines-event-recap/)
+- [2022 Day 1 Recap](https://bikepacking.com/news/2022-pinyons-and-pines-day-1-recap/)
+- [Andrew Strempke Finishes Pinyons and Pines First...Again!](https://bikepacking.com/news/andrew-strempke-pinyons-and-pines-2022/)
+- [Katie Strempke is First Woman to Finish 2022 Pinyons and Pines](https://bikepacking.com/news/katie-strempke-2022-pinyons-and-pines/)
+- [2022 Event Recap](https://bikepacking.com/plog/2022-pinyons-and-pines-report/)
 
 <div class="row">
 <div class="col-md-2 col-lg-2">
@@ -30,7 +40,7 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 <div class="alert alert-info" role="alert">
 <center>
-<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2022 edition of Pinyons and Pines starts at 6AM on <strong>Thursday, May 12</strong> at Flagstaff Bicycle Revolution.
+<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2023 edition of Pinyons and Pines starts at 6AM on <strong>Thursday, May 18</strong> at Flagstaff Bicycle Revolution.
 
 <hr>
 
@@ -57,13 +67,13 @@ Registration is full! You can sign up for the waitlist. As spots become availabl
 
 The event will utilize [Trackleaders](http://trackleaders.com), providing a live map, elevation profile and other stats that can be used to follow along. Carrying a personal tracker (e.g., [SPOT](https://www.findmespot.com/en/), [Garmin InReach](https://explore.garmin.com/en-US/inreach/)) and being tracked by trackleaders is not mandatory but encouraged. Owners of personal trackers can expect to pay $15 to add their own device to Trackleaders. SPOT rentals (approximately $60 for a SPOT Gen3 with 5min tracking service and SOS) will also be available. Tracking signup link will be available about a month before race start.
 
-Below is the proposed route for 2022.
+Draft routes for 2023 coming soon.
 
-<br>
+<!-- <br>
 
 <center>
 <iframe src="https://ridewithgps.com/embeds?type=route&id=39347042&sampleGraph=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
-</center>
+</center> -->
 
 <br>
 
