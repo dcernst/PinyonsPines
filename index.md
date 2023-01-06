@@ -55,14 +55,6 @@ Registration will open at 7am (AZ time) on Thursday, January 12.
 <a href="https://forms.gle/aA5Sn568QGikhCoY7" class="alert-link" target="_blank">Register for waitlist here!</a> -->
 </center>
 
-Comments about the 2023 edition of Pinyons and Pines:
-
-- Registration for this year's event will open on Thursday, January 12 at 7am.
-- As always, the cap will be 74 riders. We will maintain a waitlist.
-- New this year! **In order to complete your registration, you will be required to make a $25 minimum donation to the Arizona Trail Association.** Once your registration has been confirmed you’ll have 24 hrs to [email](mailto:pinyonsandpines@gmail.com) proof of ATA donation. Riders added to waitlist will not need to make a donation (but feel free to do so!). If a racer moves off the waitlist, they will have 24 hours to submit verification of the donation.
-- New this year! In an attempt to increase diversity, we will reserve 20 spots until February 12 for those individuals that are historically underrepresented in bikepacking events. Individuals will have the option to self-select for one of these reserved spots. After February 12, we will begin filling any remaining spots from the waitlist.
-- Draft routes for 2023 coming soon.
-
 <!--
 <hr>
 <center>
@@ -74,6 +66,14 @@ Comments about the 2023 edition of Pinyons and Pines:
 </div>
 <div class="col-md-2 col-lg-2"></div>
 </div>
+
+Comments about the 2023 edition of Pinyons and Pines:
+
+- Registration for this year's event will open on Thursday, January 12 at 7am.
+- As always, the cap will be 74 riders. We will maintain a waitlist.
+- New this year! **In order to complete your registration, you will be required to make a $25 minimum donation to the Arizona Trail Association.** Once your registration has been confirmed you’ll have 24 hrs to [email](mailto:pinyonsandpines@gmail.com) proof of ATA donation. Riders added to waitlist will not need to make a donation (but feel free to do so!). If a racer moves off the waitlist, they will have 24 hours to submit verification of the donation.
+- New this year! In an attempt to increase diversity, we will reserve 20 spots until February 12 for those individuals that are historically underrepresented in bikepacking events. Individuals will have the option to self-select for one of these reserved spots. After February 12, we will begin filling any remaining spots from the waitlist.
+- Draft routes for 2023 coming soon.
 
 The event will utilize [Trackleaders](http://trackleaders.com), providing a live map, elevation profile and other stats that can be used to follow along. Carrying a personal tracker (e.g., [SPOT](https://www.findmespot.com/en/), [Garmin InReach](https://explore.garmin.com/en-US/inreach/)) and being tracked by trackleaders is not mandatory but encouraged. Owners of personal trackers can expect to pay $15 to add their own device to Trackleaders. SPOT rentals (approximately $60 for a SPOT Gen3 with 5min tracking service and SOS) will also be available. Tracking signup link will be available about a month before race start.
 
