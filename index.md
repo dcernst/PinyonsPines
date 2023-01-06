@@ -18,7 +18,7 @@ title: Pinyons and Pines
 
 <br>
 
-Pinyons and Pines is an underground self-supported bikepacking race that starts and ends in [Flagstaff, AZ](https://en.wikipedia.org/wiki/Flagstaff,_Arizona) (6,910 feet). The route is a magnificent tour of Northern Arizona, utilizing a mixture of singletrack, double track, and dirt roads.  The start and finish are at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com). The course changes each year, but is typically around 300 miles. New for 2023, there will be a 300+ mile course and a 500+ course to choose from. The 2023 edition of Pinyons and Pines will start at 6:00AM on **Thursday, May 18**. The race organizer is [Dana Ernst](http://danaernst.com). Please [contact me](mailto:ernst.tribe@gmail.com) with any questions or concerns.
+Pinyons and Pines is an underground self-supported bikepacking race that starts and ends in [Flagstaff, AZ](https://en.wikipedia.org/wiki/Flagstaff,_Arizona) (6,910 feet). The route is a magnificent tour of Northern Arizona, utilizing a mixture of singletrack, double track, and dirt roads.  The start and finish are at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com). The course changes each year, but is typically around 300 miles. New for 2023, there will be a 300+ mile course and a 500+ course to choose from. The 2023 edition of Pinyons and Pines will start at 6:00AM on **Thursday, May 18**. The race organizers are [Dana Ernst](http://danaernst.com) and [Dylan Turner](https://www.instagram.com/theseasonedbikepacker/). Please [contact us](mailto:pinyonsandpines@gmail.com) with any questions or concerns.
 
 <!-- In light of the COVID-19 pandemic, riders are asked to wear masks and use hand sanitizer when resupplying.  -->
 
@@ -46,7 +46,7 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 <hr>
 
-Registration will open in January 2023.
+Registration will open at 7am (AZ time) on Thursday, January 12.
 
 <!-- Registration is full! You can sign up for the waitlist. As spots become available, people will move off the waitlist.
 
@@ -54,6 +54,14 @@ Registration will open in January 2023.
 
 <a href="https://forms.gle/aA5Sn568QGikhCoY7" class="alert-link" target="_blank">Register for waitlist here!</a> -->
 </center>
+
+Comments about the 2023 edition of Pinyons and Pines:
+
+- Registration for this year's event will open on Thursday, January 12 at 7am.
+- As always, the cap will be 74 riders. We will maintain a waitlist.
+- New this year! **In order to complete your registration, you will be required to make a $25 minimum donation to the Arizona Trail Association.** Once your registration has been confirmed you’ll have 24 hrs to [email](mailto:pinyonsandpines@gmail.com) proof of ATA donation. Riders added to waitlist will not need to make a donation (but feel free to do so!). If a racer moves off the waitlist, they will have 24 hours to submit verification of the donation.
+- New this year! In an attempt to increase diversity, we will reserve 20 spots until February 12 for those individuals that are historically underrepresented in bikepacking events. Individuals will have the option to self-select for one of these reserved spots. After February 12, we will begin filling any remaining spots from the waitlist.
+- Draft routes for 2023 coming soon.
 
 <!--
 <hr>
@@ -68,8 +76,6 @@ Registration will open in January 2023.
 </div>
 
 The event will utilize [Trackleaders](http://trackleaders.com), providing a live map, elevation profile and other stats that can be used to follow along. Carrying a personal tracker (e.g., [SPOT](https://www.findmespot.com/en/), [Garmin InReach](https://explore.garmin.com/en-US/inreach/)) and being tracked by trackleaders is not mandatory but encouraged. Owners of personal trackers can expect to pay $15 to add their own device to Trackleaders. SPOT rentals (approximately $60 for a SPOT Gen3 with 5min tracking service and SOS) will also be available. Tracking signup link will be available about a month before race start.
-
-Draft routes for 2023 coming soon.
 
 <!-- <br>
 
