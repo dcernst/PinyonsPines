@@ -25,21 +25,20 @@ title: Pinyons and Pines
 
 Pinyons and Pines is an underground self-supported bikepacking race that starts and ends in [Flagstaff, AZ](https://en.wikipedia.org/wiki/Flagstaff,_Arizona) (6,910 feet). The route is a magnificent tour of Northern Arizona, utilizing a mixture of singletrack, double track, and dirt roads.  The start and finish are at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com). The course changes each year, but is typically around 300 miles. New for 2023, there will be a 300+ mile course and a 500+ course to choose from. The 2023 edition of Pinyons and Pines will start at 6:00AM on **Thursday, May 18**. The race organizers are [Dana Ernst](http://danaernst.com) and [Dylan Turner](https://www.instagram.com/theseasonedbikepacker/). Please [contact us](mailto:pinyonsandpines@gmail.com) with any questions or concerns.
 
-<!-- In light of the COVID-19 pandemic, riders are asked to wear masks and use hand sanitizer when resupplying.  -->
-
 Flagstaff sits at the base of the [San Francisco Peaks](https://en.wikipedia.org/wiki/San_Francisco_Peaks), on homelands sacred to Native Americans throughout the region.  The Peaks, which includes [Humphreys Peak](https://en.wikipedia.org/wiki/Humphreys_Peak) (12,633 feet), the highest point in Arizona, have religious significance to several Native American tribes. In particular, the Peaks form the [Diné](https://en.wikipedia.org/wiki/Navajo) (Navajo) sacred mountain of the west, called Dook'o'oosłííd, which means "the summit that never melts". The [Hopi](https://en.wikipedia.org/wiki/Hopi) name for the Peaks is Nuva'tukya'ovi, which translates to "place-of-snow-on-the-very-top".  This year's course traverses the ancestral homelands of the [Hopi](https://en.wikipedia.org/wiki/Hopi), [Ndee/Nnēē](https://en.wikipedia.org/wiki/Western_Apache_people) (Western Apache), [Yavapai](https://en.wikipedia.org/wiki/Yavapai), [A:shiwi](https://en.wikipedia.org/wiki/Zuni_people) (Zuni Pueblo), and [Diné](https://en.wikipedia.org/wiki/Navajo) (Navajo). We honor their past, present, and future generations, who have lived here for millennia and will forever call this place home.
 
-Riders can choose between two categories: solo or duo (2-person team). Please consult the [rules]({{ site.baseurl }}/rules) prior to registering for the event. Feel free to ask questions on the event's [Facebook group](https://www.facebook.com/groups/PinyonsAndPines/) (or post in the forum on [bikepacking.net](http://bikepacking.net)).  Check out the event recaps on [Bikepacking.com](http://bikepacking.com):
-
-- [2019 Event Recap](https://bikepacking.com/news/2019-pinyons-pines-event-recap/)
-- [2020 Event Recap](https://bikepacking.com/news/2020-pinyons-and-pines-event-recap/)
-- [2021 Event Recap](https://bikepacking.com/news/2021-pinyons-and-pines-event-recap/)
-- [2022 Day 1 Recap](https://bikepacking.com/news/2022-pinyons-and-pines-day-1-recap/)
-- [Andrew Strempke Finishes Pinyons and Pines First...Again!](https://bikepacking.com/news/andrew-strempke-pinyons-and-pines-2022/)
-- [Katie Strempke is First Woman to Finish 2022 Pinyons and Pines](https://bikepacking.com/news/katie-strempke-2022-pinyons-and-pines/)
-- [2022 Event Recap](https://bikepacking.com/plog/2022-pinyons-and-pines-report/)
+Riders can choose between two categories: solo or duo (2-person team). Please consult the [rules]({{ site.baseurl }}/rules) prior to registering for the event. Feel free to ask questions on the event's [Facebook group](https://www.facebook.com/groups/PinyonsAndPines/).
 
 <strong>Important!</strong> This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time in comparison to others. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
+
+Comments about the 2023 edition of Pinyons and Pines:
+
+<!-- - Registration for this year's event will open on Thursday, January 12 at 7am. -->
+
+- As always, the cap will be 74 riders. We will maintain a waitlist.
+- New this year! **In order to complete your registration, you will be required to make a $25 minimum donation to the Arizona Trail Association.** Once your registration has been confirmed you’ll have 24 hrs to [email](mailto:pinyonsandpines@gmail.com) proof of ATA donation. Riders added to waitlist will not need to make a donation (but feel free to do so!). If a racer moves off the waitlist, they will have 24 hours to submit verification of the donation.
+- New this year! In an attempt to increase diversity, we will reserve 20 spots until February 12 for those individuals that are historically underrepresented in bikepacking events. Individuals will have the option to self-select for one of these reserved spots. After February 12, we will begin filling any remaining spots from the waitlist.
+- Draft routes for 2023 coming soon.
 
 <div class="row">
 <div class="col-md-2 col-lg-2">
@@ -51,13 +50,14 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 <hr>
 
-Registration will open at 7am (AZ time) on Thursday, January 12.
+<!-- Registration will open at 7am (AZ time) on Thursday, January 12. -->
 
 <!-- Registration is full! You can sign up for the waitlist. As spots become available, people will move off the waitlist.
 
-<hr>
+<hr> -->
 
-<a href="https://forms.gle/aA5Sn568QGikhCoY7" class="alert-link" target="_blank">Register for waitlist here!</a> -->
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfZfobyt7nRJ4CCYWgW2LAb_RNW5EYaDiQE3RE9uPrDgq8YSA/viewform?usp=sf_link" class="alert-link" target="_blank">Register here!</a>
+
 </center>
 
 <!--
@@ -72,15 +72,17 @@ Registration will open at 7am (AZ time) on Thursday, January 12.
 <div class="col-md-2 col-lg-2"></div>
 </div>
 
-Comments about the 2023 edition of Pinyons and Pines:
-
-- Registration for this year's event will open on Thursday, January 12 at 7am.
-- As always, the cap will be 74 riders. We will maintain a waitlist.
-- New this year! **In order to complete your registration, you will be required to make a $25 minimum donation to the Arizona Trail Association.** Once your registration has been confirmed you’ll have 24 hrs to [email](mailto:pinyonsandpines@gmail.com) proof of ATA donation. Riders added to waitlist will not need to make a donation (but feel free to do so!). If a racer moves off the waitlist, they will have 24 hours to submit verification of the donation.
-- New this year! In an attempt to increase diversity, we will reserve 20 spots until February 12 for those individuals that are historically underrepresented in bikepacking events. Individuals will have the option to self-select for one of these reserved spots. After February 12, we will begin filling any remaining spots from the waitlist.
-- Draft routes for 2023 coming soon.
-
 The 2023 event will utilize [Follow My Challenge](https://usa.followmychallenge.com), providing a live map, elevation profile and other stats that can be used to follow along. Carrying a personal tracker (e.g., [SPOT](https://www.findmespot.com/en/), [Garmin InReach](https://explore.garmin.com/en-US/inreach/)) and being tracked by Follow My Challenge is not mandatory but encouraged. Owners of personal trackers can expect to pay $15 to add their own device to Follow My Challenge. SPOT rentals (approximately $60 for a SPOT Gen3 with 5min tracking service and SOS) will also be available. Tracking signup link will be available about a month before race start.
+
+Check out the event recaps on [Bikepacking.com](http://bikepacking.com):
+
+- [2019 Event Recap](https://bikepacking.com/news/2019-pinyons-pines-event-recap/)
+- [2020 Event Recap](https://bikepacking.com/news/2020-pinyons-and-pines-event-recap/)
+- [2021 Event Recap](https://bikepacking.com/news/2021-pinyons-and-pines-event-recap/)
+- [2022 Day 1 Recap](https://bikepacking.com/news/2022-pinyons-and-pines-day-1-recap/)
+- [Andrew Strempke Finishes Pinyons and Pines First...Again!](https://bikepacking.com/news/andrew-strempke-pinyons-and-pines-2022/)
+- [Katie Strempke is First Woman to Finish 2022 Pinyons and Pines](https://bikepacking.com/news/katie-strempke-2022-pinyons-and-pines/)
+- [2022 Event Recap](https://bikepacking.com/plog/2022-pinyons-and-pines-report/)
 
 <!-- <br>
 
