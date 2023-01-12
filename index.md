@@ -56,7 +56,7 @@ Comments about the 2023 edition of Pinyons and Pines:
 
 <hr> -->
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfZfobyt7nRJ4CCYWgW2LAb_RNW5EYaDiQE3RE9uPrDgq8YSA/viewform?usp=sf_link" class="alert-link" target="_blank">Register here!</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfZfobyt7nRJ4CCYWgW2LAb_RNW5EYaDiQE3RE9uPrDgq8YSA/viewform?usp=sf_link" class="alert-link" target="_blank">Registration is full! All new registrations added to waitlist.</a>
 
 </center>
 
