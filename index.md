@@ -52,11 +52,11 @@ Comments about the 2023 edition of Pinyons and Pines:
 
 <!-- Registration will open at 7am (AZ time) on Thursday, January 12. -->
 
-<!-- Registration is full! You can sign up for the waitlist. As spots become available, people will move off the waitlist.
+ Registration is full! Contact us if you'd like to arrange an ITT on a different date.
 
-<hr> -->
+<!--<hr> -->
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfZfobyt7nRJ4CCYWgW2LAb_RNW5EYaDiQE3RE9uPrDgq8YSA/viewform?usp=sf_link" class="alert-link" target="_blank">Registration is full! All new registrations added to waitlist.</a>
+<!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZfobyt7nRJ4CCYWgW2LAb_RNW5EYaDiQE3RE9uPrDgq8YSA/viewform?usp=sf_link" class="alert-link" target="_blank">Registration is full! All new registrations added to waitlist.</a> -->
 
 </center>
 
