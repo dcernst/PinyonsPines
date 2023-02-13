@@ -29,7 +29,7 @@ Flagstaff sits at the base of the [San Francisco Peaks](https://en.wikipedia.org
 
 Riders can choose between two categories: solo or duo (2-person team). Please consult the [rules]({{ site.baseurl }}/rules) prior to registering for the event. Feel free to ask questions on the event's [Facebook group](https://www.facebook.com/groups/PinyonsAndPines/).
 
-<strong>Important!</strong> This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time in comparison to others. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
+<strong>Important!</strong> This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
 
 Comments about the 2023 edition of Pinyons and Pines:
 

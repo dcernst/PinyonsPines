@@ -36,7 +36,7 @@ Below are some important notes, including information concerning resupply option
 - **Mile 129.7:** Just north of the turn on Schutlz Pass Road, there is a Shell gas station on the right side of Highway 180.
 - **Mile 141.2:** Alfa Fia Tank is a short distance to the west. You'll need to filter/treat the water.
 - **Mile 173.3:** Tiptop Tank is a fairly consistent stock tank on the left side of the road. You'll definitely need to filter/treat the water.
-- **Mile 190:** Where the AZT merges in from the right, there is a public cache box hidden in the bushes. Do not take any water (or food) that is designated for an individual. The ride organizer (Dana Ernst) will stock this cache before and after the race.
+- **Mile 190:** Where the AZT merges in from the right, there is a public cache box hidden in the bushes. Do not take any water (or food) that is designated for an individual. The ride organizer (Dana Ernst) will stock this cache before and after the ride.
 - **Mile 230.6:** There is a drinking fountain and a vending machine at the Sunset Crater National Monument Visitor's Center, which is on the left side of the road.
 - **Mile 237.2:** Just as you enter Lockett Meadow, there is a small pond on the right. You'll need to filter/treat the water.
 - **Miles 238.5-247.5:** There may be downed trees on Waterline Road. Most of them are easy to lift your bike over, but some of them are a bit annoying.

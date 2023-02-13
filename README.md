@@ -1,3 +1,3 @@
 # Pinyons and Pines
 
-Website for Pinyons and Pines Bikepacking Race
+Website for Pinyons and Pines Bikepacking Route
