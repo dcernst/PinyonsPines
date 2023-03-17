@@ -71,7 +71,7 @@ Comments about the 2023 edition of Pinyons and Pines:
 <div class="col-md-2 col-lg-2"></div>
 </div>
 
-The 2023 event will utilize [Follow My Challenge](https://usa.followmychallenge.com), providing a live map, elevation profile and other stats that can be used to follow along. Carrying a personal tracker (e.g., [SPOT](https://www.findmespot.com/en/), [Garmin InReach](https://explore.garmin.com/en-US/inreach/)) and being tracked by Follow My Challenge is not mandatory but encouraged. Owners of personal trackers can expect to pay $15 to add their own device to Follow My Challenge. SPOT rentals (approximately $60 for a SPOT Gen3 with 5min tracking service and SOS) will also be available. Tracking signup link will be available about a month before ride starts.
+The 2023 event will utilize [Trackleaders](http://trackleaders.com), providing a live map, elevation profile and other stats that can be used to follow along. Carrying a personal tracker (e.g., [SPOT](https://www.findmespot.com/en/), [Garmin InReach](https://explore.garmin.com/en-US/inreach/)) and being tracked by Trackleaders is not mandatory but encouraged. Owners of personal trackers can expect to pay $15 to add their own device to Trackleaders. SPOT rentals (approximately $60 for a SPOT Gen3 with 5min tracking service and SOS) will also be available. Tracking signup link will be available about a month before ride starts.
 
 Check out the event recaps on [Bikepacking.com](http://bikepacking.com):
 
