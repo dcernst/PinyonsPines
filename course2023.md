@@ -122,7 +122,7 @@ Below are some important notes, including information concerning resupply option
 - **Mile 232.5:** Metal livestock tank on west side of road. May or may not have water. Water needs to be filtered/treated.
 - **Mile 237:** Sycamore Creek. May or may not have water. Water needs to be filtered/treated.
 - **Mile 239.5** Little Sycamore Creek. May or may not have water. Water needs to be filtered/treated.
-- **Mile 264:** McDonald's and other 24 hour options are off route the north on Route 260.
+- **Mile 264:** McDonald's and other 24 hour options are off route to the north on Route 260.
 - **Mile 265.5** 24 hour Maverick and Circle K just off route to the west.
 - **Mile 266.5:** 76 gas station.  Not as good a choice as the Maverick and Circle K.
 - **Mile 271:** Dollar General.
