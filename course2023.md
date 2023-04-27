@@ -50,7 +50,7 @@ Below are some important notes, including information concerning resupply option
 - **Mile 114.5:** 76 Gas Station.
 - **Mile 118.5:** Dollar General.
 - **Miles 119.5-152:** Climb forever and enjoy the changing scenery.
-- **Mile 131:** Route crosses Wet Beaver Creek.  To access creek, cross bridge, take next right and work your way to creek. Water needs to be filtered/treated.
+- **Mile 131:** Route crosses Wet Beaver Creek.  To access creek, cross bridge, take next left and work your way to creek. Water needs to be filtered/treated.
 - **Mile 131.5:** There is a water spigot at the Beaver Creek Work Station. It's not clear whether this spigot is open to the public, but I've used it in the past.  
 - **Miles 156-175:** Enjoy the smooth pavement of Lake Mary Road.  Good shoulder the whole way.
 - **Mile 173:** Happy Jack Lodge.  Restaraunt and store.
@@ -127,7 +127,7 @@ Below are some important notes, including information concerning resupply option
 - **Mile 266.5:** 76 gas station.  Not as good a choice as the Maverick and Circle K.
 - **Mile 271:** Dollar General.
 - **Miles 272-305:** Climb forever and enjoy the changing scenery.
-- **Mile 283.5:** Route crosses Wet Beaver Creek.  To access creek, cross bridge, take next right and work your way to creek. Water needs to be filtered/treated.
+- **Mile 283.5:** Route crosses Wet Beaver Creek.  To access creek, cross bridge, take next left and work your way to creek. Water needs to be filtered/treated.
 - **Mile 283.5:** There is a water spigot at the Beaver Creek Work Station. It's not clear whether this spigot is open to the public, but I've used it in the past.  
 - **Miles 308-320.5:** Turn right onto Lake Mary Road and enjoy the many miles of smooth pavement.  Good shoulder.
 - **Miles 330-351.5:** Route overlaps with short course, but they will be going in the opposite direction. It's possible the front runners will encounter folks riding the short course.
