@@ -56,7 +56,7 @@ Below are some important notes, including information concerning resupply option
 - **Mile 173:** Happy Jack Lodge.  Restaraunt and store.
 - **Mile 175.5:** Mustang Gas Station.  Very friendly staff.
 - **Mile 188:** Kehl Spring Campground.  Sometimes there is a portable water tank at campground host. There is a spring uphill and west of entrance to campground.
-- **Mile 203:** Aspen Spring. Usually flowing.Water needs to be filtered/treated.
+- **Mile 203:** Aspen Spring. Usually flowing. Water needs to be filtered/treated.
 - **Mile 211:** Water in Clear Creek at bottom of Barbershop Canyon. Water needs to be filtered/treated. Climb up out of Barbershop Canyon.
 - **Mile 217.5:** Instead of crossing over HWY 87, turn left and ride a short distance to ranger station. There is a water spigot behind the first building on the right.
 - **Miles 219-263:** Follow Arizona Trail. This stretch often takes longer than you'd expect.
@@ -70,6 +70,7 @@ Below are some important notes, including information concerning resupply option
 - **Mile 285.5:** Detour to Upper Lake Mary. Instead of turning up towards Marshall Lake, continue on Lake Mary Road until you see the lake. Scramble down near fenced parking area.
 - **Miles 288-327:** Almost all single track! The climb up Heart Trail and mile 314 is the last crux.
 - **Mile 311:** Just south of tunnel that goes under Route 89, head southwest on double track to access Conoco Travel Center (open 24 hours).
+- **Mile 331.5:** Arrive back at Flagstaff Bicycle Revolution.  Pat yourself on the back and sign the finishers sheet located in the mailbox to the right of the door.
 
 ## Long Route
 
@@ -96,4 +97,65 @@ Below are some important notes, including information concerning resupply option
 - **Mile 66.5:** 24 hour Maverick. Prepare for the long climb ahead!
 - **Mile 77.5:** Copper Chief Spring is a piped spring on the right. No guarantees that this spring is still flowing. Water needs to be filtered/treated.
 - **Mile 79:** Allen Spring flows out of a large pipe on the downhill side of the road. Easy to miss if you aren't listening for the water flowing.  No guarantees that this spring is still flowing, but it usually is during May. Water needs to be filtered/treated.
-- More coming soon!
+- **Miles 103-126.5:** Follow single track.  Some of this section is seldom used and may be hard to follow in a few spots.
+- **Mile 118:** Agua Fria River.  May or may not have water. Water needs to be filtered/treated.
+- **Mile 123.5:** You can detour to the southwest on Route 69 (pavement) to gas station in Spring Valley.  If you continue for a few more files, you'll reach Cordes Junction.
+- **Mile 132:** 24 Hour Circle K is a short distance off route to the north.  You'll pass by this way a second time at mile 202. Great ready to climb!
+- **Mile 140:** Wolf Creek. May or may not have water. Water needs to be filtered/treated. You'll pass by this way a second time at mile 194.
+- **Mile 142:** Pine Creek. May or may not have water. Water needs to be filtered/treated. You'll pass by this way a second time at mile 192.
+- **Mile 143:** Turkey Creek. May or may not have water. Water needs to be filtered/treated. You'll pass by this way a second time at mile 191.
+- **Miles 146-156:** Turn right at mile 156!  You'll return to this intersection at mile 188.  This stretch is challenging and there will be some hike-a-bike.  If you are lucky, you'll see folks panning for gold.
+- **Mile 147.5:** Turkey Creek. May or may not have water. Water needs to be filtered/treated.
+- **Mile 149:** Turkey Creek. May or may not have water. Water needs to be filtered/treated.
+- **Miles 158-174.5:** Enjoy the amazing single track!
+- **Mile 161:** Water spigot in campground. Turn right and ride a very short way.
+- **Mile 164.5:** There is a 24 hour AM PM gas station short distance off route. There is also Costco, Trader Joes, and Wildflower nearby. Just after passing through gate, ride out to road and turn left onto pavement.
+- **Mile 177.5:** Wolf Creek. May or may not have water. Water needs to be filtered/treated.
+- **Mile 180.5:** Hassyampa River. May or may not have water. Water needs to be filtered/treated.
+- **Mile 185.5:** Starlight Canyon pools. May or may not have water. Water needs to be filtered/treated.
+- **Mile 191:** Turkey Creek. May or may not have water. Water needs to be filtered/treated.
+- **Mile 192:** Pine Creek. May or may not have water. Water needs to be filtered/treated.
+- **Mile 194:** Wolf Creek. May or may not have water. Water needs to be filtered/treated.
+- **Mile 202:** 24 Hour Circle K is a short distance off route to the north. 
+- **Mile 219:** Seasonal creek. May or may not have water. Water needs to be filtered/treated.
+- **Mile 224:** Bishop Creek. May or may not have water. Water needs to be filtered/treated.
+- **Mile 232.5:** Metal livestock tank on west side of road. May or may not have water. Water needs to be filtered/treated.
+- **Mile 237:** Sycamore Creek. May or may not have water. Water needs to be filtered/treated.
+- **Mile 239.5** Little Sycamore Creek. May or may not have water. Water needs to be filtered/treated.
+- **Mile 264:** McDonald's and other 24 hour options are off route the north on Route 260.
+- **Mile 265.5** 24 hour Maverick and Circle K just off route to the west.
+- **Mile 266.5:** 76 gas station.  Not as good a choice as the Maverick and Circle K.
+- **Mile 271:** Dollar General.
+- **Miles 272-305:** Climb forever and enjoy the changing scenery.
+- **Mile 283.5:** Route crosses Wet Beaver Creek.  To access creek, cross bridge, take next right and work your way to creek. Water needs to be filtered/treated.
+- **Mile 283.5:** There is a water spigot at the Beaver Creek Work Station. It's not clear whether this spigot is open to the public, but I've used it in the past.  
+- **Miles 308-320.5:** Turn right onto Lake Mary Road and enjoy the many miles of smooth pavement.  Good shoulder.
+- **Miles 330-351.5:** Route overlaps with short course, but they will be going in the opposite direction. It's possible the front runners will encounter folks riding the short course.
+- **Mile 331.5:** Instead of crossing over HWY 87, turn righ and ride a short distance to ranger station. There is a water spigot behind the first building on the right.
+- **Mile 338:** Water in Clear Creek at bottom of Barbershop Canyon. Water needs to be filtered/treated. Climb up out of Barbershop Canyon.
+- **Mile 346:** Aspen Spring. Usually flowing. Water needs to be filtered/treated.
+- **Mile 375.5:** Woods Canyon Lake Campground is off route to the north.
+- **Miles 377-397.5:** Lots of single track!  Some of it isn't easy.
+- **Mile 397.5:** Tonto Creek. May or may not have water. Water needs to be filtered/treated.
+- **Mile 415:** East Verde River. Should have water. Water needs to be filtered/treated.
+- **Mile 425:** Turn right onto Route 87 pavement.  Not the best shoulder.  Please be careful.
+- **Mile 426.5:** Instead of turning into the AZT parking lot, you can continue straight to access Ponderosa Market.  Uncle Tom's Kwik Stop is further north.   Uncle Tom's has a water station outside, 25 cents per gallon. Bring quarters!
+- **Miles 427-438:** Single track!  Try not to curse my name as you hike-a-bike up Pine Canyon (roughly miles 436.5-437.5).
+- **Mile 438:** Turn right onto Route 87 pavement.  The shoulder sucks.  Thankfully we are only on it for a short stretch before turning left back onto dirt.
+- **Miles 448.5-451:** Another shitty stretch of Route 87.  Please be careful.
+- **Mile 453.5:** Mustang Gas Station.  Very friendly staff.
+- **Miles 454-476.5:** Back on Lake Mary Road. Smooth pavement and good shoulder.  If you were cursing me earlier while pushing your bike up Pine Canyon, thank me now.
+- **Mile 456.5:** Happy Jack Lodge.  Restaraunt and store.
+- **Mile 476.5-492.5:** AZT single track!  It gets better as you go.
+- **Mile 485.5:** If necessary, detour to town of Mormon Lake if you are in need of food, etc.
+- **Mile 487.5:** Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
+- **Mile 489.5:** Dairy Springs Campground. To access campground, turn right on Mormon Mountain Trail and descent to campground. Water spigot should be on.
+- **Mile 497:** Weimer Spring. Spring is on left side of road.  Walk a short way up hill to access spring.
+- **Miles 500-508:** Potential to see logging trucks.  But road is currently in excellent condition.
+
+- **Mile 512:** Lake Mary Country Store.
+- **Mile 512.5:** Easy access to Lower Lake Mary. Water needs to be filtered/treated.
+- **Mile 515:** Detour to Upper Lake Mary. Instead of turning up towards Marshall Lake, continue on Lake Mary Road until you see the lake. Scramble down near fenced parking area.
+- **Miles 517.5-528.5:** Follow AZT. Mix of single track and double track.
+- **Mile 528.5:** Continue straight on Flagstaff Urban Trail. AZT heads up on pavement to the right, but don't go that way.
+- **Mile 531:** Arrive back at Flagstaff Bicycle Revolution.  Pat yourself on the back and sign the finishers sheet located in the mailbox to the right of the door.
