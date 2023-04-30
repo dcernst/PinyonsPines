@@ -54,7 +54,12 @@ Below are some important notes, including information concerning resupply option
 - **Mile 131.5:** There is a water spigot at the Beaver Creek Work Station. It's not clear whether this spigot is open to the public, but I've used it in the past.  
 - **Miles 156-175:** Enjoy the smooth pavement of Lake Mary Road.  Good shoulder the whole way.
 - **Mile 173:** Happy Jack Lodge.  Restaraunt and store.
-- **Mile 175.5:** Mustang Gas Station.  Very friendly staff.
+- **Mile 175.5:** Mustang Gas Station (open 7am-6pm).  Very friendly staff.
+- **Mile 176.5:** Fuller Tank. Water needs to be filtered/treated.
+- **Mile 181:** East Clear Creek. Water needs to be filtered/treated.
+- **Mile 183:** Seasonal creek. Water needs to be filtered/treated.
+- **Mile 183.5:** Seasonal creek. Water needs to be filtered/treated.
+- **Mile 186.5:** Campsite with a view!
 - **Mile 188:** Kehl Spring Campground.  Sometimes there is a portable water tank at campground host. There is a spring uphill and west of entrance to campground.
 - **Mile 203:** Aspen Spring. Usually flowing. Water needs to be filtered/treated.
 - **Mile 211:** Water in Clear Creek at bottom of Barbershop Canyon. Water needs to be filtered/treated. Climb up out of Barbershop Canyon.
@@ -139,14 +144,14 @@ Below are some important notes, including information concerning resupply option
 - **Mile 397.5:** Tonto Creek. May or may not have water. Water needs to be filtered/treated.
 - **Mile 415:** East Verde River. Should have water. Water needs to be filtered/treated.
 - **Mile 425:** Turn right onto Route 87 pavement.  Not the best shoulder.  Please be careful.
-- **Mile 426.5:** Instead of turning into the AZT parking lot, you can continue straight to access Ponderosa Market.  Uncle Tom's Kwik Stop is further north.   Uncle Tom's has a water station outside, 25 cents per gallon. Bring quarters!
+- **Mile 426.5:** Instead of turning into the AZT parking lot, you can continue straight to access Ponderosa Market (open 6am-9pm).  Uncle Tom's Kwik Stop is further north.   Uncle Tom's has a water station outside, 25 cents per gallon. Bring quarters!
 - **Miles 427-438:** Single track!  Try not to curse my name as you hike-a-bike up Pine Canyon (roughly miles 436.5-437.5).
 - **Mile 438:** Turn right onto Route 87 pavement.  The shoulder sucks.  Thankfully we are only on it for a short stretch before turning left back onto dirt.
 - **Mile 442:** Corduroy Wash. May or may not have water. Water needs to be filtered/treated.
 - **Mile 445:** Toms Creek. May or may not have water. Water needs to be filtered/treated.
 - **Mile 452.5:** Fuller Tank. Water needs to be filtered/treated.
 - **Miles 448.5-451:** Another shitty stretch of Route 87.  Please be careful.
-- **Mile 453.5:** Mustang Gas Station.  Very friendly staff.
+- **Mile 453.5:** Mustang Gas Station (open 7am-6pm).  Very friendly staff.
 - **Miles 454-476.5:** Back on Lake Mary Road. Smooth pavement and good shoulder.  If you were cursing me earlier while pushing your bike up Pine Canyon, thank me now.
 - **Mile 456.5:** Happy Jack Lodge.  Restaraunt and store.
 - **Mile 476.5-492.5:** AZT single track!  It gets better as you go.
