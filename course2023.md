@@ -142,6 +142,9 @@ Below are some important notes, including information concerning resupply option
 - **Mile 426.5:** Instead of turning into the AZT parking lot, you can continue straight to access Ponderosa Market.  Uncle Tom's Kwik Stop is further north.   Uncle Tom's has a water station outside, 25 cents per gallon. Bring quarters!
 - **Miles 427-438:** Single track!  Try not to curse my name as you hike-a-bike up Pine Canyon (roughly miles 436.5-437.5).
 - **Mile 438:** Turn right onto Route 87 pavement.  The shoulder sucks.  Thankfully we are only on it for a short stretch before turning left back onto dirt.
+- **Mile 442:** Corduroy Wash. May or may not have water. Water needs to be filtered/treated.
+- **Mile 445:** Toms Creek. May or may not have water. Water needs to be filtered/treated.
+- **Mile 452.5:** Fuller Tank. Water needs to be filtered/treated.
 - **Miles 448.5-451:** Another shitty stretch of Route 87.  Please be careful.
 - **Mile 453.5:** Mustang Gas Station.  Very friendly staff.
 - **Miles 454-476.5:** Back on Lake Mary Road. Smooth pavement and good shoulder.  If you were cursing me earlier while pushing your bike up Pine Canyon, thank me now.
