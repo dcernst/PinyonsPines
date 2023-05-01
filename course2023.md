@@ -53,6 +53,7 @@ Below are some important notes, including information concerning resupply option
 - **Mile 131:** Route crosses Wet Beaver Creek.  To access creek, cross bridge, take next left and work your way to creek. Water needs to be filtered/treated.
 - **Mile 131.5:** There is a water spigot at the Beaver Creek Work Station. It's not clear whether this spigot is open to the public, but I've used it in the past.  
 - **Miles 156-175:** Enjoy the smooth pavement of Lake Mary Road.  Good shoulder the whole way.
+- **Mile 160:** Water spigot behind the Happy Jack Ranger station. Not clear whether this spigot is open to public, but cyclists occasionally use it.
 - **Mile 173:** Happy Jack Lodge.  Restaraunt and store.
 - **Mile 175.5:** Mustang Gas Station (open 7am-6pm).  Very friendly staff.
 - **Mile 176.5:** Fuller Tank. Water needs to be filtered/treated.
@@ -135,6 +136,7 @@ Below are some important notes, including information concerning resupply option
 - **Mile 283.5:** Route crosses Wet Beaver Creek.  To access creek, cross bridge, take next left and work your way to creek. Water needs to be filtered/treated.
 - **Mile 283.5:** There is a water spigot at the Beaver Creek Work Station. It's not clear whether this spigot is open to the public, but I've used it in the past.  
 - **Miles 308-320.5:** Turn right onto Lake Mary Road and enjoy the many miles of smooth pavement.  Good shoulder.
+- **Mile 312:** Water spigot behind the Happy Jack Ranger station. Not clear whether this spigot is open to public, but cyclists occasionally use it.
 - **Miles 330-351.5:** Route overlaps with short course, but they will be going in the opposite direction. It's possible the front runners will encounter folks riding the short course.
 - **Mile 331.5:** Instead of crossing over HWY 87, turn righ and ride a short distance to ranger station. There is a water spigot behind the first building on the right.
 - **Mile 338:** Water in Clear Creek at bottom of Barbershop Canyon. Water needs to be filtered/treated. Climb up out of Barbershop Canyon.
@@ -154,6 +156,7 @@ Below are some important notes, including information concerning resupply option
 - **Mile 453.5:** Mustang Gas Station (open 7am-6pm).  Very friendly staff.
 - **Miles 454-476.5:** Back on Lake Mary Road. Smooth pavement and good shoulder.  If you were cursing me earlier while pushing your bike up Pine Canyon, thank me now.
 - **Mile 456.5:** Happy Jack Lodge.  Restaraunt and store.
+- **Mile 469:** Water spigot behind the Happy Jack Ranger station. Not clear whether this spigot is open to public, but cyclists occasionally use it.
 - **Mile 476.5-492.5:** AZT single track!  It gets better as you go.
 - **Mile 485.5:** If necessary, detour to town of Mormon Lake if you are in need of food, etc.
 - **Mile 487.5:** Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
