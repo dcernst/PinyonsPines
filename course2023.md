@@ -141,7 +141,7 @@ Below are some important notes, including information concerning resupply option
 - **Mile 331.5:** Instead of crossing over HWY 87, turn righ and ride a short distance to ranger station. There is a water spigot behind the first building on the right.
 - **Mile 338:** Water in Clear Creek at bottom of Barbershop Canyon. Water needs to be filtered/treated. Climb up out of Barbershop Canyon.
 - **Mile 346:** Aspen Spring. Usually flowing. Water needs to be filtered/treated.
-- **Mile 375.5:** Woods Canyon Lake Campground is off route to the north.
+- **Mile 375.5:** Woods Canyon Lake Store and campground is about 1.5 miles off route to the north. Store hours are 8am-5pm.
 - **Miles 377-397.5:** Lots of single track!  Some of it isn't easy.
 - **Mile 397.5:** Tonto Creek. May or may not have water. Water needs to be filtered/treated.
 - **Mile 415:** East Verde River. Should have water. Water needs to be filtered/treated.
