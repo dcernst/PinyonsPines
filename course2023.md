@@ -93,7 +93,7 @@ The long route is approximately 530 miles with 47,000 feet of climbing. Here is 
 Below are some important notes, including information concerning resupply options for food and water. All mileages are approximate.
 
 - Please consult the [rules]({{ site.baseurl }}/rules/).
-- You must purchase an [Arizona State Land Department Recreation Permit](https://land.az.gov/natural-resources/recreational-permits) as part of the course passes across state trust land.  Permits can be purchased online. An annual permit is $15.
+- You must purchase an [Arizona State Land Department Recreation Permit](https://asld.secure.force.com/recreationalpermit/) as part of the course passes across state trust land.  Permits can be purchased online. An annual permit is $15.
 - The start and finish is at Flagstaff Bicycle Revolution.  If no one is at the finish to greet you, put your finish time on the sign in sheet that will be in the mailbox to the right of the door.
 - Neutral roll out for the first 4.5 miles.  Folks can start riding at their own pace after the group crosses Mountain Dell Road.  
 - The short and long routes overlap for the first 97 miles.
