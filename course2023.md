@@ -40,7 +40,9 @@ Below are some important notes, including information concerning resupply option
 - Neutral roll out for the first 4.5 miles.  Folks can start riding at their own pace after the group crosses Mountain Dell Road.  
 - The short and long routes overlap for the first 97 miles.
 - **Important:** It's a long way from the start to the first reliable water.  Moreover, it's likely to be hot after dropping down off the rim into Sedona/Cottonwood.  Be sure to start with enough water!
-- **Mile 37-41:** Be careful descending Casner Mountain Trail! This is the most serious part of the route. Its harder getting to this point than you'd expect.
+- **Mile 37-41:** Be careful descending Casner Mountain Trail! This is the most serious part of the route. Word on the street is that the descent is in rough shape.  Also, its harder getting to this point than you'd expect.
+- **Mile 25:** West Fork of Oak Creek.  Consider filling up on water here.  It's still a long way to Cottonwood.  Water needs to be filtered/treated.
+- **Mile 31:** Stock tank on right side of road just before making left turn. Water needs to be filtered/treated.
 - **Mile 65.5:** Verde Valley Bicycle Company is right on route. Several restaraunts nearby.
 - **Mile 66.5:** 24 hour Maverick. Prepare for the long climb ahead!
 - **Mile 77.5:** Copper Chief Spring is a piped spring on the right. No guarantees that this spring is still flowing. Water needs to be filtered/treated.
@@ -98,7 +100,9 @@ Below are some important notes, including information concerning resupply option
 - Neutral roll out for the first 4.5 miles.  Folks can start riding at their own pace after the group crosses Mountain Dell Road.  
 - The short and long routes overlap for the first 97 miles.
 - **Important:** It's a long way from the start to the first reliable water.  Moreover, it's likely to be hot after dropping down off the rim into Sedona/Cottonwood.  Be sure to start with enough water!
-- **Mile 37-41:** Be careful descending Casner Mountain Trail! This is the most serious part of the route. Its harder getting to this point than you'd expect.
+- **Mile 37-41:** Be careful descending Casner Mountain Trail! This is the most serious part of the route. Word on the street is that the descent is in rough shape.  Also, its harder getting to this point than you'd expect.
+- **Mile 25:** West Fork of Oak Creek.  Consider filling up on water here.  It's still a long way to Cottonwood.  Water needs to be filtered/treated.
+- **Mile 31:** Stock tank on right side of road just before making left turn. Water needs to be filtered/treated.
 - **Mile 65.5:** Verde Valley Bicycle Company is right on route. Several restaraunts nearby.
 - **Mile 66.5:** 24 hour Maverick. Prepare for the long climb ahead!
 - **Mile 77.5:** Copper Chief Spring is a piped spring on the right. No guarantees that this spring is still flowing. Water needs to be filtered/treated.
