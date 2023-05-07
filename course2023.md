@@ -82,7 +82,7 @@ Below are some important notes, including information concerning resupply option
 
 ## Long Route
 
-The long route is approximately 530 miles with 47,000 feet of climbing. Here is the proposed route:
+The long route is approximately 526 miles with 46,000 feet of climbing. Here is the proposed route:
 
 <br>
 
