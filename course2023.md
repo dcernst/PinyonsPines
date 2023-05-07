@@ -146,31 +146,31 @@ Below are some important notes, including information concerning resupply option
 - **Mile 338:** Water in Clear Creek at bottom of Barbershop Canyon. Water needs to be filtered/treated. Climb up out of Barbershop Canyon.
 - **Mile 346:** Aspen Spring. Usually flowing. Water needs to be filtered/treated.
 - **Mile 375.5:** Woods Canyon Lake Store and campground is about 1.5 miles off route to the north. Store hours are 8am-5pm.
-- **Miles 377-397.5:** Lots of single track!  Some of it isn't easy.
-- **Mile 397.5:** Tonto Creek. May or may not have water. Water needs to be filtered/treated.
-- **Mile 415:** East Verde River. Should have water. Water needs to be filtered/treated.
-- **Mile 425:** Turn right onto Route 87 pavement.  Not the best shoulder.  Please be careful.
-- **Mile 426.5:** Instead of turning into the AZT parking lot, you can continue straight to access Ponderosa Market (open 6am-9pm).  Uncle Tom's Kwik Stop is further north.   Uncle Tom's has a water station outside, 25 cents per gallon. Bring quarters!
-- **Miles 427-438:** Single track!  Try not to curse my name as you hike-a-bike up Pine Canyon (roughly miles 436.5-437.5).
-- **Mile 438:** Turn right onto Route 87 pavement.  The shoulder sucks.  Thankfully we are only on it for a short stretch before turning left back onto dirt.
-- **Mile 442:** Corduroy Wash. May or may not have water. Water needs to be filtered/treated.
-- **Mile 445:** Toms Creek. May or may not have water. Water needs to be filtered/treated.
-- **Mile 452.5:** Fuller Tank. Water needs to be filtered/treated.
-- **Miles 448.5-451:** Another shitty stretch of Route 87.  Please be careful.
-- **Mile 453.5:** Mustang Gas Station (open 7am-6pm).  Very friendly staff.
-- **Miles 454-476.5:** Back on Lake Mary Road. Smooth pavement and good shoulder.  If you were cursing me earlier while pushing your bike up Pine Canyon, thank me now.
-- **Mile 456.5:** Happy Jack Lodge.  Restaraunt and store.
-- **Mile 469:** Water spigot behind the Happy Jack Ranger station. Not clear whether this spigot is open to public, but cyclists occasionally use it.
-- **Mile 476.5-492.5:** AZT single track!  It gets better as you go.
-- **Mile 485.5:** If necessary, detour to town of Mormon Lake if you are in need of food, etc.
-- **Mile 487.5:** Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
-- **Mile 489.5:** Dairy Springs Campground. To access campground, turn right on Mormon Mountain Trail and descent to campground. Water spigot should be on.
-- **Mile 497:** Weimer Spring. Spring is on left side of road.  Walk a short way up hill to access spring.
-- **Miles 500-508:** Potential to see logging trucks.  But road is currently in excellent condition.
-
-- **Mile 512:** Lake Mary Country Store.
-- **Mile 512.5:** Easy access to Lower Lake Mary. Water needs to be filtered/treated.
-- **Mile 515:** Detour to Upper Lake Mary. Instead of turning up towards Marshall Lake, continue on Lake Mary Road until you see the lake. Scramble down near fenced parking area.
-- **Miles 517.5-528.5:** Follow AZT. Mix of single track and double track.
-- **Mile 528.5:** Continue straight on Flagstaff Urban Trail. AZT heads up on pavement to the right, but don't go that way.
-- **Mile 531:** Arrive back at Flagstaff Bicycle Revolution.  Pat yourself on the back and sign the finishers sheet located in the mailbox to the right of the door.
+- **Miles 377-386:** Lots of single track!  The first 3/4 mile of Military Sinkhole Trail is a gutter of rocks, but then turns into a beautiful trail.  The section of Highline Trail we are doing is spectacular.  
+- **Mile 385.5:** Christopher Creek. Water needs to be filtered/treated.
+- **Mile 387.5:** Landmark Restaurant and Creekside Tavern are a short distance off route to the east.
+- **Miles 388.5-392.5:** We will ride along Highway 260.  The shoulder is huge and it's all down hill, so over with quickly.
+- **Miles 392.5-394.5:** Several places to access Tonto Creek.  There are also a few pit toilets along the way. 
+- **Mile 410.5:** East Verde River. Should have water. Water needs to be filtered/treated.
+- **Mile 420.5:** Turn right onto Route 87 pavement.  Not the best shoulder.  Please be careful.
+- **Mile 422:** Instead of turning into the AZT parking lot, you can continue straight to access Ponderosa Market (open 6am-9pm).  Uncle Tom's Kwik Stop is further north.   Uncle Tom's has a water station outside, 25 cents per gallon. Bring quarters!
+- **Miles 422-433:** Single track!  Try not to curse my name as you hike-a-bike up Pine Canyon (roughly miles 436.5-437.5).
+- **Mile 433:** Turn right onto Route 87 pavement.  The shoulder sucks.  Thankfully we are only on it for a short stretch before turning left back onto dirt.
+- **Mile 436.5:** Corduroy Wash. May or may not have water. Water needs to be filtered/treated.
+- **Mile 440:** Toms Creek. May or may not have water. Water needs to be filtered/treated.
+- **Miles 444-446:** Another shitty stretch of Route 87.  Please be careful.
+- **Mile 447.5:** Fuller Tank. Water needs to be filtered/treated.
+- **Mile 449:** Mustang Gas Station (open 7am-6pm).  Very friendly staff.
+- **Miles 449.5-472.5:** Back on Lake Mary Road. Smooth pavement and good shoulder.  If you were cursing me earlier while pushing your bike up Pine Canyon, thank me now.
+- **Mile 451.5:** Happy Jack Lodge.  Restaraunt and store.
+- **Mile 464.5:** Water spigot behind the Happy Jack Ranger station. Not clear whether this spigot is open to public, but cyclists occasionally use it.
+- **Mile 473-488:** AZT single track!  It gets better as you go.
+- **Mile 480:** If necessary, detour to town of Mormon Lake if you are in need of food, etc.
+- **Mile 483:** Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
+- **Mile 485:** Dairy Springs Campground. To access campground, turn right on Mormon Mountain Trail and descent to campground. Water spigot should be on.
+- **Mile 492:** Weimer Spring. Spring is on left side of road.  Walk a short way up hill to access spring.
+- **Mile 507:** Lake Mary Country Store.
+- **Mile 508:** Easy access to Lower Lake Mary. Water needs to be filtered/treated.
+- **Miles 513-524:** Follow AZT. Mix of single track and double track.
+- **Mile 524:** Continue straight on Flagstaff Urban Trail. AZT heads up on pavement to the right, but don't go that way.
+- **Mile 526:** Arrive back at Flagstaff Bicycle Revolution.  Pat yourself on the back and sign the finishers sheet located in the mailbox to the right of the door.
