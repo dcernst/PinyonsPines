@@ -72,11 +72,9 @@ Below are some important notes, including information concerning resupply option
 - **Mile 258.5:** Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
 - **Mile 260:** Dairy Springs Campground. To access campground, turn right on Mormon Mountain Trail and descent to campground. Water spigot should be on.
 - **Mile 267.5:** Weimer Spring. Spring is on left side of road.  Walk a short way up hill to access spring.
-- **Miles 273-282:** Potential to see logging trucks.  But road is currently in excellent condition.
 - **Mile 282.5:** Lake Mary Country Store.
 - **Mile 283:** Easy access to Lower Lake Mary. Water needs to be filtered/treated.
-- **Mile 285.5:** Detour to Upper Lake Mary. Instead of turning up towards Marshall Lake, continue on Lake Mary Road until you see the lake. Scramble down near fenced parking area.
-- **Miles 288-327:** Almost all single track! The climb up Heart Trail and mile 314 is the last crux.
+- **Miles 288-327:** Almost all single track! The climb up Heart Trail and mile 314 is the last crux. Please be careful descending Big Bang Trail. There are a couple rocks that could catch your handlebars and send you flying.
 - **Mile 311:** Just south of tunnel that goes under Route 89, head southwest on double track to access Conoco Travel Center (open 24 hours).
 - **Mile 331.5:** Arrive back at Flagstaff Bicycle Revolution.  Pat yourself on the back and sign the finishers sheet located in the mailbox to the right of the door.
 
