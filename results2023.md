@@ -16,7 +16,7 @@ layout: default
 
 ### Grand Depart
 
-The 2022 Grand Depart took place at 6am on Thursday, May 12.
+The 2022 Grand Depart took place at 6am on Thursday, May 1.
 
 <center>
 <div class="table-responsive">
