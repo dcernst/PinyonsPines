@@ -64,15 +64,35 @@ Blah blah blah
 <tbody>
 <tr>
 <td>Matt Annabel</td> <td>Carbondale, CO</td> <td>4 days, 15 hrs, 59 mins</td> <td>First place overall! Single speed. Broken crank arm repaired in Camp Verde. Only 500 rider to complete entire route with no deviations.</td>
+</tr>
+<tr>
 <td>Dylan Turner</td> <td>Flagstaff, AZ</td> <td>4 days, 17 hrs, 37 mins</td> <td>Death mud deviation.</td>
+</tr>
+<tr>
 <td>Karin Pocock</td> <td>Carbondale, CO</td> <td>5 days, 19 hrs, 41 mins</td> <td>Approved deviation around flooded single track in Prescott.</td>
+</tr>
+<tr>
 <td>Emily Elliot</td> <td>Redlands, CA</td> <td>4 days, 19 hrs, 2 mins</td> <td>Significant deviations from route. Missed Prescott loop due to weather. Mountain lion encounter!</td>
+</tr>
+<tr>
 <td>Seth Holmes</td> <td>Longmont, CO</td> <td>3 days, 7 hrs, 56 mins</td> <td>Significant deviations from route. Skipped lollipop on Mogollon Rim.</td>
+</tr>
+<tr>
 <td>Matt Porembski</td> <td>Mesa, AZ</td> <td>DNF</td> <td></td>
+</tr>
+<tr>
 <td>John Phelps</td> <td>Montrose, CO</td> <td>DNF</td> <td></td>
+</tr>
+<tr>
 <td>Paul Kuzdas</td> <td>Phoenix, =AZ</td> <td>DNF</td> <td></td>
+</tr>
+<tr>
 <td>Zachariah Merrigan</td> <td>Mancos, CO</td> <td>DNF</td> <td></td>
+</tr>
+<tr>
 <td>Timothy Nipper</td> <td>Albuquerque, NM</td> <td>DNF</td> <td></td>
+</tr>
+<tr>
 <td>Blake Bockius</td> <td>Truckee, CA</td> <td>DNF</td> <td></td>
 </tr>
 </tbody>
