@@ -42,7 +42,7 @@ Complete Short Course: Rich Meyers
 Lake Mary Road bypass of miles 219-263: Lindsay Nohl, Spencer Holmes, Marin Sigurdson.
 Lake Mary Road bypass of miles 219-297: Cole Chambers, Sam McLaughlin.
 Lake Mary Road bypas of miles 219-330: Allison Bohn (extra credit: headed back out and rode final 43 miles with Cami Scott a couple days later), Joe Pavlik, Cassidy Howard (extra credit: took Wiemer Springs Road instead of Lake Mary Road for a portion), Randy Windle, Oly Abbate/Andrew Hobson (extra credit: this duo had more fun than everyone else combined)
-Mini Pinyons and Pines (turn left on Lake Mary Road at mile 156 and rode back to Flagstaff): Bret Parke, Jeremy Hardwick, Justin McKinley, Samuel Cramer/Joe Green, Effie Bourgin, Hannah Dhonau, Tom Nemann, Greg Dunham, James Morrison (ITT), Chris Piercecchi (ITT), Steven Mantani (extra credit: also did an out and back on Lake Mary Road to Clints Well), Doug Whitbeck (extra credit: also did an out and back on Lake Mary Road to Clints Well with Tiffany), Tiffany Love-Chezem extra credit: also did an out and back on Lake Mary Road to Clints Well with Doug). Doug and Tiffany also rode the last 30 miles or so of the course the day after they pedaled back to Flagstaff.
+Mini Pinyons and Pines (turn left on Lake Mary Road at mile 156 and rode back to Flagstaff): Alizabeth Potucek, Bret Parke, Jeremy Hardwick, Justin McKinley, Samuel Cramer/Joe Green, Effie Bourgin, Hannah Dhonau, Tom Nemann, Greg Dunham, James Morrison (ITT), Chris Piercecchi (ITT), Steven Mantani (extra credit: also did an out and back on Lake Mary Road to Clints Well), Doug Whitbeck (extra credit: also did an out and back on Lake Mary Road to Clints Well with Tiffany), Tiffany Love-Chezem extra credit: also did an out and back on Lake Mary Road to Clints Well with Doug). Doug and Tiffany also rode the last 30 miles or so of the course the day after they pedaled back to Flagstaff.
 DNF: Brad Mattingly, Chris Kuzdas, Daniel Dickason, Dave Fotsch, Jeff Hemperley, Daniel Cherenson, Lilly Hacker, Claire Burke, Leigh Bowe, Liz Sampey, Sarah Higgins, Daniel Lambert, Wyatt Spalding, Lawrence Dennis, Cami Scott, Dexter Kopas, Ted Albright, Meg Knobel, Henry Vogel, Mike Farrel, Mike Root, Scott Lotz/Nico Hawbaker, Louie Konkol, Alek Konkol, Matt Murray, Tiona Eversole (ITT).
 
 ### Long Course
@@ -63,11 +63,19 @@ Blah blah blah
 
 <tbody>
 <tr>
-<td>Matt Annabel</td> <td>Carbondale, CO</td> <td>???</td> <td>First place overall! Single speed.</td>
+<td>Matt Annabel</td> <td>Carbondale, CO</td> <td>4 days, 15 hrs, 59 mins</td> <td>First place overall! Single speed. Broken crank arm repaired in Camp Verde. Only 500 rider to complete entire route with no deviations.</td>
+<td>Dylan Turner</td> <td>Flagstaff, AZ</td> <td>4 days, 17 hrs, 37 mins</td> <td>Death mud deviation.</td>
+<td>Karin Pocock</td> <td>Carbondale, CO</td> <td>5 days, 19 hrs, 41 mins</td> <td>Approved deviation around flooded single track in Prescott.</td>
+<td>Emily Elliot</td> <td>Redlands, CA</td> <td>4 days, 19 hrs, 2 mins</td> <td>Significant deviations from route. Missed Prescott loop due to weather. Mountain lion encounter!</td>
+<td>Seth Holmes</td> <td>Longmont, CO</td> <td>3 days, 7 hrs, 56 mins</td> <td>Significant deviations from route. Skipped lollipop on Mogollon Rim.</td>
+<td>Matt Porembski</td> <td>Mesa, AZ</td> <td>DNF</td> <td></td>
+<td>John Phelps</td> <td>Montrose, CO</td> <td>DNF</td> <td></td>
+<td>Paul Kuzdas</td> <td>Phoenix, =AZ</td> <td>DNF</td> <td></td>
+<td>Zachariah Merrigan</td> <td>Mancos, CO</td> <td>DNF</td> <td></td>
+<td>Timothy Nipper</td> <td>Albuquerque, NM</td> <td>DNF</td> <td></td>
+<td>Blake Bockius</td> <td>Truckee, CA</td> <td>DNF</td> <td></td>
 </tr>
 </tbody>
 </table>
 </div>
 </center>
-
-DNF: Matt Porembski, Seth Holmes (pedaled back to Flagstaff after Stoneman Lake Road), John Phelps, Paul Kuzdas, Zachariah Merrigan, Timothy Nipper, Blake Bockius...
