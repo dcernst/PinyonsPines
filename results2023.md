@@ -63,19 +63,19 @@ Blah blah blah
 
 <tbody>
 <tr>
-<td>Matt Annabel</td> <td>Carbondale, CO</td> <td>4 days, 15 hrs, 59 mins</td> <td>First place overall! Single speed. Broken crank arm repaired in Camp Verde. Only 500 rider to complete entire route with no deviations.</td>
+<td>Matt Annabel</td> <td>Carbondale, CO</td> <td>4:15:59</td> <td>First place overall! Single speed. Broken crank arm repaired in Camp Verde. Only 500 rider to complete entire route with no deviations.</td>
 </tr>
 <tr>
-<td>Dylan Turner</td> <td>Flagstaff, AZ</td> <td>4 days, 17 hrs, 37 mins</td> <td>Death mud deviation.</td>
+<td>Dylan Turner</td> <td>Flagstaff, AZ</td> <td>4:17:37</td> <td>Death mud deviation.</td>
 </tr>
 <tr>
-<td>Karin Pocock</td> <td>Carbondale, CO</td> <td>5 days, 19 hrs, 41 mins</td> <td>Approved deviation around flooded single track in Prescott.</td>
+<td>Karin Pocock</td> <td>Carbondale, CO</td> <td>5:19:41</td> <td>Approved deviation around flooded single track in Prescott.</td>
 </tr>
 <tr>
-<td>Emily Elliot</td> <td>Redlands, CA</td> <td>4 days, 19 hrs, 2 mins</td> <td>Significant deviations from route. Missed Prescott loop due to weather. Mountain lion encounter!</td>
+<td>Emily Elliot</td> <td>Redlands, CA</td> <td>4:19:2</td> <td>Significant deviations from route. Missed Prescott loop due to weather. Mountain lion encounter!</td>
 </tr>
 <tr>
-<td>Seth Holmes</td> <td>Longmont, CO</td> <td>3 days, 7 hrs, 56 mins</td> <td>Significant deviations from route. Skipped lollipop on Mogollon Rim.</td>
+<td>Seth Holmes</td> <td>Longmont, CO</td> <td>3:7:56</td> <td>Significant deviations from route. Skipped lollipop on Mogollon Rim.</td>
 </tr>
 <tr>
 <td>Matt Porembski</td> <td>Mesa, AZ</td> <td>DNF</td> <td></td>
