@@ -36,23 +36,17 @@ One regret I have is not more clearly communicating to the rest of the folks out
 
 By the end of day two, the short course turned into the "choose your own adventure edition" of Pinyons and Pines.  As time went on, thing dried out and conditions improved. This meant that riders near the back of the pack were able to ride more and more of the intended course. Instead of listing finish times for folks like we have in the past, we will attempt to summarize who rode what version of a loop. 
 
-### Complete Short Course 
-Rich Meyers is the only rider to complete the short course in its entirety. Timing was everything this year and Rich lucked out with good weather. The mud that the leaders encountered was pretty much gone by the time Rich reached the AZT.  Great job Rich!
+**Complete Short Course:** Rich Meyers is the only rider to complete the short course in its entirety. Timing was everything this year and Rich lucked out with good weather. The mud that the leaders encountered was pretty much gone by the time Rich reached the AZT.  Great job Rich!
 
-### Lake Mary Road Bypass of Miles 219-263
-Lindsay Nohl, Spencer Holmes, Marin Sigurdson. These three skipped the worst of the mud and rode the rest of the route.
+**Lake Mary Road Bypass of Miles 219-263:** Lindsay Nohl, Spencer Holmes, Marin Sigurdson. These three skipped the worst of the mud and rode the rest of the route.
 
-### Lake Mary Road bypass of Miles 219-297
-Cole Chambers, Sam McLaughlin. Sam was near the front of the race and was one of the riders that attempted to ride the AZT during the storm and then turned back.  Not to be deterred from riding the finale, both Sam and Cole pedaled Lake Mary Road back towards town and then sent the finale on Mount Elden the following day.  Sam rode more of the finale than Cole, but did similar loops.
+**Lake Mary Road bypass of Miles 219-297:** Cole Chambers, Sam McLaughlin. Sam was near the front of the race and was one of the riders that attempted to ride the AZT during the storm and then turned back.  Not to be deterred from riding the finale, both Sam and Cole pedaled Lake Mary Road back towards town and then sent the finale on Mount Elden the following day.  Sam rode more of the finale than Cole, but did similar loops.
 
-### Lake Mary Road bypass of Miles 219-330: 
-Allison Bohn (extra credit: headed back out and rode final 43 miles with Cami Scott a couple days later), Joe Pavlik, Cassidy Howard (extra credit: took Wiemer Springs Road instead of Lake Mary Road for a portion), Randy Windle, Oly Abbate/Andrew Hobson (extra credit: this duo had more fun than everyone else combined)
+**Lake Mary Road bypass of Miles 219-330:** Allison Bohn (extra credit: headed back out and rode final 43 miles with Cami Scott a couple days later), Joe Pavlik, Cassidy Howard (extra credit: took Wiemer Springs Road instead of Lake Mary Road for a portion), Randy Windle, Oly Abbate/Andrew Hobson (extra credit: this duo had more fun than everyone else combined)
 
-### Mini Pinyons and Pines
-This group turned left at mile 156, pedaled Lake Mary Road back to town, skipped the lollipop on the Mogollon Rim. Alizabeth Potucek, Bret Parke, Jeremy Hardwick, Justin McKinley, Samuel Cramer/Joe Green, Effie Bourgin, Hannah Dhonau, Tom Nemann, Greg Dunham, James Morrison (ITT), Chris Piercecchi (ITT), Steven Mantani (extra credit: also did an out and back on Lake Mary Road to Clints Well), Doug Whitbeck (extra credit: also did an out and back on Lake Mary Road to Clints Well with Tiffany), Tiffany Love-Chezem extra credit: also did an out and back on Lake Mary Road to Clints Well with Doug). Doug and Tiffany also rode the last 30 miles or so of the course the day after they pedaled back to Flagstaff.
+**Mini Pinyons and Pines:** This group turned left at mile 156, pedaled Lake Mary Road back to town, skipped the lollipop on the Mogollon Rim. Alizabeth Potucek, Bret Parke, Jeremy Hardwick, Justin McKinley, Samuel Cramer/Joe Green, Effie Bourgin, Hannah Dhonau, Tom Nemann, Greg Dunham, James Morrison (ITT), Chris Piercecchi (ITT), Steven Mantani (extra credit: also did an out and back on Lake Mary Road to Clints Well), Doug Whitbeck (extra credit: also did an out and back on Lake Mary Road to Clints Well with Tiffany), Tiffany Love-Chezem extra credit: also did an out and back on Lake Mary Road to Clints Well with Doug). Doug and Tiffany also rode the last 30 miles or so of the course the day after they pedaled back to Flagstaff.
 
-### DNF
-I hope most of these riders will come back next year and give it another go. Brad Mattingly, Chris Kuzdas, Daniel Dickason, Dave Fotsch, Jeff Hemperley, Daniel Cherenson, Lilly Hacker, Claire Burke, Leigh Bowe, Liz Sampey, Sarah Higgins, Daniel Lambert, Wyatt Spalding, Lawrence Dennis, Cami Scott, Dexter Kopas, Ted Albright, Meg Knobel, Henry Vogel, Mike Farrel, Mike Root, Scott Lotz/Nico Hawbaker, Louie Konkol, Alek Konkol, Matt Murray, Tiona Eversole (ITT).
+**DNF:** I hope most of these riders will come back next year and give it another go. Brad Mattingly, Chris Kuzdas, Daniel Dickason, Dave Fotsch, Jeff Hemperley, Daniel Cherenson, Lilly Hacker, Claire Burke, Leigh Bowe, Liz Sampey, Sarah Higgins, Daniel Lambert, Wyatt Spalding, Lawrence Dennis, Cami Scott, Dexter Kopas, Ted Albright, Meg Knobel, Henry Vogel, Mike Farrel, Mike Root, Scott Lotz/Nico Hawbaker, Louie Konkol, Alek Konkol, Matt Murray, Tiona Eversole (ITT).
 
 ## Long Course
 
