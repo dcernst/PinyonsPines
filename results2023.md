@@ -10,13 +10,13 @@ layout: default
 
 <i class="fas fa-paint-brush fa-lg"></i>&nbsp; Artwork by <a href="https://www.dkoyawenaarts.com">Duane Koyawena.</a>
 
-## 2023 Results
+# 2023 Results
 
 <!-- Posted within a few days after Grand Depart. -->
 
 The 2023 Grand Depart took place at 6am on Thursday, May 18.
 
-### Short Course
+## Short Course
 
 Mother nature came to play this year.  Day two of the race dumped a LOT of rain on the AZT along a section that is notorious for "death mud". In order to protect both the trail and the integrity of bikepacking races like Pinyons and Pines, we made the call mid-race to avoid miles 219-263 and 288-295, which utilize the AZT.  This decision was based on the radar, word of mouth about conditions on the course, and disucssions with folks familar with the area and bikepacking races. If even one person outside of the event complained that we destroyed the AZT, it could put this event and others like it at risk.  Currently, we fly under the radar and abide by vague rules concerning "events" under 75 people.  We opted to play it safe and not risk the potential for damage. This decision is likely unpopular for some folks, but we stand by it.  We were not terribly concerned about riders mucking around in the mud on dirt roads. Riding around in the rain and mud isn't very enjoyable, but we didn't have any apprehension about most of the rest of the course.
 
@@ -34,20 +34,29 @@ Meanwhile the next group of riders, which contained the top four women, were abo
 
 One regret I have is not more clearly communicating to the rest of the folks out on course that they there were encouraged to give the lollipop on the Mogollon Rim a shot.  I knew that this section of the course had not received as much rain and I had no concerns about folks riding on potentially muddy roads.  
 
-By the end of day two, the short course turned into the "choose your own adventure edition" of Pinyons and Pines.  As time went on, thing dried out and conditions improved. This meant that riders near the back of the pack were able to ride more and more of the intended course. Instead of listing finish times for folks like we have in the past, we will attempt to summarize who rode what version of a loop.
+By the end of day two, the short course turned into the "choose your own adventure edition" of Pinyons and Pines.  As time went on, thing dried out and conditions improved. This meant that riders near the back of the pack were able to ride more and more of the intended course. Instead of listing finish times for folks like we have in the past, we will attempt to summarize who rode what version of a loop. 
 
-Under construction...
+### Complete Short Course 
+Rich Meyers is the only rider to complete the short course in its entirety. Timing was everything this year and Rich lucked out with good weather. The mud that the leaders encountered was pretty much gone by the time Rich reached the AZT.  Great job Rich!
 
-Complete Short Course: Rich Meyers
-Lake Mary Road bypass of miles 219-263: Lindsay Nohl, Spencer Holmes, Marin Sigurdson.
-Lake Mary Road bypass of miles 219-297: Cole Chambers, Sam McLaughlin.
-Lake Mary Road bypas of miles 219-330: Allison Bohn (extra credit: headed back out and rode final 43 miles with Cami Scott a couple days later), Joe Pavlik, Cassidy Howard (extra credit: took Wiemer Springs Road instead of Lake Mary Road for a portion), Randy Windle, Oly Abbate/Andrew Hobson (extra credit: this duo had more fun than everyone else combined)
-Mini Pinyons and Pines (turn left on Lake Mary Road at mile 156 and rode back to Flagstaff): Alizabeth Potucek, Bret Parke, Jeremy Hardwick, Justin McKinley, Samuel Cramer/Joe Green, Effie Bourgin, Hannah Dhonau, Tom Nemann, Greg Dunham, James Morrison (ITT), Chris Piercecchi (ITT), Steven Mantani (extra credit: also did an out and back on Lake Mary Road to Clints Well), Doug Whitbeck (extra credit: also did an out and back on Lake Mary Road to Clints Well with Tiffany), Tiffany Love-Chezem extra credit: also did an out and back on Lake Mary Road to Clints Well with Doug). Doug and Tiffany also rode the last 30 miles or so of the course the day after they pedaled back to Flagstaff.
-DNF: Brad Mattingly, Chris Kuzdas, Daniel Dickason, Dave Fotsch, Jeff Hemperley, Daniel Cherenson, Lilly Hacker, Claire Burke, Leigh Bowe, Liz Sampey, Sarah Higgins, Daniel Lambert, Wyatt Spalding, Lawrence Dennis, Cami Scott, Dexter Kopas, Ted Albright, Meg Knobel, Henry Vogel, Mike Farrel, Mike Root, Scott Lotz/Nico Hawbaker, Louie Konkol, Alek Konkol, Matt Murray, Tiona Eversole (ITT).
+### Lake Mary Road Bypass of Miles 219-263
+Lindsay Nohl, Spencer Holmes, Marin Sigurdson. These three skipped the worst of the mud and rode the rest of the route.
 
-### Long Course
+### Lake Mary Road bypass of Miles 219-297
+Cole Chambers, Sam McLaughlin. Sam was near the front of the race and was one of the riders that attempted to ride the AZT during the storm and then turned back.  Not to be deterred from riding the finale, both Sam and Cole pedaled Lake Mary Road back towards town and then sent the finale on Mount Elden the following day.  Sam rode more of the finale than Cole, but did similar loops.
 
-Blah blah blah
+### Lake Mary Road bypass of Miles 219-330: 
+Allison Bohn (extra credit: headed back out and rode final 43 miles with Cami Scott a couple days later), Joe Pavlik, Cassidy Howard (extra credit: took Wiemer Springs Road instead of Lake Mary Road for a portion), Randy Windle, Oly Abbate/Andrew Hobson (extra credit: this duo had more fun than everyone else combined)
+
+### Mini Pinyons and Pines
+This group turned left at mile 156, pedaled Lake Mary Road back to town, skipped the lollipop on the Mogollon Rim. Alizabeth Potucek, Bret Parke, Jeremy Hardwick, Justin McKinley, Samuel Cramer/Joe Green, Effie Bourgin, Hannah Dhonau, Tom Nemann, Greg Dunham, James Morrison (ITT), Chris Piercecchi (ITT), Steven Mantani (extra credit: also did an out and back on Lake Mary Road to Clints Well), Doug Whitbeck (extra credit: also did an out and back on Lake Mary Road to Clints Well with Tiffany), Tiffany Love-Chezem extra credit: also did an out and back on Lake Mary Road to Clints Well with Doug). Doug and Tiffany also rode the last 30 miles or so of the course the day after they pedaled back to Flagstaff.
+
+### DNF
+I hope most of these riders will come back next year and give it another go. Brad Mattingly, Chris Kuzdas, Daniel Dickason, Dave Fotsch, Jeff Hemperley, Daniel Cherenson, Lilly Hacker, Claire Burke, Leigh Bowe, Liz Sampey, Sarah Higgins, Daniel Lambert, Wyatt Spalding, Lawrence Dennis, Cami Scott, Dexter Kopas, Ted Albright, Meg Knobel, Henry Vogel, Mike Farrel, Mike Root, Scott Lotz/Nico Hawbaker, Louie Konkol, Alek Konkol, Matt Murray, Tiona Eversole (ITT).
+
+## Long Course
+
+The long course riders also had to battle the weather with a massive storm bombarding them in the Bradshaw Mountains near Prescott.  Day three required many miles of walking in death mud to reach Camp Verde.  All of the riders that finished are tough as nails.
 
 <center>
 <div class="table-responsive">
