@@ -72,7 +72,7 @@ The long course riders also had to battle the weather with a massive storm bomba
 <td>Dylan Turner</td> <td>Flagstaff, AZ</td> <td>4:17:37</td> <td>Death mud deviation.</td>
 </tr>
 <tr>
-<td>Karin Pocock</td> <td>Carbondale, CO</td> <td>5:19:41</td> <td>Approved deviation around flooded single track in Prescott.</td>
+<td>Karin Pocock</td> <td>Blue River, CO</td> <td>5:19:41</td> <td>Approved deviation around flooded single track in Prescott.</td>
 </tr>
 <tr>
 <td>Emily Elliot</td> <td>Redlands, CA</td> <td>4:19:2</td> <td>Significant deviations from route. Missed Prescott loop due to weather. Mountain lion encounter!</td>
