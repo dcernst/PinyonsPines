@@ -87,7 +87,7 @@ The long course riders also had to battle the weather with a massive storm bomba
 <td>John Phelps</td> <td>Montrose, CO</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Paul Kuzdas</td> <td>Phoenix, =AZ</td> <td>DNF</td> <td></td>
+<td>Paul Kuzdas</td> <td>Phoenix, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
 <td>Zachariah Merrigan</td> <td>Mancos, CO</td> <td>DNF</td> <td></td>
