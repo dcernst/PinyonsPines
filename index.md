@@ -82,7 +82,7 @@ Check out the event recaps on [Bikepacking.com](http://bikepacking.com):
 - [Andrew Strempke Finishes Pinyons and Pines First...Again!](https://bikepacking.com/news/andrew-strempke-pinyons-and-pines-2022/)
 - [Katie Strempke is First Woman to Finish 2022 Pinyons and Pines](https://bikepacking.com/news/katie-strempke-2022-pinyons-and-pines/)
 - [2022 Event Recap](https://bikepacking.com/plog/2022-pinyons-and-pines-report/)
-- [2022 Event Recap](hhttps://bikepacking.com/plog/a-date-with-2023-pinyons-and-pines/)
+- [2023 Event Recap](hhttps://bikepacking.com/plog/a-date-with-2023-pinyons-and-pines/)
 <!-- <br>
 
 <center>

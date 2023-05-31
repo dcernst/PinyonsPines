@@ -12,7 +12,12 @@ layout: default
 
 ## 2022 Results
 
-<!-- Posted within a few days after Grand Depart. -->
+Check out the event recaps on [Bikepacking.com](http://bikepacking.com):
+
+- [2022 Day 1 Recap](https://bikepacking.com/news/2022-pinyons-and-pines-day-1-recap/)
+- [Andrew Strempke Finishes Pinyons and Pines First...Again!](https://bikepacking.com/news/andrew-strempke-pinyons-and-pines-2022/)
+- [Katie Strempke is First Woman to Finish 2022 Pinyons and Pines](https://bikepacking.com/news/katie-strempke-2022-pinyons-and-pines/)
+- [2022 Event Recap](https://bikepacking.com/plog/2022-pinyons-and-pines-report/)
 
 ### Grand Depart
 

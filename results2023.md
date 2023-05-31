@@ -14,7 +14,7 @@ layout: default
 
 <!-- Posted within a few days after Grand Depart. -->
 
-The 2023 Grand Depart took place at 6am on Thursday, May 18.
+The 2023 Grand Depart took place at 6am on Thursday, May 18. Check out the [event recap](https://bikepacking.com/plog/a-date-with-2023-pinyons-and-pines/) by Matt Annabel, Dana Ernst, Cassidy Howard, and Wyatt Spalding on [Bikepacking.com](http://bikepacking.com).
 
 ## Short Course
 
