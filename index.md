@@ -83,6 +83,8 @@ Check out the event recaps on [Bikepacking.com](http://bikepacking.com):
 - [Katie Strempke is First Woman to Finish 2022 Pinyons and Pines](https://bikepacking.com/news/katie-strempke-2022-pinyons-and-pines/)
 - [2022 Event Recap](https://bikepacking.com/plog/2022-pinyons-and-pines-report/)
 - [2023 Event Recap](hhttps://bikepacking.com/plog/a-date-with-2023-pinyons-and-pines/)
+- [Pinyons and Pines 500 Mile Winner Mathew Annabel: Understanding Badger and a Conversation About Adversity, Listening to Nature, Spiritual Signs, and Move Forward](https://podcasters.spotify.com/pod/pod/show/stokepodcast/episodes/Pinyon-and-Pines-500-Mile-Winner-Mathew-Annabel--Understanding-Badger-and-a-Conversation-About-Adversity--Listening-to-Nature--Spiritual-Signs-and-Move-Forward-GO-e25309s) (interview on the *Stoke Podcast*)
+
 <!-- <br>
 
 <center>
