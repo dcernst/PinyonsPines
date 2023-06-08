@@ -14,7 +14,7 @@ layout: default
 
 <!-- Posted within a few days after Grand Depart. -->
 
-The 2023 Grand Depart took place at 6am on Thursday, May 18. Check out the [event recap](https://bikepacking.com/plog/a-date-with-2023-pinyons-and-pines/) by Matt Annabel, Dana Ernst, Cassidy Howard, and Wyatt Spalding on [Bikepacking.com](http://bikepacking.com).  Matt also had a chat about his experience with Quinn Travis on the [Stoke Podcast](https://podcasters.spotify.com/pod/pod/show/stokepodcast/episodes/Pinyon-and-Pines-500-Mile-Winner-Mathew-Annabel--Understanding-Badger-and-a-Conversation-About-Adversity--Listening-to-Nature--Spiritual-Signs-and-Move-Forward-GO-e25309s).
+The 2023 Grand Depart took place at 6am on Thursday, May 18. Check out the [event recap](https://bikepacking.com/plog/a-date-with-2023-pinyons-and-pines/) by Matt Annabel, Dana Ernst, Cassidy Howard, and Wyatt Spalding on [Bikepacking.com](http://bikepacking.com).  Matt also had a chat about his experience with Quinn Travis on the [Stoke Podcast](https://podcasters.spotify.com/pod/pod/show/stokepodcast/episodes/Pinyon-and-Pines-500-Mile-Winner-Mathew-Annabel--Understanding-Badger-and-a-Conversation-About-Adversity--Listening-to-Nature--Spiritual-Signs-and-Move-Forward-GO-e25309s). Leigh Bowe describes her experience racing while lactating in [Whoa Baby Part 2: My journey to be a competitive bikepacking mama](http://thetownbicycle.com/whoa-baby-part-2-my-journey-to-be-a-competitive-bikepacking-mama/) over on [The Town Bicycle](http://thetownbicycle.com/).  Also, check out [Chris Wilson's recap video](https://youtu.be/FA2_c2NMEiI) of the ITT he did a week before the grand depart.
 
 ## Short Course
 
@@ -36,7 +36,7 @@ One regret I have is not more clearly communicating to the rest of the folks out
 
 By the end of day two, the short course turned into the "choose your own adventure" edition of Pinyons and Pines.  As time went on, things dried out and conditions improved. This meant that riders near the back of the pack were able to ride more and more of the intended course. Instead of listing finish times for folks like we have in the past, we will attempt to summarize who rode what version of a loop. 
 
-**Complete Short Course:** Rich Meyers is the only rider to complete the short course in its entirety. Timing was everything this year and Rich lucked out with good weather. The mud that the leaders encountered was pretty much gone by the time Rich reached the AZT.  Great job Rich!
+**Complete Short Course:** Rich Meyers is the only grand depart rider to complete the short course in its entirety. Timing was everything this year and Rich lucked out with good weather. The mud that the leaders encountered was pretty much gone by the time Rich reached the AZT.  Great job Rich!  In addition, Chris Wilson rode the full short course (including Heart Trail, which was on the originally proposed route) during an ITT a week before the grand depart.  Check out Chris' recap video [here](https://youtu.be/FA2_c2NMEiI).
 
 **Lake Mary Road Bypass of Miles 219-263:** Lindsay Nohl, Spencer Holmes, Marin Sigurdson. These three skipped the worst of the mud and rode the rest of the route.
 
