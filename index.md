@@ -31,14 +31,6 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 <strong>Important!</strong> This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
 
-Comments about the 2024 edition of Pinyons and Pines:
-
-<!-- - Registration for this year's event will open on Thursday, January 12 at 7am. -->
-
-- As always, the cap will be 74 riders. We will maintain a waitlist.
-- New this year! In an attempt to increase diversity, we will reserve 20 spots until February 12 for those individuals that are historically underrepresented in bikepacking events. Individuals will have the option to self-select for one of these reserved spots. After February 12, we will begin filling any remaining spots from the waitlist.
-- Draft routes for 2024 coming soon.
-
 <div class="row">
 <div class="col-md-2 col-lg-2">
 </div>
@@ -47,9 +39,9 @@ Comments about the 2024 edition of Pinyons and Pines:
 <center>
 <i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2024 edition of Pinyons and Pines starts at 6AM on <strong>Thursday, May 16</strong> at Flagstaff Bicycle Revolution.
 
-<hr>
+<!-- <hr>
 
-Information about registration for 2024 coming soon!
+Information about registration for 2024 coming soon! -->
 
  <!-- Registration is full! Contact us if you'd like to arrange an ITT on a different date. -->
 
@@ -71,9 +63,20 @@ Information about registration for 2024 coming soon!
 <div class="col-md-2 col-lg-2"></div>
 </div>
 
-The 2024 event will utilize [Trackleaders](http://trackleaders.com), providing a live map, elevation profile and other stats that can be used to follow along. Carrying a personal tracker (e.g., [SPOT](https://www.findmespot.com/en/), [Garmin InReach](https://explore.garmin.com/en-US/inreach/)) and being tracked by Trackleaders is not mandatory but encouraged. Tracking signup link will be available about a month before ride starts.
+Comments about the 2024 edition of Pinyons and Pines:
 
-Check out the event recaps:
+- We are going to try something a little different with registration this year. This is motivated by a desire to streamline the process on our end and is an attempt to mitigate some of the insanity of registration that has occurred the past two years. Each year there is a mad dash to register and then a huge number (maybe 25%?) of those that register don't end up doing the event.  Many (but not al!) of the folks that drop out before the event let us know in advance, but often it's so late in the game, that it becomes difficult to get folks from the waitlist to commit.
+- We will open registration sometime on March 23. This is roughly 2 months before the event, instead of our usual 4-5 months. Registration will take place via [Trackleaders](http://trackleaders.com), much like AZTR and CTR.
+- As usual, the cap will be 74 riders.
+- There will likely be a waitlist, but we are still sorting out the details about how this will be managed.
+- Reality: The past few editions have taught us that if you are serious about doing P&P and can commit to being in Flagstaff on May 16, then you are almost certain to get in. Don't panic if you don't get in on March 23. 
+- ITTs are welcome at any time other than May 16.
+- We will post a draft of this year's route in the next couple months. We are likely to make a return to Fossil Creek and ride the newly rebuilt Highline Trail.
+- We make no promises about weather...
+
+<!-- The 2024 event will utilize [Trackleaders](http://trackleaders.com), providing a live map, elevation profile and other stats that can be used to follow along. Carrying a personal tracker (e.g., [SPOT](https://www.findmespot.com/en/), [Garmin InReach](https://explore.garmin.com/en-US/inreach/)) and being tracked by Trackleaders is not mandatory but encouraged. Tracking signup link will be available about a month before ride starts. -->
+
+Check out the event recaps from previous editions:
 
 - [2019 Event Recap](https://bikepacking.com/news/2019-pinyons-pines-event-recap/)
 - [2020 Event Recap](https://bikepacking.com/news/2020-pinyons-and-pines-event-recap/)
