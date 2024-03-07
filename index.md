@@ -77,7 +77,7 @@ Information about registration for 2024 coming soon! -->
 <br>
 
 <center>
-<iframe src="https://ridewithgps.com/embeds?type=route&id=45723902&title=2024%20Pinyons%20and%20Pines&sampleGraph=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=route&id=45788310&title=2024%20Pinyons%20and%20Pines&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
 </center>
 
 <br>
