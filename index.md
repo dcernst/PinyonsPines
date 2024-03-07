@@ -37,7 +37,7 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 <div class="alert alert-info" role="alert">
 <center>
-<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2024 edition of Pinyons and Pines starts at 6AM on <strong>Thursday, May 16</strong> at Flagstaff Bicycle Revolution. Registration will open on <strong>March 23</strong>.
+<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2024 edition of Pinyons and Pines starts at 6AM on <strong>Thursday, May 16</strong> at Flagstaff Bicycle Revolution. Registration will open on <strong>Saturday, March 23</strong>.
 
 <!-- <hr>
 
@@ -66,7 +66,7 @@ Information about registration for 2024 coming soon! -->
 <strong>Comments about the 2024 edition of Pinyons and Pines:</strong>
 
 - We are going to try something a little different with registration this year. This is motivated by a desire to streamline the process on our end and is an attempt to mitigate some of the insanity of registration that has occurred the past two years. Each year there is a mad dash to register and then a huge number (maybe 25%?) of those that register don't end up doing the event.  Many (but not all!) of the folks that drop out before the event let us know in advance, but often it's so late in the game, that it becomes difficult to get folks from the waitlist to commit.
-- We will open registration sometime on **March 23**. This is roughly 2 months before the event, instead of our usual 4-5 months. Registration will take place via [Trackleaders](http://trackleaders.com), much like AZTR and CTR.  Even folks that do not intend to be tracked by Trackleaders during the event will still use Trackleaders to register (for free if not paying for tracking).
+- We will open registration sometime on **Saturday, March 23**. This is roughly 2 months before the event, instead of our usual 4-5 months. Registration will take place via [Trackleaders](http://trackleaders.com), much like AZTR and CTR.  Even folks that do not intend to be tracked by Trackleaders during the event will still use Trackleaders to register (for free if not paying for tracking).
 - As usual, the cap will be 74 riders.
 - Trackleader will manage the waitlist.
 - Reality: The past few editions have taught us that if you are serious about doing P&P and can commit to being in Flagstaff on May 16, then you are almost certain to get in. Don't panic if you don't get in on March 23. 
