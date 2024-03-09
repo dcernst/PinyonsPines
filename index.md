@@ -101,45 +101,6 @@ Check out the event recaps from previous editions:
 
 <div class="container-fluid">
 <div class="row align-items-end">
-<div class="col-md-3">
-<img src="{{ site.baseurl }}/images/2019PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
-<br>
-<center>
-2019 Patch
-</center>
-<br>
-</div>
-<div class="col-md-3">
-<img src="{{ site.baseurl }}/images/2020PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px">
-<br>
-<center>
-2020 Patch
-</center>
-<br>
-</div>
-<div class="col-md-3">
-<img src="{{ site.baseurl }}/images/2021PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
-<br>
-<center>
-2021 Patch
-</center>
-<br>
-</div>
-<div class="col-md-3">
-<img src="{{ site.baseurl }}/images/2022PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px">
-<br>
-<center>
-2022 Patch
-</center>
-<br>
-</div>
-</div>
-</div>
-
-<br>
-
-<div class="container-fluid">
-<div class="row align-items-end">
 <div class="col-md-1">
 </div>
 
@@ -177,7 +138,7 @@ Check out the event recaps from previous editions:
 </div>
 
 <div class="col-md-2">
-<img src="{{ site.baseurl }}/images/2022PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<img src="{{ site.baseurl }}/images/2023PinyonsPinesLogo.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
 <center>
 2023 Patch
@@ -197,4 +158,4 @@ The original 2019 patch was designed by [Shannon Villegas](https://www.instagram
 
 > Within this work are images representative of our values as Hopi. We look to the sun, Tawa, in reverence as a guiding force and source of strength within our lives. Centered, Nuvatukyaovi, the place of snow, conveys the importance of this sacred place within our spiritual and cultural beliefs. The color red is symbolic of our land, Tuutskwa, the white dashes relate the importance of moisture, and the colors blue and yellow represent male and female.
 
-The design for the 2022 patch is a riff on Duane's artwork by [Chris Cone](https://www.instagram.com/conermania/). The patch for 2023 will be designed by [Wyatt Spalding](https://www.instagram.com/wyattspalding/?hl=en).
+The design for the 2022 patch is a riff on Duane's artwork by [Chris Cone](https://www.instagram.com/conermania/). The patch for 2023 was designed by [Wyatt Spalding](https://www.instagram.com/wyattspalding/?hl=en).
