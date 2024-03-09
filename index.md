@@ -138,6 +138,61 @@ Check out the event recaps from previous editions:
 
 <br>
 
+<div class="container-fluid">
+<div class="row align-items-end">
+<div class="col-md-1">
+</div>
+
+<div class="col-md-2">
+<img src="{{ site.baseurl }}/images/2019PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<br>
+<center>
+2019 Patch
+</center>
+<br>
+</div>
+<div class="col-md-2">
+<img src="{{ site.baseurl }}/images/2020PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<br>
+<center>
+2020 Patch
+</center>
+<br>
+</div>
+<div class="col-md-2">
+<img src="{{ site.baseurl }}/images/2021PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<br>
+<center>
+2021 Patch
+</center>
+<br>
+</div>
+<div class="col-md-2">
+<img src="{{ site.baseurl }}/images/2022PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<br>
+<center>
+2022 Patch
+</center>
+<br>
+</div>
+
+<div class="col-md-2">
+<img src="{{ site.baseurl }}/images/2022PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<br>
+<center>
+2023 Patch
+</center>
+<br>
+</div>
+
+<div class="col-md-1">
+</div>
+
+</div>
+</div>
+
+<br>
+
 The original 2019 patch was designed by [Shannon Villegas](https://www.instagram.com/macerdoodles/?hl=en). The design for the 2020 patch was a modification of the patch from our first year and was put together by [Chris Cone](https://www.instagram.com/conermania/). The 2021 patch was created from original artwork by Hopi artist and local mountain biker [Duane Koyawena](https://www.dkoyawenaarts.com). Here is what Duane has to say about the design:
 
 > Within this work are images representative of our values as Hopi. We look to the sun, Tawa, in reverence as a guiding force and source of strength within our lives. Centered, Nuvatukyaovi, the place of snow, conveys the importance of this sacred place within our spiritual and cultural beliefs. The color red is symbolic of our land, Tuutskwa, the white dashes relate the importance of moisture, and the colors blue and yellow represent male and female.
