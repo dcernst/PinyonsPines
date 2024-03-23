@@ -51,12 +51,11 @@ Information about registration for 2024 coming soon! -->
 
 </center>
 
-<!--
 <hr>
 <center>
-<a href="https://form.jotform.com/trackleaders/pinyonspines19" class="alert-link" target="_blank">Trackleaders sign-up and SPOT rental</a>
+<a href="http://trackleaders.com/pinyonspines24-reg.php" class="alert-link" target="_blank">Register here!</a>
 </center>
--->
+
 
 </div>
 </div>
