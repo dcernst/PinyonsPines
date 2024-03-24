@@ -53,7 +53,15 @@ Information about registration for 2024 coming soon! -->
 
 <hr>
 <center>
-<a href="http://trackleaders.com/pinyonspines24-reg.php" class="alert-link" target="_blank">Register here!</a>
+The Grand Depart is full!
+
+<hr>
+
+<a href="https://form.jotform.com/trackleaders/pinyons-and-pines-2024-waiting-list" target="_blank">Waitlist Registration</a>
+
+<hr>
+
+<a href="https://form.jotform.com/trackleaders/ittpinyonspines24" target="_blank">ITT Registration</a>
 </center>
 
 
