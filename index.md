@@ -37,7 +37,9 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 <div class="alert alert-info" role="alert">
 <center>
-<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2024 edition of Pinyons and Pines starts at 6AM on <strong>Thursday, May 16</strong> at Flagstaff Bicycle Revolution. Registration will open on <strong>Saturday, March 23</strong>.
+<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2024 edition of Pinyons and Pines starts at 6AM on <strong>Thursday, May 16</strong> at Flagstaff Bicycle Revolution. 
+
+<!-- Registration will open on <strong>Saturday, March 23</strong>. -->
 
 <!-- <hr>
 
