@@ -51,10 +51,10 @@ Information about registration for 2024 coming soon! -->
 
 </center>
 
-<!-- <hr>
+<hr>
 <center>
 <a href="http://trackleaders.com/pinyonspines24-reg.php" class="alert-link" target="_blank">Register here!</a>
-</center> -->
+</center>
 
 
 </div>
