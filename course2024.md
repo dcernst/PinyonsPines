@@ -34,8 +34,6 @@ Below are some important notes, including information concerning resupply option
 
 - Please consult the [rules]({{ site.baseurl }}/rules/).
 <!-- - You must purchase an [Arizona State Land Department Recreation Permit](https://asld.secure.force.com/recreationalpermit/) as part of the course passes across state trust land.  Permits can be purchased online. An annual permit is $15. -->
-- The start and finish is at Flagstaff Bicycle Revolution.  If no one is at the finish to greet you, put your finish time on the sign in sheet that will be in the mailbox to the right of the door.
-
 - **Important:** Filter and/or treat all natural water sources.
 - **Miles 0-4.1:** Neutral roll out for the first 4.1 miles.  Folks can start riding at their own pace after the group crosses Hwy 180.  
 - **Mile 17.9:** Just south of tunnel that goes under Route 89, head southwest on double track to access Conoco Travel Center (open 24 hours).
