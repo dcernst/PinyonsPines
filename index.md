@@ -91,20 +91,23 @@ The Grand Depart is full!
 
 <br>
 
-Check out the event recaps from previous editions:
+Check out articles from previous editions:
 
 - [2019 Event Recap](https://bikepacking.com/news/2019-pinyons-pines-event-recap/)
 - [2020 Event Recap](https://bikepacking.com/news/2020-pinyons-and-pines-event-recap/)
 - [2021 Event Recap](https://bikepacking.com/news/2021-pinyons-and-pines-event-recap/)
+- [Rigs of the 2022 Pinyons and Pines](https://bikepacking.com/bikes/2022-pinyons-and-pines-rigs/)
 - [2022 Day 1 Recap](https://bikepacking.com/news/2022-pinyons-and-pines-day-1-recap/)
 - [Andrew Strempke Finishes Pinyons and Pines First...Again!](https://bikepacking.com/news/andrew-strempke-pinyons-and-pines-2022/)
 - [Katie Strempke is First Woman to Finish 2022 Pinyons and Pines](https://bikepacking.com/news/katie-strempke-2022-pinyons-and-pines/)
 - [2022 Event Recap](https://bikepacking.com/plog/2022-pinyons-and-pines-report/)
+- [Rigs of the 2023 Pinyons and Pines](https://bikepacking.com/bikes/2023-pinyons-and-pines-rigs/)
 - [2023 Event Recap](hhttps://bikepacking.com/plog/a-date-with-2023-pinyons-and-pines/)
 - [Pinyons and Pines 500 Mile Winner Mathew Annabel: Understanding Badger](https://podcasters.spotify.com/pod/pod/show/stokepodcast/episodes/Pinyon-and-Pines-500-Mile-Winner-Mathew-Annabel--Understanding-Badger-and-a-Conversation-About-Adversity--Listening-to-Nature--Spiritual-Signs-and-Move-Forward-GO-e25309s) (interview on the *Stoke Podcast*)
 - [Upcountry Goes Ultra: Pinyons & Pines 2023](https://www.youtube.com/watch?v=RCRaCJ0A4v8&t=78s) (Jesse Reeves' 2023 recap video)
 - [Solo Bikepacking on the Pinyons and Pines route](https://youtu.be/FA2_c2NMEiI) (recap of Chris Wilson's 2023 ITT)
 - [Whoa Baby Part 2: My journey to be a competitive bikepacking mama](http://thetownbicycle.com/whoa-baby-part-2-my-journey-to-be-a-competitive-bikepacking-mama/) (Leigh Bowe describes her experience racing while lactating)
+- [Rigs of the 2024 Pinyons and Pines](https://bikepacking.com/bikes/2024-pinyons-and-pines-rigs/)
 
 <br>
 
