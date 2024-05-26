@@ -137,7 +137,7 @@ The 2024 Grand Depart took place at 6am on Thursday, May 16.
 <td>Ti Eversole</td> <td>Durango, CO</td> <td>4:06:54</td> <td></td>
 </tr>
 <tr>
-<td>Bret Parke</td> <td>Scottsdale, AZ</td> <td></td> <td>4:10:21</td>
+<td>Bret Parke</td> <td>Scottsdale, AZ</td> <td>4:10:21</td> <td></td>
 </tr>
 <tr>
 <td>Sean Carlin</td> <td>Gilbert, AZ</td> <td>4:13:00</td> <td></td>
@@ -146,67 +146,67 @@ The 2024 Grand Depart took place at 6am on Thursday, May 16.
 <td>Sara Dallman / Eric Olsen</td> <td>Wilmington, OH</td> <td>4:13:00</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Joe Pavlik / Nathan Franklin</td> <td>Flagstaff, AZ</td> <td>3:07:11</td> <td>Completed "choose your own adventure" variation.</td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Timo Bschaden</td> <td></td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Tyler Hughes</td> <td></td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Jose Godson</td> <td></td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Meg	Knobel</td> <td></td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Sarah Higgins</td> <td></td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Leigh Bowe</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Jeff Hemperley</td> <td>Prescott, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Ralph Vandecruze</td> <td></td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>David Keller</td> <td></td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Steve Briley</td> <td></td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Cayden Boll / Mason Marsh</td> <td></td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Sarah Didier</td> <td>Mission Viejo, CA</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Richard	Meyers</td> <td></td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Trip Alexander</td> <td></td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Matt Shapiro</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Jon	Offner</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Tim Tait</td> <td>Nucla, CO</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Art	O'Connor</td> <td></td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Mike Farrell</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td></td> <td></td> <td>DNF</td> <td></td>
+<td>Brian Smith</td> <td></td> <td>DNF</td> <td></td>
 </tr>
 </tbody>
 </table>
