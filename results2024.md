@@ -149,19 +149,19 @@ The 2024 Grand Depart took place at 6am on Thursday, May 16.
 <td>Joe Pavlik / Nathan Franklin</td> <td>Flagstaff, AZ</td> <td>3:07:11</td> <td>Completed "choose your own adventure" variation.</td>
 </tr>
 <tr>
-<td>Timo Bschaden</td> <td></td> <td>DNF</td> <td></td>
+<td>Timo Bschaden</td> <td>Moncton, NB, Canada</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Tyler Hughes</td> <td></td> <td>DNF</td> <td></td>
+<td>Tyler Hughes</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Jose Godson</td> <td></td> <td>DNF</td> <td></td>
+<td>Jose Godson</td> <td>Durango, CO</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Meg	Knobel</td> <td></td> <td>DNF</td> <td></td>
+<td>Meg	Knobel</td> <td>San Diego, CA</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Sarah Higgins</td> <td></td> <td>DNF</td> <td></td>
+<td>Sarah Higgins</td> <td>Salt Lake City, UT</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
 <td>Leigh Bowe</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
@@ -170,25 +170,25 @@ The 2024 Grand Depart took place at 6am on Thursday, May 16.
 <td>Jeff Hemperley</td> <td>Prescott, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Ralph Vandecruze</td> <td></td> <td>DNF</td> <td></td>
+<td>Ralph Vandecruze</td> <td>Chandler, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>David Keller</td> <td></td> <td>DNF</td> <td></td>
+<td>David Keller</td> <td>Tucson, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Steve Briley</td> <td></td> <td>DNF</td> <td></td>
+<td>Steve Briley</td> <td>Park City, UT</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Cayden Boll / Mason Marsh</td> <td></td> <td>DNF</td> <td></td>
+<td>Cayden Boll / Mason Marsh</td> <td>Albuquerque, NM</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
 <td>Sarah Didier</td> <td>Mission Viejo, CA</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Richard	Meyers</td> <td></td> <td>DNF</td> <td></td>
+<td>Richard	Meyers</td> <td>Scottsdale, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Trip Alexander</td> <td></td> <td>DNF</td> <td></td>
+<td>Trip Alexander</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
 <td>Matt Shapiro</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
@@ -200,13 +200,13 @@ The 2024 Grand Depart took place at 6am on Thursday, May 16.
 <td>Tim Tait</td> <td>Nucla, CO</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Art	O'Connor</td> <td></td> <td>DNF</td> <td></td>
+<td>Art	O'Connor</td> <td>Millcreek, UT</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
 <td>Mike Farrell</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
 </tr>
 <tr>
-<td>Brian Smith</td> <td></td> <td>DNF</td> <td></td>
+<td>Brian Smith</td> <td>Brooklyn, NY</td> <td>DNF</td> <td></td>
 </tr>
 </tbody>
 </table>
