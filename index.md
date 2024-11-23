@@ -77,7 +77,6 @@ The Grand Depart is full!
 
 <strong>Comments about registration:</strong>
 
-- We are going to try something a little different with registration this year. This is motivated by a desire to streamline the process on our end and is an attempt to mitigate some of the insanity of registration that has occurred the past two years. Each year there is a mad dash to register and then a huge number (maybe 25%?) of those that register don't end up doing the event.  Many (but not all!) of the folks that drop out before the event let us know in advance, but often it's so late in the game, that it becomes difficult to get folks from the waitlist to commit.
 - Like last year, we will open registration roughly a month before the start day.
 - Registration will take place via [Trackleaders](http://trackleaders.com), much like AZTR and CTR.  Even folks that do not intend to be tracked by Trackleaders during the event will still use Trackleaders to register (for free if not paying for tracking).
 - As usual, the cap will be 74 riders.
