@@ -41,7 +41,7 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 <hr>
 
-Registration will open on **Thursday, April 15**.
+Registration will open on <strong>Thursday, April 15</strong>.
 
 <!-- <hr>
 
