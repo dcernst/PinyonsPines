@@ -41,7 +41,7 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 <hr>
 
-Registration will open on roughly a month before the start day. More information coming soon.
+Registration will open roughly a month before the start day. More information coming soon.
 
 <!-- <hr>
 
