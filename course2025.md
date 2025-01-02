@@ -33,7 +33,7 @@ See below for the currently proposed route. There might be minor tweaks to the r
 Below are some important notes, including information concerning resupply options for food and water. All mileages are approximate.
 
 - Please consult the [rules]({{ site.baseurl }}/rules/).
-- You must purchase an [Arizona State Land Department Recreation Permit](https://asld.secure.force.com/recreationalpermit/) as part of the course passes across state trust land.  Permits can be purchased online. An annual permit is $15.
+- The northeastern part of the route crosses a checkerboard of State Trust and private lands of the CO Bar Ranch. Access to the ranchlands now requires a [free permit available here](https://www.azgfd.com/wildlife-conservation/on-the-ground-conservation/cooperative-programs/landowner-relations/landowner-compact-overview/co-bar-ranch-access-pass/); also see that page for ranch rules and requests. You must also purchase an [Arizona State Land Department Recreation Permit](https://asld.secure.force.com/recreationalpermit/).
 - More details coming soon!
 
 <!-- - **Important:** Filter and/or treat all natural water sources.
