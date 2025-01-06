@@ -41,7 +41,7 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 <hr>
 
-Registration will open on <strong>, 2025</strong>.
+Registration will open at <strong>8AM (AZ time) on April 15, 2025</strong>.
 
 <!-- <hr>
 
@@ -77,7 +77,7 @@ The Grand Depart is full!
 
 <strong>Comments about registration:</strong>
 
-- We will open registration sometime on **Thursday, April 15**.
+- We will open registration sometime **8AM (AZ time) Thursday, April 15**.
 - Registration will take place via [Trackleaders](http://trackleaders.com), much like AZTR and CTR.  Even folks that do not intend to be tracked by Trackleaders during the event will still use Trackleaders to register (for free if not paying for tracking).
 - As usual, the cap will be 74 riders.
 - Trackleaders will manage the waitlist.
