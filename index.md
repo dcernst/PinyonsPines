@@ -5,9 +5,9 @@ title: Pinyons and Pines
 
 <!-- <img src="{{ site.baseurl }}/images/LockettMeadow.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px" /> -->
 
-<img src="{{ site.baseurl }}/images/PP2023-headers.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
+<img src="{{ site.baseurl }}/images/PP-Website-Header.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px" />
 
-<i class="fas fa-camera fa-lg"></i>&nbsp; Photo by <a href="https://www.instagram.com/wyattspalding/?hl=en" target="_blank">Wyatt Spalding</a>
+<i class="fas fa-camera fa-lg"></i>&nbsp; Photo by <a href="https://www.instagram.com/wyattspalding/?hl=en" target="_blank">Wyatt Spalding</a> // Design by Hopi Artist <a href="https://www.dkoyawenaarts.com" target="_blank">Duane Koyawena</a>
 
 
 <!-- <div class="row">
