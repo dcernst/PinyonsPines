@@ -117,8 +117,9 @@ Check out articles from previous editions:
 
 <div class="container-fluid">
 <div class="row align-items-end">
-<div class="col-md-1">
-</div>
+
+<!-- <div class="col-md-1">
+</div> -->
 
 <div class="col-md-2">
 <img src="{{ site.baseurl }}/images/2019PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
@@ -162,8 +163,17 @@ Check out articles from previous editions:
 <br>
 </div>
 
-<div class="col-md-1">
+<div class="col-md-2">
+<img src="{{ site.baseurl }}/images/2025PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<br>
+<center>
+2025 Patch
+</center>
+<br>
 </div>
+
+<!-- <div class="col-md-1">
+</div> -->
 
 </div>
 </div>
