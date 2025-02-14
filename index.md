@@ -249,4 +249,4 @@ The original 2019 patch was designed by [Shannon Villegas](https://www.instagram
 
 > Within this work are images representative of our values as Hopi. We look to the sun, Tawa, in reverence as a guiding force and source of strength within our lives. Centered, Nuvatukyaovi, the place of snow, conveys the importance of this sacred place within our spiritual and cultural beliefs. The color red is symbolic of our land, Tuutskwa, the white dashes relate the importance of moisture, and the colors blue and yellow represent male and female.
 
-The design for the 2022 patch is a riff on Duane's artwork by [Chris Cone](https://www.instagram.com/conermania/). The patch for 2023 was designed by [Wyatt Spalding](https://www.instagram.com/wyattspalding/?hl=en).
+The design for the 2022 and 2025 patches are a riff on Duane's artwork by [Chris Cone](https://www.instagram.com/conermania/). The patch for 2023 was designed by [Wyatt Spalding](https://www.instagram.com/wyattspalding/?hl=en).
