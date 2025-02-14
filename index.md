@@ -85,15 +85,75 @@ The Grand Depart is full!
 - ITTs are welcome at any time other than the Grand Depart.
 - We make no promises about weather...
 
-<!-- - See below for the currently proposed route. There might be minor tweaks to the route, but you can utilize the version below to start your planning. Additional POIs coming soon. -->
+Thanks to our sponsors that help make this event possible!
 
-<!-- <br>
+<br>
+
+<div class="container-fluid">
+<div class="row align-items-end">
+
+<!-- <div class="col-md-1">
+</div> -->
+
+<div class="col-md-2">
+<img src="{{ site.baseurl }}/images/FBRLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<br>
+<center>
+Flagstaff Bicycle Revolution
+</center>
+<br>
+</div>
+<div class="col-md-2">
+<img src="{{ site.baseurl }}/images/PizziclettaLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<br>
+<center>
+Pizzicletta
+</center>
+<br>
+</div>
+<div class="col-md-4">
+<img src="{{ site.baseurl }}/images/KahtoolaLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<br>
+<center>
+Kahtoola
+</center>
+<br>
+</div>
+<div class="col-md-2">
+<img src="{{ site.baseurl }}/images/SNBLogo.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<br>
+<center>
+Squirrel's Nut Butter
+</center>
+<br>
+</div>
+
+<div class="col-md-2">
+<img src="{{ site.baseurl }}/images/TESLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<br>
+<center>
+The Endurance Studio
+</center>
+<br>
+</div>
+
+<!-- <div class="col-md-1">
+</div> -->
+
+</div>
+</div>
+
+<br>
+
+- See below for the currently proposed route. There might be minor tweaks to the route, but you can utilize the version below to start your planning. Additional POIs coming soon.
+
+<br>
 
 <center>
-<iframe src="https://ridewithgps.com/embeds?type=route&id=45788310&title=2024%20Pinyons%20and%20Pines&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=route&id=49339030&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
 </center>
 
-<br> -->
+<br>
 
 Check out articles from previous editions:
 
