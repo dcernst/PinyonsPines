@@ -96,7 +96,7 @@ Thanks to our sponsors that help make this event possible!
 </div> -->
 
 <div class="col-md-2">
-<a href="https://www.flagbikerev.com"><img src="{{ site.baseurl }}/images/FBRLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
+<a href="https://www.flagbikerev.com" target="_blank"><img src="{{ site.baseurl }}/images/FBRLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
 <br>
 <center>
 Flagstaff Bicycle Revolution
@@ -105,7 +105,7 @@ Flagstaff Bicycle Revolution
 </div>
 
 <div class="col-md-2">
-<a href="http://www.pizzicletta.com"><img src="{{ site.baseurl }}/images/PizziclettaLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
+<a href="http://www.pizzicletta.com" target="_blank"><img src="{{ site.baseurl }}/images/PizziclettaLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
 <br>
 <center>
 Pizzicletta
@@ -114,7 +114,7 @@ Pizzicletta
 </div>
 
 <div class="col-md-4">
-<a href="https://kahtoola.com"><img src="{{ site.baseurl }}/images/KahtoolaLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
+<a href="https://kahtoola.com" target="_blank"><img src="{{ site.baseurl }}/images/KahtoolaLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
 <br>
 <center>
 Kahtoola
@@ -123,7 +123,7 @@ Kahtoola
 </div>
 
 <div class="col-md-2">
-<a href="https://www.youtube.com/@TheEnduranceStudio"><img src="{{ site.baseurl }}/images/TESLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
+<a href="https://www.youtube.com/@TheEnduranceStudio" target="_blank"><img src="{{ site.baseurl }}/images/TESLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
 <br>
 <center>
 The Endurance Studio
@@ -132,7 +132,7 @@ The Endurance Studio
 </div>
 
 <div class="col-md-2">
-<a href="https://squirrelsnutbutter.com"><img src="{{ site.baseurl }}/images/SNBLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
+<a href="https://squirrelsnutbutter.com" target="_blank"><img src="{{ site.baseurl }}/images/SNBLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
 <br>
 <center>
 Squirrel's Nut Butter
