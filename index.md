@@ -103,6 +103,7 @@ Flagstaff Bicycle Revolution
 </center>
 <br>
 </div>
+
 <div class="col-md-2">
 <img src="{{ site.baseurl }}/images/PizziclettaLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
@@ -111,19 +112,12 @@ Pizzicletta
 </center>
 <br>
 </div>
+
 <div class="col-md-4">
 <img src="{{ site.baseurl }}/images/KahtoolaLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
 <center>
 Kahtoola
-</center>
-<br>
-</div>
-<div class="col-md-2">
-<img src="{{ site.baseurl }}/images/SNBLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px">
-<br>
-<center>
-Squirrel's Nut Butter
 </center>
 <br>
 </div>
@@ -136,6 +130,17 @@ The Endurance Studio
 </center>
 <br>
 </div>
+
+<div class="col-md-2">
+<img src="{{ site.baseurl }}/images/SNBLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<br>
+<center>
+Squirrel's Nut Butter
+</center>
+<br>
+</div>
+
+
 
 <!-- <div class="col-md-1">
 </div> -->
