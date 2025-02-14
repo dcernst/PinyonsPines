@@ -96,7 +96,7 @@ Thanks to our sponsors that help make this event possible!
 </div> -->
 
 <div class="col-md-2">
-<img src="{{ site.baseurl }}/images/FBRLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<img src="{{ site.baseurl }}/images/FBRLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
 <center>
 Flagstaff Bicycle Revolution
@@ -104,7 +104,7 @@ Flagstaff Bicycle Revolution
 <br>
 </div>
 <div class="col-md-2">
-<img src="{{ site.baseurl }}/images/PizziclettaLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<img src="{{ site.baseurl }}/images/PizziclettaLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
 <center>
 Pizzicletta
@@ -112,7 +112,7 @@ Pizzicletta
 <br>
 </div>
 <div class="col-md-4">
-<img src="{{ site.baseurl }}/images/KahtoolaLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<img src="{{ site.baseurl }}/images/KahtoolaLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
 <center>
 Kahtoola
@@ -120,7 +120,7 @@ Kahtoola
 <br>
 </div>
 <div class="col-md-2">
-<img src="{{ site.baseurl }}/images/SNBLogo.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<img src="{{ site.baseurl }}/images/SNBLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
 <center>
 Squirrel's Nut Butter
@@ -129,7 +129,7 @@ Squirrel's Nut Butter
 </div>
 
 <div class="col-md-2">
-<img src="{{ site.baseurl }}/images/TESLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<img src="{{ site.baseurl }}/images/TESLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
 <center>
 The Endurance Studio
@@ -145,7 +145,7 @@ The Endurance Studio
 
 <br>
 
-- See below for the currently proposed route. There might be minor tweaks to the route, but you can utilize the version below to start your planning. Additional POIs coming soon.
+See below for the currently proposed route. There might be minor tweaks to the route, but you can utilize the version below to start your planning. Additional POIs coming soon.
 
 <br>
 
