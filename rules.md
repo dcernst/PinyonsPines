@@ -15,6 +15,7 @@ This is an unsanctioned event. There are no fees, no prizes, but all attempts wi
 The rules for this event follow the same principles as similar bikepacking events.  The following guidelines are a remix of the rules for the [Colorado Trail Race](http://www.climbingdreams.net/ctr/), [Arizona Trail Race](http://topofusion.com/azt/race.php), and [Bones to Blue Bikepacking Race](http://bonestoblue.com). We rely on the honor system, so be honorable and have a great ride.  Feel free to ask questions on the event's [Facebook group](https://www.facebook.com/groups/PinyonsAndPines/) (or post in the forum on [bikepacking.net](http://bikepacking.net)).
 
 - You must purchase an [Arizona State Land Department Recreation Permit](https://asld.secure.force.com/recreationalpermit/) as the northern part of the course passes across state trust land.  Permits can be purchased online. An annual permit is $15.
+- You must also obtain a [CO Bar Ranch Access Pass](https://www.azgfd.com/wildlife-conservation/on-the-ground-conservation/cooperative-programs/landowner-relations/landowner-compact-overview/co-bar-ranch-access-pass/).
 - Be overly courteous to all trail users. Just because you are racing does not mean you have right of way! Yield to hikers, equestrians, and uphill bikers.
 - Complete the entire route, under your own power.
 - Follow the GPX track as best you can. Small deviations and side trips are fine. Intentionally skipping part of the route is not okay.
