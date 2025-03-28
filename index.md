@@ -42,8 +42,7 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 <strong>Important!</strong> This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
 
 <div class="row">
-<div class="col-md-2 col-lg-2">
-</div>
+<div class="col-md-2 col-lg-2"></div>
 <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 <div class="alert alert-info" role="alert">
 <center>
