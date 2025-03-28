@@ -29,9 +29,7 @@ Pinyons and Pines is an underground self-supported bikepacking event that starts
 <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 <div class="alert alert-info" role="alert">
 <center>
-<div class="alert alert-info" role="alert">
 Check out the <a href="https://youtu.be/Vq6kgklOpHQ?si=4LqBRBLuzSr7RQnY" target="_blank">Pinyons & Pines 2025 Course Preview with Dana & Dylan</a> on YouTube!
-</div>
 </center>
 </div>
 </div>
