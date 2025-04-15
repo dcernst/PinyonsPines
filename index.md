@@ -54,7 +54,11 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 <hr>
 
-Register <a href="">here</a>! <strong>Important:</strong>If you plan to be tracked, but you don't have your information ready, just enter in some placeholder information. You can update edit your entry later at a later date.
+Register <a href="">here</a>! 
+
+<hr>
+
+<strong>Important:</strong> If you plan to be tracked, but you don't have your information ready, just enter in some placeholder information. You can update edit your entry later at a later date.
 
 <!-- <hr>
 
