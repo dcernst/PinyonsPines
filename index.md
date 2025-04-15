@@ -54,7 +54,7 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 <hr>
 
-Register <a href="https://trackleaders.com/pinyonspines25-reg">here</a>!
+Registration is currently full! Sign up for waitlist <a href="https://trackleaders.com/pinyonspines25-reg">here</a>!
 
 <hr>
 
