@@ -58,7 +58,7 @@ Register <a href="">here</a>!
 
 <hr>
 
-<strong>Important:</strong> If you plan to be tracked, but you don't have your information ready, just enter in some placeholder information. You can update edit your entry later at a later date.
+<strong>Important:</strong> If you plan to be tracked, but you don't have your InReach/Spot information ready, just enter in some placeholder information. You can edit your entry later at a later date.
 
 <!-- <hr>
 
