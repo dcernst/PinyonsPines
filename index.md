@@ -54,7 +54,7 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 <hr>
 
-Registration will open at <strong>8AM (AZ time) on April 15, 2025</strong>.
+Register <a href="">here</a>! <strong>Important:</strong>If you plan to be tracked, but you don't have your information ready, just enter in some placeholder information. You can update edit your entry later at a later date.
 
 <!-- <hr>
 
