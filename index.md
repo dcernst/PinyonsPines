@@ -94,7 +94,7 @@ The Grand Depart is full!
 
 <strong>Comments about registration:</strong>
 
-- We will open registration sometime **8AM (AZ time) Tuesday, April 15**.
+- Registration opens at **8AM (AZ time) Tuesday, April 15**.
 - Registration will take place via [Trackleaders](http://trackleaders.com), much like AZTR and CTR.  Even folks that do not intend to be tracked by Trackleaders during the event will still use Trackleaders to register (for free if not paying for tracking).
 - As usual, the cap will be 74 riders.
 - Trackleaders will manage the waitlist.
