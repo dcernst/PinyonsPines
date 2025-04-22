@@ -77,8 +77,8 @@ Below are some important notes, including information concerning resupply option
 
 ### Paid Parking Options
 - Amtrak Parking Lot: Across the street from the race start. Permit for 1, 3, and 7 day increments available. 7 day is $56. Park in overnight Amtrak lot located [here](https://goo.gl/maps/FJtWa2y1UDwRUyLL9). More information [here](https://www.parkflag.org/amtrak).
-- San Francisco Parking Garage - 1 mile from race start. Pay upon exit at a parking garage - $3/hr; $12/day. Located at 1101 Skydome Dr. More information [here](https://in.nau.edu/university-transit-services/Guest-Parking/) and [here](https://in.nau.edu/wp-content/uploads/sites/119/2021/02/12-22-2020-1218_538888_UTSMapUpdates.pdf).
-- Knolls Parking Garage - 1 mile from race start. Pay upon exit at a parking garage - $3/hr; $12/day. Located at 1300 S Knoles Dr. More information [here](https://in.nau.edu/university-transit-services/Guest-Parking/) and [here](https://in.nau.edu/wp-content/uploads/sites/119/2021/02/12-22-2020-1218_538888_UTSMapUpdates.pdf).
+- San Francisco Parking Garage - 1 mile from race start. Pay upon exit at a parking garage - $3/hr; $12/day. Located at 1101 Skydome Dr. More information [here](https://in.nau.edu/university-transit-services/Guest-Parking/) and [here](https://in.nau.edu/university-transit-services/maps/).
+- Knolls Parking Garage - 1 mile from race start. Pay upon exit at a parking garage - $3/hr; $12/day. Located at 1300 S Knoles Dr. More information [here](https://in.nau.edu/university-transit-services/Guest-Parking/) and [here](https://in.nau.edu/university-transit-services/maps/).
 
 ### Free Parking Options Close to Downtown
 The immediate downtown Flagstaff area is regulated by ParkFlag - this is a pay by the hour service and not for multi-day overnight parking. There are free public parking spots outside of the immediate downtown area within a mile or so of the start. Be sure to check all street signage and reference the ParkFlag map to be sure you are outside of the paid parking areas. Don’t block any locals driveways. More information at [ParkFlag](https://www.parkflag.org/_files/ugd/c1bde0_b46aba5bc56c47578fe601102f5ad28a.pdf).
