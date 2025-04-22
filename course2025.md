@@ -20,7 +20,7 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 <strong>Important!</strong> This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
 
-See below for the currently proposed route. There might be minor tweaks to the route, but you can utilize the version below to start your planning. Additional POIs coming soon.
+See below for the currently proposed route.
 
 <br>
 
@@ -34,43 +34,40 @@ Below are some important notes, including information concerning resupply option
 
 - Please consult the [rules]({{ site.baseurl }}/rules/).
 - The northeastern part of the route crosses a checkerboard of State Trust and private lands of the CO Bar Ranch. Access to the ranchlands now requires a [free permit available here](https://www.azgfd.com/wildlife-conservation/on-the-ground-conservation/cooperative-programs/landowner-relations/landowner-compact-overview/co-bar-ranch-access-pass/); also see that page for ranch rules and requests. You must also purchase an [Arizona State Land Department Recreation Permit](https://asld.secure.force.com/recreationalpermit/).
-- More details coming soon!
-
-<!-- - **Important:** Filter and/or treat all natural water sources.
-- **Miles 0-4.1:** Neutral roll out for the first 4.1 miles.  Folks can start riding at their own pace after the group crosses Hwy 180.  
-- **Mile 17.9:** Just south of tunnel that goes under Route 89, head southwest on double track to access Conoco Travel Center (open 24 hours).
-- **Mile 19.3:** Cross Rio de Flag. Possible water source.
-- **Mile 35.4:** Lake Mary Country Store slightly south of route just before turning right.
-- **Mile 50:** Weimer Spring. Spring is on south side of road.  Walk a short way up hill to access spring.
-- **Mile 58.6:** Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
-- **Mile 61.3:** Mormon Lake Lodge and Store. The store does **not** like bikes being parked under the awning in front of the store. Please be respectful.
-- **Mile 98.3:** Turn southwest (right) on Hwy 87 to access Happy Jack Ranger Station. Water spigot behind the main building.
-- **Mile 104.6:** Cross East Clear Creek. Possible water source.
-- **Mile 139.7:** Woods Canyon Lake Store and campground is about 1.5 miles off route to the north. Store hours are 8am-5pm.
-- **Mile 150:** Cross Christopher Creek. Possible water source.
-- **Mile 151.8:** Small town of Christopher Creek. Christopher Creek General Store makes for a nice resupply if you can time the open hours. Landmark Restaurant and Creekside Tavern are a short distance off route to the east.
-- **Mile 153.2:** Christopher Creek Campground slightly off route to south. Water Spigot
-- **Mile 156.7:** Kohls Ranch Lodge off route to south.
-- **Mile 157.5:** Cross Horton Creek. Possible water source.
-- **Mile 174.7:** Cross East Verde River. Possible water source.
-- **Mile 179.7:** Access to East Verde River to the east. Possible water source.
-- **Mile 180.6:** Cross small creek. Possible water source.
-- **Mile 185.7:** Cross Sycamore Creek. Possible water source.
-- **Mile 191.3:** Cross Weber Creek. Possible water source.
-- **Mile 201.3:** That Brewery. Popular with AZT through hikers.
-- **Mile 201.9:** Ponderosa Market. Open 7am-8pm (9pm on Fridays and Saturdays).
-- **Mile 206:** Pie Bar in town of Strawberry. Worth the stop if you are there during open hours.
-- **Mile 211.3-221.5:** No camping allowed in this section!!!
-- **Mile 217.1:** Access to Fossil Creek. Possible water source. Water might be tough on your water filter!
-- **Mile 233.8:** Clear Creek Campground. Access to water spigot.
-- **Mile 235.2:** Dollar General.
-- **Mile 239.5:** 76 Gas Station.
-- **Mile 242.2:** McDonald's, gas station, etc.
-- **Mile 274.8:** Allen Spring. Water usually flowing out of a large pipe on the downhill side of the road.
-- **Mile 276.4:** Piped spring. 
-- **Mile 287:** 24-hour Maverick.
-- **Mile 288.1:** Verde Valley Bicycle Company. There will be a work stand and some repair supplies behind bike shop. You can also camp back there. Please thank Greg the owner and any employees for supporting us!
-- **Mile 289.1:** 24-hour Circle K.
-- **Miles 312.4-315:** Town of Sedona. Lots of resupply options including McDonald's, Safeway, Whole Foods. Route also passes Thunder Mountain Bikes. 
-- **Mile 326.8:** Spigot in neighborhood gazebo just passed ADOT yard. Residents don't seem to mind us using it, but be respectful!
-- **Mile 364.1:** Finish at Flagstaff Bicycle Revolution. Pat yourself on the back and sign the finishers sheet located in the mailbox to the right of the door. Be happy. Pizzicletta and Mother Road Brewery on either side of FBR. -->
+- **Important:** Please consult the map above for additional water sources. We are including the ones here that we think are most likely to be utilized. Filter and/or treat all natural water sources.
+- **Miles 0-1.6:** Neutral roll out for the first 1.6 miles.  Folks can start riding at their own pace after the group hits the urban trail that climbs to Buffalo Park.  
+- **Miles 10-11.3:** Mandatory out and back to summit of Mount Elden (9301 feet).
+- **Mile 11.3-13:** Technical descent of Sunset Trail. Please be careful and ride within your limits.  
+- **Mile 25.1:** Just south of tunnel that goes under Route 89, head southwest on double track to access Conoco Travel Center (open 24 hours).
+- **Mile 58.4:** Lake Mary Country Store.
+- **Mile 74:** Weimer Spring. Spring is on left side of road. Walk a short way up hill to access spring.
+- **Mile 81.5:** Dairy Springs Campground. To access campground, turn left on Mormon Mountain Trail and descent to campground. Water spigot should be on.
+- **Mile 82.6:** If you continue on AZT instead of turning right on FS 240, you can access Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
+- **Mile 96.3:** There is a water spigot at the ADOT yard just after crossing Interstate 17. The spigot is located near a ramada in a grassy area by some houses. Residents don’t seem to mind us using it, but be respectful! If for some reason this spigot is turned off, you might consider riding north on the interstate to the town of Munds Park, where you’ll have access to food and water.
+- **Mile 107.8:** Stay right at roundabout and head south to access Circle K.
+- **Mile 108.2:** Lots of resupply options in the area.
+- **Mile 108.6:** Tunnel under Route 89A.
+- **Mile 115.7:** Famous Pizza and Layla's Bakery.
+- **Mile 119.6:** Seasonal creek.
+- **Mile 137.1:** Shortly before the Casner climb, look for large gate on the east (right) side of the road with a small trail gate next to it. If you see "Trail 12 Mooney" you're in the right spot. Go through the gate and a short bit down the road. There is an XL tank feeding a smaller trough with water that can be treated or filtered. Don’t forget to close the gate on the way back out. This is going to be an ideal spot to fill up before the looooong ascent back to Flagstaff to close the first loop.
+- **Mile 155.6:** West Fork of Oak Creek. Acces to water near bridge.
+- **Mile 176.1:** Woody Mountain General Store.
+- **Mile 176.6:** Chevron gas station or continue east for another half mile to access Maverick gas station. Stock up on food and water here!
+- **Mile 182.2:** Marathon gas station a short distance off route to northwest.
+- **Mile 202.7:** Small pond on the left in Lockett Meadow.
+- **Miles 203-206:** Descend Lockett Meadow Road. Fast descent, but be careful loose dirt and holes that can sneak up on you.
+- **Miles 209.1-219.5:** Mandatory out and back to summit of O'Leary Peak (8919 feet). You will likely be cursing my name; don't forget to enjoy the views!
+- **Mile 219.7:** Depending on when you enter Sunset Crater National Monument, you may be stopped at the entrance booth. If you have a Parks Pass, bring it with you just in case. Just after passing the entrance booth, there is a Visitor’s Center on the right. There is drinking fountain outside that you can use to refill water. There is also a vending machine, but does not always work (and the staff in the Visitor’s Center do not always have the means to break change or help with the machine). There is also a bathroom that is sometimes open after hours, but do not assume it will be open. It’s a long way to the next water source!
+- **Miles 240-255:** You will be in the vicinity of SP Crater. There is a seasonal golden eagle closure for the crater that will be in effect. We have permission to ride through, but do not camp within 5 miles of the crater. And definitely do not climb the crater!
+- **Mile 260.4:** AZT cache box hidden in a cluster of trees. Do not take any food or water that not marked as public!
+- **Mile 263.4:** Potential water source at stock tank.
+- **Mile 263.9:** Potential water source at stock tank.
+- **Mile 272.7:** Potential water source at spring a short distance to the south of the road.
+- **Mile 277.1:** Tip Top Tank. Potential water source, but usually a muddy puddle. 
+- **Mile 285.7:** Turn right on FS 76 to access the Spring Valley Cabins. The cabin is a short distance off route to the south. There is a water spigot at one of the cabins, but it is not always on!
+- **Mile 294:** Parks General Store.
+- **Mile 294.6:** Texaco gas station.
+- **Mile 298.6:** Intead of turning left, you could continute straight for a few miles to reach the Pilot Travel Center and McDonald's in Bellemont, which is open 24 hours. 
+- **Mile 323.6:** Alfa Fia Tank is a short distance off route to the west.
+- **Miles 336.9-339.4:** Either utilize the bike lane on the right side of the road or feel free to use the bike path that is on the left side of the road and then crosses over to the right side of the road. We think the bike lane is safer since you won't need to cross the road.
+- **Mile 340:** Finish at Sosta! Pat yourself on the back, sign the finishers sheet, be happy. 
