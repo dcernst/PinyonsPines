@@ -33,6 +33,7 @@ See below for the currently proposed route.
 Below are some important notes, including information concerning resupply options for food and water. All mileages are approximate.
 
 - Please consult the [rules]({{ site.baseurl }}/rules/).
+- Check out the <a href="https://youtu.be/Vq6kgklOpHQ?si=4LqBRBLuzSr7RQnY" target="_blank">Pinyons & Pines 2025 Course Preview with Dana & Dylan</a> on YouTube!
 - The northeastern part of the route crosses a checkerboard of State Trust and private lands of the CO Bar Ranch. Access to the ranchlands now requires a [free permit available here](https://www.azgfd.com/wildlife-conservation/on-the-ground-conservation/cooperative-programs/landowner-relations/landowner-compact-overview/co-bar-ranch-access-pass/); also see that page for ranch rules and requests. You must also purchase an [Arizona State Land Department Recreation Permit](https://asld.secure.force.com/recreationalpermit/).
 - **Important:** Please consult the map above for additional water sources. We are including the ones here that we think are most likely to be utilized. Filter and/or treat all natural water sources.
 - **Miles 0-1.6:** Neutral roll out for the first 1.6 miles.  Folks can start riding at their own pace after the group hits the urban trail that climbs to Buffalo Park.  
@@ -71,3 +72,16 @@ Below are some important notes, including information concerning resupply option
 - **Mile 323.6:** Alfa Fia Tank is a short distance off route to the west.
 - **Miles 336.9-339.4:** Either utilize the bike lane on the right side of the road or feel free to use the bike path that is on the left side of the road and then crosses over to the right side of the road. We think the bike lane is safer since you won't need to cross the road.
 - **Mile 340:** Finish at Sosta! Pat yourself on the back, sign the finishers sheet, be happy. 
+
+## Parking Information
+
+### Paid Parking Options
+- Amtrak Parking Lot: Across the street from the race start. Permit for 1, 3, and 7 day increments available. 7 day is $56. Park in overnight Amtrak lot located [here](https://goo.gl/maps/FJtWa2y1UDwRUyLL9). More information [here](https://www.parkflag.org/amtrak).
+- San Francisco Parking Garage - 1 mile from race start. Pay upon exit at a parking garage - $3/hr; $12/day. Located at 1101 Skydome Dr. More information [here](https://in.nau.edu/university-transit-services/Guest-Parking/) and [here](https://in.nau.edu/wp-content/uploads/sites/119/2021/02/12-22-2020-1218_538888_UTSMapUpdates.pdf).
+- Knolls Parking Garage - 1 mile from race start. Pay upon exit at a parking garage - $3/hr; $12/day. Located at 1300 S Knoles Dr. More information [here](https://in.nau.edu/university-transit-services/Guest-Parking/) and [here](https://in.nau.edu/wp-content/uploads/sites/119/2021/02/12-22-2020-1218_538888_UTSMapUpdates.pdf).
+
+### Free Parking Options Close to Downtown
+The immediate downtown Flagstaff area is regulated by ParkFlag - this is a pay by the hour service and not for multi-day overnight parking. There are free public parking spots outside of the immediate downtown area within a mile or so of the start. Be sure to check all street signage and reference the ParkFlag map to be sure you are outside of the paid parking areas. Don’t block any locals driveways. More information at [ParkFlag](https://www.parkflag.org/_files/ugd/c1bde0_b46aba5bc56c47578fe601102f5ad28a.pdf).
+
+### Dispersed Camping Options
+Flagstaff has many campgrounds, designated dispersed camping, and BLM dispersed camping options. Go [here](https://www.flagstaffarizona.org/things-to-do/outdoors-nature/camping/) for more information.
