@@ -40,7 +40,7 @@ Below are some important notes, including information concerning resupply option
 - **Miles 10-11.3:** Mandatory out and back to summit of Mount Elden (9301 feet).
 - **Mile 11.3-13:** Technical descent of Sunset Trail. Please be careful and ride within your limits.  
 - **Mile 25.1:** Just south of tunnel that goes under Route 89, head southwest on double track to access Conoco Travel Center (open 24 hours).
-- **Mile 58.4:** Lake Mary Country Store.
+- **Mile 58.4:** Lake Mary Country Store. Opening May 1st and open Wednesday through Sunday, Closed Monday/Tuesday Hours: 7am-6pm Wed-Sat, 7am-5pm Sundays.
 - **Mile 74:** Weimer Spring. Spring is on left side of road. Walk a short way up hill to access spring.
 - **Mile 81.5:** Dairy Springs Campground. To access campground, turn left on Mormon Mountain Trail and descent to campground. Water spigot should be on.
 - **Mile 82.6:** If you continue on AZT instead of turning right on FS 240, you can access Double Spring Campground water spigot (and likely small creek). Water spigot should be on.
