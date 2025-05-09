@@ -55,23 +55,24 @@ Below are some important notes, including information concerning resupply option
 - **Mile 176.1:** Woody Mountain General Store.
 - **Mile 176.6:** Chevron gas station or continue east for another half mile to access Maverick gas station. Stock up on food and water here!
 - **Mile 182.2:** Marathon gas station a short distance off route to northwest.
-- **Mile 202.7:** Small pond on the left in Lockett Meadow.
-- **Miles 203-206:** Descend Lockett Meadow Road. Fast descent, but be careful loose dirt and holes that can sneak up on you.
-- **Miles 209.1-219.5:** Mandatory out and back to summit of O'Leary Peak (8919 feet). You will likely be cursing my name; don't forget to enjoy the views!
+- **Miles 202.1-212.5:** Mandatory out and back to summit of O'Leary Peak (8919 feet). You will likely be cursing my name; don't forget to enjoy the views!
 - **Mile 219.7:** Depending on when you enter Sunset Crater National Monument, you may be stopped at the entrance booth. If you have a Parks Pass, bring it with you just in case. Just after passing the entrance booth, there is a Visitor’s Center on the right. There is drinking fountain outside that you can use to refill water. There is also a vending machine, but does not always work (and the staff in the Visitor’s Center do not always have the means to break change or help with the machine). There is also a bathroom that is sometimes open after hours, but do not assume it will be open. It’s a long way to the next water source!
-- **Miles 240-255:** You will be in the vicinity of SP Crater. There is a seasonal golden eagle closure for the crater that will be in effect. We have permission to ride through, but do not camp within 5 miles of the crater. And definitely do not climb the crater!
-- **Mile 260.4:** AZT cache box hidden in a cluster of trees. Do not take any food or water that not marked as public!
-- **Mile 263.4:** Potential water source at stock tank.
-- **Mile 263.9:** Potential water source at stock tank.
-- **Mile 272.7:** Potential water source at spring a short distance to the south of the road.
-- **Mile 277.1:** Tip Top Tank. Potential water source, but usually a muddy puddle. 
-- **Mile 285.7:** Turn right on FS 76 to access the Spring Valley Cabins. The cabin is a short distance off route to the south. There is a water spigot at one of the cabins, but it is not always on!
-- **Mile 294:** Parks General Store.
-- **Mile 294.6:** Texaco gas station.
-- **Mile 298.6:** Intead of turning left, you could continute straight for a few miles to reach the Pilot Travel Center and McDonald's in Bellemont, which is open 24 hours. 
-- **Mile 323.6:** Alfa Fia Tank is a short distance off route to the west.
-- **Miles 336.9-339.4:** Either utilize the bike lane on the right side of the road or feel free to use the bike path that is on the left side of the road and then crosses over to the right side of the road. We think the bike lane is safer since you won't need to cross the road.
-- **Mile 340:** Finish at Sosta! Pat yourself on the back, sign the finishers sheet, be happy. 
+- **Miles 233-248:** You will be in the vicinity of SP Crater. There is a seasonal golden eagle closure for the crater that will be in effect. We have permission to ride through, but do not camp within 5 miles of the crater. And definitely do not climb the crater!
+- **Mile 253.4:** AZT cache box hidden in a cluster of trees. Do not take any food or water that not marked as public!
+- **Mile 256.4:** Potential water source at stock tank.
+- **Mile 256.9:** Potential water source at stock tank.
+- **Mile 265.7:** Potential water source at spring a short distance to the south of the road.
+- **Mile 270.1:** Tip Top Tank. Potential water source, but usually a muddy puddle. 
+- **Mile 278.7:** Turn right on FS 76 to access the Spring Valley Cabins. The cabin is a short distance off route to the south. There is a water spigot at one of the cabins, but it is not always on!
+- **Mile 287:** Parks General Store.
+- **Mile 287.6:** Texaco gas station.
+- **Mile 292.6:** Intead of turning left, you could continute straight for a few miles to reach the Pilot Travel Center and McDonald's in Bellemont, which is open 24 hours. 
+- **Mile 316.6:** Alfa Fia Tank is a short distance off route to the west.
+- **Miles 329.9-332.4:** Either utilize the bike lane on the right side of the road or feel free to use the bike path that is on the left side of the road and then crosses over to the right side of the road. We think the bike lane is safer since you won't need to cross the road.
+- **Mile 333:** Finish at Sosta! Pat yourself on the back, sign the finishers sheet, be happy. 
+
+<!-- - **Mile 202.7:** Small pond on the left in Lockett Meadow.
+- **Miles 203-206:** Descend Lockett Meadow Road. Fast descent, but be careful loose dirt and holes that can sneak up on you. -->
 
 ## Parking Information
 
