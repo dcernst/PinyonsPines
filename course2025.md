@@ -59,8 +59,6 @@ Below are some important notes, including information concerning resupply option
 - **Mile 219.7:** Depending on when you enter Sunset Crater National Monument, you may be stopped at the entrance booth. If you have a Parks Pass, bring it with you just in case. Just after passing the entrance booth, there is a Visitor’s Center on the right. There is drinking fountain outside that you can use to refill water. There is also a vending machine, but does not always work (and the staff in the Visitor’s Center do not always have the means to break change or help with the machine). There is also a bathroom that is sometimes open after hours, but do not assume it will be open. It’s a long way to the next water source!
 - **Miles 233-248:** You will be in the vicinity of SP Crater. There is a seasonal golden eagle closure for the crater that will be in effect. We have permission to ride through, but do not camp within 5 miles of the crater. And definitely do not climb the crater!
 - **Mile 253.4:** AZT cache box hidden in a cluster of trees. Do not take any food or water that not marked as public!
-- **Mile 256.4:** Potential water source at stock tank.
-- **Mile 256.9:** Potential water source at stock tank.
 - **Mile 265.7:** Potential water source at spring a short distance to the south of the road.
 - **Mile 270.1:** Tip Top Tank. Potential water source, but usually a muddy puddle. 
 - **Mile 278.7:** Turn right on FS 76 to access the Spring Valley Cabins. The cabin is a short distance off route to the south. There is a water spigot at one of the cabins, but it is not always on!
