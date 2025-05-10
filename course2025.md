@@ -51,14 +51,16 @@ Below are some important notes, including information concerning resupply option
 - **Mile 115.7:** Famous Pizza and Layla's Bakery.
 - **Mile 119.6:** Seasonal creek.
 - **Mile 137.1:** Shortly before the Casner climb, look for large gate on the east (right) side of the road with a small trail gate next to it. If you see "Trail 12 Mooney" you're in the right spot. Go through the gate and a short bit down the road. There is an XL tank feeding a smaller trough with water that can be treated or filtered. Don’t forget to close the gate on the way back out. This is going to be an ideal spot to fill up before the looooong ascent back to Flagstaff to close the first loop.
-- **Mile 155.6:** West Fork of Oak Creek. Acces to water near bridge.
+- **Mile 156.4:** West Fork Tank. Potential water source at stock tank. Good idea to grab water here if you are running low. 
 - **Mile 176.1:** Woody Mountain General Store.
 - **Mile 176.6:** Chevron gas station or continue east for another half mile to access Maverick gas station. Stock up on food and water here!
 - **Mile 182.2:** Marathon gas station a short distance off route to northwest.
 - **Miles 202.1-212.5:** Mandatory out and back to summit of O'Leary Peak (8919 feet). You will likely be cursing my name; don't forget to enjoy the views!
-- **Mile 219.7:** Depending on when you enter Sunset Crater National Monument, you may be stopped at the entrance booth. If you have a Parks Pass, bring it with you just in case. Just after passing the entrance booth, there is a Visitor’s Center on the right. There is drinking fountain outside that you can use to refill water. There is also a vending machine, but does not always work (and the staff in the Visitor’s Center do not always have the means to break change or help with the machine). There is also a bathroom that is sometimes open after hours, but do not assume it will be open. It’s a long way to the next water source!
+- **Mile 212.7:** Depending on when you enter Sunset Crater National Monument, you may be stopped at the entrance booth. If you have a Parks Pass, bring it with you just in case. Just after passing the entrance booth, there is a Visitor’s Center on the right. There is drinking fountain outside that you can use to refill water. There is also a vending machine, but does not always work (and the staff in the Visitor’s Center do not always have the means to break change or help with the machine). There is also a bathroom that is sometimes open after hours, but do not assume it will be open. It’s a long way to the next guaranteed water source!
+- **Mile 218.6:** Potential water source at stock tank.
 - **Miles 233-248:** You will be in the vicinity of SP Crater. There is a seasonal golden eagle closure for the crater that will be in effect. We have permission to ride through, but do not camp within 5 miles of the crater. And definitely do not climb the crater!
-- **Mile 253.4:** AZT cache box hidden in a cluster of trees. Do not take any food or water that not marked as public!
+- **Mile 253.4:** AZT cache box hidden in a cluster of trees. We will cache water here. **Each rider may take up to 2 liters of water.** Do not take any food or water that not marked as public!
+- **Mile 262.1:** Potential water source at stock tank. About 5+ minute walk off the course, hiking uphill through the Slate Mountain burn scar with many downed trees. It's not a bad walk, but I would not drag my bike up there. 
 - **Mile 265.7:** Potential water source at spring a short distance to the south of the road.
 - **Mile 270.1:** Tip Top Tank. Potential water source, but usually a muddy puddle. 
 - **Mile 278.7:** Turn right on FS 76 to access the Spring Valley Cabins. The cabin is a short distance off route to the south. There is a water spigot at one of the cabins, but it is not always on!
