@@ -194,6 +194,7 @@ Check out articles from previous editions:
 - [Solo Bikepacking on the Pinyons and Pines route](https://youtu.be/FA2_c2NMEiI) (recap of Chris Wilson's 2023 ITT)
 - [Whoa Baby Part 2: My journey to be a competitive bikepacking mama](http://thetownbicycle.com/whoa-baby-part-2-my-journey-to-be-a-competitive-bikepacking-mama/) (Leigh Bowe describes her experience racing while lactating)
 - [Rigs of the 2024 Pinyons and Pines](https://bikepacking.com/bikes/2024-pinyons-and-pines-rigs/)
+- [Rigs of the 2025 Pinyons and Pines](https://bikepacking.com/bikes/2025-pinyons-and-pines-rigs/)
 
 <br>
 
