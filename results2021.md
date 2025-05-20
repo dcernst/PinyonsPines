@@ -224,7 +224,7 @@ The 2021 Grand Depart took place at 6am on Thursday, May 20.
 <td>Mike Enfield</td> <td>Show Low, AZ</td> <td> </td> <td>May 20, 2021</td> <td>Counterclockwise. Rode to start at Rim Road. Scratch on AZT.</td>
 </tr>
 <tr>
-<td>Eric Morton</td> <td>Flagstaff, AZ</td> <td>3:18:56</td> <td>May 25, 2021.</td>
+<td>Eric Morton</td> <td>Flagstaff, AZ</td> <td>3:18:56</td> <td>May 25, 2021</td> <td></td>
 </tr>
 </tbody>
 

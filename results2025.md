@@ -171,3 +171,28 @@ The 2025 Grand Depart took place at 6am on Thursday, May 15, 2025. We had 68 sta
 </table>
 </div>
 </center>
+
+### Individual Time Trials
+
+<center>
+<div class="table-responsive">
+<table class="table table-striped">
+<thead>
+<tr>
+<th>Name</th>
+<th>Hometown</th>
+<th>Elapsed Time</th>
+<th>Start&nbsp;Date</th>
+<th>Notes</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Matt Bowe</td> <td>Flagstaff, AZ</td> <td>1d22h31m</td> <td>May 8, 2025</td> <td>Included Waterline and Inner Basin</td>
+</tr>
+</tbody>
+
+</table>
+</div>
+</center>
