@@ -188,13 +188,15 @@ Check out articles from previous editions:
 - [Katie Strempke is First Woman to Finish 2022 Pinyons and Pines](https://bikepacking.com/news/katie-strempke-2022-pinyons-and-pines/)
 - [2022 Event Recap](https://bikepacking.com/plog/2022-pinyons-and-pines-report/)
 - [Rigs of the 2023 Pinyons and Pines](https://bikepacking.com/bikes/2023-pinyons-and-pines-rigs/)
-- [2023 Event Recap](hhttps://bikepacking.com/plog/a-date-with-2023-pinyons-and-pines/)
-- [Pinyons and Pines 500 Mile Winner Mathew Annabel: Understanding Badger](https://podcasters.spotify.com/pod/pod/show/stokepodcast/episodes/Pinyon-and-Pines-500-Mile-Winner-Mathew-Annabel--Understanding-Badger-and-a-Conversation-About-Adversity--Listening-to-Nature--Spiritual-Signs-and-Move-Forward-GO-e25309s) (interview on the *Stoke Podcast*)
+- [2023 Event Recap](https://bikepacking.com/plog/a-date-with-2023-pinyons-and-pines/)
+- [Pinyons and Pines 500 Mile Winner Mathew Annabel: Understanding Badger](https://www.youtube.com/watch?app=desktop&v=aSr5XsobXEg) (interview on the *Stoke Podcast*)
 - [Upcountry Goes Ultra: Pinyons & Pines 2023](https://www.youtube.com/watch?v=RCRaCJ0A4v8&t=78s) (Jesse Reeves' 2023 recap video)
 - [Solo Bikepacking on the Pinyons and Pines route](https://youtu.be/FA2_c2NMEiI) (recap of Chris Wilson's 2023 ITT)
 - [Whoa Baby Part 2: My journey to be a competitive bikepacking mama](http://thetownbicycle.com/whoa-baby-part-2-my-journey-to-be-a-competitive-bikepacking-mama/) (Leigh Bowe describes her experience racing while lactating)
 - [Rigs of the 2024 Pinyons and Pines](https://bikepacking.com/bikes/2024-pinyons-and-pines-rigs/)
 - [Rigs of the 2025 Pinyons and Pines](https://bikepacking.com/bikes/2025-pinyons-and-pines-rigs/)
+- [Karin Pocock Wins the 2025 Pinyons and Pines Women's Race](https://bikepacking.com/news/karin-pocock-2025-pinyons-and-pines/)
+- [Stephen Fitzgerald Wins the 2025 Pinyons and Pines Men's Race](https://bikepacking.com/news/stephen-fitzgerald-wins-2025-pinyons-and-pines/)
 
 <br>
 
