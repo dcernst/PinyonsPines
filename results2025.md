@@ -112,7 +112,7 @@ The 2025 Grand Depart took place at 6am on Thursday, May 15, 2025. We had 68 sta
 </tr>
 
 <tr>
-<td>James Willis & Brandon Bettes</td> <td>Flagstaff, AZ</td> <td>2d16h44m</td> <td>First place duo (with some deviations near end of course), both single speed</td>
+<td>James Willis & Brandon Bettes</td> <td>Flagstaff, AZ</td> <td>2d16h44m</td> <td>Duo (some course deviations), single speed</td>
 </tr>
 
 <tr>
