@@ -197,7 +197,7 @@ Check out articles and podcasts from previous editions:
 - [Karin Pocock Wins the 2025 Pinyons and Pines Women's Race](https://bikepacking.com/news/karin-pocock-2025-pinyons-and-pines/)
 - [Stephen Fitzgerald Wins the 2025 Pinyons and Pines Men's Race](https://bikepacking.com/news/stephen-fitzgerald-wins-2025-pinyons-and-pines/)
 - 2025 Pinyons and Pines Event Recap (coming soon)
-- [Pinyons and Pines and Podcast](https://open.spotify.com/episode/2QJSCqX5r0IS3zly3Ps0zU?si=06340aecf47e4ceb) (The Rodeo Labs Podcast)
+- [Pinyons and Pines and Podcasts](https://open.spotify.com/episode/2QJSCqX5r0IS3zly3Ps0zU?si=06340aecf47e4ceb) (The Rodeo Labs Podcast)
 
 <br>
 
