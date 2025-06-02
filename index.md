@@ -194,10 +194,12 @@ Check out articles and podcasts from previous editions:
 - [Whoa Baby Part 2: My journey to be a competitive bikepacking mama](http://thetownbicycle.com/whoa-baby-part-2-my-journey-to-be-a-competitive-bikepacking-mama/) (Leigh Bowe describes her experience racing while lactating)
 - [Rigs of the 2024 Pinyons and Pines](https://bikepacking.com/bikes/2024-pinyons-and-pines-rigs/)
 - [Rigs of the 2025 Pinyons and Pines](https://bikepacking.com/bikes/2025-pinyons-and-pines-rigs/)
+- [School of Bike: Two Stories from the 2025 Pinyons and Pines](https://bikepacking.com/plog/2025-pinyons-and-pines-story/)
 - [Karin Pocock Wins the 2025 Pinyons and Pines Women's Race](https://bikepacking.com/news/karin-pocock-2025-pinyons-and-pines/)
 - [Stephen Fitzgerald Wins the 2025 Pinyons and Pines Men's Race](https://bikepacking.com/news/stephen-fitzgerald-wins-2025-pinyons-and-pines/)
 - 2025 Pinyons and Pines Event Recap (coming soon)
 - [Pinyons and Pines and Podcasts](https://open.spotify.com/episode/2QJSCqX5r0IS3zly3Ps0zU?si=06340aecf47e4ceb) (The Rodeo Labs Podcast)
+- [Riding Through the Pines with Jake Johansen: 2025 Pinyons and Pines Recap](https://open.spotify.com/episode/3AapGZpFQ2jdDa7JIUVbwL?si=12c0746d7da64fcd) (The Stoke Podcast)
 
 <br>
 
