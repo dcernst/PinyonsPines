@@ -199,6 +199,7 @@ Check out articles and podcasts from previous editions:
 - [Stephen Fitzgerald Wins the 2025 Pinyons and Pines Men's Race](https://bikepacking.com/news/stephen-fitzgerald-wins-2025-pinyons-and-pines/)
 - [Pinyons and Pines and Podcasts](https://open.spotify.com/episode/2QJSCqX5r0IS3zly3Ps0zU?si=06340aecf47e4ceb) (The Rodeo Labs Podcast)
 - [Riding Through the Pines with Jake Johansen: 2025 Pinyons and Pines Recap](https://open.spotify.com/episode/3AapGZpFQ2jdDa7JIUVbwL?si=12c0746d7da64fcd) (The Stoke Podcast)
+- [Dylan's Pinyons and Pines ITT Debrief](https://www.youtube.com/watch?v=Denua2fm_9w) (The Endurance Studio Podcast)
 
 <br>
 

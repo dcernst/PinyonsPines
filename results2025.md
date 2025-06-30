@@ -19,6 +19,7 @@ Check out the 2025 race coverage:
 - [Stephen Fitzgerald Wins the 2025 Pinyons and Pines Men's Race](https://bikepacking.com/news/stephen-fitzgerald-wins-2025-pinyons-and-pines/)
 - [Pinyons and Pines and Podcasts](https://open.spotify.com/episode/2QJSCqX5r0IS3zly3Ps0zU?si=06340aecf47e4ceb) (The Rodeo Labs Podcast)
 - [Riding Through the Pines with Jake Johansen: 2025 Pinyons and Pines Recap](https://open.spotify.com/episode/3AapGZpFQ2jdDa7JIUVbwL?si=12c0746d7da64fcd) (The Stoke Podcast)
+- [Dylan's Pinyons and Pines ITT Debrief](https://www.youtube.com/watch?v=Denua2fm_9w) (The Endurance Studio Podcast)
 
 ### Grand Depart
 
@@ -192,6 +193,9 @@ The 2025 Grand Depart took place at 6am on Thursday, May 15, 2025. We had 68 sta
 <tbody>
 <tr>
 <td>Matt Bowe</td> <td>Flagstaff, AZ</td> <td>1d22h31m</td> <td>May 8, 2025</td> <td>Included Waterline and Inner Basin</td>
+</tr>
+<tr>
+<td>Dylan Turner</td> <td>Flagstaff, AZ</td> <td>2d5h33m</td> <td>May 29, 2025</td> <td></td>
 </tr>
 </tbody>
 
