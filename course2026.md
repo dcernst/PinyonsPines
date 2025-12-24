@@ -24,10 +24,16 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 <br>
 
+<div class="row">
+<div class="col-md-2 col-lg-2"></div>
+<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 <div class="alert alert-info" role="alert">
 <center>
 <i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2026 route will be posted soon! 
 </center>
+</div>
+</div>
+</div>
 </div>
 
 <!-- <center>
