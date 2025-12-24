@@ -34,7 +34,6 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 </div>
 </div>
 </div>
-</div>
 
 <!-- <center>
 <iframe src="https://ridewithgps.com/embeds?type=route&id=49339030&sampleGraph=true&distanceMarkers=true&hideSurface=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
