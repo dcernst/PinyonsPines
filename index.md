@@ -23,7 +23,7 @@ title: Pinyons and Pines
 
 <br>
 
-Pinyons and Pines is an underground self-supported bikepacking event that starts and ends in [Flagstaff, AZ](https://en.wikipedia.org/wiki/Flagstaff,_Arizona) (6,910 feet). The route is a magnificent tour of Northern Arizona, utilizing a mixture of singletrack, double track, and dirt roads.  The start is at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com). New this year, the finish will be a [Sosta](https://www.sostaflagstaff.com), one of Flagstaff's newest restaurants.
+Pinyons and Pines is an underground self-supported bikepacking event that starts and ends in [Flagstaff, AZ](https://en.wikipedia.org/wiki/Flagstaff,_Arizona) (6,910 feet). The route is a magnificent tour of Northern Arizona, utilizing a mixture of singletrack, double track, and dirt roads.  The start is at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com).
 
 The course changes each year! The 2026 edition of Pinyons and Pines will start at 6:00AM on **Thursday, May 14** and is approximately 400 miles in length with 39,000 feet of climbing. The ride organizers are [Dana Ernst](http://danaernst.com) and [Dylan Turner](https://www.youtube.com/@TheEnduranceStudio). Please [contact us](mailto:pinyonsandpines@gmail.com) with any questions or concerns.
 
