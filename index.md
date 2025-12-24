@@ -60,9 +60,9 @@ Registration is currently full! Sign up for waitlist <a href="https://trackleade
 
 <strong>Important:</strong> If you plan to be tracked, but you don't have your InReach/Spot information ready, just enter in some placeholder information. You can edit your entry later at a later date. -->
 
-<hr>
+<!-- <hr>
 
-Registration for 2026 will open one month before the start!</strong>.
+Registration for 2026 will open one month before the start!. -->
 
  <!-- Registration is full! Contact us if you'd like to arrange an ITT on a different date. -->
 
@@ -86,19 +86,19 @@ The Grand Depart is full!
 <a href="https://form.jotform.com/trackleaders/ittpinyonspines24" target="_blank">ITT Registration</a>
 </center> -->
 
+</div>
+</div>
 
-</div>
-</div>
 <div class="col-md-2 col-lg-2"></div>
 </div>
 
 <strong>Comments about registration:</strong>
 
-- Registration opens at **8AM (AZ time) Tuesday, April 15**.
+- Registration opens at **8AM (AZ time) Tuesday, April 14**.
 - Registration will take place via [Trackleaders](http://trackleaders.com), much like AZTR and CTR.  Even folks that do not intend to be tracked by Trackleaders during the event will still use Trackleaders to register (for free if not paying for tracking).
 - As usual, the cap will be 74 riders.
 - Trackleaders will manage the waitlist.
-- Reality: The past few editions have taught us that if you are serious about doing P&P and can commit to being in Flagstaff on May 15, then you are almost certain to get in. Don't panic if you don't get in on the day that registration opens. 
+- Reality: The past few editions have taught us that if you are serious about doing P&P and can commit to being in Flagstaff on May 14, then you have a very good chance of getting in. Don't panic if you don't get in on the day that registration opens. 
 - ITTs are welcome at any time other than the Grand Depart.
 - We make no promises about weather...
 
