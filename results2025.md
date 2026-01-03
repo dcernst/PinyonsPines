@@ -13,6 +13,7 @@ layout: default
 ## 2025 Results
 
 Check out the 2025 race coverage:
+- [Pinyons, Lions, Pines, and Doubt: 350 Miles Across Arizona](https://bikepacking.com/plog/pinyons-lions-pines-and-doubt/) (Stephen Fitzgerald's recap)
 - [Rigs of the 2025 Pinyons and Pines](https://bikepacking.com/bikes/2025-pinyons-and-pines-rigs/)
 - [School of Bike: Two Stories from the 2025 Pinyons and Pines](https://bikepacking.com/plog/2025-pinyons-and-pines-story/)
 - [Karin Pocock Wins the 2025 Pinyons and Pines Women's Race](https://bikepacking.com/news/karin-pocock-2025-pinyons-and-pines/)
