@@ -167,13 +167,13 @@ Squirrel's Nut Butter
 
 <br>
 
-<!-- See below for the currently proposed route. There might be minor tweaks to the route, but you can utilize the version below to start your planning. Additional POIs coming soon.
+See below for the currently proposed route. There might be minor tweaks to the route, but you can utilize the version below to start your planning. Additional POIs coming soon.
 
 <br>
 
 <center>
-<iframe src="https://ridewithgps.com/embeds?type=route&id=49339030&sampleGraph=true&distanceMarkers=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
-</center> -->
+<iframe src="https://ridewithgps.com/embeds?type=route&id=53536759&title=2026%20Pinyons%20and%20Pines&sampleGraph=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
+</center>
 
 <br>
 
