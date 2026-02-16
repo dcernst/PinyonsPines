@@ -140,7 +140,7 @@ Kahtoola
 </div> -->
 
 <div class="col-md-3">
-<a href="https://www.youtube.com/@TheEnduranceStudio" target="_blank"><img src="{{ site.baseurl }}/images/TESLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
+<a href="https://linktr.ee/theendurancestudio" target="_blank"><img src="{{ site.baseurl }}/images/TESLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
 <br>
 <center>
 The Endurance Studio
