@@ -106,7 +106,7 @@ Thanks to our sponsors that help make this event possible!
 
 <br>
 
-<!-- <div class="container-fluid">
+<div class="container-fluid">
 <div class="row align-items-end">
 
 <div class="col-md-1">
@@ -272,9 +272,9 @@ Check out articles and podcasts from previous editions:
 </div>
 
 </div>
-</div> -->
+</div>
 
-<div class="container-fluid">
+<!-- <div class="container-fluid">
   <div class="row align-items-end justify-content-center text-center">
 
     <div class="col">
@@ -313,7 +313,7 @@ Check out articles and podcasts from previous editions:
     </div>
 
   </div>
-</div>
+</div> -->
 
 <br>
 
