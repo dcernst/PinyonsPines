@@ -203,12 +203,13 @@ Check out articles and podcasts from previous editions:
 <br>
 
 <div class="container-fluid">
+<!-- row 1 -->
 <div class="row align-items-end">
 
 <div class="col-md-1">
 </div>
 
-<div class="col-md-2">
+<div class="col-md-3">
 <img src="{{ site.baseurl }}/images/2019PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
 <center>
@@ -216,7 +217,7 @@ Check out articles and podcasts from previous editions:
 </center>
 <br>
 </div>
-<div class="col-md-2">
+<div class="col-md-3">
 <img src="{{ site.baseurl }}/images/2020PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
 <center>
@@ -224,7 +225,7 @@ Check out articles and podcasts from previous editions:
 </center>
 <br>
 </div>
-<div class="col-md-2">
+<div class="col-md-3">
 <img src="{{ site.baseurl }}/images/2021PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
 <center>
@@ -232,7 +233,7 @@ Check out articles and podcasts from previous editions:
 </center>
 <br>
 </div>
-<div class="col-md-2">
+<div class="col-md-3">
 <img src="{{ site.baseurl }}/images/2022PinyonsPinesLogo.jpeg" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
 <center>
@@ -241,7 +242,18 @@ Check out articles and podcasts from previous editions:
 <br>
 </div>
 
-<div class="col-md-2">
+<div class="col-md-1">
+</div>
+
+</div>
+
+<!-- row 2 -->
+<div class="row align-items-end">
+
+<div class="col-md-1">
+</div>
+
+<div class="col-md-3">
 <img src="{{ site.baseurl }}/images/2023PinyonsPinesLogo.jpg" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
 <center>
@@ -250,7 +262,7 @@ Check out articles and podcasts from previous editions:
 <br>
 </div>
 
-<div class="col-md-2">
+<div class="col-md-3">
 <img src="{{ site.baseurl }}/images/2025PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
 <center>
@@ -259,11 +271,11 @@ Check out articles and podcasts from previous editions:
 <br>
 </div>
 
-<div class="col-md-2">
+<div class="col-md-3">
 <img src="{{ site.baseurl }}/images/2026PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
 <center>
-2025 Patch
+2026 Patch
 </center>
 <br>
 </div>
