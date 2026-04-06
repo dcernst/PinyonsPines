@@ -106,13 +106,13 @@ Thanks to our sponsors that help make this event possible!
 
 <br>
 
-<div class="container-fluid">
+<!-- <div class="container-fluid">
 <div class="row align-items-end">
 
-<!-- <div class="col-md-1">
-</div> -->
+<div class="col-md-1">
+</div>
 
-<div class="col-md-3">
+<div class="col-md-2">
 <a href="https://www.flagbikerev.com" target="_blank"><img src="{{ site.baseurl }}/images/FBRLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
 <br>
 <center>
@@ -121,7 +121,7 @@ Flagstaff Bicycle Revolution
 <br>
 </div>
 
-<div class="col-md-3">
+<div class="col-md-2">
 <a href="http://www.pizzicletta.com" target="_blank"><img src="{{ site.baseurl }}/images/PizziclettaLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
 <br>
 <center>
@@ -130,7 +130,7 @@ Pizzicletta
 <br>
 </div>
 
-<div class="col-md-4">
+<div class="col-md-2">
 <a href="https://www.chaparralcycles.com" target="_blank"><img src="{{ site.baseurl }}/images/Chaparral.png" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
 <br>
 <center>
@@ -139,7 +139,7 @@ Kahtoola
 <br>
 </div>
 
-<div class="col-md-3">
+<div class="col-md-2">
 <a href="https://linktr.ee/theendurancestudio" target="_blank"><img src="{{ site.baseurl }}/images/TESLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
 <br>
 <center>
@@ -148,7 +148,7 @@ The Endurance Studio
 <br>
 </div>
 
-<div class="col-md-3">
+<div class="col-md-2">
 <a href="https://squirrelsnutbutter.com" target="_blank"><img src="{{ site.baseurl }}/images/SNBLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
 <br>
 <center>
@@ -157,10 +157,8 @@ Squirrel's Nut Butter
 <br>
 </div>
 
-
-
-<!-- <div class="col-md-1">
-</div> -->
+<div class="col-md-1">
+</div>
 
 </div>
 </div>
@@ -207,8 +205,8 @@ Check out articles and podcasts from previous editions:
 <div class="container-fluid">
 <div class="row align-items-end">
 
-<!-- <div class="col-md-1">
-</div> -->
+<div class="col-md-1">
+</div>
 
 <div class="col-md-2">
 <img src="{{ site.baseurl }}/images/2019PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
@@ -261,10 +259,60 @@ Check out articles and podcasts from previous editions:
 <br>
 </div>
 
-<!-- <div class="col-md-1">
-</div> -->
+<div class="col-md-2">
+<img src="{{ site.baseurl }}/images/2026PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
+<br>
+<center>
+2025 Patch
+</center>
+<br>
+</div>
+
+<div class="col-md-1">
+</div>
 
 </div>
+</div> -->
+
+<div class="container-fluid">
+  <div class="row align-items-end justify-content-center text-center">
+
+    <div class="col">
+      <img src="{{ site.baseurl }}/images/2019PinyonsPinesLogo.png" class="img-fluid img-rounded" style="margin-bottom: 10px">
+      <p>2019 Patch</p>
+    </div>
+
+    <div class="col">
+      <img src="{{ site.baseurl }}/images/2020PinyonsPinesLogo.jpeg" class="img-fluid img-rounded" style="margin-bottom: 10px">
+      <p>2020 Patch</p>
+    </div>
+
+    <div class="col">
+      <img src="{{ site.baseurl }}/images/2021PinyonsPinesLogo.png" class="img-fluid img-rounded" style="margin-bottom: 10px">
+      <p>2021 Patch</p>
+    </div>
+
+    <div class="col">
+      <img src="{{ site.baseurl }}/images/2022PinyonsPinesLogo.jpeg" class="img-fluid img-rounded" style="margin-bottom: 10px">
+      <p>2022 Patch</p>
+    </div>
+
+    <div class="col">
+      <img src="{{ site.baseurl }}/images/2023PinyonsPinesLogo.jpg" class="img-fluid img-rounded" style="margin-bottom: 10px">
+      <p>2023 Patch</p>
+    </div>
+
+    <div class="col">
+      <img src="{{ site.baseurl }}/images/2025PinyonsPinesLogo.png" class="img-fluid img-rounded" style="margin-bottom: 10px">
+      <p>2025 Patch</p>
+    </div>
+
+    <div class="col">
+      <img src="{{ site.baseurl }}/images/2026PinyonsPinesLogo.png" class="img-fluid img-rounded" style="margin-bottom: 10px">
+      <p>2026 Patch</p>
+    </div>
+
+  </div>
 </div>
 
 <br>
