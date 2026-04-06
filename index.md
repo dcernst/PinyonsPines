@@ -134,7 +134,7 @@ Pizzicletta
 <a href="https://www.chaparralcycles.com" target="_blank"><img src="{{ site.baseurl }}/images/Chaparral.png" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
 <br>
 <center>
-Kahtoola
+Chaparral Cycles
 </center>
 <br>
 </div>
@@ -206,9 +206,6 @@ Check out articles and podcasts from previous editions:
 <!-- row 1 -->
 <div class="row align-items-end">
 
-<div class="col-md-1">
-</div>
-
 <div class="col-md-3">
 <img src="{{ site.baseurl }}/images/2019PinyonsPinesLogo.png" class="img-responsive img-rounded" img style="margin-bottom: 10px">
 <br>
@@ -240,9 +237,6 @@ Check out articles and podcasts from previous editions:
 2022 Patch
 </center>
 <br>
-</div>
-
-<div class="col-md-1">
 </div>
 
 </div>
