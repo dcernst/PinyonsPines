@@ -130,14 +130,14 @@ Pizzicletta
 <br>
 </div>
 
-<!-- <div class="col-md-4">
-<a href="https://kahtoola.com" target="_blank"><img src="{{ site.baseurl }}/images/KahtoolaLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
+<div class="col-md-4">
+<a href="https://www.chaparralcycles.com" target="_blank"><img src="{{ site.baseurl }}/images/Chaparral.png" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
 <br>
 <center>
 Kahtoola
 </center>
 <br>
-</div> -->
+</div>
 
 <div class="col-md-3">
 <a href="https://linktr.ee/theendurancestudio" target="_blank"><img src="{{ site.baseurl }}/images/TESLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
