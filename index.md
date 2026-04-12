@@ -53,38 +53,13 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 <i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2026 edition of Pinyons and Pines starts at 6AM on <strong>Thursday, May 14</strong> at Flagstaff Bicycle Revolution. 
 
 <!-- <hr>
-
-Registration is currently full! Sign up for waitlist <a href="https://trackleaders.com/pinyonspines25-reg">here</a>!
+Registration is open! <a href="https://form.jotform.com/trackleaders/pinyonspinesGD26">Sign up for 2026 Pinyons and Pines here</a>. Once registration is full, you can <a href="https://form.jotform.com/trackleaders/pinyonspineswaitlist26">put your name on the waitlist here.</a> Folks are welcome to <a href="https://form.jotform.com/trackleaders/ittpinyonspines26">sign up for an ITT</a> on any day other than May 14.
 
 <hr>
 
 <strong>Important:</strong> If you plan to be tracked, but you don't have your InReach/Spot information ready, just enter in some placeholder information. You can edit your entry later at a later date. -->
 
-<!-- <hr>
-
-Registration for 2026 will open one month before the start!. -->
-
- <!-- Registration is full! Contact us if you'd like to arrange an ITT on a different date. -->
-
-<!--<hr> -->
-
-<!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSfZfobyt7nRJ4CCYWgW2LAb_RNW5EYaDiQE3RE9uPrDgq8YSA/viewform?usp=sf_link" class="alert-link" target="_blank">Registration is full! All new registrations added to waitlist.</a> -->
-
 </center>
-
-<!-- <hr>
-
-<center>
-The Grand Depart is full!
-
-<hr>
-
-<a href="https://form.jotform.com/trackleaders/pinyons-and-pines-2024-waiting-list" target="_blank">Waitlist Registration</a>
-
-<hr>
-
-<a href="https://form.jotform.com/trackleaders/ittpinyonspines24" target="_blank">ITT Registration</a>
-</center> -->
 
 </div>
 </div>
@@ -165,7 +140,7 @@ Squirrel's Nut Butter
 
 <br>
 
-See below for the currently proposed route. There might be minor tweaks to the route, but you can utilize the version below to start your planning. Additional POIs coming soon.
+See below for the 2026 route. There might be minor tweaks to the route, but you can utilize the version below to start your planning.
 
 <br>
 
