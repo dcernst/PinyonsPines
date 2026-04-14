@@ -53,7 +53,12 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 <i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2026 edition of Pinyons and Pines starts at 6AM on <strong>Thursday, May 14</strong> at Flagstaff Bicycle Revolution. 
 
 <hr>
-Registration is open! <a href="https://form.jotform.com/trackleaders/pinyonspinesGD26">Sign up for 2026 Pinyons and Pines here</a>. Once registration is full, you can <a href="https://form.jotform.com/trackleaders/pinyonspineswaitlist26">put your name on the waitlist here.</a> Folks are welcome to <a href="https://form.jotform.com/trackleaders/ittpinyonspines26">sign up for an ITT</a> on any day other than May 14.
+
+Presently, the 2026 Grand Depart is full! However, you are welcome to get on the waitlist! Historically, we have moved 20+ people off the waitlist, so if you want to get in, don't hesitate to sign up for the waitlist. <a href="https://form.jotform.com/trackleaders/pinyonspinesGD26">Put your name on the waitlist here!</a>. 
+
+<hr>
+
+Folks are welcome to <a href="https://form.jotform.com/trackleaders/ittpinyonspines26">sign up for an ITT</a> on any day other than May 14.
 
 <hr>
 
