@@ -54,7 +54,7 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 <hr>
 
-Presently, the 2026 Grand Depart is full! However, you are welcome to get on the waitlist! Historically, we have moved 20+ people off the waitlist, so if you want to get in, don't hesitate to sign up for the waitlist. 
+Presently, the 2026 Grand Depart is full! However, you are welcome to get on the waitlist. Historically, we have moved 20+ people off the waitlist, so if you want to get in, don't hesitate to sign up for the waitlist. 
 
 <br>
 
