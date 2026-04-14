@@ -54,7 +54,9 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 <hr>
 
-Presently, the 2026 Grand Depart is full! However, you are welcome to get on the waitlist! Historically, we have moved 20+ people off the waitlist, so if you want to get in, don't hesitate to sign up for the waitlist. <a href="https://form.jotform.com/trackleaders/pinyonspinesGD26">Put your name on the waitlist here!</a>. 
+Presently, the 2026 Grand Depart is full! However, you are welcome to get on the waitlist! Historically, we have moved 20+ people off the waitlist, so if you want to get in, don't hesitate to sign up for the waitlist. 
+
+<a href="https://form.jotform.com/trackleaders/pinyonspinesGD26">Put your name on the waitlist here!</a>. 
 
 <hr>
 
