@@ -18,7 +18,7 @@ Flagstaff sits at the base of the [San Francisco Peaks](https://en.wikipedia.org
 
 Riders can choose between two categories: solo or duo (2-person team). Please consult the [rules]({{ site.baseurl }}/rules) prior to registering for the event. Feel free to ask questions on the event's [Facebook group](https://www.facebook.com/groups/PinyonsAndPines/).
 
-<strong>Important!</strong> This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace.
+<strong>Important!</strong> This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace. Please consult the [rules]({{ site.baseurl }}/rules/).
 
 See below for the currently proposed route.
 
@@ -39,12 +39,12 @@ See below for the currently proposed route.
 <iframe src="https://ridewithgps.com/embeds?type=route&id=53536759&title=2026%20Pinyons%20and%20Pines&sampleGraph=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
 </center>
 
-<br>
+<!-- <br>
 
 Below are some important notes, including information concerning resupply options for food and water. All mileages are approximate.
 
 - Please consult the [rules]({{ site.baseurl }}/rules/).
-- More details coming soon...
+- More details coming soon... -->
 
 <!-- - The northeastern part of the route crosses a checkerboard of State Trust and private lands of the CO Bar Ranch. Access to the ranchlands now requires a [free permit available here](https://www.azgfd.com/wildlife-conservation/on-the-ground-conservation/cooperative-programs/landowner-relations/landowner-compact-overview/co-bar-ranch-access-pass/); also see that page for ranch rules and requests. You must also purchase an [Arizona State Land Department Recreation Permit](https://asld.secure.force.com/recreationalpermit/).
 - **Important:** Please consult the map above for additional water sources. We are including the ones here that we think are most likely to be utilized. Filter and/or treat all natural water sources.
