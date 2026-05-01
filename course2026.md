@@ -20,7 +20,7 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 <strong>Important!</strong> This is an unsanctioned event. There are no fees, no prizes, but all attempts will be made to record your finish time. A start time and route are provided and it is up to the participant to understand the route. Riders have full responsibility for their navigation and well being. The goal is to finish the entire route while setting your own pace. Please consult the [rules]({{ site.baseurl }}/rules/).
 
-See below for the currently proposed route.
+See below for the currently proposed route. If you are interested in exploring the weather along the route, check the [Epic Weather Event Page](https://events.epicrideweather.com/events/5678042781319168-2026-Pinyons-and-Pines).
 
 <!-- <br>
 
