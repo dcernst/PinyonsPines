@@ -133,7 +133,7 @@ The Endurance Studio
 </div>
 
 <div class="col-md-2">
-<a href="https://roguepanda.com" target="_blank"><img src="{{ site.baseurl }}/images/RoguePanda.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
+<a href="https://roguepanda.com" target="_blank"><img src="{{ site.baseurl }}/images/RoguePanda.png" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
 <br>
 <center>
 Rogue Panda
