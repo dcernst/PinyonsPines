@@ -93,8 +93,8 @@ Thanks to our sponsors that help make this event possible!
 <div class="container-fluid">
 <div class="row align-items-end">
 
-<div class="col-md-1">
-</div>
+<!-- <div class="col-md-1">
+</div> -->
 
 <div class="col-md-2">
 <a href="https://www.flagbikerev.com" target="_blank"><img src="{{ site.baseurl }}/images/FBRLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
@@ -133,6 +133,15 @@ The Endurance Studio
 </div>
 
 <div class="col-md-2">
+<a href="https://roguepanda.com" target="_blank"><img src="{{ site.baseurl }}/images/RoguePanda.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
+<br>
+<center>
+Rogue Panda
+</center>
+<br>
+</div>
+
+<div class="col-md-2">
 <a href="https://squirrelsnutbutter.com" target="_blank"><img src="{{ site.baseurl }}/images/SNBLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
 <br>
 <center>
@@ -141,8 +150,8 @@ Squirrel's Nut Butter
 <br>
 </div>
 
-<div class="col-md-1">
-</div>
+<!-- <div class="col-md-1">
+</div> -->
 
 </div>
 </div>
