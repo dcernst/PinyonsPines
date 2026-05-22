@@ -124,11 +124,11 @@ The 2026 Grand Depart took place at 6am on Thursday, May 14, 2026. We had 71 sta
 </tr>
 
 <tr>
-<td>???</td> <td>???</td> <td>???</td> <td></td>
+<td>Scott Lotz</td> <td>Flagstaff, AZ</td> <td>3d11h11m</td> <td></td>
 </tr>
 
 <tr>
-<td>???</td> <td>???</td> <td>???</td> <td></td>
+<td>Gwen Cameron</td> <td>Palisade, CO</td> <td>3d13h45m</td> <td>First place woman</td>
 </tr>
 
 <tr>
