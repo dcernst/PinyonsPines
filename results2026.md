@@ -132,7 +132,7 @@ The 2026 Grand Depart took place at 6am on Thursday, May 14, 2026. We had 71 sta
 </tr>
 
 <tr>
-<td>???</td> <td>???</td> <td>???</td> <td></td>
+<td>Eddie Urcadez</td> <td>Tucson, AZ</td> <td>3d14h06m</td> <td>Single speed</td>
 </tr>
 
 <tr>
