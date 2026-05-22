@@ -84,6 +84,10 @@ The 2026 Grand Depart took place at 6am on Thursday, May 14, 2026. We had 71 sta
 </tr>
 
 <tr>
+<td>Nick Bierman</td> <td>Lehi, UT</td> <td>2d1929m</td> <td></td>
+</tr>
+
+<tr>
 <td>Michael Scott</td> <td>Salida, CO</td> <td>3d02h05m</td> <td></td>
 </tr>
 
@@ -93,6 +97,30 @@ The 2026 Grand Depart took place at 6am on Thursday, May 14, 2026. We had 71 sta
 
 <tr>
 <td>Aaron Johnson</td> <td>Truckee, CA</td> <td>3d03h05m</td> <td>Single speed</td>
+</tr>
+
+<tr>
+<td>Benjamin Miller</td> <td>Oklahoma City, OK</td> <td>3d03h08m</td> <td></td>
+</tr>
+
+<tr>
+<td>Cruz Blue</td> <td>Flagstaff, AZ</td> <td>3d05h19m</td> <td>17 years old!</td>
+</tr>
+
+<tr>
+<td>Quinn Travis</td> <td>Flagstaff, AZ</td> <td>3d05h19m</td> <td>Saw 3 mountain lions!</td>
+</tr>
+
+<tr>
+<td>David Keller</td> <td>Tucson, AZ</td> <td>3d05h19m</td> <td></td>
+</tr>
+
+<tr>
+<td>Toby Schmidt</td> <td>Salt Lake City, UT</td> <td>3d10h40m</td> <td></td>
+</tr>
+
+<tr>
+<td>Ian Nomura</td> <td>Pasadena, CA</td> <td>3d10h51m</td> <td></td>
 </tr>
 
 <tr>
