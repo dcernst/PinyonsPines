@@ -76,6 +76,26 @@ The 2026 Grand Depart took place at 6am on Thursday, May 14, 2026. We had 71 sta
 </tr>
 
 <tr>
+<td>Kimball Stewart</td> <td>Flagstaff, AZ</td> <td>2d14h03m</td> <td></td>
+</tr>
+
+<tr>
+<td>Dylan Turner</td> <td>Flagstaff, AZ</td> <td>2d14h28m</td> <td></td>
+</tr>
+
+<tr>
+<td>Michael Scott</td> <td>Salida, CO</td> <td>3d02h05m</td> <td></td>
+</tr>
+
+<tr>
+<td>Mike Skoko & Keith Kofoed</td> <td>Marquette, MI & Chicago, IL</td> <td>3d02h38m</td> <td>First place duo!</td>
+</tr>
+
+<tr>
+<td>Aaron Johnson</td> <td>Truckee, CA</td> <td>3d03h05m</td> <td>Single speed</td>
+</tr>
+
+<tr>
 <td>???</td> <td>???</td> <td>???</td> <td></td>
 </tr>
 
