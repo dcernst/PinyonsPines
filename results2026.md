@@ -44,6 +44,38 @@ The 2026 Grand Depart took place at 6am on Thursday, May 14, 2026. We had 71 sta
 </tr>
 
 <tr>
+<td>David Tschan</td> <td>Trimbach, Switzerland</td> <td>2d04h26m</td> <td></td>
+</tr>
+
+<tr>
+<td>Alex Schultz</td> <td>Tucson, AZ</td> <td>2d05h12m</td> <td></td>
+</tr>
+
+<tr>
+<td>Chase Kaufman</td> <td>Fountain Hills, AZ</td> <td>2d05h32m</td> <td></td>
+</tr>
+
+<tr>
+<td>Jack Scherer</td> <td>Flagstaff, AZ</td> <td>2d06h51m</td> <td></td>
+</tr>
+
+<tr>
+<td>Diego Velasquez</td> <td>Moab, UT</td> <td>2d08h18m</td> <td></td>
+</tr>
+
+<tr>
+<td>Brandon Bettes (Gnar Gnasty)</td> <td>Flagstaff, AZ</td> <td>2d10h12m</td> <td>First single speeder!</td>
+</tr>
+
+<tr>
+<td>George Foster</td> <td>Mancos, CO</td> <td>2d11h49m</td> <td></td>
+</tr>
+
+<tr>
+<td>Tom Kavanaugh</td> <td>Ridgeway, CO</td> <td>2d13h15m</td> <td></td>
+</tr>
+
+<tr>
 <td>???</td> <td>???</td> <td>???</td> <td></td>
 </tr>
 
