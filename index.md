@@ -50,17 +50,17 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 <div class="alert alert-info" role="alert">
 <center>
-<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2026 edition of Pinyons and Pines starts at 6AM on <strong>Thursday, May 14</strong> at Flagstaff Bicycle Revolution. 
+<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2026 edition of Pinyons and Pines started on <strong>Thursday, May 14</strong> at Flagstaff Bicycle Revolution. 
 
 <hr>
 
-Presently, the 2026 Grand Depart is full! However, you are welcome to get on the waitlist. Historically, we have moved 20+ people off the waitlist, so if you want to get in, don't hesitate to sign up for the waitlist. 
+<!-- Presently, the 2026 Grand Depart is full! However, you are welcome to get on the waitlist. Historically, we have moved 20+ people off the waitlist, so if you want to get in, don't hesitate to sign up for the waitlist. 
 
 <hr>
 
 <a href="https://form.jotform.com/trackleaders/pinyonspinesGD26">Put your name on the waitlist here!</a>
 
-<hr>
+<hr> -->
 
 Folks are welcome to <a href="https://form.jotform.com/trackleaders/ittpinyonspines26">sign up for an ITT</a> on any day other than May 14.
 
@@ -76,7 +76,7 @@ Folks are welcome to <a href="https://form.jotform.com/trackleaders/ittpinyonspi
 <div class="col-md-2 col-lg-2"></div>
 </div>
 
-<strong>Comments about registration:</strong>
+<!-- <strong>Comments about registration:</strong>
 
 - Registration opens at **8AM (AZ time) Tuesday, April 14**.
 - Registration will take place via [Trackleaders](http://trackleaders.com), much like AZTR and CTR.  Even folks that do not intend to be tracked by Trackleaders during the event will still use Trackleaders to register (for free if not paying for tracking).
@@ -84,7 +84,7 @@ Folks are welcome to <a href="https://form.jotform.com/trackleaders/ittpinyonspi
 - Trackleaders will manage the waitlist.
 - Reality: The past few editions have taught us that if you are serious about doing P&P and can commit to being in Flagstaff on May 14, then you have a very good chance of getting in. Don't panic if you don't get in on the day that registration opens. 
 - ITTs are welcome at any time other than the Grand Depart.
-- We make no promises about weather...
+- We make no promises about weather... -->
 
 Thanks to our sponsors that help make this event possible!
 
@@ -192,6 +192,10 @@ Check out articles and podcasts from previous editions:
 - [Riding Through the Pines with Jake Johansen: 2025 Pinyons and Pines Recap](https://open.spotify.com/episode/3AapGZpFQ2jdDa7JIUVbwL?si=12c0746d7da64fcd) (The Stoke Podcast)
 - [Dylan's Pinyons and Pines ITT Debrief](https://www.youtube.com/watch?v=Denua2fm_9w) (The Endurance Studio Podcast)
 - [Pinyons, Lions, Pines, and Doubt: 350 Miles Across Arizona](https://bikepacking.com/plog/pinyons-lions-pines-and-doubt/) (Stephen Fitzgerald's recap)
+- [Rigs of the 2026 Pinyons and Pines](https://bikepacking.com/bikes/2026-pinyons-and-pines-rigs/)
+- [2026 Pinyons and Pines Race Tracker](https://bikepacking.com/tracker/2026-pinyons-and-pines/)
+- [Timon Fish Wins 2026 Pinyons and Pines Race + Podium Update](https://bikepacking.com/news/timon-fish-2026-pinyons-and-pines-winner/)
+- [Gwen Cameron is First Woman to finish 2026 Pinyons and Pines Race](https://bikepacking.com/news/gwen-cameron-2026-pinyons-pines-race-win/)
 
 <br>
 
