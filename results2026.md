@@ -1,5 +1,5 @@
 ---
-title: 2022 Results
+title: 2026 Results
 author: Dana Ernst
 layout: default
 ---
