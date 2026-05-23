@@ -152,17 +152,56 @@ The 2026 Grand Depart took place at 6am on Thursday, May 14, 2026. We had 71 sta
 </tr>
 
 <tr>
-<td>???</td> <td>???</td> <td>???</td> <td></td>
+<td>Lloyd Christmas & Harry Dunne </td> <td>Salt Lake City, UT & Bend, OR</td> <td>3d16h52m</td> <td></td>
 </tr>
 
 <tr>
-<td>???</td> <td>???</td> <td>???</td> <td></td>
+<td>Aaron Weinsheimer</td> <td>Salida, CO</td> <td>4d04h34m</td> <td></td>
+</tr>
+
+<tr>
+<td>Austin Rupe</td> <td>Flagstaff, AZ</td> <td>4d07h17m</td> <td></td>
+</tr>
+
+<tr>
+<td>Brent Millichap</td> <td>Philadelphia, PA</td> <td>4d08h48m</td> <td></td>
+</tr>
+
+<tr>
+<td>Kristen Alan</td> <td>San Francisco, CA</td> <td>4d10h47m</td> <td></td>
+</tr>
+
+<tr>
+<td>Ben Crannell</td> <td>Nashville, TN</td> <td>4d15h05m</td> <td></td>
+</tr>
+
+<tr>
+<td>Hannah Luz</td> <td>Tucscon, AZ</td> <td>4d17h06m</td> <td></td>
+</tr>
+
+<tr>
+<td>Joe Pavlik</td> <td>Flagstaff, AZ</td> <td>4d17h06m</td> <td></td>
+</tr>
+
+<tr>
+<td>Allison Bohn</td> <td>Flagstaff, AZ</td> <td>4d17h06m</td> <td>Take that, MS!</td>
+</tr>
+
+<tr>
+<td>Cami Bohn</td> <td>Flagstaff, AZ</td> <td>4d17h06m</td> <td></td>
+</tr>
+
+<tr>
+<td>Mike Symons</td> <td>Phoenix, AZ</td> <td>4d17h17m</td> <td></td>
 </tr>
 
 </tbody>
 </table>
 </div>
 </center>
+
+### Honorable Mentions
+EZ-E The Prophet skipped the Prescott loop but made it back to Prescott. Both Ian Richter-Rodenburgh and Jeff Taylor skipped the Bradshaws and the Prescott loop, but did ride a good chunk of the route and made it back to Flagstaff. 
 
 ### Individual Time Trials
 
