@@ -136,6 +136,22 @@ The 2026 Grand Depart took place at 6am on Thursday, May 14, 2026. We had 71 sta
 </tr>
 
 <tr>
+<td>Sarah Didier</td> <td>Mission Viejo, Switzerland</td> <td>3d14h29m</td> <td>Stayed with husband in Prescott on night 2</td>
+</tr>
+
+<tr>
+<td>Mike Sowers</td> <td>Mesa, AZ</td> <td>3d14h27m</td> <td></td>
+</tr>
+
+<tr>
+<td>Sarah Higgins</td> <td>Salt Lake City, UT</td> <td>3d16h42m</td> <td></td>
+</tr>
+
+<tr>
+<td>Katie Symth</td> <td>Seattle, WA</td> <td>3d16h50m</td> <td></td>
+</tr>
+
+<tr>
 <td>???</td> <td>???</td> <td>???</td> <td></td>
 </tr>
 
