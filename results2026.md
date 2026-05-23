@@ -10,7 +10,7 @@ layout: default
 
 <i class="fas fa-paint-brush fa-lg"></i>&nbsp; Artwork by <a href="https://www.dkoyawenaarts.com">Duane Koyawena.</a>
 
-## 2025 Results
+## 2026 Results
 
 Check out the 2026 race coverage:
 - [Rigs of the 2026 Pinyons and Pines](https://bikepacking.com/bikes/2026-pinyons-and-pines-rigs/)
@@ -195,13 +195,122 @@ The 2026 Grand Depart took place at 6am on Thursday, May 14, 2026. We had 71 sta
 <td>Mike Symons</td> <td>Phoenix, AZ</td> <td>4d17h17m</td> <td></td>
 </tr>
 
+<tr>
+<td>EZ-E The Prophet</td> <td>Salt Lake City, UT</td> <td>Alternator</td> <td>Skipped Prescott loop</td>
+</tr>
+
+<tr>
+<td>Ian Richter-Rodenburgh</td> <td>Salt Lake City, UT</td> <td>Alternator</td> <td>Skipped Bradshaws and Prescott loop</td>
+</tr>
+
+<tr>
+<td>Jeff Taylor</td> <td>Haute Cabin, VT</td> <td>Alternator</td> <td>Skipped Bradshaws and Prescott loop</td>
+</tr>
+
+<tr>
+<td>Rocky Gingg</td> <td>Durango, CO</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Chad Baily</td> <td>Bozeman, MT</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Sam McLaughlin</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Leigh Bowe</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Karin Pocock</td> <td>Moab, UT</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Cade Reichenberger</td> <td>Arvada, CO</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Tyler Arnett</td> <td>Scottsdale, AZ</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Rei Rey</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Jacob Johnson</td> <td>Durango, CO</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Eddie Bowers</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Joe Mangan</td> <td>Salt Lake City, UT</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Jimmy Awad</td> <td>Salt Lake City, UT</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Lawrence Dennis</td> <td>San Antonio, TX </td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Liam Kennedy</td> <td>Tucson, AZ</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Ralph Vandecruze</td> <td>Chandler, AZ</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>David Nelson</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Matt Shapiro</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Allen Nedley</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Jerome Rogich</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Nic Rakestraw</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Brian Murphy</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Blue Taylor</td> <td>Prescott, AZ</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Nico Francis</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Nathan Barkanic</td> <td>Ashland, OR</td> <td>DNF</td> <td></td>
+</tr>
+
+<tr>
+<td>Michael Zachary</td> <td>Flagstaff, AZ</td> <td>DNF</td> <td></td>
+</tr>
+
 </tbody>
 </table>
 </div>
 </center>
-
-### Honorable Mentions
-EZ-E The Prophet skipped the Prescott loop but made it back to Prescott. Both Ian Richter-Rodenburgh and Jeff Taylor skipped the Bradshaws and the Prescott loop, but did ride a good chunk of the route and made it back to Flagstaff. 
 
 ### Individual Time Trials
 
