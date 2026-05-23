@@ -96,11 +96,11 @@ The 2026 Grand Depart took place at 6am on Thursday, May 14, 2026. We had 71 sta
 </tr>
 
 <tr>
-<td>Aaron Johnson</td> <td>Truckee, CA</td> <td>3d03h05m</td> <td>Single speed</td>
+<td>Benjamin Miller</td> <td>Oklahoma City, OK</td> <td>3d03h00m</td> <td></td>
 </tr>
 
 <tr>
-<td>Benjamin Miller</td> <td>Oklahoma City, OK</td> <td>3d03h08m</td> <td></td>
+<td>Aaron Johnson</td> <td>Truckee, CA</td> <td>3d03h05m</td> <td>Single speed</td>
 </tr>
 
 <tr>
