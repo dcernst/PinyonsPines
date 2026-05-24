@@ -196,6 +196,7 @@ Check out articles and podcasts from previous editions:
 - [2026 Pinyons and Pines Race Tracker](https://bikepacking.com/tracker/2026-pinyons-and-pines/)
 - [Timon Fish Wins 2026 Pinyons and Pines Race + Podium Update](https://bikepacking.com/news/timon-fish-2026-pinyons-and-pines-winner/)
 - [Gwen Cameron is First Woman to finish 2026 Pinyons and Pines Race](https://bikepacking.com/news/gwen-cameron-2026-pinyons-pines-race-win/)
+- [Pinyons and Pines 2026 - Views from the Trail Sweeper](https://mikeybikesit.blogspot.com/2026/05/pinyons-and-pines-2026-views-from-trail.html?sc=1779582710729#c7522650454633665876) (Mike Symons' Blog)
 
 <br>
 
