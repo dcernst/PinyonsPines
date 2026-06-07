@@ -18,6 +18,8 @@ Check out the 2026 race coverage:
 - [Timon Fish Wins 2026 Pinyons and Pines Race + Podium Update](https://bikepacking.com/news/timon-fish-2026-pinyons-and-pines-winner/)
 - [Gwen Cameron is First Woman to finish 2026 Pinyons and Pines Race](https://bikepacking.com/news/gwen-cameron-2026-pinyons-pines-race-win/)
 - [Pinyons and Pines 2026 - Views from the Trail Sweeper](https://mikeybikesit.blogspot.com/2026/05/pinyons-and-pines-2026-views-from-trail.html?sc=1779582710729#c7522650454633665876) (Mike Symons' Blog)
+- [Pinyons and Pines 2026: 2025 Three Mountain Lions and 413 Miles of Perspective](https://open.spotify.com/episode/4su77bgRqFBhSpy8wjw1UP?si=MVyPRaKNSh-km63zHeCYAA) (The Stoke Podcast)
+- [Imposter Syndrome at the 2026 Pinyons and Pines](https://bikepacking.com/plog/2026-pinyons-and-pines-imposter-syndrome/) (Recap by Gwen Cameron)
 
 ### Grand Depart
 
