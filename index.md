@@ -25,7 +25,7 @@ title: Pinyons and Pines
 
 Pinyons and Pines is an underground self-supported bikepacking event that starts and ends in [Flagstaff, AZ](https://en.wikipedia.org/wiki/Flagstaff,_Arizona) (6,910 feet). The route is a magnificent tour of Northern Arizona, utilizing a mixture of singletrack, double track, and dirt roads.  The start is at [Flagstaff Bicycle Revolution](http://flagbikerev.com), located at 3 South Mikes Pike, sandwiched between [Pizzicletta](http://www.pizzicletta.com) and [Mother Road Brewery](https://www.motherroadbeer.com).
 
-The course changes each year! The 2026 edition of Pinyons and Pines will start at 6:00AM on **Thursday, May 14** and is approximately 400 miles in length with 39,000 feet of climbing. The ride organizers are [Dana Ernst](http://danaernst.com) and [Dylan Turner](https://www.youtube.com/@TheEnduranceStudio). Please [contact us](mailto:pinyonsandpines@gmail.com) with any questions or concerns.
+The course changes each year! The **2027 edition of Pinyons and Pines will start on Thursday, May 20** and is approximately 400 miles in length with 32,000 feet of climbing. The ride organizers are [Dana Ernst](http://danaernst.com) and [Dylan Turner](https://www.youtube.com/@TheEnduranceStudio). Please [contact us](mailto:pinyonsandpines@gmail.com) with any questions or concerns.
 
 <!-- <div class="row">
 <div class="col-md-2 col-lg-2"></div>
@@ -50,9 +50,11 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
 <div class="alert alert-info" role="alert">
 <center>
-<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2026 edition of Pinyons and Pines started on <strong>Thursday, May 14</strong> at Flagstaff Bicycle Revolution. 
+<i class="fas fa-bicycle fa-lg"></i>&nbsp; The 2027 edition of Pinyons and Pines started on <strong>Thursday, May 20</strong> at Flagstaff Bicycle Revolution.
 
 <hr>
+
+Information about registration coming soon...
 
 <!-- Presently, the 2026 Grand Depart is full! However, you are welcome to get on the waitlist. Historically, we have moved 20+ people off the waitlist, so if you want to get in, don't hesitate to sign up for the waitlist. 
 
@@ -62,11 +64,11 @@ Riders can choose between two categories: solo or duo (2-person team). Please co
 
 <hr> -->
 
-Folks are welcome to <a href="https://form.jotform.com/trackleaders/ittpinyonspines26">sign up for an ITT</a> on any day other than May 14.
+<!-- Folks are welcome to <a href="https://form.jotform.com/trackleaders/ittpinyonspines26">sign up for an ITT</a> on any day other than May 14. -->
 
-<hr>
+<!-- <hr>
 
-<strong>Important:</strong> If you plan to be tracked, but you don't have your InReach/Spot information ready, just enter in some placeholder information. You can edit your entry later at a later date.
+<strong>Important:</strong> If you plan to be tracked, but you don't have your InReach/Spot information ready, just enter in some placeholder information. You can edit your entry later at a later date. -->
 
 </center>
 
@@ -96,7 +98,7 @@ Thanks to our sponsors that help make this event possible!
 <!-- <div class="col-md-1">
 </div> -->
 
-<div class="col-md-2">
+<div class="col-md-2 col-md-offset-1">
 <a href="https://www.flagbikerev.com" target="_blank"><img src="{{ site.baseurl }}/images/FBRLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
 <br>
 <center>
@@ -110,15 +112,6 @@ Flagstaff Bicycle Revolution
 <br>
 <center>
 Pizzicletta
-</center>
-<br>
-</div>
-
-<div class="col-md-2">
-<a href="https://www.chaparralcycles.com" target="_blank"><img src="{{ site.baseurl }}/images/Chaparral.png" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
-<br>
-<center>
-Chaparral Cycles
 </center>
 <br>
 </div>
