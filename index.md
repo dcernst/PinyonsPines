@@ -151,7 +151,7 @@ Squirrel's Nut Butter
 
 <br>
 
-See below for the 2026 route. There might be minor tweaks to the route, but you can utilize the version below to start your planning.
+<!-- See below for the 2026 route. There might be minor tweaks to the route, but you can utilize the version below to start your planning.
 
 <br>
 
@@ -159,7 +159,7 @@ See below for the 2026 route. There might be minor tweaks to the route, but you 
 <iframe src="https://ridewithgps.com/embeds?type=route&id=53536759&title=2026%20Pinyons%20and%20Pines&sampleGraph=true" style="width: 1px; min-width: 90%; height: 700px; border: none;" scrolling="no"></iframe>
 </center>
 
-<br>
+<br> -->
 
 Check out articles and podcasts from previous editions:
 
