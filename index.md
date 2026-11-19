@@ -117,7 +117,7 @@ Pizzicletta
 </div>
 
 <div class="col-md-2">
-<a href="https://linktr.ee/theendurancestudio" target="_blank"><img src="{{ site.baseurl }}/images/TESLogo.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
+<a href="https://linktr.ee/theendurancestudio" target="_blank"><img src="{{ site.baseurl }}/images/TESLogo-new.PNG" class="img-responsive img-rounded" img style="margin-bottom: 10px"></a>
 <br>
 <center>
 The Endurance Studio
